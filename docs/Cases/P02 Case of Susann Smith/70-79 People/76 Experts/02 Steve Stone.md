@@ -1,0 +1,5 @@
+---
+aliases:
+  - Steve Stone
+  - Stone
+---

@@ -1,0 +1,5 @@
+---
+aliases:
+  - Kris Kern
+  - Kern
+---

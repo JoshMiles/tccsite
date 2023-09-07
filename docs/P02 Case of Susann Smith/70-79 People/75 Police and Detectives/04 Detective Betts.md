@@ -1,5 +1,0 @@
----
-aliases:
-  - Detective Betts
-  - Betts
----

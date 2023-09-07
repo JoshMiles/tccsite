@@ -1,4 +1,0 @@
----
-aliases:
-  - Detective O'Bryant
----

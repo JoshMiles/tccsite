@@ -1,4 +1,0 @@
----
-aliases:
-  - Mark Buckley
----

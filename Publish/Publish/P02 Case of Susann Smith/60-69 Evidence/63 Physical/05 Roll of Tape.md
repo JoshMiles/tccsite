@@ -1,4 +1,0 @@
----
-aliases:
-  - roll of tape
----

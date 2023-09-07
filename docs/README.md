@@ -1,1 +1,0 @@
-Welcome. Go [[./Index|here]] to access my true crime case repo.

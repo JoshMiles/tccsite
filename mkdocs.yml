@@ -34,9 +34,11 @@ theme:
         - navigation.indexes
         - navigation.top
         - navigation.path
+        - navigation.tracking
         - search.suggest
         - search.highlight
         - toc.integrate
+        - toc.follow
         
 # Extensions
 markdown_extensions:
@@ -93,6 +95,8 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
+  - tags:
+     tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'

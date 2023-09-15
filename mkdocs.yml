@@ -1,11 +1,11 @@
-site_name: truecrimecases # Change this to your site name
+site_name: True Crime Cases # Change this to your site name
 site_description: truecrimecases
 site_url: https://staged.truecrimecases.com # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicon-32x32.png
+    favicon: assets/meta/favicon-32x32.png
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -16,7 +16,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: deep purple
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
@@ -25,7 +25,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: deep purple
       accent: indigo
       toggle:
         icon: material/toggle-switch
@@ -94,8 +94,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
@@ -123,10 +121,10 @@ extra_css:
     - assets/css/customization.css
 extra:
   SEO: assets/meta/SEO.png
-  comments: false #disable comments globally
+  comments: true #disable comments globally
   generate_graph: true #generate the graph of the site
   attachments: 'docs/assets/attachments' #path to the folder where the attachments are stored
-  no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
+  no-auto-h1: true #disable the automatic generation of h1 if no h1 is found
   blog_list:
     pagination: true #enable pagination
     pagination_message: true #display the message "Showing x posts out of y"

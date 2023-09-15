@@ -33,11 +33,10 @@ theme:
     features:
         - navigation.indexes
         - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+        - navigation.path
         - search.suggest
         - search.highlight
+        - toc.integrate
         
 # Extensions
 markdown_extensions:

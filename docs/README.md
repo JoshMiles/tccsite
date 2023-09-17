@@ -2,8 +2,11 @@
 category: /
 title: README
 date created: Thursday, August 31st 2023, 1:16:10 pm
-date modified: Thursday, September 7th 2023, 4:24:35 pm
+date modified: Sunday, September 17th 2023, 9:18:32 pm
 ---
+
+# README
+
 Welcome to my research hub for all my true crime cases for my [YouTube channel](https://youtube.com/itsjoshuamiles).
 
 ### Important to Note
@@ -14,7 +17,7 @@ Welcome to my research hub for all my true crime cases for my [YouTube channel](
 	- I follow the Johnny.Decimal system for organisation, see [here](https://johnnydecimal.com/).
 - Any `00 Placeholder` files exist solely due to the fact that empty folders can't be published to the repo so they need a file inside. The `00 Placeholder` file is empty and serves no other use than to mitigate this limitation.
 
-> [!NOTE]
+> [!NOTE]  
 > You are more than welcome to use my research in your own coverage of these cases, all I ask is that you provide credit and link back to this repo. Feel free to send me links to your coverage as I would love to see it!
 
 ### Case Structure
@@ -67,7 +70,7 @@ Briefly, the notation for folders follows `PRO.AC.ID` (where `PRO` is the projec
 | P01.85 Appeal                          | If applicable, information about appeal(s)                                                                                                    |
 | P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                                                                              |
 
-| Backlinks                                      |
-| ---------------------------------------------- |
-| <ul><li>[Changelog](Changelog.md.md)</li></ul> |
+| Backlinks |
+| --------- |
+| <ul></ul> |
 

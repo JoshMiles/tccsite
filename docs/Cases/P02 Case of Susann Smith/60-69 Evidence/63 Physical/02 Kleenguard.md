@@ -4,7 +4,13 @@ aliases:
   - disposable coveralls
   - Coveralls
   - coveralls
+title: 02 Kleenguard
+date created: Wednesday, August 30th 2023, 9:10:34 pm
+date modified: Sunday, September 17th 2023, 9:18:25 pm
 ---
+
+# 02 Kleenguard
+
 Police began a search of [Alan Smith](01%20Alan%20Smith.md)'s [car](04%20Car.md) at approximately 7pm. During the search, police observed that [Alan Smith](01%20Alan%20Smith.md) had a [Garmin](02%20Garmin%20GPS.md) portable [GPS](02%20Garmin%20GPS.md) in the front dash. Police also located a plastic bag from Home Depot. Inside the bag were two unopened bags containing [Kleenguard](02%20Kleenguard.md) Chemical Splash Resistant [Coveralls](02%20Kleenguard.md).
 
 Police started the search of [Alan Smith](01%20Alan%20Smith.md)'s [apartment](05%20Apartment.md) shortly after completing the search of the [car](04%20Car.md). During the course of this search, [Alan Smith](01%20Alan%20Smith.md) consented to a taped interview in which he laid out in detail his activities of the last several days. [Alan Smith](01%20Alan%20Smith.md) indicated he had purchased the [Kleenguard](02%20Kleenguard.md) [Coveralls](02%20Kleenguard.md) at the Home Depot located at 128th and Highway 99 in south Everett. [Alan Smith](01%20Alan%20Smith.md) indicated he had lunch at Taco Bell.

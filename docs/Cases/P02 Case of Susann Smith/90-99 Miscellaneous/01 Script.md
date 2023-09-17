@@ -1,3 +1,9 @@
+---
+title: 01 Script
+date created: Wednesday, August 30th 2023, 9:51:22 am
+date modified: Sunday, September 17th 2023, 9:18:25 pm
+---
+
 # Introduction
 
 Tuesday the 12th of February, 2013.[^1]
@@ -5,8 +11,6 @@ Tuesday the 12th of February, 2013.[^1]
 [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md), Washington State, the United States.
 
 A concerned co-worker contacted the local police after a 37 year old woman failed to show up for work for two days in a row.[^2]
-
-
 
 # Victim Background
 
@@ -22,21 +26,21 @@ So much so, that on Friday the 18th of November 2011, the couple filed for divor
 
 And on that same day, Alan moved out of [The Smith House](../50-59%20Investigation/52%20Key%20Locations/02%20The%20Smith%20House.md) and into an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) in [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md).[^5] 
 
-The main cause of concern for the divorce had been the custody of their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), and on Friday the 3rd of August 2012, a hearing took place regarding a temporary parenting plan that was submitted by Susann[^7]  - which is essentially an agreement that contains information about where your child will live and how you and the other parents will care for your child/[children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) during the divorce proceedings, the temporary plan lasting until the divorce is finalized and the permanent parenting plan is in place.[^6]
+The main cause of concern for the divorce had been the custody of their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), and on Friday the 3rd of August 2012, a hearing took place regarding a temporary parenting plan that was submitted by Susann[^6] - which is essentially an agreement that contains information about where your child will live and how you and the other parents will care for your child/[children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) during the divorce proceedings, the temporary plan lasting until the divorce is finalized and the permanent parenting plan is in place.[^7]
 
-The [Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) of this hearing largely adopted the plan, which had been in Susann’s favour.[^8] 
+The [Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) of this hearing largely adopted the plan, which had been in Susann's favour.[^8] 
 
 After the hearing, Susann and Alan had what was described as a disagreement about who would be spending time with their [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) during the summer, with Alan growing increasingly angry.[^9] [^10] 
 
-Susann’s divorce attorney, a man called [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md), took note of this disagreement especially when Alan became fixed on Susann with what he described as an “*incredibly angry*” stare that lasted about five or so seconds.[^11] 
+Susann's divorce attorney, a man called [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md), took note of this disagreement especially when Alan became fixed on Susann with what he described as an "*incredibly angry*" stare that lasted about five or so seconds.[^11] 
 
 This stare had been something the like [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md) had never seen in his some 15 years of practise, and it had been concerning enough to [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md) that he actually asked Susann about it afterwards, and mentioned it to his staff.[^12] 
 
 In September of 2012, Alan actually began dating a different woman by the name of [Rachel Amrine](../70-79%20People/73%20Family%20and%20Friends/04%20Rachel%20Amrine.md).[^13] 
 
-Alan hadn’t been shy of making his thoughts and opinions known about the divorce and about Susann to his new girlfriend Rachel, with Alan asking during one angry rant to Rachel: “*how could he make someone disappear without anyone knowing*”.[^14] 
+Alan hadn't been shy of making his thoughts and opinions known about the divorce and about Susann to his new girlfriend Rachel, with Alan asking during one angry rant to Rachel: "*how could he make someone disappear without anyone knowing*".[^14] 
 
-Several days after that angry rant, in an angry phone call, Alan told Rachel that he “*just wanted her to be done with*” - presumably referring to the mother of his [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), Susann.[^15] 
+Several days after that angry rant, in an angry phone call, Alan told Rachel that he "*just wanted her to be done with*" - presumably referring to the mother of his [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), Susann.[^15] 
 
 In another discussion between Alan and Rachel, Rachel mentioned that one of her friends who had been in the military had once told her how you could beat someone with a phone book and not leave any bruising[^16] , to which Alan replied "*you could do that with a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md) too*".[^17] 
 
@@ -46,7 +50,7 @@ On one notable occasion, Alan told Rachel that he would like to just get rid of 
 
 When Alan once again mentioned his desire for Susann to disappear, Rachel began to grow very concerned that this wasn't a dark joke anymore and she began to wonder whether or not Alan was serious about it.[^20] 
 
-On Sunday the 27th of October, 2012, financial records showed that Alan had visited a Home Depot store and purchased a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md), two packs of [Kleenguard](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md) Chemical Splash Resistant [Coveralls](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md), and disposable shoe covers[^21]  - the nature of this purchase especially following his conversations with Rachel became a major cause of concern for her.
+On Sunday the 27th of October, 2012, financial records showed that Alan had visited a Home Depot store and purchased a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md), two packs of [Kleenguard](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md) Chemical Splash Resistant [Coveralls](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md), and disposable shoe covers[^21] - the nature of this purchase especially following his conversations with Rachel became a major cause of concern for her.
 
 At some point in November of 2012, Rachel helped Alan move from an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) that he was living in Seattle to an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) in [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md) - the same place where Susan lived.[^22] 
 
@@ -56,26 +60,26 @@ And at some point before the end of that November month, Alan and Rachel separat
 
 On Thursday the 13th of December, 2012, [Alan Smith](../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) filed paperwork relating to his divorce that claimed he now believed [Susann Smith](../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) had been sexually assaulting their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md).[^25] 
 
-These filings had been as part of a motion to reconsider a failure by [the Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) to order a GAL, or Guardian AD Litem[^32] [^33], appointed to the case.[^26] 
+These filings had been as part of a motion to reconsider a failure by [the Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) to order a GAL, or Guardian AD Litem[^26] [^27], appointed to the case.[^28] 
 
-> [!note]
-> According to Snohomish County's website, a Guardian ad Litem, or GAL, when talking about family law is a person or persons that are appointed to represent the best interests of a child/children, an alleged incapacitated person, or a person in a minor settlement case, for specific purposes and specific periods of time, or in conflict cases when the Court needs information from a neutral source.
+> [!note]  
+> According to Snohomish County's website, a Guardian ad Litem, or GAL, when talking about family law is a person or persons that are appointed to represent the best interests of a child/children, an alleged incapacitated person, or a person in a minor settlement case, for specific purposes and specific periods of time, or in conflict cases when the Court needs information from a neutral source.  
 > Under the direction of the Court, the GAL performs an investigation and prepares a report. GALs do not act as lawyers, therapists, or parties in the case, and therefor do not provide legal advise, counselling, or diagnosis.
-> - https://snohomishcountywa.gov/1441/Guardian-ad-Litem-GAL 
+> - <https://snohomishcountywa.gov/1441/Guardian-ad-Litem-GAL> 
 
-> [!note]
+> [!note]  
 > In some divorce and child custody cases in Washington State, a specially-trained guardian ad litem (GAL) is assigned to the case by the court to investigate and determine what the best interests of the child or children is.
-> - https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm
+> - <https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm>
 
-As soon as Susann's attorney, John Ely, heard of the nature of this filing - he was absolutely outraged.[^27] 
+As soon as Susann's attorney, John Ely, heard of the nature of this filing - he was absolutely outraged.[^29] 
 
 And due to the holiday season quickly approaching, Susann would have to live with these allegations until after the New Year came around before seeing if the courts would believe her or her soon to be ex-husband which likely would've caused her a lot of stress. (**note: this is the author's inference**)
 
-The courts finally addressed the motion on Thursday the 10th of January 2013, with the Commissioner denying the motion[^28]  and awarding Susann $500 in attorney fees for having to respond to the motion.[^29] 
+The courts finally addressed the motion on Thursday the 10th of January 2013, with the Commissioner denying the motion[^30] and awarding Susann $500 in attorney fees for having to respond to the motion.[^31] 
 
-Following this hearing for the motion, Susan actually sent an email to her attorney John Ely in which she indicated that Alan had been making up stories about her in an effort to win in court.[^30] 
+Following this hearing for the motion, Susan actually sent an email to her attorney John Ely in which she indicated that Alan had been making up stories about her in an effort to win in court.[^32] 
 
-The following day, on Friday the 11th of January 2013, Alan filed a Motion of Revision of the Commissioner's Ruling on the GAL - which essentially meant he appealed the ruling against his allegations.[^31] 
+The following day, on Friday the 11th of January 2013, Alan filed a Motion of Revision of the Commissioner's Ruling on the GAL - which essentially meant he appealed the ruling against his allegations.[^33] 
 
 Alan also proceeded to file papers that indicated that he was scared that Susann might move the children to her native country of Germany, which would prevent him from seeing his kids.[^34] 
 
@@ -87,15 +91,15 @@ A business trip had been scheduled by Boeing for Alan to travel to Ireland with 
 
 On this trip, according to Alan's co-worker Matthew, Alan talked almost exclusively about his divorce.[^38] 
 
-Alan ranted and raved that the court hearings were not going in his favour and detailed his anger about it, blaming the court system as one that had been rigged to favour women and that it was all a conspiracy to take all of his money from him[^39] - Alan told Matthew that the courts were a "*fixed system*".[^44] 
+Alan ranted and raved that the court hearings were not going in his favour and detailed his anger about it, blaming the court system as one that had been rigged to favour women and that it was all a conspiracy to take all of his money from him[^39] - Alan told Matthew that the courts were a "*fixed system*".[^40] 
 
-Alan's co-workers would later estimate that Alan would change the topic of conversation while on this trip to Ireland to be about his family problems at least 60-70% of the time.[^40] 
+Alan's co-workers would later estimate that Alan would change the topic of conversation while on this trip to Ireland to be about his family problems at least 60-70% of the time.[^41] 
 
-His other co-worker, Colin, would later describe a conversation that he had with Alan on the Ireland trip in which Alan commented "*I want her to know the pain I feel*" - talking about Susann.[^41] 
+His other co-worker, Colin, would later describe a conversation that he had with Alan on the Ireland trip in which Alan commented "*I want her to know the pain I feel*" - talking about Susann.[^42] 
 
-Colin would also later explain how Alan told him that Susann had been mentally abusive towards him, and apparently used to treat their dog poorly.[^42] 
+Colin would also later explain how Alan told him that Susann had been mentally abusive towards him, and apparently used to treat their dog poorly.[^43] 
 
-Matthew Pierce also later revealed that he was told by Alan several times that his wife, Susann, was "*pure evil*" and called her a "*psychopath*".[^43] 
+Matthew Pierce also later revealed that he was told by Alan several times that his wife, Susann, was "*pure evil*" and called her a "*psychopath*".[^44] 
 
 This kind of conversation about Alan's divorce hadn't been unusual at all for Alan, as according to Matthew, in the two or three years that he had known Alan, the majority of their conversations had centred around Alan's divorce and his wife.[^45] 
 
@@ -109,14 +113,14 @@ Alan stuck around at this party, seemingly to allow his two kids to enjoy the fe
 
 He went into the kitchen, two of the bedrooms, the hallway, the bathroom and the living room.[^49] 
 
-Alan also took his son into the restroom while he was at the house[^51] , before leaving with both children at about 2:30pm.[^50] 
+Alan also took his son into the restroom while he was at the house[^50] , before leaving with both children at about 2:30pm.[^51] 
 
 This party would be, according to Alan Smith, the last time that he saw Susann Smith alive.[^52] 
 
-Alan claimed that he spent the following day, Sunday the 10th of February 2013, with his children, watching movies at his apartment with his kids that evening and that they had all slept there.
+Alan claimed that he spent the following day, Sunday the 10th of February 2013, with his children, watching movies at his apartment with his kids that evening and that they had all slept there.  
 [^53] 
 
-Financial records did indicate that Alan had visited Canyon Park QFC[^55] , which is a supermarket[^54] , that day.
+Financial records did indicate that Alan had visited Canyon Park QFC[^54] , which is a supermarket[^55] , that day.
 
 While it is not corroborated by official sources, it seems reasonable to infer that he likely needed to grab some groceries and supplies for himself and his kids after spending the week in Ireland on business (**note: this is the author's inference**).
 
@@ -136,11 +140,12 @@ Susann saw Mr Buckley and headed over to talk to him - the conversation had been
 
 Though, Susan didn't go straight to bed when she got back home.[^64] 
 
-Instead, she turned on her computer and access the internet[^65] , logging in to her online banking account[^66]  before going to Netflix[^67] to watch a show or movie  (**note: this is the author's inference**).
+Instead, she turned on her computer and access the internet[^65] , logging in to her online banking account[^66] before going to Netflix[^67] to watch a show or movie (**note: this is the author's inference**).
 
 By 11:35pm, Susann had still been watching Netflix.[^68] 
 
 That had been the last known movement of Susann Smith.
+
 # Crime
 
 On Monday the 11th of February 2013, Susann Smith failed to show up for work, and failed to answer phone calls from work who were trying to find out if she had been running late or if she had any other reason for not showing up.[^69] 
@@ -155,21 +160,21 @@ Efforts were made by her co-workers and employer to get a hold of Susan, but to 
 
 This failure to show up for work and failure to answer phone calls was completely out of character and described as being highly unusual for Susann Smith.[^75] 
 
-And so, Susann's co-workers contacted the Bothell Police Department and informed them that she had not shown up for work[^76]  and that they were concerned for her wellbeing.  (**note: this is the author's inference**)
+And so, Susann's co-workers contacted the Bothell Police Department and informed them that she had not shown up for work[^76] and that they were concerned for her wellbeing. (**note: this is the author's inference**)
 
 The police subsequently carried out a welfare check on Susann Smith.[^77] 
 
-Officers arrived at Susann Smith's home for the welfare check at approximately 11:30am[^78]  - though it must be noted that earlier reports detail them arriving an hour earlier at about 10:30am[^79] , but we shall be using the timings of the later reports - and when they arrived, they knocked on the door of the Smith house but received no response from inside.[^80] 
+Officers arrived at Susann Smith's home for the welfare check at approximately 11:30am[^78] - though it must be noted that earlier reports detail them arriving an hour earlier at about 10:30am[^79] , but we shall be using the timings of the later reports - and when they arrived, they knocked on the door of the Smith house but received no response from inside.[^80] 
 
-The officers then decided to walk around the home and peer in through the windows[^81]  to see whether they could see any indication that anyone had been home.  (**note: this is the author's inference**)
+The officers then decided to walk around the home and peer in through the windows[^81] to see whether they could see any indication that anyone had been home. (**note: this is the author's inference**)
 
 And it was while they were looking in through the window of Susann's bedroom that they saw significant amounts of blood on the floor and on the wall.[^82] 
 
 The officers then returned to the front of the house and tried the front door, which had been unlocked, and entered the Smith house.[^83] 
 
-Inside the family home, they discovered that Susann Smith, a 37 year old mother of two, had been murdered in what they described to have been a particularly brutal fashion[^84] in the bathtub of her home.[^86] 
+Inside the family home, they discovered that Susann Smith, a 37 year old mother of two, had been murdered in what they described to have been a particularly brutal fashion[^84] in the bathtub of her home.[^85] 
 
-The Washington State Patrol Crime Scene Response Team, or CRST, was contacted to assist in processing the crime scene.[^85] 
+The Washington State Patrol Crime Scene Response Team, or CRST, was contacted to assist in processing the crime scene.[^86] 
 
 Based on the blood splatter evidence, it had become apparent that Susan had initially been attacked while she had been in her bed.[^87] 
 
@@ -177,7 +182,7 @@ The attack then moved to the floor between the bed and the wall[^88] , which had
 
 It was apparent that Susann had been rendered defenceless while on the floor, with bloody drag marks leading from the floor down the hall and into the bathroom.[^90] 
 
-Inside the bathroom, Susann Smith's body lay face down[^91]  in the bathtub which had been full of water.[^92] 
+Inside the bathroom, Susann Smith's body lay face down[^91] in the bathtub which had been full of water.[^92] 
 
 Susann had been clothed only in a grey t-shirt[^93] , and her body temperature had been consistent with her having been in the tub for multiple days.[^94] 
 
@@ -198,9 +203,10 @@ Notably, the police found no signs of forced entry[^101] , and no murder weapons
 There had been no evidence that the Smith home had been ransacked or searched[^103] , with various items such as laptops, smart phones and TV's that would commonly be stolen in a burglary being left untouched. [^104]  
 
 This led the investigators to concluded that Susann Smith had been targeted.[^105] 
+
 # Investigation
 
-A full scale homicide investigation was launched, with Detective Stone and Detective Chissus quickly arriving on the scene.  (**note: this is the author's inference**)
+A full scale homicide investigation was launched, with Detective Stone and Detective Chissus quickly arriving on the scene. (**note: this is the author's inference**)
 
 The detectives quickly learnt from speaking with the neighbours of Susann that she had an estranged husband called Alan Smith, and that Alan worked at the Boeing plant in Everett.[^106] 
 
@@ -215,6 +221,7 @@ The two detectives and the uniformed officer arrived at the Boeing plant at abou
 # Legal Proceedings
 
 # Conclusion
+
 # Footnotes
 
 [^1]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^lhshb))
@@ -222,8 +229,8 @@ The two detectives and the uniformed officer arrived at the Boeing plant at abou
 [^3]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^c57kk))
 [^4]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^a11zv))
 [^5]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6czt2))
-[^6]: https://www.custodyxchange.com/topics/plans/overview/temporary.php 
-[^7]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^2fpj3))
+[^6]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^2fpj3))
+[^7]: <https://www.custodyxchange.com/topics/plans/overview/temporary.php> 
 [^8]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^2fpj3))
 [^9]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^l0es5))
 [^10]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ogs7e))
@@ -242,14 +249,14 @@ The two detectives and the uniformed officer arrived at the Boeing plant at abou
 [^23]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^kqeaa))
 [^24]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-09b](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0-09b))
 [^25]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^n2a6x))
-[^26]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^r9wv5))
-[^27]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^dh487))
-[^28]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^i268l))
-[^29]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^tgbdu))
-[^30]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^nbqbr))
-[^31]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^xvke-))
-[^32]: https://snohomishcountywa.gov/1441/Guardian-ad-Litem-GAL 
-[^33]: https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm#:~:text=What%20Is%20A%20Guardian%20Ad%20Litem%3F,the%20child%20or%20children%20is. 
+[^26]: <https://snohomishcountywa.gov/1441/Guardian-ad-Litem-GAL> 
+[^27]: <https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm#:~:text=What%20Is%20A%20Guardian%20Ad%20Litem%3F,the%20child%20or%20children%20is>. 
+[^28]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^r9wv5))
+[^29]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^dh487))
+[^30]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^i268l))
+[^31]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^tgbdu))
+[^32]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^nbqbr))
+[^33]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^xvke-))
 [^34]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^68u8k))
 [^35]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^vtucb))
 [^36]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7ym32))
@@ -270,8 +277,8 @@ The two detectives and the uniformed officer arrived at the Boeing plant at abou
 [^51]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^55aix))
 [^52]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^4j06c))
 [^53]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^c62l7))
-[^54]: https://en.wikipedia.org/wiki/QFC 
-[^55]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^31hgi))
+[^54]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^31hgi))
+[^55]: <https://en.wikipedia.org/wiki/QFC> 
 [^56]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^448k8))
 [^57]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^uewvo))
 [^58]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0spz5))

@@ -1,3 +1,11 @@
+---
+title: 03 Defence Trial Brief
+date created: Wednesday, August 30th 2023, 9:55:10 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+# 03 Defence Trial Brief
+
 [16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf](../../../../assets/attachments/16%2013-1-01546-8%20108%20(DEFENSE%20TRIAL%20BRIEF).pdf)
 
 ![16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf](../../../../assets/attachments/16%2013-1-01546-8%20108%20(DEFENSE%20TRIAL%20BRIEF).pdf)
@@ -42,14 +50,14 @@ Law enforcement searched [Susann Smith](../../70-79%20People/71%20Victim(s)/01%2
 
 ## Dr. Davenport Testimony & Bike Sighting
 
-Law enforcement viewed various [traffic cameras](../../60-69%20Evidence/61%20Digital/01%20CCTV.md) to look for vehicles belonging to [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) on the night of [2013-02-10 Sunday February 10th 2013](../../10-19%20Case%20Dates/11%20Background%20Dates/2013-02-10%20Sunday%20February%2010th%202013.md) or early morning of [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md). 
-While they did not see any vehicles that matched the description of [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s vehicles, they did notice what appeared to be a [bicycle](../../60-69%20Evidence/63%20Physical/01%20Bicycle.md) traveling in the early morning hours of [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md). 
+Law enforcement viewed various [traffic cameras](../../60-69%20Evidence/61%20Digital/01%20CCTV.md) to look for vehicles belonging to [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) on the night of [2013-02-10 Sunday February 10th 2013](../../10-19%20Case%20Dates/11%20Background%20Dates/2013-02-10%20Sunday%20February%2010th%202013.md) or early morning of [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md).  
+While they did not see any vehicles that matched the description of [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s vehicles, they did notice what appeared to be a [bicycle](../../60-69%20Evidence/63%20Physical/01%20Bicycle.md) traveling in the early morning hours of [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md).  
 In the same images that showed the bike, a Pete's coffee truck was visible. ^7y10o
 
-Law enforcement tracked down the [truck driver](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md) and asked him about seeing a bicyclist. ^2pkzb
+Law enforcement tracked down the [truck driver](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md) and asked him about seeing a bicyclist. ^2pkzb  
 The interview took place on [2013-06-14 Friday June 14th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-14%20Friday%20June%2014th%202013.md), four months later, and was recorded. ^2vue5
 
-During the interview, [Mr Cain](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md), the [truck driver](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md), said that he remembered seeing a man on a bike one night in February. ^qg81n
+During the interview, [Mr Cain](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md), the [truck driver](../../70-79%20People/74%20Witnesses/02%20Truck%20Driver.md), said that he remembered seeing a man on a bike one night in February. ^qg81n  
 He did not remember the exact date, but said it was a Monday. ^za3c7
 
 He said he only glanced at the man on the bike twice. ^m-xv2

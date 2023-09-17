@@ -1,10 +1,17 @@
 ---
 aliases:
   - Wendell Morris
+title: 01 Wendell Morris
+date created: Tuesday, August 29th 2023, 3:53:07 pm
+date modified: Sunday, September 17th 2023, 9:18:25 pm
 ---
-#Witness
-Wendell Morris Jr.
-He had met [Alan Smith](../72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) at a potluck a few weeks prior to June 2013.
+
+# 01 Wendell Morris
+
+#Witness  
+Wendell Morris Jr.  
+He had met [Alan Smith](../72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) at a potluck a few weeks prior to June 2013.  
 Married.
+
 ```smart-connections
 ```

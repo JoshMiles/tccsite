@@ -1,3 +1,11 @@
+---
+title: 03 Forensic Evidence
+date created: Tuesday, August 29th 2023, 8:52:08 pm
+date modified: Sunday, September 17th 2023, 9:18:25 pm
+---
+
+# 03 Forensic Evidence
+
 #Evidence 
 
 The blood evidence in the bedroom indicated that the assault started while the victim was in bed before graduating to the right side of the bed and then the floor. The blood evidence further indicated that there were breaks in the assault and then the assault continued on the same victim. The blood pattern and blood smearing on the floor made it evident that the victim was moved in a dragging fashion out of the bedroom into the hallway and into the bathroom. There was evidence that there had been an attempt to wipe up the blood in the room, hallway and the bedroom.[^1]
@@ -31,4 +39,3 @@ According to the bloodstain pattern analyst "the [Kleenguard](02%20Kleenguard.md
 Similarly, police purchased a [mallet](03%20Mallet.md) identical to the [mallet](03%20Mallet.md) purchased by [Alan Smith](01%20Alan%20Smith.md) on [2012-10-27 Sunday October 27th 2012](2012-10-27%20Sunday%20October%2027th%202012.md) and requested a [forensic](03%20Forensic%20Evidence.md) scientist compare the [mallet](03%20Mallet.md) to the circular blunt force injuries suffered by [Susann Smith](01%20Susann%20Smith.md). The forensic scientist concluded that several of the multiple blunt force injuries suffered by [Susann Smith](01%20Susann%20Smith.md) exhibited the same class characteristics and arched dimensions as the [mallet](03%20Mallet.md).
 
 [Alan Smith](01%20Alan%20Smith.md)'s financial records show that on [2012-11-24 Saturday November 24th 2012](2012-11-24%20Saturday%20November%2024th%202012.md), [Alan Smith](01%20Alan%20Smith.md) purchased a [bicycle](01%20Bicycle.md) for $617 from Gregg's Greenlake in Seattle.
-

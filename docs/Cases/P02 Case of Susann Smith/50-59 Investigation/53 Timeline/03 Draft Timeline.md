@@ -1,22 +1,29 @@
 ---
 locations: 
+title: 03 Draft Timeline
+date created: Tuesday, August 29th 2023, 3:13:25 pm
+date modified: Sunday, September 17th 2023, 9:18:26 pm
 ---
 
-
+# 03 Draft Timeline
 
 Fall 2012
+
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) is involved with a woman called [Rachel Amrine](../../70-79%20People/73%20Family%20and%20Friends/04%20Rachel%20Amrine.md).
 
 October 2012
+
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) purchases a rubber [mallet](../../60-69%20Evidence/63%20Physical/03%20Mallet.md) and a pair of [disposable coveralls](../../60-69%20Evidence/63%20Physical/02%20Kleenguard.md).
 
 November 2012
+
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) purchases a bike from Gregg's Green Lake
 
 February 12th 2013
+
 - [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) doesn't show up for work
 - Police are contacted, welfare check conducted
-	- On [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md), [Bothell](geo:47.7623204,-122.2054035) Police Officers were dispatched to[ 216 240th St. SW, Bothell](geo:47.78026465,-122.23629542497216) for a welfare check of [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) who had failed to report to work for the past two days. (see [06 Prosecutor's Version of Events](../../20-29%20Case%20Files/21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md#^etnen))
+	- On [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md), [Bothell](geo:47.7623204,-122.2054035) Police Officers were dispatched to[216 240th St. SW, Bothell](geo:47.78026465,-122.23629542497216) for a welfare check of [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) who had failed to report to work for the past two days. (see [06 Prosecutor's Version of Events](../../20-29%20Case%20Files/21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md#^etnen))
 	- The first officer on scene was able to see through a window what appeared to be large amounts of blood on the floor of a bedroom and what appeared to be blood smears and splatter on the walls and window of the room. The officer also saw an apparent blood trial consistent with a blood body being dragged. (see [06 Prosecutor's Version of Events](../../20-29%20Case%20Files/21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md#^4fugx))
 	- Officers entered the home to check on the welfare of those inside and found that there was no sign of forced entry. The officers observed bloody footprints in the kitchen and the hallway that ran the length of the left half of the residence. The footprints appeared to be from a single individual. Officers noticed that the amount of suspected blood increased considerably as the hallway stretched into the threshold of the bedroom that the responding officer had observed from outside the home. (see [06 Prosecutor's Version of Events](../../20-29%20Case%20Files/21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md#^4bu4n))
 - [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) found dead lying dace down in the bathtub
@@ -29,10 +36,12 @@ February 12th 2013
 	- [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) then drove to a gas station and later returned to [Boeing](../52%20Key%20Locations/01%20Boeing.md)
 
 February 2013
+
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s internet search history revealed searches for flights to Venezuela and Canada, initially for one adult and two [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md).
 - After being notified of his wife's death, he began to search for tickets for only one adult.
 
 June 2013
+
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) begins dating a woman called [Love Thai](../../70-79%20People/73%20Family%20and%20Friends/02%20Love%20Thai.md)
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Love Thai](../../70-79%20People/73%20Family%20and%20Friends/02%20Love%20Thai.md) want to attend City Church's Belltown campus but are told they were not allowed to attend due to the investigation, or be part of the church's community groups.
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) meets [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md)
@@ -56,4 +65,3 @@ June 2013
 - Over the next few days, [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) and [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) stayed in contact via phone and text messages, with [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) trying to persuade [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) to speak with the authorities.
 - When [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) declined to term himself in, [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) called the police on June 25th 2013.
 - [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was charged with first degree murder with a deadly weapon, with the aggravating factor of domestic violence.
-

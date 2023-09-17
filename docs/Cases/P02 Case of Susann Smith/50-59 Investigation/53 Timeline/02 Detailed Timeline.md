@@ -149,38 +149,38 @@
 	- Efforts had been made to call [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]], with no success.[^77] ^y3ujn
 	- Failure to show up for work or answer phone calls was described as highly unusual for [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]].[^79] ^vchzc
 - The police subsequently carried out a welfare check on [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]. ^ehg0n
-- At approximately **10:26am**, members of the [[../52 Key Locations/04 Bothell|Bothell]] Police Department found the body of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] in the bathtub of her home.[^75]
+- At approximately **10:26am**, members of the [[../52 Key Locations/04 Bothell|Bothell]] Police Department found the body of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] in the bathtub of her home.[^75] ^mo2b0
 	- It was immediately clear that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had died due to homicidal violence.[^76]
-	- It must be noted that in the [[../../20-29 Case Files/21 File Notes/02 Affidavit|Affidavit]], it states that the officers had arrived at [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s home for the welfare check at approximately **11:30am** which is an hour later than is detailed within the [[../../20-29 Case Files/21 File Notes/01 3.5 Memorandum|01 3.5 Memorandum]] and the [[../../20-29 Case Files/21 File Notes/02 Affidavit|Affidavit]].
-	- When the officers arrived, they knocked on the door of [[../52 Key Locations/02 The Smith House|The Smith House]] and got no response.[^112] 
-	- The police then walked around the home and peered in through the windows.[^113] 
-	- While looking in the window of a room later identified to have been [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s bedroom, the police saw significant amounts of blood on the floor and wall.[^114] 
-	- The police entered [[../52 Key Locations/02 The Smith House|The Smith House]] via the **unlocked** front door.[^115] 
-	- Inside, they discovered that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been murdered in what they described to have been a particularly brutal fashion.[^117] 
-	- Based on the blood splatter evidence, it was apparent that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had initially been attacked while she had been in her bed.[^118] 
-	- The attack then moved to the floor between the bed and the wall.[^119] 
-		- This area had extensive blood pooling, smearing and splattering.[^120] 
+	- It must be noted that in the [[../../20-29 Case Files/21 File Notes/02 Affidavit|Affidavit]], it states that the officers had arrived at [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s home for the welfare check at approximately **11:30am** which is an hour later than is detailed within the [[../../20-29 Case Files/21 File Notes/01 3.5 Memorandum|01 3.5 Memorandum]] and the [[../../20-29 Case Files/21 File Notes/02 Affidavit|Affidavit]]. ^yhill
+	- When the officers arrived, they knocked on the door of [[../52 Key Locations/02 The Smith House|The Smith House]] and got no response.[^112] ^qlj69
+	- The police then walked around the home and peered in through the windows.[^113] ^xmoet
+	- While looking in the window of a room later identified to have been [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s bedroom, the police saw significant amounts of blood on the floor and wall.[^114] ^qyhdf
+	- The police entered [[../52 Key Locations/02 The Smith House|The Smith House]] via the **unlocked** front door.[^115] ^k09ky
+	- Inside, they discovered that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been murdered in what they described to have been a particularly brutal fashion.[^117] ^05-98
+	- Based on the blood splatter evidence, it was apparent that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had initially been attacked while she had been in her bed.[^118] ^j9roi
+	- The attack then moved to the floor between the bed and the wall.[^119] ^p5737
+		- This area had extensive blood pooling, smearing and splattering.[^120] ^gchnl
 		- The blood splatter was consistent with a medium velocity bloodletting event i.e a beating with either fists or some type of blunt object.[^116]
-	- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been apparently rendered defenceless at this location, as bloody drag marks led from this location down the hall and into a bathroom.[^121] 
+	- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been apparently rendered defenceless at this location, as bloody drag marks led from this location down the hall and into a bathroom.[^121] ^tjqc-
 		- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s underwear and menstrual pad were either removed by her assailant or came off during the fight.[^122] 
-	- Inside the bathroom, the police discovered [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s body inside the bathtub which had been full of water.[^123] 
-		- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been clothed only in a grey t-shirt.[^124] 
-		- She was found face down in the water.[^125] 
+	- Inside the bathroom, the police discovered [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s body inside the bathtub which had been full of water.[^123] ^-p99z
+		- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been clothed only in a grey t-shirt.[^124] ^6nd2c
+		- She was found face down in the water.[^125] ^7iqjx
 		- The bathwater was tepid.[^126] 
-		- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s body temperature had been consistent with her having been in the tub for several days.[^127] 
+		- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s body temperature had been consistent with her having been in the tub for several days.[^127] ^z3n2n
 		- Police later determined it would’ve taken approximately 17 minutes to fill the bathtub to the point that they had found it in.[^128] 
-	- Due to the injuries that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had sustained to her face, the police were initially unable to positively identify her.[^129] 
-	- The Washington State Patrol Crime Scene Response Team (CRST) assisted in processing the death scene.[^130] 
-	- During the processing of the home, the police discovered a number of footprints left in blood in various locations in the house.[^131] 
-		- Some of these bloody footprints appeared to have been of a bare foot showing through a blood soaked sock, some of them appeared to be that of a shoed foot, a shoe that had a distinct pattern on the sole, and some of them appeared to be that of a foot wearing some sort of covering, as of yet unidentified, that left a distinct patterned impression in the blood.[^132] 
-	- On the bathtub, the police discovered several bloody transfer impressions with a very distinct pattern.[^133] 
-		- It appeared these bloody transfer impressions in the blood did not have any ridge detail, indicating that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s killer had been wearing gloves.[^134] 
-		- It also appeared that at least some preliminary efforts at cleaning up the crime scene had been attempted.[^135] 
-	- Police located no signs of forced entry.[^136] 
-	- No murder weapons were located at the death scene.[^224] 
-	- There was no evidence that the home had been ransacked or searched.[^137] 
-		- Various items (laptops, smart phones, TV’s) that would commonly be stolen in a burglary were left untouched.[^138] 
-	- It appeared that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been targeted.[^139] 
+	- Due to the injuries that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had sustained to her face, the police were initially unable to positively identify her.[^129] ^71ajb
+	- The Washington State Patrol Crime Scene Response Team (CRST) assisted in processing the death scene.[^130] ^npgiv
+	- During the processing of the home, the police discovered a number of footprints left in blood in various locations in the house.[^131] ^y83qc
+		- Some of these bloody footprints appeared to have been of a bare foot showing through a blood soaked sock, some of them appeared to be that of a shoed foot, a shoe that had a distinct pattern on the sole, and some of them appeared to be that of a foot wearing some sort of covering, as of yet unidentified, that left a distinct patterned impression in the blood.[^132] ^i0-69
+	- On the bathtub, the police discovered several bloody transfer impressions with a very distinct pattern.[^133] ^rocwo
+		- It appeared these bloody transfer impressions in the blood did not have any ridge detail, indicating that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s killer had been wearing gloves.[^134] ^a6c-y
+		- It also appeared that at least some preliminary efforts at cleaning up the crime scene had been attempted.[^135] ^zr9r0
+	- Police located no signs of forced entry.[^136] ^-8gqj
+	- No murder weapons were located at the death scene.[^224] ^0sh-a
+	- There was no evidence that the home had been ransacked or searched.[^137] ^7mpl1
+		- Various items (laptops, smart phones, TV’s) that would commonly be stolen in a burglary were left untouched.[^138] ^0msc3
+	- It appeared that [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] had been targeted.[^139] ^fn4ni
 - [[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]] data from [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]‘s [[../../60-69 Evidence/63 Physical/04 Car|car]] indicated that he left the [[../52 Key Locations/01 Boeing|Boeing]] plant where he worked at approximately **1:15pm**.[^179] 
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] then drove to the 11300 block of Evergreen Way, Everett, arriving at **1:21pm**, and leaving at **1:35pm**.[^180] 
 	- This was the location of the Everett Walmart.[^181] 
@@ -202,7 +202,7 @@
 	- It is unknown what [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]‘s purposes was in going to the area of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s home, but it is known that at that time he had in his [[../../60-69 Evidence/63 Physical/04 Car|car]] two packages of [[../../60-69 Evidence/63 Physical/02 Kleenguard|Kleenguard]] [[../../60-69 Evidence/63 Physical/02 Kleenguard|coveralls]], a gas can, two pairs of latex gloves, and a pair of [[../../60-69 Evidence/63 Physical/06 Croc-style Shoes|croc style shoes]].[^197] 
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] failed to tell the police that he had gone to either Walmart or to the area of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s home that day.[^199] 
 - After reaching the barricade, the [[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]] data indicates that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] drove back to work at [[../52 Key Locations/01 Boeing|Boeing]], arriving there at **2:47pm** - 15 minutes before the detectives arrived.[^198] 
-- Detectives learnt that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] had been [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s estranged husband, and that he worked at the [[../52 Key Locations/01 Boeing|Boeing]] plant in Everett.[^82] 
+- Detectives learnt that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] had been [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]‘s estranged husband, and that he worked at the [[../52 Key Locations/01 Boeing|Boeing]] plant in Everett.[^82] ^wea3x
 - At approximately **2:00pm**, [[../../70-79 People/75 Police and Detectives/02 Detective Stone|Detective Stone]] and [[../../70-79 People/75 Police and Detectives/01 Detective Chissus|Detective Chissus]], and uniformed Officer Caban left [[../52 Key Locations/04 Bothell|Bothell]] for the [[../52 Key Locations/01 Boeing|Boeing]] plant.[^90]
 - En route to [[../52 Key Locations/01 Boeing|Boeing]], [[../../70-79 People/75 Police and Detectives/02 Detective Stone|Detective Stone]] contacted [[../52 Key Locations/01 Boeing|Boeing]] Security Officer Brian Ferguson and requested contact with [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]].[^91]
 	- The purpose of the visit had been to both inform [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] that his wife appeared to have been murdered, that his [[../../70-79 People/73 Family and Friends/07 Children|children]] were safe, and to see if [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] appeared to have any injuries that may have been associated with the murder, and to find out [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]‘s whereabouts at relevant times to the crime.[^92]

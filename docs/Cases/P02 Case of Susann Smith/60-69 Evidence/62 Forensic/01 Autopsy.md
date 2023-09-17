@@ -1,7 +1,13 @@
 ---
 aliases:
   - autopsy
+title: 01 Autopsy
+date created: Tuesday, August 29th 2023, 9:11:59 pm
+date modified: Sunday, September 17th 2023, 9:18:25 pm
 ---
+
+# 01 Autopsy
+
 #autopsy
 
 An [autopsy](01%20Autopsy.md) was performed by Associate Medical Examiner S. Adams, MD. Dr. [^1]

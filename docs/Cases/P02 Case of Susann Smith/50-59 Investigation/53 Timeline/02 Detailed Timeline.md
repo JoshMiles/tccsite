@@ -1,8 +1,3 @@
-[[../52 Key Locations/04 Bothell|Bothell]][[../../60-69 Evidence/63 Physical/04 Car|car]][[../../60-69 Evidence/63 Physical/04 Car|car]][[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]][[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]][[../52 Key Locations/05 Apartment|apartment]][[../52 Key Locations/04 Bothell|Bothell]][[../../60-69 Evidence/62 Forensic/01 Autopsy|autopsy]][[../../60-69 Evidence/63 Physical/02 Kleenguard|Coveralls]]---
-title: 02 Detailed Timeline
-date created: Thursday, August 31st 2023, 2:27:28 pm
-date modified: Thursday, September 7th 2023, 4:25:08 pm
----
 ### [[../../10-19 Case Dates/11 Background Dates/2009|2009]]
 
 - [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] and [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] moved into [[../52 Key Locations/02 The Smith House|The Smith House]][^4] ^c57kk
@@ -113,12 +108,12 @@ date modified: Thursday, September 7th 2023, 4:25:08 pm
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] claims that he spent he had spent that Sunday evening watching movies at his [[../52 Key Locations/05 Apartment|apartment]] with his two [[../../70-79 People/73 Family and Friends/07 Children|children]], and that they had all slept there.[^52] ^c62l7
 - Financial records indicate that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] had visited [[../52 Key Locations/03 Canyon Park QFC|Canyon Park QFC]] this day - the location at which his [[../../60-69 Evidence/63 Physical/01 Bicycle|bicycle]] would be seen unattended and unsecured.[^53] ^31hgi
 - [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] used her time away from the [[../../70-79 People/73 Family and Friends/07 Children|kids]] to catch up with some of her friends. ^448k8
-	- She spoke with a friend from Germany over the phone.
-	- She went to choir practice before meeting up with [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] to see The Music Man in Seattle.
-	- [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] and [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] met up at the theatre (The 5th Avenue Theater[^54] [^55]).
-	- The show that Sunday started at **7:00pm**.[^56] 
-	- After the show, [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] dropped [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] off at her home before turning back to [[../52 Key Locations/02 The Smith House|The Smith House]] sometime before **10:30pm**.[^57]
-	- It was at around this same time that one of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]'s neighbours, a [[../../70-79 People/73 Family and Friends/06 Mr Buckley|Mr Buckley]], returned home with his daughter at **10:30pm** and saw [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] standing out in front of [[../52 Key Locations/02 The Smith House|The Smith House]].[^58]
+	- She spoke with a friend from Germany over the phone. ^uewvo
+	- She went to choir practice before meeting up with [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] to see The Music Man in Seattle. ^0spz5
+	- [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] and [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] met up at the theatre (The 5th Avenue Theater[^54] [^55]). ^bzl-e
+	- The show that Sunday started at **7:00pm**.[^56] ^7u1qr
+	- After the show, [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] dropped [[../../70-79 People/73 Family and Friends/05 Ani Gothard-Williams|Ani Gothard-Williams]] off at her home before turning back to [[../52 Key Locations/02 The Smith House|The Smith House]] sometime before **10:30pm**.[^57] ^ax4oa
+	- It was at around this same time that one of [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]]'s neighbours, a [[../../70-79 People/73 Family and Friends/06 Mr Buckley|Mr Buckley]], returned home with his daughter at **10:30pm** and saw [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] standing out in front of [[../52 Key Locations/02 The Smith House|The Smith House]].[^58] ^o-bi-
 	- [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] went over and started talking to the neighbour, [[../../70-79 People/73 Family and Friends/06 Mr Buckley|Mr Buckley]]. The conversation was quick, and [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] then returned home.[^59] 
 	- Though, [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] didn't go straight to bed.[^60]
 	- Instead, [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] turned on her computer and accessed the internet.[^61]

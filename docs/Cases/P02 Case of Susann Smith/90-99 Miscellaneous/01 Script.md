@@ -122,6 +122,16 @@ While it is not corroborated by official sources, it seems reasonable to infer t
 
 Susann, that day, used her time away from her kids to catch up with some of her friends.[^56] 
 
+That Sunday, she spoke with a friend from Germany over the phone before heading to choir practice.[^57] 
+
+After which Susann met up with her friend Ani to go to see Music Man in Seattle.[^58] 
+
+Susann and Ani had met up at the theatre, the 5th Avenue Theater, and settled into their seats ready for the show to start at 7pm.[^59] [^60] 
+
+After the show, Susann dropped Ani back off at her home and then returned to The Smith House sometime before 10:30pm.[^61] 
+
+It had been at around this tame time that one of Susann's neighbours, a Mr Buckley, returned back home with his daughter and saw Susann standing outside the front of The Smith House.[^62] 
+
 
 
 ## Crime
@@ -189,3 +199,9 @@ Susann, that day, used her time away from her kids to catch up with some of her 
 [^54]: https://en.wikipedia.org/wiki/QFC
 [^55]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^31hgi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^31hgi]])
 [^56]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^448k8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^448k8]])
+[^57]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^uewvo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^uewvo]])
+[^58]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0spz5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0spz5]])
+[^59]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^bzl-e|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^bzl-e]])
+[^60]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7u1qr|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7u1qr]])
+[^61]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ax4oa|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ax4oa]])
+[^62]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^o-bi-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^o-bi-]])

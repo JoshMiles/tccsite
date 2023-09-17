@@ -1,3 +1,11 @@
+---
+title: 01 Outline
+date created: Wednesday, August 30th 2023, 3:26:06 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+# 01 Outline
+
 ## [02 13-1-01546-8 1 (INFORMATION).pdf](../../../../assets/attachments/02%2013-1-01546-8%201%20(INFORMATION).pdf)
 
 - Information regarding the charge
@@ -32,12 +40,15 @@
 ## [06 13-1-01546-8 48 (RESPONSIVE 3.5 BRIEF).pdf](../../../../assets/attachments/06%2013-1-01546-8%2048%20(RESPONSIVE%203.5%20BRIEF).pdf)
 
 - Initial Non-Custodial Interview re: interview in the conference room at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) Security Building and the legal argument surrounding that.
+
 ## [07 13-1-01546-8 50 (EVIDENTIARY HEARING).pdf](../../../../assets/attachments/07%2013-1-01546-8%2050%20(EVIDENTIARY%20HEARING).pdf)
 
 - Court finding that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was not in custody when questioned on [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md)
+
 ## [08 13-1-01546-8 51 (EVIDENTIARY HEARING).pdf](../../../../assets/attachments/08%2013-1-01546-8%2051%20(EVIDENTIARY%20HEARING).pdf)
 
 - Court finding that [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) had not been acting as a member of the clergy when the confession happened.
+
 ## [09 13-1-01546-8 57 (DECLARATION OF TIFFANY L MECCA).pdf](../../../../assets/attachments/09%2013-1-01546-8%2057%20(DECLARATION%20OF%20TIFFANY%20L%20MECCA).pdf)
 
 - Declaration from Tiffany Mecca who was the attorney for [the defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
@@ -109,8 +120,9 @@
 	- [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s internet activity
 		- Talks about [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s movements on [2013-02-10 Sunday February 10th 2013](../../10-19%20Case%20Dates/11%20Background%20Dates/2013-02-10%20Sunday%20February%2010th%202013.md)
 	- Dr. Jennifer Davenport's testimony RE factors that negatively impact eyewitness reliability
-		- Talks about the sighting of the bike and the witnesses' statement
+		- Talks about the sighting of the bike and the witnesses' statement  
 [03 Defence Trial Brief](../21%20File%20Notes/03%20Defence%20Trial%20Brief.md)
+
 ## [17 13-1-01546-8 111 (WAIVER OF JURY TRIAL BY DEFENDANT).pdf](../../../../assets/attachments/17%2013-1-01546-8%20111%20(WAIVER%20OF%20JURY%20TRIAL%20BY%20DEFENDANT).pdf)
 
 - Documentation that states that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) had discussed his right to a trial by jury with his attorney and knowingly, voluntarily and intelligently waives the right to a jury trial
@@ -146,7 +158,5 @@
 - Motion of the appeal detailed the declaration of the appeal.
 
 ## [28 13-1-01546-8 148 (WITNESS RECORD).pdf](../../../../assets/attachments/28%2013-1-01546-8%20148%20(WITNESS%20RECORD).pdf)
-
-
 
 ## [29 13-1-01546-8 150 (WITNESS RECORD).pdf](../../../../assets/attachments/29%2013-1-01546-8%20150%20(WITNESS%20RECORD).pdf)

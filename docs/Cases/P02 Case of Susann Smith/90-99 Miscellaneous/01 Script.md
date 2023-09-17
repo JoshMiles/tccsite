@@ -2,7 +2,7 @@
 
 Tuesday the 12th of February, 2013.[^1]
 
-[[../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]], Washington State, the United States.
+[Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md), Washington State, the United States.
 
 A concerned co-worker contacted the local police after a 37 year old woman failed to show up for work for two days in a row.[^2]
 
@@ -12,51 +12,51 @@ A concerned co-worker contacted the local police after a 37 year old woman faile
 
 # Lead up to Crime
 
-In [[../10-19 Case Dates/11 Background Dates/2009|2009]], Susann and [[../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] bought and moved into a house together in the 200 Block of 240th Street SW, [[../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]].[^3] 
+In [2009](../10-19%20Case%20Dates/11%20Background%20Dates/2009.md), Susann and [Alan Smith](../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) bought and moved into a house together in the 200 Block of 240th Street SW, [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md).[^3] 
 
-Their life together seemed to have been going well, with Alan finding work at the local [[../50-59 Investigation/52 Key Locations/01 Boeing|Boeing]] plant as they raised their two [[../70-79 People/73 Family and Friends/07 Children|children]].
+Their life together seemed to have been going well, with Alan finding work at the local [Boeing](../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) plant as they raised their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md).
 
 Though, the happy life that their friends and family saw from the outside had been riddled with issues consuming their relationship behind closed doors.
 
 So much so, that on Friday the 18th of November 2011, the couple filed for divorce.[^4] 
 
-And on that same day, Alan moved out of [[../50-59 Investigation/52 Key Locations/02 The Smith House|The Smith House]] and into an [[../50-59 Investigation/52 Key Locations/05 Apartment|apartment]] in [[../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]].[^5] 
+And on that same day, Alan moved out of [The Smith House](../50-59%20Investigation/52%20Key%20Locations/02%20The%20Smith%20House.md) and into an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) in [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md).[^5] 
 
-The main cause of concern for the divorce had been the custody of their two [[../70-79 People/73 Family and Friends/07 Children|children]], and on Friday the 3rd of August 2012, a hearing took place regarding a temporary parenting plan that was submitted by Susann[^7]  - which is essentially an agreement that contains information about where your child will live and how you and the other parents will care for your child/[[../70-79 People/73 Family and Friends/07 Children|children]] during the divorce proceedings, the temporary plan lasting until the divorce is finalized and the permanent parenting plan is in place.[^6]
+The main cause of concern for the divorce had been the custody of their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), and on Friday the 3rd of August 2012, a hearing took place regarding a temporary parenting plan that was submitted by Susann[^7]  - which is essentially an agreement that contains information about where your child will live and how you and the other parents will care for your child/[children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) during the divorce proceedings, the temporary plan lasting until the divorce is finalized and the permanent parenting plan is in place.[^6]
 
-The [[../70-79 People/77 Legal Teams/02 Commissioner|Commissioner]] of this hearing largely adopted the plan, which had been in Susann’s favour.[^8] 
+The [Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) of this hearing largely adopted the plan, which had been in Susann’s favour.[^8] 
 
-After the hearing, Susann and Alan had what was described as a disagreement about who would be spending time with their [[../70-79 People/73 Family and Friends/07 Children|children]] during the summer, with Alan growing increasingly angry.[^9] [^10] 
+After the hearing, Susann and Alan had what was described as a disagreement about who would be spending time with their [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) during the summer, with Alan growing increasingly angry.[^9] [^10] 
 
-Susann’s divorce attorney, a man called [[../70-79 People/77 Legal Teams/01 John Ely|John Ely]], took note of this disagreement especially when Alan became fixed on Susann with what he described as an “*incredibly angry*” stare that lasted about five or so seconds.[^11] 
+Susann’s divorce attorney, a man called [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md), took note of this disagreement especially when Alan became fixed on Susann with what he described as an “*incredibly angry*” stare that lasted about five or so seconds.[^11] 
 
-This stare had been something the like [[../70-79 People/77 Legal Teams/01 John Ely|John Ely]] had never seen in his some 15 years of practise, and it had been concerning enough to [[../70-79 People/77 Legal Teams/01 John Ely|John Ely]] that he actually asked Susann about it afterwards, and mentioned it to his staff.[^12] 
+This stare had been something the like [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md) had never seen in his some 15 years of practise, and it had been concerning enough to [John Ely](../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md) that he actually asked Susann about it afterwards, and mentioned it to his staff.[^12] 
 
-In September of 2012, Alan actually began dating a different woman by the name of [[../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]].[^13] 
+In September of 2012, Alan actually began dating a different woman by the name of [Rachel Amrine](../70-79%20People/73%20Family%20and%20Friends/04%20Rachel%20Amrine.md).[^13] 
 
 Alan hadn’t been shy of making his thoughts and opinions known about the divorce and about Susann to his new girlfriend Rachel, with Alan asking during one angry rant to Rachel: “*how could he make someone disappear without anyone knowing*”.[^14] 
 
-Several days after that angry rant, in an angry phone call, Alan told Rachel that he “*just wanted her to be done with*” - presumably referring to the mother of his [[../70-79 People/73 Family and Friends/07 Children|children]], Susann.[^15] 
+Several days after that angry rant, in an angry phone call, Alan told Rachel that he “*just wanted her to be done with*” - presumably referring to the mother of his [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md), Susann.[^15] 
 
-In another discussion between Alan and Rachel, Rachel mentioned that one of her friends who had been in the military had once told her how you could beat someone with a phone book and not leave any bruising[^16] , to which Alan replied "*you could do that with a rubber [[../60-69 Evidence/63 Physical/03 Mallet|mallet]] too*".[^17] 
+In another discussion between Alan and Rachel, Rachel mentioned that one of her friends who had been in the military had once told her how you could beat someone with a phone book and not leave any bruising[^16] , to which Alan replied "*you could do that with a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md) too*".[^17] 
 
-Alan would often "rant and rant" about Susann to Rachel, getting heated about the amount of child support he was paying, and his fear that she would attempt to move their two [[../70-79 People/73 Family and Friends/07 Children|children]] to Germany.[^18] 
+Alan would often "rant and rant" about Susann to Rachel, getting heated about the amount of child support he was paying, and his fear that she would attempt to move their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) to Germany.[^18] 
 
-On one notable occasion, Alan told Rachel that he would like to just get rid of [[../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] and asked her if she knew of any way of making that happen without anyone knowing and Rachel responded, in what she would later claim to have been a joking manner, that they could use potassium chloride or a rubber [[../60-69 Evidence/63 Physical/03 Mallet|mallet]] to kill someone.[^19] 
+On one notable occasion, Alan told Rachel that he would like to just get rid of [Susann Smith](../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) and asked her if she knew of any way of making that happen without anyone knowing and Rachel responded, in what she would later claim to have been a joking manner, that they could use potassium chloride or a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md) to kill someone.[^19] 
 
 When Alan once again mentioned his desire for Susann to disappear, Rachel began to grow very concerned that this wasn't a dark joke anymore and she began to wonder whether or not Alan was serious about it.[^20] 
 
-On Sunday the 27th of October, 2012, financial records showed that Alan had visited a Home Depot store and purchased a rubber [[../60-69 Evidence/63 Physical/03 Mallet|mallet]], two packs of [[../60-69 Evidence/63 Physical/02 Kleenguard|Kleenguard]] Chemical Splash Resistant [[../60-69 Evidence/63 Physical/02 Kleenguard|Coveralls]], and disposable shoe covers[^21]  - the nature of this purchase especially following his conversations with Rachel became a major cause of concern for her.
+On Sunday the 27th of October, 2012, financial records showed that Alan had visited a Home Depot store and purchased a rubber [mallet](../60-69%20Evidence/63%20Physical/03%20Mallet.md), two packs of [Kleenguard](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md) Chemical Splash Resistant [Coveralls](../60-69%20Evidence/63%20Physical/02%20Kleenguard.md), and disposable shoe covers[^21]  - the nature of this purchase especially following his conversations with Rachel became a major cause of concern for her.
 
-At some point in November of 2012, Rachel helped Alan move from an [[../50-59 Investigation/52 Key Locations/05 Apartment|apartment]] that he was living in Seattle to an [[../50-59 Investigation/52 Key Locations/05 Apartment|apartment]] in [[../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]] - the same place where Susan lived.[^22] 
+At some point in November of 2012, Rachel helped Alan move from an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) that he was living in Seattle to an [apartment](../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) in [Bothell](../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md) - the same place where Susan lived.[^22] 
 
-We know that on Saturday the 24th of November 2012, Alan purchased a [[../60-69 Evidence/63 Physical/01 Bicycle|bicycle]] for $616 from Gregg's Green Lake in Seattle.[^23] 
+We know that on Saturday the 24th of November 2012, Alan purchased a [bicycle](../60-69%20Evidence/63%20Physical/01%20Bicycle.md) for $616 from Gregg's Green Lake in Seattle.[^23] 
 
 And at some point before the end of that November month, Alan and Rachel separated.[^24] 
 
-On Thursday the 13th of December, 2012, [[../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] filed paperwork relating to his divorce that claimed he now believed [[../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] had been sexually assaulting their two [[../70-79 People/73 Family and Friends/07 Children|children]].[^25] 
+On Thursday the 13th of December, 2012, [Alan Smith](../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) filed paperwork relating to his divorce that claimed he now believed [Susann Smith](../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) had been sexually assaulting their two [children](../70-79%20People/73%20Family%20and%20Friends/07%20Children.md).[^25] 
 
-These filings had been as part of a motion to reconsider a failure by [[../70-79 People/77 Legal Teams/02 Commissioner|the Commissioner]] to order a GAL, or Guardian AD Litem[^32] [^33], appointed to the case.[^26] 
+These filings had been as part of a motion to reconsider a failure by [the Commissioner](../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md) to order a GAL, or Guardian AD Litem[^32] [^33], appointed to the case.[^26] 
 
 > [!note]
 > According to Snohomish County's website, a Guardian ad Litem, or GAL, when talking about family law is a person or persons that are appointed to represent the best interests of a child/children, an alleged incapacitated person, or a person in a minor settlement case, for specific purposes and specific periods of time, or in conflict cases when the Court needs information from a neutral source.
@@ -79,7 +79,7 @@ The following day, on Friday the 11th of January 2013, Alan filed a Motion of Re
 
 Alan also proceeded to file papers that indicated that he was scared that Susann might move the children to her native country of Germany, which would prevent him from seeing his kids.[^34] 
 
-On Friday the 25th of January, 2013, a hearing was held in regards to Alan's motion of revision in front of a judge called [[../70-79 People/77 Legal Teams/03 Judge Fair|Judge Fair]], and Judge Fair ultimately found there to have been no merit to Alan's accusations, and once again ruled in Susann's favour.[^35] 
+On Friday the 25th of January, 2013, a hearing was held in regards to Alan's motion of revision in front of a judge called [Judge Fair](../70-79%20People/77%20Legal%20Teams/03%20Judge%20Fair.md), and Judge Fair ultimately found there to have been no merit to Alan's accusations, and once again ruled in Susann's favour.[^35] 
 
 According to Susann's attorney, John Ely, after this hearing took place, Susann had been waiting in the hall outside the courtroom when she was approached by Alan who called her a "*monster*".[^36] 
 
@@ -204,116 +204,126 @@ A full scale homicide investigation was launched, with Detective Stone and Detec
 
 The detectives quickly learnt from speaking with the neighbours of Susann that she had an estranged husband called Alan Smith, and that Alan worked at the Boeing plant in Everett.[^106] 
 
+At approximately 2pm, Detective Stone, Detective Chissus and uniformed Office Caban left Bothell for the Boeing Plant.[^107] 
 
+En route, Detective Stone contact Boeing Security Office Brian Ferguson and requested a meeting with Alan Smith.[^108] 
+
+He detailed the purpose of the visit to both inform Alan Smith that his wife appeared to have been murdered, that his children were safe, and to see if Alan appeared to have any injuries that may have been associated with the murder, and to find out Alan's whereabouts at relevant times to the crime.[^109] 
+
+The two detectives and the uniformed officer arrived at the Boeing plant at about 3pm.[^110] 
 
 # Legal Proceedings
 
 # Conclusion
 # Footnotes
 
-[^1]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^lhshb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^lhshb]])
-[^2]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
-[^3]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^c57kk|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^c57kk]])
-[^4]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^a11zv|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^a11zv]])
-[^5]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6czt2|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6czt2]])
+[^1]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^lhshb))
+[^2]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^il2zj))
+[^3]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^c57kk))
+[^4]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^a11zv))
+[^5]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6czt2))
 [^6]: https://www.custodyxchange.com/topics/plans/overview/temporary.php 
-[^7]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^2fpj3|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^2fpj3]])
-[^8]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^2fpj3|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^2fpj3]])
-[^9]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^l0es5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^l0es5]])
-[^10]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ogs7e|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ogs7e]])
-[^11]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-h1sc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-h1sc]])
-[^12]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-h1sc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-h1sc]])
-[^13]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^z0om5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^z0om5]])
-[^14]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^tg-oz|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^tg-oz]])
-[^15]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^pvbc3|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^pvbc3]])
-[^16]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ahno8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ahno8]])
-[^17]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^njrsb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^njrsb]])
-[^18]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^98e1-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^98e1-]])
-[^19]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^sjojy|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^sjojy]])
-[^20]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^g1me-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^g1me-]])
-[^21]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^zxy-q|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^zxy-q]])
-[^22]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-sl00|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-sl00]])
-[^23]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^kqeaa|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^kqeaa]])
-[^24]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0-09b|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0-09b]])
-[^25]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^n2a6x|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^n2a6x]])
-[^26]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^r9wv5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^r9wv5]])
-[^27]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^dh487|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^dh487]])
-[^28]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^i268l|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^i268l]])
-[^29]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^tgbdu|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^tgbdu]])
-[^30]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^nbqbr|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^nbqbr]])
-[^31]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^xvke-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^xvke-]])
+[^7]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^2fpj3))
+[^8]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^2fpj3))
+[^9]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^l0es5))
+[^10]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ogs7e))
+[^11]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-h1sc](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-h1sc))
+[^12]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-h1sc](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-h1sc))
+[^13]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^z0om5))
+[^14]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-oz](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^tg-oz))
+[^15]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^pvbc3))
+[^16]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ahno8))
+[^17]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^njrsb))
+[^18]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^98e1-))
+[^19]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^sjojy))
+[^20]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^g1me-))
+[^21]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-q](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^zxy-q))
+[^22]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-sl00](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-sl00))
+[^23]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^kqeaa))
+[^24]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-09b](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0-09b))
+[^25]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^n2a6x))
+[^26]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^r9wv5))
+[^27]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^dh487))
+[^28]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^i268l))
+[^29]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^tgbdu))
+[^30]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^nbqbr))
+[^31]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^xvke-))
 [^32]: https://snohomishcountywa.gov/1441/Guardian-ad-Litem-GAL 
 [^33]: https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm#:~:text=What%20Is%20A%20Guardian%20Ad%20Litem%3F,the%20child%20or%20children%20is. 
-[^34]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^68u8k|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^68u8k]])
-[^35]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vtucb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vtucb]])
-[^36]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7ym32|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7ym32]])
-[^37]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8zheo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8zheo]])
-[^38]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8oos8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8oos8]])
-[^39]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^4i866|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^4i866]])
-[^40]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ekvxq|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ekvxq]])
-[^41]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^f9-b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^f9-b0]])
-[^42]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^49tsz|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^49tsz]])
-[^43]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6p-g5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6p-g5]])
-[^44]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-f8jw|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-f8jw]])
-[^45]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vixvd|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vixvd]])
-[^46]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^35u74|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^35u74]])
-[^47]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ey-w6|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ey-w6]])
-[^48]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rz2gk|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rz2gk]])
-[^49]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rz2gk|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rz2gk]])
-[^50]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6jram|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6jram]])
-[^51]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^55aix|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^55aix]])
-[^52]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^4j06c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^4j06c]])
-[^53]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^c62l7|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^c62l7]])
+[^34]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^68u8k))
+[^35]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^vtucb))
+[^36]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7ym32))
+[^37]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^8zheo))
+[^38]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^8oos8))
+[^39]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^4i866))
+[^40]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ekvxq))
+[^41]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-b0](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^f9-b0))
+[^42]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^49tsz))
+[^43]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-g5](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6p-g5))
+[^44]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-f8jw](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-f8jw))
+[^45]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^vixvd))
+[^46]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^35u74))
+[^47]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-w6](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ey-w6))
+[^48]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^rz2gk))
+[^49]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^rz2gk))
+[^50]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6jram))
+[^51]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^55aix))
+[^52]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^4j06c))
+[^53]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^c62l7))
 [^54]: https://en.wikipedia.org/wiki/QFC 
-[^55]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^31hgi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^31hgi]])
-[^56]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^448k8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^448k8]])
-[^57]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^uewvo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^uewvo]])
-[^58]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0spz5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0spz5]])
-[^59]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^bzl-e|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^bzl-e]])
-[^60]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7u1qr|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7u1qr]])
-[^61]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ax4oa|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ax4oa]])
-[^62]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^o-bi-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^o-bi-]])
-[^63]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6wmj5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6wmj5]])
-[^64]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8pnbh|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8pnbh]])
-[^65]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^nknwc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^nknwc]])
-[^66]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qb1a2|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qb1a2]])
-[^67]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^pb67c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^pb67c]])
-[^68]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7iqe9|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7iqe9]])
-[^69]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^h6rli|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^h6rli]])
-[^70]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^s61yx|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^s61yx]])
-[^71]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^txpm4|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^txpm4]])
-[^72]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vtbus|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vtbus]])
-[^73]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
-[^74]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^y3ujn|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^y3ujn]])
-[^75]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vchzc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vchzc]])
-[^76]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
-[^77]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ehg0n|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ehg0n]])
-[^78]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^yhill|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^yhill]])
-[^79]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^mo2b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^mo2b0]])
-[^80]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qlj69|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qlj69]])
-[^81]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^xmoet|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^xmoet]])
-[^82]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qyhdf|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qyhdf]])
-[^83]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^k09ky|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^k09ky]])
-[^84]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^05-98|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^05-98]])
-[^85]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^npgiv|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^npgiv]])
-[^86]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^mo2b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^mo2b0]])
-[^87]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^j9roi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^j9roi]])
-[^88]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^p5737|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^p5737]])
-[^89]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^gchnl|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^gchnl]])
-[^90]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^tjqc-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^tjqc-]])
-[^91]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7iqjx|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7iqjx]])
-[^92]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-p99z|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-p99z]])
-[^93]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6nd2c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6nd2c]])
-[^94]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^z3n2n|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^z3n2n]])
-[^95]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^71ajb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^71ajb]])
-[^96]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^y83qc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^y83qc]])
-[^97]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^i0-69|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^i0-69]])
-[^98]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rocwo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rocwo]])
-[^99]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^a6c-y|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^a6c-y]])
-[^100]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^zr9r0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^zr9r0]])
-[^101]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-8gqj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-8gqj]])
-[^102]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0sh-a|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0sh-a]])
-[^103]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7mpl1|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7mpl1]])
-[^104]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0msc3|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0msc3]])
-[^105]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^fn4ni|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^fn4ni]])
-[^106]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^wea3x|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^wea3x]])
+[^55]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^31hgi))
+[^56]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^448k8))
+[^57]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^uewvo))
+[^58]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0spz5))
+[^59]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-e](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^bzl-e))
+[^60]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7u1qr))
+[^61]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ax4oa))
+[^62]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-bi-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^o-bi-))
+[^63]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6wmj5))
+[^64]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^8pnbh))
+[^65]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^nknwc))
+[^66]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^qb1a2))
+[^67]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^pb67c))
+[^68]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7iqe9))
+[^69]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^h6rli))
+[^70]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^s61yx))
+[^71]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^txpm4))
+[^72]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^vtbus))
+[^73]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^il2zj))
+[^74]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^y3ujn))
+[^75]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^vchzc))
+[^76]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^il2zj))
+[^77]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ehg0n))
+[^78]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^yhill))
+[^79]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^mo2b0))
+[^80]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^qlj69))
+[^81]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^xmoet))
+[^82]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^qyhdf))
+[^83]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^k09ky))
+[^84]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-98](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^05-98))
+[^85]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^npgiv))
+[^86]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^mo2b0))
+[^87]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^j9roi))
+[^88]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^p5737))
+[^89]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^gchnl))
+[^90]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^tjqc-))
+[^91]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7iqjx))
+[^92]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-p99z](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-p99z))
+[^93]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^6nd2c))
+[^94]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^z3n2n))
+[^95]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^71ajb))
+[^96]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^y83qc))
+[^97]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-69](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^i0-69))
+[^98]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^rocwo))
+[^99]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-y](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^a6c-y))
+[^100]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^zr9r0))
+[^101]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-8gqj](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^-8gqj))
+[^102]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline-a](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0sh-a))
+[^103]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^7mpl1))
+[^104]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^0msc3))
+[^105]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^fn4ni))
+[^106]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^wea3x))
+[^107]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^fwtfb))
+[^108]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^gogd4))
+[^109]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^039rz))
+[^110]: (see [Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline](../50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md#^ium1p))

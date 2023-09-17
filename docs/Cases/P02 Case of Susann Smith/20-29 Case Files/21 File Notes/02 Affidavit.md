@@ -1,15 +1,22 @@
-[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)---
-locations: 
+---
+title: 02 Affidavit
+date created: Wednesday, August 30th 2023, 5:53:51 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)[car](../../60-69%20Evidence/63%20Physical/04%20Car.md)---  
+locations:  
 aliases:
+
   - Affidavit
   - affidavit
 ---
+
 [03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../../assets/attachments/03%2013-1-01546-8%202%20(AFFIDAVIT%20DECLARATION%20PROB%20CAUSE).pdf)
 
 If you are viewing this on truecrimecases.com, you can find the PDF [here](<https://github.com/JoshMiles/truecrimecases/blob/main/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/22%20PDFs/03%2013-1-01546-8%202%20(AFFIDAVIT%20DECLARATION%20PROB%20CAUSE).pdf>).
 
 ![03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../../assets/attachments/03%2013-1-01546-8%202%20(AFFIDAVIT%20DECLARATION%20PROB%20CAUSE).pdf)
-
 
 On [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md), during the early morning hours, [the defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) (dob 1975/07/19) savagely beat, cut and ultimately drowned his estranged wife, [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) at her [Bothell](../../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md) home, located at [216 240th St SW, Bothell, WA](geo:47.78026465,-122.23629542497216).[^1] ^9pr8u
 
@@ -101,11 +108,11 @@ A search warrant was served on [Alan Smith](../../70-79%20People/72%20Suspects%2
 
 In [2012-12 December 2012](../../10-19%20Case%20Dates/11%20Background%20Dates/2012-12%20December%202012.md), [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) made internet searches on Google for "How realistic is CSI Miami", "Most realistic crime shows", "Forensic Files", "Where do people get fake passports", "How long does it take for [DNA](../../60-69%20Evidence/62%20Forensic/04%20DNA.md) test", "How much material is needed for [DNA](../../60-69%20Evidence/62%20Forensic/04%20DNA.md)", and Forensic [DNA](../../60-69%20Evidence/62%20Forensic/04%20DNA.md) FAQ's from Orchid Cellmark Laboratory. ^52zkv
 
-A subsequent search of financial records indicated that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) ordered an entire season of Forensic Files in December from Netflix. ^zqo0f
-During [forensic](../../60-69%20Evidence/62%20Forensic/03%20Forensic%20Evidence.md) searches of both [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s cell phone and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s cell phone, it was discovered that after being advised of the body found in [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s home, [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) texted [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s phone "Hi Susie" at 10:23pm on [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md). ^3lb-p
-A search of all electronic communication between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) indicated this was a highly unusual text. ^pf60z
-There was text history going back 14 months to 12/13/11, consisting of 127 text messages between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md). 
-In none of these texts did [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) ever simply write "hi" - all of the texts revolved around discussions of their [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) or issues relating to them, or issues between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md). 
+A subsequent search of financial records indicated that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) ordered an entire season of Forensic Files in December from Netflix. ^zqo0f  
+During [forensic](../../60-69%20Evidence/62%20Forensic/03%20Forensic%20Evidence.md) searches of both [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s cell phone and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s cell phone, it was discovered that after being advised of the body found in [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s home, [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) texted [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s phone "Hi Susie" at 10:23pm on [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md). ^3lb-p  
+A search of all electronic communication between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) indicated this was a highly unusual text. ^pf60z  
+There was text history going back 14 months to 12/13/11, consisting of 127 text messages between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md).  
+In none of these texts did [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) ever simply write "hi" - all of the texts revolved around discussions of their [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) or issues relating to them, or issues between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md).  
 In none of the texts, other than one sent [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md), did [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) address [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) as "Susie".
 
 Several search warrants were served on [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s financial records. 
@@ -134,7 +141,7 @@ The witness called police who came and collected the [bicycle](../../60-69%20Evi
 
 The time frame that the various cameras ([CCTV](../../60-69%20Evidence/61%20Digital/01%20CCTV.md)) show a bicyclist on the route to and from [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s [apartment](../../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) is consistent with the time frame police believe the murder occurred. Police believe [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) may have left his [bicycle](../../60-69%20Evidence/63%20Physical/01%20Bicycle.md) unattended and unsecured in the hopes that it would be stolen, this disposing of it as possible evidence. ^ccr9m
 
-Police also served a warrant on the [Garmin GPS](01%20Garmin%20GPS.md) in [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s [car](../../60-69%20Evidence/63%20Physical/04%20Car.md). An analysis of the data from the [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) device showed that on [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md), [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) travelled to the area of the 23200 block of 2rd Ave. SE (location of Little Bears Day-care, where his [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) went) at 7:54am, and then travelled to the location of the Albertson's parking lot located at 12811 Beverly Park Rd., in Lynnwood, arriving at 8:10am, and not leaving until 8:20am. ^21cxg
+Police also served a warrant on the [Garmin GPS](01%20Garmin%20GPS.md) in [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s [car](../../60-69%20Evidence/63%20Physical/04%20Car.md). An analysis of the data from the [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) device showed that on [2013-02-11 Monday February 11th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-11%20Monday%20February%2011th%202013.md), [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) travelled to the area of the 23200 block of 2nd Ave. SE (location of Little Bears Day-care, where his [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md) went) at 7:54am, and then travelled to the location of the Albertson's parking lot located at 12811 Beverly Park Rd., in Lynnwood, arriving at 8:10am, and not leaving until 8:20am. ^21cxg
 
 The [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) located the [car](../../60-69%20Evidence/63%20Physical/04%20Car.md) in the northwest side of the parking lot. Two large dumpsters are located at this location. Police theorize that this is where [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) may have disposed of various bloody items related to the murder of [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md). ^jzvs9
 
@@ -144,8 +151,8 @@ The following day, [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20
 
 Police were able to confirm that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) did in fact stop at Walmart via surveillance video ([CCTV](../../60-69%20Evidence/61%20Digital/01%20CCTV.md)) and receipts. ^buz6d
 
-[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) purchased a pair of [croc-style shoes](../../60-69%20Evidence/63%20Physical/06%20Croc-style%20Shoes.md), two pairs of Playtex gloves, and a gas can with cash. ^qrmn9
-This cash transaction is unusual as [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) usually uses a debit or credit card. ^kr3ud
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) purchased a pair of [croc-style shoes](../../60-69%20Evidence/63%20Physical/06%20Croc-style%20Shoes.md), two pairs of Playtex gloves, and a gas can with cash. ^qrmn9  
+This cash transaction is unusual as [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) usually uses a debit or credit card. ^kr3ud  
 The soles of the croc shoes visually matched some of the shoe prints left in blood at the death scene. ^deb7g
 
 Police purchased an identical pair of shoes and asked the crime lab to compare the soles of the shoes to the impressions left in blood at the scene. ^x1gwk
@@ -170,16 +177,15 @@ After reaching the barricade, the [GPS](../../60-69%20Evidence/61%20Digital/02%2
 
 [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) neglected to tell police that he had gone to either Walmart or to the area of [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s home. ^8s12y
 
-
 The morning following the purchases at Walmart and Home Depot, [2013-02-13 Wednesday February 13th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-13%20Wednesday%20February%2013th%202013.md), the [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) data indicates that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) left his home at 4:25am and headed south on I-405, exiting 405 in Bellevue at the NE 8th St exit, making a U-turn and getting back on I-405. ^-3tvw
 
 The [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) data shows that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) then continued back north on 405, ultimately ending his journey at the [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) plant at 5:29am. His arrival at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) was confirmed by [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) security pass records. ^o0t7m
 
 Shortly after his arrival at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md), at 5:53am, [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) began the internet searches for flights to South America as described above. ^xjbwn
 
-During the day, [2013-02-13 Wednesday February 13th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-13%20Wednesday%20February%2013th%202013.md), [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) makes four separate cash withdrawals from an ATM at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md). ^pbpkf
-The amount of these withdrawals is $1500. ^v8bwz
-It is unknown why [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) drove to Renton in the early morning hours of [2013-02-13 Wednesday February 13th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-13%20Wednesday%20February%2013th%202013.md) ^unn10
+During the day, [2013-02-13 Wednesday February 13th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-13%20Wednesday%20February%2013th%202013.md), [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) makes four separate cash withdrawals from an ATM at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md). ^pbpkf  
+The amount of these withdrawals is $1500. ^v8bwz  
+It is unknown why [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) drove to Renton in the early morning hours of [2013-02-13 Wednesday February 13th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-13%20Wednesday%20February%2013th%202013.md) ^unn10  
 However, it is clear that this drive is unprecedented based on the data stored in the [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md). ^w-cpy
 
 Search warrants were also served on [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s person, specifically his feet, in a hope of determining whether or not they left the bloody footprints at the death scene.
@@ -188,21 +194,21 @@ The warrant allowed the taking of detailed photos of [Alan Smith](../../70-79%20
 
 These items were sent to Sgt. S.L Massey of the Royal Canadian Mountain Police (RCMP), Forensic Identification Services, along with photos of the various bloody footprints from. 
 
-On [2013-06-25 Tuesday June 25th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-25%20Tuesday%20June%2025th%202013.md), Sgt Massey completed her examination. ^t4971
+On [2013-06-25 Tuesday June 25th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-25%20Tuesday%20June%2025th%202013.md), Sgt Massey completed her examination. ^t4971  
 Three of the bloody footprints were found to "support the proposition that this impression could have been made by the right foot of [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)", "Support" is a term of art that means based on the class characteristic details such as overall size, location of toe pads, overall widths of the heel and arch, the examiner would include this person as being the possible originator of the impression in question. Sgt Massey opined that there is a very low occurrence of a conclusion that someone "did make" a questioned foot impression, particularly when the foot in question was in some type of sock. ^0ilc9
 
 The same day that Sgt Massey finished the foot morphology examination ([2013-06-25 Tuesday June 25th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-25%20Tuesday%20June%2025th%202013.md)), [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) contacted the [Bothell](../../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md) Police.
 
-[Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) said that he had met [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) at a potluck organised by some members of the church they both attend, City Church. ^nl96a
+[Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) said that he had met [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) at a potluck organised by some members of the church they both attend, City Church. ^nl96a  
 [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) is an ordained minister, but does not hold a position of minister or pastor at City Church, nor is he employed or assigned as staff at City Church. [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md)' role at City Church is that of a volunteer bible study group leader. ^82rjo
 
-When [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) initially met [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md), he was aware [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was a "person of interest" in his wife's murder. 
+When [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) initially met [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md), he was aware [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was a "person of interest" in his wife's murder.  
 Due to the ongoing publicity surrounding the investigation into [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s murder, the staff at City Church told [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and his new girlfriend, [Love Thai](../../70-79%20People/73%20Family%20and%20Friends/02%20Love%20Thai.md), they were no longer welcome to attend services at either the Seattle or Kirkland church campus. ^3unzj
 
-[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was told this either [2013-06-22 Saturday June 22nd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-22%20Saturday%20June%2022nd%202013.md) or [2013-06-23 Sunday June 23rd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-23%20Sunday%20June%2023rd%202013.md). ^91dat
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was told this either [2013-06-22 Saturday June 22nd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-22%20Saturday%20June%2022nd%202013.md) or [2013-06-23 Sunday June 23rd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-23%20Sunday%20June%2023rd%202013.md). ^91dat  
 Being turned away from the City Church upset [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Love Thai](../../70-79%20People/73%20Family%20and%20Friends/02%20Love%20Thai.md). ^w4n2t
 
-They called [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) on [2013-06-23 Sunday June 23rd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-23%20Sunday%20June%2023rd%202013.md), asking to meet at Starbucks on south Lake Union. ^r0uzc
+They called [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) on [2013-06-23 Sunday June 23rd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-23%20Sunday%20June%2023rd%202013.md), asking to meet at Starbucks on south Lake Union. ^r0uzc  
 [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) agreed. ^6edhg
 
 While [Love Thai](../../70-79%20People/73%20Family%20and%20Friends/02%20Love%20Thai.md) and [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md)' wife spoke inside Starbucks, [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) and [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) spoke inside [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s vehicle. ^q5mvx
@@ -217,17 +223,17 @@ As [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interes
 
 When asked to clarify, [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) stated "Yes, I did it to her". ^62r6o
 
-[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) then broke down, sobbing and crying. ^exbco
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) then broke down, sobbing and crying. ^exbco  
 [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) told [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) "I respect what you do with the information, because at this point I am walking off the ledge, I'm walking off the ledge". ^zbw6j
 
-When [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) ultimately parted company, it was [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md)' belief that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was going to turn himself into the police. ^tc7o5
+When [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) ultimately parted company, it was [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md)' belief that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was going to turn himself into the police. ^tc7o5  
 When that did not occur, [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) came forward with this information. ^rvrz3
 
 When [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) spoke to the police, he was adamant that he was not acting as a clergyman when he spoke to [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md), but merely a man of God. ^7q0b7
 
 [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was held in custody on a bail of $1,000,000. ^j3xs7
 
-[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) also faced charges for obstructing, for refusing to turn over his passport as direct by court order. ^pli-t
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) also faced charges for obstructing, for refusing to turn over his passport as direct by court order. ^pli-t  
 [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) posted $10,000 bond on that matter [2013-06-26 Wednesday June 26th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-26%20Wednesday%20June%2026th%202013.md). ^ada8m
 
 The state believed that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was an extreme flight risk and danger to the community.

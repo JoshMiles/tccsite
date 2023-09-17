@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Tuesday the 12th of February, 2013.[^1]
 
@@ -8,9 +8,9 @@ A concerned co-worker contacted the local police after a 37 year old woman faile
 
 
 
-## Victim Background
+# Victim Background
 
-## Lead up to Crime
+# Lead up to Crime
 
 In [[../10-19 Case Dates/11 Background Dates/2009|2009]], Susann and [[../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] bought and moved into a house together in the 200 Block of 240th Street SW, [[../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]].[^3] 
 
@@ -132,15 +132,39 @@ After the show, Susann dropped Ani back off at her home and then returned to The
 
 It had been at around this tame time that one of Susann's neighbours, a Mr Buckley, returned back home with his daughter and saw Susann standing outside the front of The Smith House.[^62] 
 
+Susann saw Mr Buckley and headed over to talk to him - the conversation had been quick, after which Susan returned back to her home. [^63] 
 
+Though, Susan didn't go straight to bed when she got back home.[^64] 
 
-## Crime
+Instead, she turned on her computer and access the internet[^65] , logging in to her online banking account[^66]  before going to Netflix[^67] to watch a show or movie  (**note: this is the author's inference**).
 
-## Investigation
+By 11:35pm, Susann had still been watching Netflix.[^68] 
 
-## Legal Proceedings
+That had been the last known movement of Susann Smith.
+# Crime
 
-## Conclusion
+On Monday the 11th of February 2013, Susann Smith failed to show up for work, and failed to answer phone calls from work who were trying to find out if she had been running late or if she had any other reason for not showing up.[^69] 
+
+Alan Smith dropped off the two kids at the day care that morning[^70] , and picked them up after he had finished his shift at the Boeing plant.[^71] 
+
+According to Alan, he and the children spent that night at Alan's apartment.[^72] 
+
+The following day, on Tuesday the 12th of February 2013, Susann failed to show up to work for the second day in a row.[^73] 
+
+Efforts were made by her co-workers and employer to get a hold of Susan, but to no avail.[^74] 
+
+This failure to show up for work and failure to answer phone calls was completely out of character and described as being highly unusual for Susann Smith.[^75] 
+
+And so, Susann's co-workers contacted the Bothell Police Department and informed them that she had not shown up for work[^76]  and that they were concerned for her wellbeing.  (**note: this is the author's inference**)
+
+The police subsequently carried out a welfare check on Susann Smith.[^77] 
+
+Officers arrived at Susann Smith's home for the welfare check at approximately 11:30am - though it must be noted that earlier reports detail them arriving an hour earlier 
+# Investigation
+
+# Legal Proceedings
+
+# Conclusion
 # Footnotes
 
 [^1]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^lhshb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^lhshb]])
@@ -196,7 +220,7 @@ It had been at around this tame time that one of Susann's neighbours, a Mr Buckl
 [^51]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^55aix|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^55aix]])
 [^52]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^4j06c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^4j06c]])
 [^53]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^c62l7|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^c62l7]])
-[^54]: https://en.wikipedia.org/wiki/QFC
+[^54]: https://en.wikipedia.org/wiki/QFC 
 [^55]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^31hgi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^31hgi]])
 [^56]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^448k8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^448k8]])
 [^57]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^uewvo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^uewvo]])
@@ -205,3 +229,18 @@ It had been at around this tame time that one of Susann's neighbours, a Mr Buckl
 [^60]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7u1qr|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7u1qr]])
 [^61]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ax4oa|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ax4oa]])
 [^62]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^o-bi-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^o-bi-]])
+[^63]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6wmj5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6wmj5]])
+[^64]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8pnbh|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8pnbh]])
+[^65]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^nknwc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^nknwc]])
+[^66]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qb1a2|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qb1a2]])
+[^67]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^pb67c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^pb67c]])
+[^68]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7iqe9|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7iqe9]])
+[^69]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^h6rli|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^h6rli]])
+[^70]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^s61yx|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^s61yx]])
+[^71]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^txpm4|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^txpm4]])
+[^72]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vtbus|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vtbus]])
+[^73]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
+[^74]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^y3ujn|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^y3ujn]])
+[^75]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vchzc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vchzc]])
+[^76]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
+[^77]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ehg0n|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ehg0n]])

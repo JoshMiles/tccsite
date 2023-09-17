@@ -67,7 +67,7 @@ Briefly, the notation for folders follows `PRO.AC.ID` (where `PRO` is the projec
 | P01.85 Appeal                          | If applicable, information about appeal(s)                                                                                                    |
 | P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                                                                              |
 
-| file.inlinks                                   |
+| Backlinks                                      |
 | ---------------------------------------------- |
 | <ul><li>[[Changelog.md\\|Changelog]]</li></ul> |
 

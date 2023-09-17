@@ -159,8 +159,52 @@ And so, Susann's co-workers contacted the Bothell Police Department and informed
 
 The police subsequently carried out a welfare check on Susann Smith.[^77] 
 
-Officers arrived at Susann Smith's home for the welfare check at approximately 11:30am - though it must be noted that earlier reports detail them arriving an hour earlier 
+Officers arrived at Susann Smith's home for the welfare check at approximately 11:30am[^78]  - though it must be noted that earlier reports detail them arriving an hour earlier at about 10:30am[^79] , but we shall be using the timings of the later reports - and when they arrived, they knocked on the door of the Smith house but received no response from inside.[^80] 
+
+The officers then decided to walk around the home and peer in through the windows[^81]  to see whether they could see any indication that anyone had been home.  (**note: this is the author's inference**)
+
+And it was while they were looking in through the window of Susann's bedroom that they saw significant amounts of blood on the floor and on the wall.[^82] 
+
+The officers then returned to the front of the house and tried the front door, which had been unlocked, and entered the Smith house.[^83] 
+
+Inside the family home, they discovered that Susann Smith, a 37 year old mother of two, had been murdered in what they described to have been a particularly brutal fashion[^84] in the bathtub of her home.[^86] 
+
+The Washington State Patrol Crime Scene Response Team, or CRST, was contacted to assist in processing the crime scene.[^85] 
+
+Based on the blood splatter evidence, it had become apparent that Susan had initially been attacked while she had been in her bed.[^87] 
+
+The attack then moved to the floor between the bed and the wall[^88] , which had extensive blood pooling, smearing and splattering.[^89] 
+
+It was apparent that Susann had been rendered defenceless while on the floor, with bloody drag marks leading from the floor down the hall and into the bathroom.[^90] 
+
+Inside the bathroom, Susann Smith's body lay face down[^91]  in the bathtub which had been full of water.[^92] 
+
+Susann had been clothed only in a grey t-shirt[^93] , and her body temperature had been consistent with her having been in the tub for multiple days.[^94] 
+
+Horrifically, due to the injuries that Susan had sustained to her face, the police had been initially unable to positively identify her.[^95] 
+
+During the processing of the home by the CRST, the police discovered a number of footprints left in blood in various locations in the house.[^96] 
+
+Some of these bloody footprints appeared to have been of a bare foot showing through a blood soaked sock, some of them appeared to have been that of a shoed foot - a shoe which had a distinct pattern on the sole -, and some of them appeared to have been that of a foot wearing some sort of covering that left a distinct patterned impression in the blood.[^97] 
+
+On the bathtub itself, the police discovered several bloody transfer impressions with a very distinct pattern.[^98] 
+
+It appeared that these bloody transfer impressions did not have any ridge detail, which indicated that Susann's killer had been wearing gloves at the time.[^99] 
+
+It also appeared that at least some preliminary efforts at cleaning up the crime scene had been attempted.[^100] 
+
+Notably, the police found no signs of forced entry[^101] , and no murder weapons at the crime scene.[^102] 
+
+There had been no evidence that the Smith home had been ransacked or searched[^103] , with various items such as laptops, smart phones and TV's that would commonly be stolen in a burglary being left untouched. [^104]  
+
+This led the investigators to concluded that Susann Smith had been targeted.[^105] 
 # Investigation
+
+A full scale homicide investigation was launched, with Detective Stone and Detective Chissus quickly arriving on the scene.  (**note: this is the author's inference**)
+
+The detectives quickly learnt from speaking with the neighbours of Susann that she had an estranged husband called Alan Smith, and that Alan worked at the Boeing plant in Everett.[^106] 
+
+
 
 # Legal Proceedings
 
@@ -244,3 +288,32 @@ Officers arrived at Susann Smith's home for the welfare check at approximately 1
 [^75]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vchzc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vchzc]])
 [^76]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^il2zj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^il2zj]])
 [^77]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ehg0n|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ehg0n]])
+[^78]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^yhill|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^yhill]])
+[^79]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^mo2b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^mo2b0]])
+[^80]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qlj69|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qlj69]])
+[^81]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^xmoet|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^xmoet]])
+[^82]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^qyhdf|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^qyhdf]])
+[^83]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^k09ky|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^k09ky]])
+[^84]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^05-98|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^05-98]])
+[^85]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^npgiv|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^npgiv]])
+[^86]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^mo2b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^mo2b0]])
+[^87]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^j9roi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^j9roi]])
+[^88]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^p5737|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^p5737]])
+[^89]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^gchnl|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^gchnl]])
+[^90]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^tjqc-|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^tjqc-]])
+[^91]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7iqjx|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7iqjx]])
+[^92]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-p99z|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-p99z]])
+[^93]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6nd2c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6nd2c]])
+[^94]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^z3n2n|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^z3n2n]])
+[^95]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^71ajb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^71ajb]])
+[^96]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^y83qc|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^y83qc]])
+[^97]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^i0-69|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^i0-69]])
+[^98]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rocwo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rocwo]])
+[^99]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^a6c-y|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^a6c-y]])
+[^100]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^zr9r0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^zr9r0]])
+[^101]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-8gqj|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-8gqj]])
+[^102]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0sh-a|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0sh-a]])
+[^103]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7mpl1|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7mpl1]])
+[^104]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^0msc3|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^0msc3]])
+[^105]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^fn4ni|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^fn4ni]])
+[^106]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^wea3x|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^wea3x]])

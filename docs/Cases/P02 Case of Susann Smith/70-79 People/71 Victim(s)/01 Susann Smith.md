@@ -10,14 +10,14 @@ aliases:
 
 Wife of [[../72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]
 
-A [[../../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]] resident - 200 Block of 240th Street SW[^2] - 216 240th St. SW, Bothell.
+A [[../../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]] resident - 200 Block of 240th Street SW[^2] - 216 240th St. SW, [[../../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]].
 Age: 37[^6] 
 
 Court papers show the woman who lived at the home moved to the U.S. from Germany about eight years ago. She and her husband were in the process of divorcing.[^3] 
 
 She had two [[../73 Family and Friends/07 Children|children]], who were taken into protective custody following her death.[^4] 
-- The children are aged 6 and 3[^5] 
-- The children had been living with her sister during the trial in Germany.[^7] [^8] 
+- The [[../73 Family and Friends/07 Children|children]] are aged 6 and 3[^5] 
+- The [[../73 Family and Friends/07 Children|children]] had been living with her sister during the trial in Germany.[^7] [^8] 
 
 Her mother, father and sister were from Germany.[^1] 
 # Footnotes

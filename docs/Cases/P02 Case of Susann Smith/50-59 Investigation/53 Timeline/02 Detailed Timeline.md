@@ -1,4 +1,4 @@
----
+[[../52 Key Locations/04 Bothell|Bothell]][[../../60-69 Evidence/63 Physical/04 Car|car]][[../../60-69 Evidence/63 Physical/04 Car|car]][[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]][[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]][[../52 Key Locations/05 Apartment|apartment]][[../52 Key Locations/04 Bothell|Bothell]][[../../60-69 Evidence/62 Forensic/01 Autopsy|autopsy]][[../../60-69 Evidence/63 Physical/02 Kleenguard|Coveralls]]---
 title: 02 Detailed Timeline
 date created: Thursday, August 31st 2023, 2:27:28 pm
 date modified: Thursday, September 7th 2023, 4:25:08 pm
@@ -49,37 +49,38 @@ date modified: Thursday, September 7th 2023, 4:25:08 pm
 - According to [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]], [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] often "ranted and ranted" about [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]], the amount of child support he was paying, and his fear that she would attempt to move the two [[../../70-79 People/73 Family and Friends/07 Children|children]] to Germany.[^13] ^98e1-
 ## [[../../10-19 Case Dates/11 Background Dates/2012-11 November 2012|2012-11 November 2012]]
 
-- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] and [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]] separate.[^20] 
-- [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]] helped [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] move from an [[../52 Key Locations/05 Apartment|apartment]] in Seattle to an [[../52 Key Locations/05 Apartment|apartment]] in [[../52 Key Locations/04 Bothell|Bothell]].[^21] 
+- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] and [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]] separate.[^20] ^0-09b
+- [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]] helped [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] move from an [[../52 Key Locations/05 Apartment|a[[../52 Key Locations/05 Apartment|apartment]]] in Seattle to an [[../52 Key Locations/05 Apartment|apartment]] in [[../52 Key Locations/04 Bothell|Bothell]].[^21] ^-sl00
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] purchased a [[../../60-69 Evidence/63 Physical/01 Bicycle|bicycle]] from Gregg's Green Lake. (sp.?)[^22] [^23]
 
 ## [[../../10-19 Case Dates/11 Background Dates/2012-11-24 Saturday November 24th 2012|2012-11-24 Saturday November 24th 2012]]
-- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s financial records show that he purchased the [[../../60-69 Evidence/63 Physical/01 Bicycle|bicycle]] for $617 from Gregg's Green Lake (sp.?) in Seattle.[^24]
+- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s financial records show that he purchased the [[../../60-69 Evidence/63 Physical/01 Bicycle|bicycle]] for $617 from Gregg's Green Lake (sp.?) in Seattle.[^24] ^kqeaa
 
-## [[../../10-19 Case Dates/11 Background Dates/2012-12 December 2012|2012-12 December 2012]]
+## [[../../10-19 Case Dates/11 Background Dates/2012-12 December 2012|2012-12 December 2012]] ^5wpdx
 
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] makes internet searches on Google for "*How realistic is CIS Miami*", "*Most realistic crime shows*", "*Forensic Files*", "*Where do people get fake passports*", "*How long does it take for [[../../60-69 Evidence/62 Forensic/04 DNA|DNA]] test*", "*How much material is needed for [[../../60-69 Evidence/62 Forensic/04 DNA|DNA]]*", and Forensic [[../../60-69 Evidence/62 Forensic/04 DNA|DNA]] FAQ's from Orchid Cellmark Laboratory.[^25] 
 - [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] ordered an entire season of Forensic Files from Netflix.[^200] 
 
-## [[../../10-19 Case Dates/11 Background Dates/2012-12-13 Thursday December 13th 2012|2012-12-13 Thursday December 13th 2012]]
+## [[../../10-19 Case Dates/11 Background Dates/2012-12-13 Thursday December 13th 2012|2012-12-13 Thursday December 13th 2012]] ^nbum1
 
-- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] filed paperwork claiming that he now believed [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] may be sexually assaulting the two [[../../70-79 People/73 Family and Friends/07 Children|children]]. These filings were part of a motion to reconsider a failure by [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]] to order a Guardian Ad Litem (GAL) appointed to the case.[^26] 
-- [[../../70-79 People/77 Legal Teams/01 John Ely|John Ely]] described the sexual abuse allegations as "*outrageous*".[^30]
+- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] filed paperwork claiming that he now believed [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] may be sexually assaulting the two [[../../70-79 People/73 Family and Friends/07 Children|children]]. ^n2a6x
+- These filings were part of a motion to reconsider a failure by [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]] to order a Guardian Ad Litem (GAL) appointed to the case.[^26] ^r9wv5
+- [[../../70-79 People/77 Legal Teams/01 John Ely|John Ely]] described the sexual abuse allegations as "*outrageous*".[^30] ^dh487
 
 ## [[../../10-19 Case Dates/11 Background Dates/2013-01-10 Thursday January 10th 2013|2013-01-10 Thursday January 10th 2013]]
 
-- The [[../../70-79 People/77 Legal Teams/02 Commissioner|Commissioner]] denied the motion regarding the Guardian Ad Litem (GAL).[^27] 
-- The [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|Commissioner]] awarded [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] $500 in attorney fees for having to respond to the motion to appoint a GAL.[^31]
-- Subsequent to the hearing regarding the GAL motion, [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] send an email to [[../../70-79 People/77 Legal Teams/01 John Ely|John Ely]] indicating that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] was making up stories about [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] in his declaration to win in court.[^32]
+- The [[../../70-79 People/77 Legal Teams/02 Commissioner|Commissioner]] denied the motion regarding the Guardian Ad Litem (GAL).[^27] ^i268l
+- The [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|Commissioner]] awarded [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] $500 in attorney fees for having to respond to the motion to appoint a GAL.[^31] ^tgbdu
+- Subsequent to the hearing regarding the GAL motion, [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] send an email to [[../../70-79 People/77 Legal Teams/01 John Ely|John Ely]] indicating that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] was making up stories about [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]] in his declaration to win in court.[^32] ^nbqbr
 
 ## [[../../10-19 Case Dates/11 Background Dates/2013-01-11 Friday January 11th 2013|2013-01-11 Friday January 11th 2013]]
 
-- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] filed a Motion of Revision of [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]]'s Ruling on the GAL.[^28]
-- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] also filed papers indicating that he was fearful of [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] moving the [[../../70-79 People/73 Family and Friends/07 Children|children]] to her native country of Germany.[^29]
+- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] filed a Motion of Revision of [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]]'s Ruling on the GAL.[^28] ^xvke-
+- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] also filed papers indicating that he was fearful of [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] moving the [[../../70-79 People/73 Family and Friends/07 Children|children]] to her native country of Germany.[^29] ^68u8k
 
-## [[../../10-19 Case Dates/11 Background Dates/2013-01-11 Friday January 11th 2013|2013-01-11 Friday January 11th 2013]]
+## [[../../10-19 Case Dates/11 Background Dates/2013-01-25 Friday January 25th 2013|2013-01-25 Friday January 25th 2013]]
 
-- A hearing was held in regards to the Motion of Revision of [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]]'s Ruling on the GAL, in front of [[../../70-79 People/77 Legal Teams/03 Judge Fair|Judge Fair]], who found no merit to [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s accusations, and again found for [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]].[^33]
+- A hearing was held in regards to the Motion of Revision of [[../../70-79%20People/77%20Legal%20Teams/02%20Commissioner.md#|the Commissioner]]'s Ruling on the GAL, in front of [[../../70-79 People/77 Legal Teams/03 Judge Fair|Judge Fair]], who found no merit to [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s accusations, and again found for [[../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md#|Susann Smith]].[^33] ^vtucb
 - According to [[../../70-79 People/77 Legal Teams/01 John Ely|John Ely]], after this hearing, [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] had been waiting alone in the hall when she was approached by [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] who called her a "*monster*".[^34] [^35]
 ## [[../../10-19 Case Dates/11 Background Dates/2013-02-04 Monday February 4th 2013|2013-02-04 Monday February 4th 2013]]
 

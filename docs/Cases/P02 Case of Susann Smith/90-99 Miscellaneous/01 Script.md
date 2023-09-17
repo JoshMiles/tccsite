@@ -69,7 +69,7 @@ These filings had been as part of a motion to reconsider a failure by [[../70-79
 
 As soon as Susann's attorney, John Ely, heard of the nature of this filing - he was absolutely outraged.[^27] 
 
-And due to the holiday season quickly approaching, Susann would have to live with these allegations until after the New Year came around before seeing if the courts would believe her or her soon to be ex-husband.
+And due to the holiday season quickly approaching, Susann would have to live with these allegations until after the New Year came around before seeing if the courts would believe her or her soon to be ex-husband which likely would've caused her a lot of stress. (**note: this is the author's inference**)
 
 The courts finally addressed the motion on Thursday the 10th of January 2013, with the Commissioner denying the motion[^28]  and awarding Susann $500 in attorney fees for having to respond to the motion.[^29] 
 
@@ -80,6 +80,47 @@ The following day, on Friday the 11th of January 2013, Alan filed a Motion of Re
 Alan also proceeded to file papers that indicated that he was scared that Susann might move the children to her native country of Germany, which would prevent him from seeing his kids.[^34] 
 
 On Friday the 25th of January, 2013, a hearing was held in regards to Alan's motion of revision in front of a judge called [[../70-79 People/77 Legal Teams/03 Judge Fair|Judge Fair]], and Judge Fair ultimately found there to have been no merit to Alan's accusations, and once again ruled in Susann's favour.[^35] 
+
+According to Susann's attorney, John Ely, after this hearing took place, Susann had been waiting in the hall outside the courtroom when she was approached by Alan who called her a "*monster*".[^36] 
+
+A business trip had been scheduled by Boeing for Alan to travel to Ireland with two of his co-workers, Matthew Pierce and Colin Warner, departing on Monday the 4th of February 2013.[^37] 
+
+On this trip, according to Alan's co-worker Matthew, Alan talked almost exclusively about his divorce.[^38] 
+
+Alan ranted and raved that the court hearings were not going in his favour and detailed his anger about it, blaming the court system as one that had been rigged to favour women and that it was all a conspiracy to take all of his money from him[^39] - Alan told Matthew that the courts were a "*fixed system*".[^44] 
+
+Alan's co-workers would later estimate that Alan would change the topic of conversation while on this trip to Ireland to be about his family problems at least 60-70% of the time.[^40] 
+
+His other co-worker, Colin, would later describe a conversation that he had with Alan on the Ireland trip in which Alan commented "*I want her to know the pain I feel*" - talking about Susann.[^41] 
+
+Colin would also later explain how Alan told him that Susann had been mentally abusive towards him, and apparently used to treat their dog poorly.[^42] 
+
+Matthew Pierce also later revealed that he was told by Alan several times that his wife, Susann, was "*pure evil*" and called her a "*psychopath*".[^43] 
+
+This kind of conversation about Alan's divorce hadn't been unusual at all for Alan, as according to Matthew, in the two or three years that he had known Alan, the majority of their conversations had centred around Alan's divorce and his wife.[^45] 
+
+The business trip to Ireland wrapped up on Wednesday the 6th of February 2013, with Alan returning home to Washington on Saturday the 9th - arriving at the airport at midday.[^46] 
+
+After departing the airport, Alan drove over to The Smith House which was where Susann lived to pick up the children as it had been his turn to have custody, arriving at the house at about 2pm.
+
+Susann had actually been hosting a Fasching party that afternoon, which is a German carnival celebration described as being the German version of Mardi Gras, and a number of children from the local neighbourhood had been there at the Smith house as part of this party.[^47] 
+
+Alan stuck around at this party, seemingly to allow his two kids to enjoy the festivities, and actually went inside the Smith house.[^48] 
+
+He went into the kitchen, two of the bedrooms, the hallway, the bathroom and the living room.[^49] 
+
+Alan also took his son into the restroom while he was at the house[^51] , before leaving with both children at about 2:30pm.[^50] 
+
+This party would be, according to Alan Smith, the last time that he saw Susann Smith alive.[^52] 
+
+Alan claimed that he spent the following day, Sunday the 10th of February 2013, with his children, watching movies at his apartment with his kids that evening and that they had all slept there.
+[^53] 
+
+Financial records did indicate that Alan had visited Canyon Park QFC[^55] , which is a supermarket[^54] , that day.
+
+While it is not corroborated by official sources, it seems reasonable to infer that he likely needed to grab some groceries and supplies for himself and his kids after spending the week in Ireland on business (**note: this is the author's inference**).
+
+Susann, that day, used her time away from her kids to catch up with some of her friends.[^56] 
 
 
 
@@ -127,3 +168,24 @@ On Friday the 25th of January, 2013, a hearing was held in regards to Alan's mot
 [^33]: https://www.mollybkenny.com/library/guardian-ad-litem-child-custody-washington-divorce-attorney.cfm#:~:text=What%20Is%20A%20Guardian%20Ad%20Litem%3F,the%20child%20or%20children%20is. 
 [^34]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^68u8k|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^68u8k]])
 [^35]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vtucb|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vtucb]])
+[^36]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^7ym32|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^7ym32]])
+[^37]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8zheo|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8zheo]])
+[^38]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^8oos8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^8oos8]])
+[^39]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^4i866|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^4i866]])
+[^40]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ekvxq|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ekvxq]])
+[^41]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^f9-b0|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^f9-b0]])
+[^42]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^49tsz|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^49tsz]])
+[^43]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6p-g5|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6p-g5]])
+[^44]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^-f8jw|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^-f8jw]])
+[^45]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^vixvd|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^vixvd]])
+[^46]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^35u74|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^35u74]])
+[^47]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^ey-w6|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^ey-w6]])
+[^48]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rz2gk|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rz2gk]])
+[^49]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^rz2gk|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^rz2gk]])
+[^50]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^6jram|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^6jram]])
+[^51]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^55aix|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^55aix]])
+[^52]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^4j06c|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^4j06c]])
+[^53]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^c62l7|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^c62l7]])
+[^54]: https://en.wikipedia.org/wiki/QFC
+[^55]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^31hgi|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^31hgi]])
+[^56]: (see [[../50-59 Investigation/53 Timeline/02 Detailed Timeline#^448k8|Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline > ^448k8]])

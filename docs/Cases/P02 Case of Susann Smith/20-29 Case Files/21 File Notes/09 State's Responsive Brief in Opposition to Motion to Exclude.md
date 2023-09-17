@@ -1,3 +1,11 @@
+---
+title: "09 State's Responsive Brief in Opposition to Motion to Exclude"
+date created: Thursday, August 31st 2023, 2:43:58 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+# 09 State's Responsive Brief in Opposition to Motion to Exclude
+
 [18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf](../../../../assets/attachments/18%2013-1-01546-8%20113%20(STATE'S%20RESPONSIVE%20BRIEF%20IN).pdf)
 
 ![18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf](../../../../assets/attachments/18%2013-1-01546-8%20113%20(STATE'S%20RESPONSIVE%20BRIEF%20IN).pdf)

@@ -1,10 +1,18 @@
+---
+title: 11 Judgment and Sentencing
+date created: Thursday, August 31st 2023, 3:44:21 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+# 11 Judgment and Sentencing
+
 [21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf](../../../../assets/attachments/21%2013-1-01546-8%20136%20(FELONY%20JUDGMENT%20AND%20SENTENCE).pdf)
 
 ![21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf](../../../../assets/attachments/21%2013-1-01546-8%20136%20(FELONY%20JUDGMENT%20AND%20SENTENCE).pdf)
 
 1 count of First Degree Murder with a Deadly Weapon (Domestic Violence) ^i5evb
 
-[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was sentenced to 344 months imprisonment. ^jy4k0
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was sentenced to 344 months imprisonment. ^jy4k0  
 And a further 36 months community custody. ^gg2qb
 
 ## Order of Commitment

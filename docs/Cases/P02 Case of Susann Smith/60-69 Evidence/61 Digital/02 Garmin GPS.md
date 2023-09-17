@@ -3,11 +3,16 @@ aliases:
   - Garmin
   - Garmin GPS
   - GPS
+title: 02 Garmin GPS
+date created: Wednesday, August 30th 2023, 9:24:15 pm
+date modified: Sunday, September 17th 2023, 9:18:25 pm
 ---
+
+# 02 Garmin GPS
+
 Police began a search of [Alan Smith](01%20Alan%20Smith.md)'s [car](04%20Car.md) at approximately 7pm. During the search, police observed that [Alan Smith](01%20Alan%20Smith.md) had a [Garmin](02%20Garmin%20GPS.md) portable [GPS](02%20Garmin%20GPS.md) in the front dash. Police also located a plastic bag from Home Depot. Inside the bag were two unopened bags containing [Kleenguard](02%20Kleenguard.md) Chemical Splash Resistant [Coveralls](02%20Kleenguard.md).
 
-
-Police also served a warrant on the [Garmin GPS](01%20Garmin%20GPS.md) in [Alan Smith](01%20Alan%20Smith.md)'s [car](04%20Car.md). An analysis of the data from the [GPS](02%20Garmin%20GPS.md) device showed that on [2013-02-11 Monday February 11th 2013](2013-02-11%20Monday%20February%2011th%202013.md), [Alan Smith](01%20Alan%20Smith.md) travelled to the area of the 23200 block of 2rd Ave. SE (location of Little Bears Day-care, where his [children](07%20Children.md) went) at 7:54am, and then travelled to the location of the Albertson's parking lot located at 12811 Beverly Park Rd., in Lynnwood, arriving at 8:10am, and not leaving until 8:20am.
+Police also served a warrant on the [Garmin GPS](01%20Garmin%20GPS.md) in [Alan Smith](01%20Alan%20Smith.md)'s [car](04%20Car.md). An analysis of the data from the [GPS](02%20Garmin%20GPS.md) device showed that on [2013-02-11 Monday February 11th 2013](2013-02-11%20Monday%20February%2011th%202013.md), [Alan Smith](01%20Alan%20Smith.md) travelled to the area of the 23200 block of 2nd Ave. SE (location of Little Bears Day-care, where his [children](07%20Children.md) went) at 7:54am, and then travelled to the location of the Albertson's parking lot located at 12811 Beverly Park Rd., in Lynnwood, arriving at 8:10am, and not leaving until 8:20am.
 
 The [GPS](02%20Garmin%20GPS.md) located the [car](04%20Car.md) in the northwest side of the parking lot. Two large dumpsters are located at this location. Police theorize that this is where [Alan Smith](01%20Alan%20Smith.md) may have disposed of various bloody items related to the murder of [Susann Smith](01%20Susann%20Smith.md).
 
@@ -32,4 +37,3 @@ The morning following the purchases at Walmart and Home Depot, [2013-02-13 Wedne
 The [GPS](02%20Garmin%20GPS.md) data shows that [Alan Smith](01%20Alan%20Smith.md) then continued back north on 405, ultimately ending his journey at the [Boeing](01%20Boeing.md) plant at 5:29am. His arrival at [Boeing](01%20Boeing.md) was confirmed by [Boeing](01%20Boeing.md) security pass records.
 
 ![Affidavit](07%20State's%20Motion%20and%20../../20-29%20Case%20Files/21%20File%20Notes/02%20Affidavit.md) for Order to Compel#^z-6jy]]
-

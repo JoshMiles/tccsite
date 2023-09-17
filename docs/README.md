@@ -69,5 +69,5 @@ Briefly, the notation for folders follows `PRO.AC.ID` (where `PRO` is the projec
 
 | Backlinks                                      |
 | ---------------------------------------------- |
-| <ul><li>[[Changelog.md\\|Changelog]]</li></ul> |
+| <ul><li>[Changelog](Changelog.md.md)</li></ul> |
 

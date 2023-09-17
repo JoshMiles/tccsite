@@ -1,16 +1,16 @@
-[[../../../../assets/attachments/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf|27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf]]
+[27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf](../../../../assets/attachments/27%2013-1-01546-8%20138%20(MOTION%20AND%20AFFIDAVIT%20DECLARATION).pdf)
 
-![[../../../../assets/attachments/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf|27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf]]
+![27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf](../../../../assets/attachments/27%2013-1-01546-8%20138%20(MOTION%20AND%20AFFIDAVIT%20DECLARATION).pdf)
 
-[[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] moves the Court for an order allowing [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] to seek review at public expense and providing appointment of attorneyt on appeal.
+[Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) moves the Court for an order allowing [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) to seek review at public expense and providing appointment of attorneyt on appeal.
 
-Dated [[../../10-19 Case Dates/13 Investigation Dates/2015-03-09 Monday March 9th 2015|2015-03-09 Monday March 9th 2015]].
+Dated [2015-03-09 Monday March 9th 2015](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2015-03-09%20Monday%20March%209th%202015.md).
 
 The declaration was as follows:
 
 I was tried and convicted on one count of First Degree Murder with a Deadly Weapon in front of the Honorable Lind C Krese.
 
-A Judgement and sentence was entered in this matter on the [[../../10-19 Case Dates/13 Investigation Dates/2015-03-05 Thursday March 5th 2015|2015-03-05 Thursday March 5th 2015]].
+A Judgement and sentence was entered in this matter on the [2015-03-05 Thursday March 5th 2015](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2015-03-05%20Thursday%20March%205th%202015.md).
 
 I desire to appeal the conviction and the judgement imposed.
 I believe that the appeal has merit and is not frivolous and make the following assignments of error:
@@ -20,12 +20,12 @@ I believe that the appeal has merit and is not frivolous and make the following 
 - The Court erred in not suppressing additional statements in the 3.5 hearing under both CrR 3.5 and the constitutional arguments raised;
 - The Court erred in denying the motion to change venue;
 - The Court erred in denying the motion for new counsel;
-- The Court erred in granting continuances of [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Defendant]]’s objection;
+- The Court erred in granting continuances of [Defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)’s objection;
 - The Court erred in denying the defence motion to dismiss pursuant to State vs Green, 94 Wn.2d 216 (1980).
 - The Court erred in finding there was sufficient evidence to convict;
 - My attorneys provided ineffective assistance of counsel by failing to present evidence, failing to cross examine state’s witnesses properly, failing to call necessary defence witnesses to establish crucial facts, failing to submit all request materials for sentencing, and by failing to communicate with me adequately throughout the course of the case.
 
-The [[../../70-79 People/73 Family and Friends/07 Children|children]]‘s names were Noelani Smith, 7 years old (daughter), and Felix Smith, 5 years old (son).
+The [children](../../70-79%20People/73%20Family%20and%20Friends/07%20Children.md)‘s names were Noelani Smith, 7 years old (daughter), and Felix Smith, 5 years old (son).
 
 The dates of the court proceedings.
 

@@ -1,152 +1,152 @@
-## [[../../../../assets/attachments/02 13-1-01546-8 1 (INFORMATION).pdf|02 13-1-01546-8 1 (INFORMATION).pdf]]
+## [02 13-1-01546-8 1 (INFORMATION).pdf](../../../../assets/attachments/02%2013-1-01546-8%201%20(INFORMATION).pdf)
 
 - Information regarding the charge
-- Information regarding [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]
+- Information regarding [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 
-## [[../../../../assets/attachments/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf|03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf]]
+## [03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../../assets/attachments/03%2013-1-01546-8%202%20(AFFIDAVIT%20DECLARATION%20PROB%20CAUSE).pdf)
 
-- Information proving probably cause to arrest [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] on the charges brought against them.
-	- Brief investigative report from [[../../50-59 Investigation/52 Key Locations/04 Bothell|Bothell]] Police Department
+- Information proving probably cause to arrest [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) on the charges brought against them.
+	- Brief investigative report from [Bothell](../../50-59%20Investigation/52%20Key%20Locations/04%20Bothell.md) Police Department
 	- ^ Washington State Patrol Crime Lab
-	- [[../../60-69 Evidence/62 Forensic/01 Autopsy|Autopsy]] results
+	- [Autopsy](../../60-69%20Evidence/62%20Forensic/01%20Autopsy.md) results
 	- Forensic reports
 	- Witness statements
 
-[[../21 File Notes/02 Affidavit|02 Affidavit]]
+[02 Affidavit](../21%20File%20Notes/02%20Affidavit.md)
 
-## [[../../../../assets/attachments/04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf|04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf]]
+## [04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf](../../../../assets/attachments/04%2013-1-01546-8%2037%20(3.5%20MEMORANDUM).pdf)
 
-- Statements from [[../../10-19 Case Dates/12 Crime Dates/2013-02-12 Tuesday February 12th 2013|2013-02-12 Tuesday February 12th 2013]]
+- Statements from [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md)
 	- Transcript on page 19
-- Statement from [[../../10-19 Case Dates/13 Investigation Dates/2013-02-16 Saturday February 16th 2013|2013-02-16 Saturday February 16th 2013]]
-- Statement from [[../../10-19 Case Dates/13 Investigation Dates/2013-02-22 Friday February 22nd 2013|2013-02-22 Friday February 22nd 2013]]
-- Statement about arrest on [[../../10-19 Case Dates/13 Investigation Dates/2013-06-27 Thursday June 27th 2013|2013-06-27 Thursday June 27th 2013]]
-- Consent to search [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] [[../../50-59 Investigation/52 Key Locations/05 Apartment|apartment]] and remove a Hatchett from the living room (pg. 16)
-- Consent to search [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] vehicle (pg. 14)
+- Statement from [2013-02-16 Saturday February 16th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-02-16%20Saturday%20February%2016th%202013.md)
+- Statement from [2013-02-22 Friday February 22nd 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-02-22%20Friday%20February%2022nd%202013.md)
+- Statement about arrest on [2013-06-27 Thursday June 27th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-27%20Thursday%20June%2027th%202013.md)
+- Consent to search [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) [apartment](../../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md) and remove a Hatchett from the living room (pg. 16)
+- Consent to search [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) vehicle (pg. 14)
 
-## [[../../../../assets/attachments/05 13-1-01546-8 45 (BRIEF IN OPPOSITION TO A FINDING).pdf|05 13-1-01546-8 45 (BRIEF IN OPPOSITION TO A FINDING).pdf]]
+## [05 13-1-01546-8 45 (BRIEF IN OPPOSITION TO A FINDING).pdf](../../../../assets/attachments/05%2013-1-01546-8%2045%20(BRIEF%20IN%20OPPOSITION%20TO%20A%20FINDING).pdf)
 
 - Facts of the case
-- Addresses the question of whether [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s confession to murdering his wife falls under the Priest-Penitent privilege with [[../../70-79 People/74 Witnesses/01 Wendell Morris|Wendell Morris]].
+- Addresses the question of whether [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s confession to murdering his wife falls under the Priest-Penitent privilege with [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md).
 
-## [[../../../../assets/attachments/06 13-1-01546-8 48 (RESPONSIVE 3.5 BRIEF).pdf|06 13-1-01546-8 48 (RESPONSIVE 3.5 BRIEF).pdf]]
+## [06 13-1-01546-8 48 (RESPONSIVE 3.5 BRIEF).pdf](../../../../assets/attachments/06%2013-1-01546-8%2048%20(RESPONSIVE%203.5%20BRIEF).pdf)
 
-- Initial Non-Custodial Interview re: interview in the conference room at [[../../50-59 Investigation/52 Key Locations/01 Boeing|Boeing]] Security Building and the legal argument surrounding that.
-## [[../../../../assets/attachments/07 13-1-01546-8 50 (EVIDENTIARY HEARING).pdf|07 13-1-01546-8 50 (EVIDENTIARY HEARING).pdf]]
+- Initial Non-Custodial Interview re: interview in the conference room at [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) Security Building and the legal argument surrounding that.
+## [07 13-1-01546-8 50 (EVIDENTIARY HEARING).pdf](../../../../assets/attachments/07%2013-1-01546-8%2050%20(EVIDENTIARY%20HEARING).pdf)
 
-- Court finding that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] was not in custody when questioned on [[../../10-19 Case Dates/12 Crime Dates/2013-02-12 Tuesday February 12th 2013|2013-02-12 Tuesday February 12th 2013]]
-## [[../../../../assets/attachments/08 13-1-01546-8 51 (EVIDENTIARY HEARING).pdf|08 13-1-01546-8 51 (EVIDENTIARY HEARING).pdf]]
+- Court finding that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) was not in custody when questioned on [2013-02-12 Tuesday February 12th 2013](../../10-19%20Case%20Dates/12%20Crime%20Dates/2013-02-12%20Tuesday%20February%2012th%202013.md)
+## [08 13-1-01546-8 51 (EVIDENTIARY HEARING).pdf](../../../../assets/attachments/08%2013-1-01546-8%2051%20(EVIDENTIARY%20HEARING).pdf)
 
-- Court finding that [[../../70-79 People/74 Witnesses/01 Wendell Morris|Wendell Morris]] had not been acting as a member of the clergy when the confession happened.
-## [[../../../../assets/attachments/09 13-1-01546-8 57 (DECLARATION OF TIFFANY L MECCA).pdf|09 13-1-01546-8 57 (DECLARATION OF TIFFANY L MECCA).pdf]]
+- Court finding that [Wendell Morris](../../70-79%20People/74%20Witnesses/01%20Wendell%20Morris.md) had not been acting as a member of the clergy when the confession happened.
+## [09 13-1-01546-8 57 (DECLARATION OF TIFFANY L MECCA).pdf](../../../../assets/attachments/09%2013-1-01546-8%2057%20(DECLARATION%20OF%20TIFFANY%20L%20MECCA).pdf)
 
-- Declaration from Tiffany Mecca who was the attorney for [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|the defendant]]
+- Declaration from Tiffany Mecca who was the attorney for [the defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 
-## [[../../../../assets/attachments/10 13-1-01546-8 58 (DECLARATION OF CAROLINE MANN).pdf|10 13-1-01546-8 58 (DECLARATION OF CAROLINE MANN).pdf]]
+## [10 13-1-01546-8 58 (DECLARATION OF CAROLINE MANN).pdf](../../../../assets/attachments/10%2013-1-01546-8%2058%20(DECLARATION%20OF%20CAROLINE%20MANN).pdf)
 
-- Declaration from Caroline Mann who was one of the attorneys for [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|the defendant]]
+- Declaration from Caroline Mann who was one of the attorneys for [the defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 	- Mentions that the defence hired Chesterene Cwiklik as a forensic expert in the case.
 
-## [[../../../../assets/attachments/11 13-1-01546-8 59 (DECLARATION OF KATHY MCCALL).pdf|11 13-1-01546-8 59 (DECLARATION OF KATHY MCCALL).pdf]]
+## [11 13-1-01546-8 59 (DECLARATION OF KATHY MCCALL).pdf](../../../../assets/attachments/11%2013-1-01546-8%2059%20(DECLARATION%20OF%20KATHY%20MCCALL).pdf)
 
 - Declaration from Kathy McCall who was the defence investigator.
 
-## [[../../../../assets/attachments/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf|12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf]]
+## [12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf](../../../../assets/attachments/12%2013-1-01546-8%2069%20(STATE'S%20RESPONSE%20TO%20DEFENSE%20MOTION).pdf)
 
 - Brief summary of the prosecutors evidence
-	- Welfare check on [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]
+	- Welfare check on [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)
 		- What the officers found
 		- Crime scene
 		- State of the body
-	- [[../../60-69 Evidence/62 Forensic/01 Autopsy|Autopsy]]
+	- [Autopsy](../../60-69%20Evidence/62%20Forensic/01%20Autopsy.md)
 	- Blood evidence
-	- The link between [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] and [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]
-	- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s demeanour
-	- The [[../../60-69 Evidence/61 Digital/02 Garmin GPS|GPS]] being seized from [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s [[../../60-69 Evidence/63 Physical/04 Car|car]], and other evidence seized from the vehicle
-	- [[../../70-79 People/73 Family and Friends/04 Rachel Amrine|Rachel Amrine]] statement to police
+	- The link between [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) and [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
+	- [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s demeanour
+	- The [GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) being seized from [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s [car](../../60-69%20Evidence/63%20Physical/04%20Car.md), and other evidence seized from the vehicle
+	- [Rachel Amrine](../../70-79%20People/73%20Family%20and%20Friends/04%20Rachel%20Amrine.md) statement to police
 	- Info RE: the custody battle
-	- Brief interview with [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s co-workers
-	- How the search history was found on [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s [[../../50-59 Investigation/52 Key Locations/01 Boeing|Boeing]] computers
-	- Forensic analysis of [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] cell phone
-- Legal argument RE the search warrant being executed on [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s person, his [[../../50-59 Investigation/52 Key Locations/05 Apartment|apartment]], Mercedes and Honda motorcycle on [[../../10-19 Case Dates/13 Investigation Dates/2013-02-21 Thursday February 21st 2013|2013-02-21 Thursday February 21st 2013]]
-- Legal argument RE the search warrant being executed to search [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s computers, cell phones, work area, [[../../60-69 Evidence/61 Digital/02 Garmin GPS|Garmin GPS]] unit, and several flash drives on [[../../10-19 Case Dates/13 Investigation Dates/2013-02-27 Wednesday February 27th 2013|2013-02-27 Wednesday February 27th 2013]]
-- Legal argument RE the search warrant being executed to search [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s financial records on [[../../10-19 Case Dates/13 Investigation Dates/2013-03-12 Tuesday March 12th 2013|2013-03-12 Tuesday March 12th 2013]]
-- Legal argument RE the search warrant being executed to search a Samsung cell phone owned by [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] on [[../../10-19 Case Dates/13 Investigation Dates/2013-03-12 Tuesday March 12th 2013|2013-03-12 Tuesday March 12th 2013]]
-- Legal argument RE the search warrant being executed to search a VISA Signature credit card belonging to [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] on [[../../10-19 Case Dates/13 Investigation Dates/2013-03-28 Thursday March 28th 2013|2013-03-28 Thursday March 28th 2013]]
-- Legal argument RE the search warrant being executed to search additional cell phone records from [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s Samsung cell phone on [[../../10-19 Case Dates/13 Investigation Dates/2013-04-10 Wednesday April 10th 2013|2013-04-10 Wednesday April 10th 2013]]
-- Legal argument RE the search warrant being executed to search [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]'s [[../../50-59 Investigation/52 Key Locations/05 Apartment|apartment]], Mercedes and Hondo motorcycles on [[../../10-19 Case Dates/13 Investigation Dates/2013-06-19 Wednesday June 19th 2013|2013-06-19 Wednesday June 19th 2013]]
+	- Brief interview with [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s co-workers
+	- How the search history was found on [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s [Boeing](../../50-59%20Investigation/52%20Key%20Locations/01%20Boeing.md) computers
+	- Forensic analysis of [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) cell phone
+- Legal argument RE the search warrant being executed on [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s person, his [apartment](../../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md), Mercedes and Honda motorcycle on [2013-02-21 Thursday February 21st 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-02-21%20Thursday%20February%2021st%202013.md)
+- Legal argument RE the search warrant being executed to search [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s computers, cell phones, work area, [Garmin GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) unit, and several flash drives on [2013-02-27 Wednesday February 27th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-02-27%20Wednesday%20February%2027th%202013.md)
+- Legal argument RE the search warrant being executed to search [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s financial records on [2013-03-12 Tuesday March 12th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-03-12%20Tuesday%20March%2012th%202013.md)
+- Legal argument RE the search warrant being executed to search a Samsung cell phone owned by [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) on [2013-03-12 Tuesday March 12th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-03-12%20Tuesday%20March%2012th%202013.md)
+- Legal argument RE the search warrant being executed to search a VISA Signature credit card belonging to [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) on [2013-03-28 Thursday March 28th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-03-28%20Thursday%20March%2028th%202013.md)
+- Legal argument RE the search warrant being executed to search additional cell phone records from [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s Samsung cell phone on [2013-04-10 Wednesday April 10th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-04-10%20Wednesday%20April%2010th%202013.md)
+- Legal argument RE the search warrant being executed to search [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s [apartment](../../50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md), Mercedes and Hondo motorcycles on [2013-06-19 Wednesday June 19th 2013](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2013-06-19%20Wednesday%20June%2019th%202013.md)
 - Attached search warrants for the above listed warrants, and affidavits, and inventory and return of search warrant.
 
-[[../21 File Notes/06 Prosecutor's Version of Events|06 Prosecutor's Version of Events]]
+[06 Prosecutor's Version of Events](../21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md)
 
-## [[../../../../assets/attachments/13 13-1-01546-8 85 (STATE'S MOTION RE PROHIBITION OF).pdf|13 13-1-01546-8 85 (STATE'S MOTION RE PROHIBITION OF).pdf]]
+## [13 13-1-01546-8 85 (STATE'S MOTION RE PROHIBITION OF).pdf](../../../../assets/attachments/13%2013-1-01546-8%2085%20(STATE'S%20MOTION%20RE%20PROHIBITION%20OF).pdf)
 
-- The State's motion requesting that the Court prohibit the defence from seeking to introduce evidence, make argument, infer or imply that [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] was murdered by someone other than her estranged husband, [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]
+- The State's motion requesting that the Court prohibit the defence from seeking to introduce evidence, make argument, infer or imply that [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) was murdered by someone other than her estranged husband, [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 
-## [[../../../../assets/attachments/14 13-1-01546-8 86 (STATE'S MOTION RE PROHIBITION OF).pdf|14 13-1-01546-8 86 (STATE'S MOTION RE PROHIBITION OF).pdf]]
+## [14 13-1-01546-8 86 (STATE'S MOTION RE PROHIBITION OF).pdf](../../../../assets/attachments/14%2013-1-01546-8%2086%20(STATE'S%20MOTION%20RE%20PROHIBITION%20OF).pdf)
 
-- Motion to COMPEL [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|the defendant]]
+- Motion to COMPEL [the defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 - Mentions trial schedule date
-- Mentioned State witness [[../../70-79 People/76 Experts/06 Mr Krull|Jay Dee Krull]] from [[../../60-69 Evidence/61 Digital/02 Garmin GPS|Garmin]] International who is an expert on the [[../../60-69 Evidence/61 Digital/02 Garmin GPS|Garmin]] [[../../60-69 Evidence/61 Digital/02 Garmin GPS|Garmin GPS]] device found
-- Mentions that the defence flew out to speak with [[../../70-79 People/76 Experts/06 Mr Krull|Mr Krull]] but no evidence was presented.
-- Essentially asking the Court to compel the defence to hand over or disclose existing recorded or written statements from [[../../70-79 People/76 Experts/06 Mr Krull|Mr Krull]] taken by the defence.
+- Mentioned State witness [Jay Dee Krull](../../70-79%20People/76%20Experts/06%20Mr%20Krull.md) from [Garmin](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) International who is an expert on the [Garmin](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) [Garmin GPS](../../60-69%20Evidence/61%20Digital/02%20Garmin%20GPS.md) device found
+- Mentions that the defence flew out to speak with [Mr Krull](../../70-79%20People/76%20Experts/06%20Mr%20Krull.md) but no evidence was presented.
+- Essentially asking the Court to compel the defence to hand over or disclose existing recorded or written statements from [Mr Krull](../../70-79%20People/76%20Experts/06%20Mr%20Krull.md) taken by the defence.
 
-## [[../../../../assets/attachments/15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf|15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf]]
+## [15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf](../../../../assets/attachments/15%2013-1-01546-8%20105%20(STATE'S%20TRIAL%20MEMORANDUM).pdf)
 
 - The State's expectation of facts to be elicited during the trial (with details)
-	- Homicide Scene and [[../../60-69 Evidence/62 Forensic/01 Autopsy|Autopsy]] photos necessary to explain what happened to [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]
-		- [[../../60-69 Evidence/62 Forensic/01 Autopsy|Autopsy]] report and statement from [[../../70-79 People/76 Experts/05 Kathy Geil|Kathy Geil]] who was the forensic scientist 
+	- Homicide Scene and [Autopsy](../../60-69%20Evidence/62%20Forensic/01%20Autopsy.md) photos necessary to explain what happened to [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)
+		- [Autopsy](../../60-69%20Evidence/62%20Forensic/01%20Autopsy.md) report and statement from [Kathy Geil](../../70-79%20People/76%20Experts/05%20Kathy%20Geil.md) who was the forensic scientist 
 	- Selected portions of divorce file relevant
-	- Evidence of [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Defendant]]'s Animus towards [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] relevant and admissible (his attitude towards her basically)
-	- [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Defendant]]'s confession
+	- Evidence of [Defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s Animus towards [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) relevant and admissible (his attitude towards her basically)
+	- [Defendant](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)'s confession
 	- Expected Length of Trial
 
-## [[../../../../assets/attachments/16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf|16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf]]
+## [16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf](../../../../assets/attachments/16%2013-1-01546-8%20108%20(DEFENSE%20TRIAL%20BRIEF).pdf)
 
 - The Defence's facts
-	- Text messages and emails between [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] and [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]
-	- Pictures on [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]'s camera of the party at the Smith House on [[../../10-19 Case Dates/11 Background Dates/2013-02-09 Saturday February 9th 2013|2013-02-09 Saturday February 9th 2013]]
-	- [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]'s internet activity
-		- Talks about [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]'s movements on [[../../10-19 Case Dates/11 Background Dates/2013-02-10 Sunday February 10th 2013|2013-02-10 Sunday February 10th 2013]]
+	- Text messages and emails between [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) and [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)
+	- Pictures on [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s camera of the party at the Smith House on [2013-02-09 Saturday February 9th 2013](../../10-19%20Case%20Dates/11%20Background%20Dates/2013-02-09%20Saturday%20February%209th%202013.md)
+	- [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s internet activity
+		- Talks about [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s movements on [2013-02-10 Sunday February 10th 2013](../../10-19%20Case%20Dates/11%20Background%20Dates/2013-02-10%20Sunday%20February%2010th%202013.md)
 	- Dr. Jennifer Davenport's testimony RE factors that negatively impact eyewitness reliability
 		- Talks about the sighting of the bike and the witnesses' statement
-[[../21 File Notes/03 Defence Trial Brief|03 Defence Trial Brief]]
-## [[../../../../assets/attachments/17 13-1-01546-8 111 (WAIVER OF JURY TRIAL BY DEFENDANT).pdf|17 13-1-01546-8 111 (WAIVER OF JURY TRIAL BY DEFENDANT).pdf]]
+[03 Defence Trial Brief](../21%20File%20Notes/03%20Defence%20Trial%20Brief.md)
+## [17 13-1-01546-8 111 (WAIVER OF JURY TRIAL BY DEFENDANT).pdf](../../../../assets/attachments/17%2013-1-01546-8%20111%20(WAIVER%20OF%20JURY%20TRIAL%20BY%20DEFENDANT).pdf)
 
-- Documentation that states that [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] had discussed his right to a trial by jury with his attorney and knowingly, voluntarily and intelligently waives the right to a jury trial
+- Documentation that states that [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) had discussed his right to a trial by jury with his attorney and knowingly, voluntarily and intelligently waives the right to a jury trial
 
-## [[../../../../assets/attachments/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf|18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf]]
+## [18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf](../../../../assets/attachments/18%2013-1-01546-8%20113%20(STATE'S%20RESPONSIVE%20BRIEF%20IN).pdf)
 
-- Defence tried to get [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]]'s divorce lawyer [[../../70-79 People/77 Legal Teams/01 John Ely|John]] Ely dismissed from the trial, this document describes the relationship between [[../../70-79 People/71 Victim(s)/01 Susann Smith|Susann Smith]] and [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]] in more detail and more about the divorce.
+- Defence tried to get [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)'s divorce lawyer [John](../../70-79%20People/77%20Legal%20Teams/01%20John%20Ely.md) Ely dismissed from the trial, this document describes the relationship between [Susann Smith](../../70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md) and [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md) in more detail and more about the divorce.
 
-## [[../../../../assets/attachments/19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf|19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf]]
+## [19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf](../../../../assets/attachments/19%2013-1-01546-8%20125%20(STATE'S%20SENTENCING%20MEMORANDUM).pdf)
 
-- The full conviction of [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]
+- The full conviction of [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)
 - The sentencing recommendation
 
-## [[../../../../assets/attachments/20 13-1-01546-8 134 (ORDER REQ BLOOD TESTS FOR DNA).pdf|20 13-1-01546-8 134 (ORDER REQ BLOOD TESTS FOR DNA).pdf]]
+## [20 13-1-01546-8 134 (ORDER REQ BLOOD TESTS FOR DNA).pdf](../../../../assets/attachments/20%2013-1-01546-8%20134%20(ORDER%20REQ%20BLOOD%20TESTS%20FOR%20DNA).pdf)
 
-- The order for [[../../70-79 People/72 Suspects and People of Interest/01 Alan Smith|Alan Smith]]to undergo [[../../60-69 Evidence/62 Forensic/04 DNA|DNA]] testing
+- The order for [Alan Smith](../../70-79%20People/72%20Suspects%20and%20People%20of%20Interest/01%20Alan%20Smith.md)to undergo [DNA](../../60-69%20Evidence/62%20Forensic/04%20DNA.md) testing
 
-## [[../../../../assets/attachments/21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf|21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf]]
+## [21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf](../../../../assets/attachments/21%2013-1-01546-8%20136%20(FELONY%20JUDGMENT%20AND%20SENTENCE).pdf)
 
 - The felony judgement, finger prints, order of commitment, sentence of 344 months.
 
-## [[../../../../assets/attachments/22 13-1-01546-8 145 (ORDER RE EXHIBITS).pdf|22 13-1-01546-8 145 (ORDER RE EXHIBITS).pdf]]
+## [22 13-1-01546-8 145 (ORDER RE EXHIBITS).pdf](../../../../assets/attachments/22%2013-1-01546-8%20145%20(ORDER%20RE%20EXHIBITS).pdf)
 
 - A list of evidential exhibits used at trial
 
-## [[../../../../assets/attachments/26 13-1-01546-8 137 (NOTICE OF APPEAL TO COURT OF APPEAL).pdf|26 13-1-01546-8 137 (NOTICE OF APPEAL TO COURT OF APPEAL).pdf]]
+## [26 13-1-01546-8 137 (NOTICE OF APPEAL TO COURT OF APPEAL).pdf](../../../../assets/attachments/26%2013-1-01546-8%20137%20(NOTICE%20OF%20APPEAL%20TO%20COURT%20OF%20APPEAL).pdf)
 
-- Notice of appeal filed on [[../../10-19 Case Dates/13 Investigation Dates/2015-03-10 Tuesday March 10th 2015|2015-03-10 Tuesday March 10th 2015]].
+- Notice of appeal filed on [2015-03-10 Tuesday March 10th 2015](../../10-19%20Case%20Dates/13%20Investigation%20Dates/2015-03-10%20Tuesday%20March%2010th%202015.md).
 	- Includes the sentencing judgement and order of commitment.
 
-## [[../../../../assets/attachments/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf|27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf]]
+## [27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf](../../../../assets/attachments/27%2013-1-01546-8%20138%20(MOTION%20AND%20AFFIDAVIT%20DECLARATION).pdf)
 
 - Motion of the appeal detailed the declaration of the appeal.
 
-## [[../../../../assets/attachments/28 13-1-01546-8 148 (WITNESS RECORD).pdf|28 13-1-01546-8 148 (WITNESS RECORD).pdf]]
+## [28 13-1-01546-8 148 (WITNESS RECORD).pdf](../../../../assets/attachments/28%2013-1-01546-8%20148%20(WITNESS%20RECORD).pdf)
 
 
 
-## [[../../../../assets/attachments/29 13-1-01546-8 150 (WITNESS RECORD).pdf|29 13-1-01546-8 150 (WITNESS RECORD).pdf]]
+## [29 13-1-01546-8 150 (WITNESS RECORD).pdf](../../../../assets/attachments/29%2013-1-01546-8%20150%20(WITNESS%20RECORD).pdf)

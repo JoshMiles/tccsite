@@ -1,100 +1,100 @@
-- 2023-09-17 at 17h24 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/01 Script|01 Script]]
-- 2023-09-17 at 17h24 · [[./Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline|02 Detailed Timeline]]
-- 2023-09-17 at 17h23 · [[../2023-09-15|2023-09-15]]
-- 2023-09-17 at 16h59 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/02 Script Plan|02 Script Plan]]
-- 2023-09-17 at 16h34 · [[../2023-09-17|2023-09-17]]
-- 2023-09-17 at 14h50 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/12 Motion and Affidavit for Appeal|12 Motion and Affidavit for Appeal]]
-- 2023-09-17 at 14h50 · [[./Cases/P02 Case of Susann Smith/70-79 People/71 Victim(s)/01 Susann Smith|01 Susann Smith]]
-- 2023-09-15 at 16h08 · [[./README|README]]
-- 2023-09-15 at 14h39 · [[../Health|Health]]
-- 2023-09-15 at 14h32 · [[../Daily Note Template|Daily Note Template]]
-- 2023-09-15 at 14h21 · [[../Pomodoro Log|Pomodoro Log]]
-- 2023-09-15 at 14h00 · [[../Habit Tracker|Habit Tracker]]
-- 2023-09-15 at 10h58 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/07 2015.03.05 - Bothell man gets 28.5 years for wife’s murder|07 2015.03.05 - Bothell man gets 28.5 years for wife’s murder]]
-- 2023-09-15 at 10h55 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing|03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing]]
-- 2023-09-15 at 10h54 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say|02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say]]
-- 2023-09-15 at 10h35 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/01 2013.02.14 - Few details in death of Bothell woman|01 2013.02.14 - Few details in death of Bothell woman]]
-- 2023-09-15 at 10h12 · [[../delete|delete]]
-- 2023-09-07 at 16h24 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/04 Appeal|04 Appeal]]
-- 2023-09-07 at 16h24 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/02 Affidavit|02 Affidavit]]
-- 2023-09-07 at 15h32 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h32 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h32 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h31 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h30 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h30 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h30 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/02 Detailed Timeline|02 Detailed Timeline]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/01 Brief Timeline|01 Brief Timeline]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h29 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h28 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h28 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h28 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h28 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h28 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h27 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h27 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h27 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h26 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h26 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h26 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 15h25 · [[./Cases/P02 Case of Susann Smith/90-99 Miscellaneous/00 Placeholder|00 Placeholder]]
-- 2023-09-07 at 13h54 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/05 Smith v. Uttecht|05 Smith v. Uttecht]]
-- 2023-09-07 at 13h52 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/11 Judgment and Sentencing|11 Judgment and Sentencing]]
-- 2023-09-07 at 13h50 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-02-25 Wednesday February 25th 2015|2015-02-25 Wednesday February 25th 2015]]
-- 2023-09-07 at 13h48 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-02-20 Friday February 20th 2015|2015-02-20 Friday February 20th 2015]]
-- 2023-09-07 at 13h46 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-01-07 Wednesday January 7th 2015|2015-01-07 Wednesday January 7th 2015]]
-- 2023-09-07 at 13h46 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-12-05 Friday December 5th 2014|2014-12-05 Friday December 5th 2014]]
-- 2023-09-07 at 13h45 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-04-29 Tuesday April 29th 2014|2014-04-29 Tuesday April 29th 2014]]
-- 2023-09-07 at 13h44 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-04-09 Tuesday April 9th 2014|2014-04-09 Tuesday April 9th 2014]]
-- 2023-09-07 at 13h43 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-04-04 Friday April 4th 2014|2014-04-04 Friday April 4th 2014]]
-- 2023-09-07 at 13h43 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-03-28 Friday March 28th 2014|2014-03-28 Friday March 28th 2014]]
-- 2023-09-07 at 13h42 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-05-20 Tuesday May 20th 2014|2014-05-20 Tuesday May 20th 2014]]
-- 2023-09-07 at 13h41 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2014-03-27 Thursday March 27th 2014|2014-03-27 Thursday March 27th 2014]]
-- 2023-09-07 at 13h40 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2013-12-13 Friday December 13th 2013|2013-12-13 Friday December 13th 2013]]
-- 2023-09-07 at 13h39 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2013-09-12 Monday September 12th 2013|2013-09-12 Monday September 12th 2013]]
-- 2023-09-07 at 10h54 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-03-09 Monday March 9th 2015|2015-03-09 Monday March 9th 2015]]
-- 2023-09-07 at 10h53 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/22 PDFs/01 Outline|01 Outline]]
-- 2023-09-07 at 10h47 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-03-10 Tuesday March 10th 2015|2015-03-10 Tuesday March 10th 2015]]
-- 2023-09-07 at 10h31 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/10 State's Sentencing Memorandum|10 State's Sentencing Memorandum]]
-- 2023-09-07 at 10h20 · [[./Cases/P02 Case of Susann Smith/10-19 Case Dates/13 Investigation Dates/2015-02-17 Tuesday February 17th 2015|2015-02-17 Tuesday February 17th 2015]]
-- 2023-09-07 at 10h17 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/01 3.5 Memorandum|01 3.5 Memorandum]]
-- 2023-09-07 at 10h17 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/03 Defence Trial Brief|03 Defence Trial Brief]]
-- 2023-09-07 at 10h17 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/08 State's Trial Memorandum|08 State's Trial Memorandum]]
-- 2023-09-07 at 10h17 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/07 State's Motion and Affidavit for Order to Compel|07 State's Motion and Affidavit for Order to Compel]]
-- 2023-09-06 at 20h21 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/06 2015.01.28 - Witness says suspect confessed to him that he killed his wife|06 2015.01.28 - Witness says suspect confessed to him that he killed his wife]]
-- 2023-09-06 at 20h16 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide|05 2014.04.10 - Witness in Alan Smith murder trial commits suicide]]
-- 2023-09-06 at 20h10 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/06 Mr Krull|06 Mr Krull]]
-- 2023-09-06 at 20h06 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/10 Detective Sgt Brown|10 Detective Sgt Brown]]
-- 2023-09-06 at 20h06 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/09 Detective O’Bryant|09 Detective O’Bryant]]
-- 2023-09-06 at 19h37 · [[./Cases/P02 Case of Susann Smith/40-49 Articles/41 Article Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house|04 2013.06.20 - Police nab man having sex outside his murdered wife's house]]
-- 2023-09-06 at 19h30 · [[./Cases/P02 Case of Susann Smith/70-79 People/74 Witnesses/02 Truck Driver|02 Truck Driver]]
-- 2023-09-06 at 18h23 · [[./Cases/P02 Case of Susann Smith/70-79 People/73 Family and Friends/08 Mark Buckley|08 Mark Buckley]]
-- 2023-09-06 at 17h10 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/09 State's Responsive Brief in Opposition to Motion to Exclude|09 State's Responsive Brief in Opposition to Motion to Exclude]]
-- 2023-09-06 at 17h09 · [[./Cases/P02 Case of Susann Smith/20-29 Case Files/21 File Notes/06 Prosecutor's Version of Events|06 Prosecutor's Version of Events]]
-- 2023-09-06 at 16h56 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/05 Kathy Geil|05 Kathy Geil]]
-- 2023-09-06 at 16h51 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/04 Dr Stanley Adams|04 Dr Stanley Adams]]
-- 2023-09-06 at 16h47 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/03 Sergeant Shelly Massey|03 Sergeant Shelly Massey]]
-- 2023-09-06 at 16h44 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/02 Steve Stone|02 Steve Stone]]
-- 2023-09-06 at 16h42 · [[./Cases/P02 Case of Susann Smith/70-79 People/76 Experts/01 Kris Kern|01 Kris Kern]]
-- 2023-09-06 at 16h04 · [[./Cases/P02 Case of Susann Smith/60-69 Evidence/63 Physical/06 Croc-style Shoes|06 Croc-style Shoes]]
-- 2023-09-06 at 14h59 · [[./Cases/P02 Case of Susann Smith/60-69 Evidence/62 Forensic/04 DNA|04 DNA]]
-- 2023-09-06 at 14h57 · [[./Cases/P02 Case of Susann Smith/50-59 Investigation/53 Timeline/03 Draft Timeline|03 Draft Timeline]]
-- 2023-09-06 at 14h55 · [[./Cases/P02 Case of Susann Smith/60-69 Evidence/63 Physical/05 Roll of Tape|05 Roll of Tape]]
-- 2023-09-06 at 14h54 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/08 CPS|08 CPS]]
-- 2023-09-06 at 14h54 · [[./Cases/P02 Case of Susann Smith/60-69 Evidence/63 Physical/04 Car|04 Car]]
-- 2023-09-06 at 14h53 · [[./Cases/P02 Case of Susann Smith/50-59 Investigation/52 Key Locations/05 Apartment|05 Apartment]]
-- 2023-09-06 at 14h52 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/07 Detective Thompson|07 Detective Thompson]]
-- 2023-09-06 at 14h52 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/06 Beck|06 Beck]]
-- 2023-09-06 at 14h50 · [[./Cases/P02 Case of Susann Smith/70-79 People/75 Police and Detectives/05 Detective Bilyeu|05 Detective Bilyeu]]
+- 2023-09-17 at 17h34 · [01 Script](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/01%20Script.md)
+- 2023-09-17 at 17h34 · [02 Detailed Timeline](./Cases/P02%20Case%20of%20Susann%20Smith/50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md)
+- 2023-09-17 at 17h34 · [2023-09-17](../2023-09-17.md)
+- 2023-09-17 at 17h23 · [2023-09-15](../2023-09-15.md)
+- 2023-09-17 at 16h59 · [02 Script Plan](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/02%20Script%20Plan.md)
+- 2023-09-17 at 14h50 · [12 Motion and Affidavit for Appeal](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/12%20Motion%20and%20Affidavit%20for%20Appeal.md)
+- 2023-09-17 at 14h50 · [01 Susann Smith](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/71%20Victim(s)/01%20Susann%20Smith.md)
+- 2023-09-15 at 16h08 · [README](./README.md)
+- 2023-09-15 at 14h39 · [Health](../Health.md)
+- 2023-09-15 at 14h32 · [Daily Note Template](../Daily%20Note%20Template.md)
+- 2023-09-15 at 14h21 · [Pomodoro Log](../Pomodoro%20Log.md)
+- 2023-09-15 at 14h00 · [Habit Tracker](../Habit%20Tracker.md)
+- 2023-09-15 at 10h58 · [07 2015.03.05 - Bothell man gets 28.5 years for wife’s murder](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/07%202015.03.05%20-%20Bothell%20man%20gets%2028.5%20years%20for%20wife%E2%80%99s%20murder.md)
+- 2023-09-15 at 10h55 · [03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/03%202013.05.06%20-%20Bicycle%20could%20be%20clue%20in%20Bothell%20woman%E2%80%99s%20killing.md)
+- 2023-09-15 at 10h54 · [02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/02%202013.04.22%20-%20Estranged%20husband,%20person%20of%20interest%20plans%20to%20move%20into%20murdered%20wife%E2%80%99s%20Bothell%20home,%20neighbors%20say.md)
+- 2023-09-15 at 10h35 · [01 2013.02.14 - Few details in death of Bothell woman](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/01%202013.02.14%20-%20Few%20details%20in%20death%20of%20Bothell%20woman.md)
+- 2023-09-15 at 10h12 · [delete](../delete.md)
+- 2023-09-07 at 16h24 · [04 Appeal](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/04%20Appeal.md)
+- 2023-09-07 at 16h24 · [02 Affidavit](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/02%20Affidavit.md)
+- 2023-09-07 at 15h32 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h32 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h32 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h31 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h30 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h30 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h30 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h29 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h29 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h29 · [02 Detailed Timeline](./Cases/P02%20Case%20of%20Susann%20Smith/50-59%20Investigation/53%20Timeline/02%20Detailed%20Timeline.md)
+- 2023-09-07 at 15h29 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h29 · [01 Brief Timeline](./Cases/P02%20Case%20of%20Susann%20Smith/50-59%20Investigation/53%20Timeline/01%20Brief%20Timeline.md)
+- 2023-09-07 at 15h29 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h29 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h28 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h28 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h28 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h28 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h28 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h27 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h27 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h27 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h26 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h26 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h26 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 15h25 · [00 Placeholder](./Cases/P02%20Case%20of%20Susann%20Smith/90-99%20Miscellaneous/00%20Placeholder.md)
+- 2023-09-07 at 13h54 · [05 Smith v. Uttecht](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/05%20Smith%20v.%20Uttecht.md)
+- 2023-09-07 at 13h52 · [11 Judgment and Sentencing](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/11%20Judgment%20and%20Sentencing.md)
+- 2023-09-07 at 13h50 · [2015-02-25 Wednesday February 25th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-02-25%20Wednesday%20February%2025th%202015.md)
+- 2023-09-07 at 13h48 · [2015-02-20 Friday February 20th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-02-20%20Friday%20February%2020th%202015.md)
+- 2023-09-07 at 13h46 · [2015-01-07 Wednesday January 7th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-01-07%20Wednesday%20January%207th%202015.md)
+- 2023-09-07 at 13h46 · [2014-12-05 Friday December 5th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-12-05%20Friday%20December%205th%202014.md)
+- 2023-09-07 at 13h45 · [2014-04-29 Tuesday April 29th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-04-29%20Tuesday%20April%2029th%202014.md)
+- 2023-09-07 at 13h44 · [2014-04-09 Tuesday April 9th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-04-09%20Tuesday%20April%209th%202014.md)
+- 2023-09-07 at 13h43 · [2014-04-04 Friday April 4th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-04-04%20Friday%20April%204th%202014.md)
+- 2023-09-07 at 13h43 · [2014-03-28 Friday March 28th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-03-28%20Friday%20March%2028th%202014.md)
+- 2023-09-07 at 13h42 · [2014-05-20 Tuesday May 20th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-05-20%20Tuesday%20May%2020th%202014.md)
+- 2023-09-07 at 13h41 · [2014-03-27 Thursday March 27th 2014](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2014-03-27%20Thursday%20March%2027th%202014.md)
+- 2023-09-07 at 13h40 · [2013-12-13 Friday December 13th 2013](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2013-12-13%20Friday%20December%2013th%202013.md)
+- 2023-09-07 at 13h39 · [2013-09-12 Monday September 12th 2013](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2013-09-12%20Monday%20September%2012th%202013.md)
+- 2023-09-07 at 10h54 · [2015-03-09 Monday March 9th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-03-09%20Monday%20March%209th%202015.md)
+- 2023-09-07 at 10h53 · [01 Outline](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/22%20PDFs/01%20Outline.md)
+- 2023-09-07 at 10h47 · [2015-03-10 Tuesday March 10th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-03-10%20Tuesday%20March%2010th%202015.md)
+- 2023-09-07 at 10h31 · [10 State's Sentencing Memorandum](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/10%20State's%20Sentencing%20Memorandum.md)
+- 2023-09-07 at 10h20 · [2015-02-17 Tuesday February 17th 2015](./Cases/P02%20Case%20of%20Susann%20Smith/10-19%20Case%20Dates/13%20Investigation%20Dates/2015-02-17%20Tuesday%20February%2017th%202015.md)
+- 2023-09-07 at 10h17 · [01 3.5 Memorandum](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/01%203.5%20Memorandum.md)
+- 2023-09-07 at 10h17 · [03 Defence Trial Brief](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/03%20Defence%20Trial%20Brief.md)
+- 2023-09-07 at 10h17 · [08 State's Trial Memorandum](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/08%20State's%20Trial%20Memorandum.md)
+- 2023-09-07 at 10h17 · [07 State's Motion and Affidavit for Order to Compel](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/07%20State's%20Motion%20and%20Affidavit%20for%20Order%20to%20Compel.md)
+- 2023-09-06 at 20h21 · [06 2015.01.28 - Witness says suspect confessed to him that he killed his wife](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/06%202015.01.28%20-%20Witness%20says%20suspect%20confessed%20to%20him%20that%20he%20killed%20his%20wife.md)
+- 2023-09-06 at 20h16 · [05 2014.04.10 - Witness in Alan Smith murder trial commits suicide](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/05%202014.04.10%20-%20Witness%20in%20Alan%20Smith%20murder%20trial%20commits%20suicide.md)
+- 2023-09-06 at 20h10 · [06 Mr Krull](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/06%20Mr%20Krull.md)
+- 2023-09-06 at 20h06 · [10 Detective Sgt Brown](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/10%20Detective%20Sgt%20Brown.md)
+- 2023-09-06 at 20h06 · [09 Detective O’Bryant](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/09%20Detective%20O%E2%80%99Bryant.md)
+- 2023-09-06 at 19h37 · [04 2013.06.20 - Police nab man having sex outside his murdered wife's house](./Cases/P02%20Case%20of%20Susann%20Smith/40-49%20Articles/41%20Article%20Archive/04%202013.06.20%20-%20Police%20nab%20man%20having%20sex%20outside%20his%20murdered%20wife's%20house.md)
+- 2023-09-06 at 19h30 · [02 Truck Driver](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/74%20Witnesses/02%20Truck%20Driver.md)
+- 2023-09-06 at 18h23 · [08 Mark Buckley](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/73%20Family%20and%20Friends/08%20Mark%20Buckley.md)
+- 2023-09-06 at 17h10 · [09 State's Responsive Brief in Opposition to Motion to Exclude](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/09%20State's%20Responsive%20Brief%20in%20Opposition%20to%20Motion%20to%20Exclude.md)
+- 2023-09-06 at 17h09 · [06 Prosecutor's Version of Events](./Cases/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/21%20File%20Notes/06%20Prosecutor's%20Version%20of%20Events.md)
+- 2023-09-06 at 16h56 · [05 Kathy Geil](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/05%20Kathy%20Geil.md)
+- 2023-09-06 at 16h51 · [04 Dr Stanley Adams](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/04%20Dr%20Stanley%20Adams.md)
+- 2023-09-06 at 16h47 · [03 Sergeant Shelly Massey](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/03%20Sergeant%20Shelly%20Massey.md)
+- 2023-09-06 at 16h44 · [02 Steve Stone](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/02%20Steve%20Stone.md)
+- 2023-09-06 at 16h42 · [01 Kris Kern](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/76%20Experts/01%20Kris%20Kern.md)
+- 2023-09-06 at 16h04 · [06 Croc-style Shoes](./Cases/P02%20Case%20of%20Susann%20Smith/60-69%20Evidence/63%20Physical/06%20Croc-style%20Shoes.md)
+- 2023-09-06 at 14h59 · [04 DNA](./Cases/P02%20Case%20of%20Susann%20Smith/60-69%20Evidence/62%20Forensic/04%20DNA.md)
+- 2023-09-06 at 14h57 · [03 Draft Timeline](./Cases/P02%20Case%20of%20Susann%20Smith/50-59%20Investigation/53%20Timeline/03%20Draft%20Timeline.md)
+- 2023-09-06 at 14h55 · [05 Roll of Tape](./Cases/P02%20Case%20of%20Susann%20Smith/60-69%20Evidence/63%20Physical/05%20Roll%20of%20Tape.md)
+- 2023-09-06 at 14h54 · [08 CPS](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/08%20CPS.md)
+- 2023-09-06 at 14h54 · [04 Car](./Cases/P02%20Case%20of%20Susann%20Smith/60-69%20Evidence/63%20Physical/04%20Car.md)
+- 2023-09-06 at 14h53 · [05 Apartment](./Cases/P02%20Case%20of%20Susann%20Smith/50-59%20Investigation/52%20Key%20Locations/05%20Apartment.md)
+- 2023-09-06 at 14h52 · [07 Detective Thompson](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/07%20Detective%20Thompson.md)
+- 2023-09-06 at 14h52 · [06 Beck](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/06%20Beck.md)
+- 2023-09-06 at 14h50 · [05 Detective Bilyeu](./Cases/P02%20Case%20of%20Susann%20Smith/70-79%20People/75%20Police%20and%20Detectives/05%20Detective%20Bilyeu.md)

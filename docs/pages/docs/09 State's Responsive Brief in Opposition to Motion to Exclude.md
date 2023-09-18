@@ -1,0 +1,17 @@
+---
+title: "09 State's Responsive Brief in Opposition to Motion to Exclude"
+date created: Thursday, August 31st 2023, 2:43:58 pm
+date modified: Sunday, September 17th 2023, 9:18:31 pm
+---
+
+# 09 State's Responsive Brief in Opposition to Motion to Exclude
+
+[[../../assets/attachments/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf|18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf]]
+
+![[../../assets/attachments/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf|18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf]]
+
+[[./01 John Ely|John Ely]] was [[./01 Susann Smith|Susann Smith]]'s lawyer during her dissolution proceedings with [[./01 Alan Smith|Alan Smith]]. After [[./02 Commissioner|Commissioner]] Brudvik had made her initial rulings on Temporary Orders related to the divorce on [[./2012-08-03 Friday August 3rd 2012|2012-08-03 Friday August 3rd 2012]], the parties and their respective lawyers went out into the hall to reduce [[./02 Commissioner|the Commissioner]]'s rulings to writing. ^jhnjt
+
+While this was going on, [[./01 Alan Smith|Alan Smith]] and [[./01 Susann Smith|Susann Smith]] disagreed on an issue relating to time with the [[./07 Children|children]] during the summer. According to attorney [[./01 John Ely|John Ely]], [[./01 Alan Smith|Alan Smith]] got upset; and then fixed upon [[./01 Susann Smith|Susann Smith]] what he described as an "incredibly angry" stare. [[./01 John Ely|John Ely]] describes the stare as lasting approximately 5 seconds. [[./01 John Ely|John Ely]] indicated in his written statement to police that the stare was something the like he had never seen in some 15 years of practise. The glare was concerning enough to [[./01 John Ely|John Ely]] that he asked [[./01 Susann Smith|Susann Smith]] about it, and mentioned it to his staff. ^zeg12
+
+The State would ask the Court to deny [[./01 Alan Smith|Alan Smith]]'s motion to exclude this testimony from attorney [[./01 John Ely|John Ely]].

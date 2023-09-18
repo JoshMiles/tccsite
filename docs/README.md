@@ -1,15 +1,24 @@
 ---
-category: P01/01/01
+category: /
+title: README
+date created: Thursday, August 31st 2023, 1:16:10 pm
+date modified: Sunday, September 17th 2023, 9:18:32 pm
 ---
-###### You are currently in P01-01-01
 
-This is the index for this case. 
+# README
 
-The most usable files are:
-- P01-53-02 which is the Detailed Timeline
-- P01-91-02 which is the Script
+Welcome to my research hub for all my true crime cases for my [YouTube channel](https://youtube.com/itsjoshuamiles).
 
-Every case follows this structure:
+### Important to Note
+
+- Most PDF files **won't** be uploaded to this hub as there is a 4GB limit, so I will try to link them in `PRO.22.01`.
+	- You will be able to find the `PR0.22.01` Outline which has information about what's inside each PDF.
+- The `P01 - Case of John Doe` folder contains an example research project demonstrating how it is setup. Reference the Case Structure table below for more information.
+	- I follow the Johnny.Decimal system for organisation, see [here](https://johnnydecimal.com/).
+- Any `00 Placeholder` files exist solely due to the fact that empty folders can't be published to the repo so they need a file inside. The `00 Placeholder` file is empty and serves no other use than to mitigate this limitation.
+
+> [!NOTE]  
+> You are more than welcome to use my research in your own coverage of these cases, all I ask is that you provide credit and link back to this repo. Feel free to send me links to your coverage as I would love to see it!
 
 ### Case Structure
 
@@ -63,53 +72,3 @@ You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` wher
 | P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                               |
 | P01.91 Script                          | Contains the script                                                                                                                           |
 | P01.91.02                              | The Script                                                                                                                                              |
-
-
-
-
-
-| File                                                                                                                                      | Created                      | ID        |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------- |
-| [[../../11/01/P01-11-01\|P01-11-01]]                                | 4:52 PM - September 18, 2023 | P01/11/01 |
-| [[../../12/01/P01-12-01\|P01-12-01]]                                     | 4:52 PM - September 18, 2023 | P01/12/01 |
-| [[../../13/01/P01-13-01\|P01-13-01]]                             | 4:52 PM - September 18, 2023 | P01/13/01 |
-| [[../../10/01/P01-10-01\|P01-10-01]]                                                    | 4:52 PM - September 18, 2023 | P01/10/01 |
-| [[../../21/01/P01-21-01\|P01-21-01]]                                      | 4:52 PM - September 18, 2023 | P01/21/01 |
-| [[../../22/01/P01-22-01\|P01-22-01]]                                            | 4:52 PM - September 18, 2023 | P01/22/01 |
-| [[../../20/01/P01-20-01\|P01-20-01]]                                                    | 4:52 PM - September 18, 2023 | P01/20/01 |
-| [[../../31/01/P01-31-01\|P01-31-01]]                                     | 4:52 PM - September 18, 2023 | P01/31/01 |
-| [[../../32/01/P01-32-01\|P01-32-01]]                                          | 4:52 PM - September 18, 2023 | P01/32/01 |
-| [[../../33/01/P01-33-01\|P01-33-01]]                                       | 4:52 PM - September 18, 2023 | P01/33/01 |
-| [[../../10/01/P01-34-01\|P01-34-01]]                                     | 4:52 PM - September 18, 2023 | P01/10/01 |
-| [[../../35/01/P01-35-01\|P01-35-01]]                                      | 4:52 PM - September 18, 2023 | P01/35/01 |
-| [[../../30/01/P01-30-01\|P01-30-01]]                                                    | 4:52 PM - September 18, 2023 | P01/30/01 |
-| [[../../22/01/P01-41-01\|P01-41-01]]                                   | 4:52 PM - September 18, 2023 | P01/22/01 |
-| [[../../31/01/P01-42-01\|P01-42-01]]                                     | 4:52 PM - September 18, 2023 | P01/31/01 |
-| [[../../13/01/P01-40-01\|P01-40-01]]                                                      | 4:52 PM - September 18, 2023 | P01/13/01 |
-| [[../../51/01/P01-51-01\|P01-51-01]]                                   | 4:52 PM - September 18, 2023 | P01/51/01 |
-| [[../../52/01/P01-52-01\|P01-52-01]]                                | 4:52 PM - September 18, 2023 | P01/52/01 |
-| [[../../40/01/P01-53-01\|P01-53-01]]                                     | 4:52 PM - September 18, 2023 | P01/40/01 |
-| [[../../53/02/P01-53-02 Detailed Timeline\|P01-53-02 Detailed Timeline]] | 4:52 PM - September 18, 2023 | P01/53/02 |
-| [[../../50/01/P01-50-01\|P01-50-01]]                                                 | 4:52 PM - September 18, 2023 | P01/50/01 |
-| [[../../61/01/P01-61-01\|P01-61-01]]                                           | 4:52 PM - September 18, 2023 | P01/61/01 |
-| [[../../62/01/P01-62-01\|P01-62-01]]                                          | 4:52 PM - September 18, 2023 | P01/62/01 |
-| [[../../63/01/P01-63-01\|P01-63-01]]                                          | 4:52 PM - September 18, 2023 | P01/63/01 |
-| [[../../60/01/P01-60-01\|P01-60-01]]                                                      | 4:52 PM - September 18, 2023 | P01/60/01 |
-| [[../../51/01/P01-71-01\|P01-71-01]]                                           | 4:52 PM - September 18, 2023 | P01/51/01 |
-| [[../../72/01/P01-72-01\|P01-72-01]]                     | 4:52 PM - September 18, 2023 | P01/72/01 |
-| [[../../73/01/P01-73-01\|P01-73-01]]                                  | 4:52 PM - September 18, 2023 | P01/73/01 |
-| [[../../74/01/P01-74-01\|P01-74-01]]                                           | 4:52 PM - September 18, 2023 | P01/74/01 |
-| [[../../75/01/P01-75-01\|P01-75-01]]                               | 4:52 PM - September 18, 2023 | P01/75/01 |
-| [[../../76/01/P01-76-01\|P01-76-01]]                                             | 4:52 PM - September 18, 2023 | P01/76/01 |
-| [[../../77/01/P01-77-01\|P01-77-01]]                                         | 4:52 PM - September 18, 2023 | P01/77/01 |
-| [[../../42/01/P01-70-01\|P01-70-01]]                                                        | 4:52 PM - September 18, 2023 | P01/42/01 |
-| [[../../81/01/P01-81-01\|P01-81-01]]                                             | 4:52 PM - September 18, 2023 | P01/81/01 |
-| [[../../82/01/P01-82-01\|P01-82-01]]                                    | 4:52 PM - September 18, 2023 | P01/82/01 |
-| [[../../73/01/P01-83-01\|P01-83-01]]                                            | 4:52 PM - September 18, 2023 | P01/73/01 |
-| [[../../84/01/P01-84-01\|P01-84-01]]                                           | 4:52 PM - September 18, 2023 | P01/84/01 |
-| [[../../85/01/P01-85-01\|P01-85-01]]                                               | 4:52 PM - September 18, 2023 | P01/85/01 |
-| [[../../80/01/P01-80-01\|P01-80-01]]                                                         | 4:52 PM - September 18, 2023 | P01/80/01 |
-| [[../../91/01/P01-91-01\|P01-91-01]]                                       | 4:52 PM - September 18, 2023 | P01/91/01 |
-| [[../../91/02/P01-91-02 The Script\|P01-91-02 The Script]]                 | 4:52 PM - September 18, 2023 | P01/91/02 |
-| [[../../90/01/P01-90-01\|P01-90-01]]                                                 | 4:52 PM - September 18, 2023 | P01/90/01 |
-| [[P01-01-01\|P01-01-01]]                                                                     | 4:52 PM - September 18, 2023 | P01/01/01 |

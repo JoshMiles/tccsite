@@ -49,9 +49,8 @@ You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` wher
 | P01.50-59 Investigation                | Information pertaining to the investigation                                                                                                   |
 | P01.51 Interviews                      | Writeups and notes about interviews conducted by law enforcement                                                                              |
 | P01.52 Key Locations                   | Information and notes about key locations pertaining to the case                                                                              |
-| P01.53 Timeline                        | Contains a brief and a detailed timeline of events                                                                                            |
-| P01.53.01 Brief Timeline               | Brief timeline of events                                                                                                                      |
-| P01.53.02 Detailed Timeline           | Detailed timeline of events                                                                                                                   |
+| P01.53 Timeline                        | Contains a brief and a detailed timeline of events                                                                                            |                                                                                                                    |
+| P01.53.02 Detailed Timeline            | Detailed timeline of events                                                                                                                   |
 | P01.60-69 Evidence                     | Information about the evidence                                                                                                                |
 | P01.61 Digital                         | Information about the digital evidence                                                                                                        |
 | P01.62 Forensic                        | Information about the forensic evidence                                                                                                       |
@@ -70,4 +69,6 @@ You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` wher
 | P01.83 Judgement                       | Details regarding the judgement outcome from trial                                                                                            |
 | P01.84 Sentencing                      | Information about the sentencing                                                                                                              |
 | P01.85 Appeal                          | If applicable, information about appeal(s)                                                                                                    |
-| P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                                                                              |
+| P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                               |
+| P01.91 Script                          | Contains the script                                                                                                                           |
+| P01.91.02                              | The Script                                                                                                                                              |

@@ -1,18 +1,24 @@
 ---
-category: P01
-id: P01.01.01
-title: P01
+category: /
+title: README
+date created: Thursday, August 31st 2023, 1:16:10 pm
+date modified: Sunday, September 17th 2023, 9:18:32 pm
 ---
-###### You are currently in P01.01.01
-## Case of John Doe (Example Case)
 
-This is the index for this case. 
+# README
 
-The most usable files are:
-- P01-53-02 which is the Detailed Timeline
-- P01-91-02 which is the Script
+Welcome to my research hub for all my true crime cases for my [YouTube channel](https://youtube.com/itsjoshuamiles).
 
-Every case follows this structure:
+### Important to Note
+
+- Most PDF files **won't** be uploaded to this hub as there is a 4GB limit, so I will try to link them in `PRO.22.01`.
+	- You will be able to find the `PR0.22.01` Outline which has information about what's inside each PDF.
+- The `P01 - Case of John Doe` folder contains an example research project demonstrating how it is setup. Reference the Case Structure table below for more information.
+	- I follow the Johnny.Decimal system for organisation, see [here](https://johnnydecimal.com/).
+- Any `00 Placeholder` files exist solely due to the fact that empty folders can't be published to the repo so they need a file inside. The `00 Placeholder` file is empty and serves no other use than to mitigate this limitation.
+
+> [!NOTE]  
+> You are more than welcome to use my research in your own coverage of these cases, all I ask is that you provide credit and link back to this repo. Feel free to send me links to your coverage as I would love to see it!
 
 ### Case Structure
 
@@ -66,53 +72,3 @@ You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` wher
 | P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                               |
 | P01.91 Script                          | Contains the script                                                                                                                           |
 | P01.91.02                              | The Script                                                                                                                                              |
-
-
-
-
-
-| File                                                                                                                                      | Created                      | ID                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------ |
-| [[./10-to-19-Case-Dates/11-Background-Dates/index\|P01-11-01]]                                | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/11-Background-Dates            |
-| [[./10-to-19-Case-Dates/12-Crime-Dates/index\|P01-12-01]]                                     | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/12-Crime-Dates                 |
-| [[./10-to-19-Case-Dates/13-Investigation-Dates/index\|P01-13-01]]                             | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/13-Investigation-Dates         |
-| [[./10-to-19-Case-Dates/index\|P01-10-01]]                                                    | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates                                |
-| [[./20-to-29-Case-Files/21-File-Notes/index\|P01-21-01]]                                      | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files/21-File-Notes                  |
-| [[./20-to-29-Case-Files/22-PDFs/index\|P01-22-01]]                                            | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files/22-PDFs                        |
-| [[./20-to-29-Case-Files/index\|P01-20-01]]                                                    | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files                                |
-| [[./30-to-39-Case-Media/31-Crime-Scene/index\|P01-31-01]]                                     | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/31-Crime-Scene                 |
-| [[./30-to-39-Case-Media/32-People/index\|P01-32-01]]                                          | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/32-People                      |
-| [[./30-to-39-Case-Media/33-Locations/index\|P01-33-01]]                                       | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/33-Locations                   |
-| [[./30-to-39-Case-Media/34-Press-Video/index\|P01-34-01]]                                     | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/34-Press-Video                 |
-| [[./30-to-39-Case-Media/35-Case-Video/index\|P01-35-01]]                                      | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/35-Case-Video                  |
-| [[./30-to-39-Case-Media/index\|P01-30-01]]                                                    | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media                                |
-| [[./40-to-49-Articles/41-Article-Archive/index\|P01-41-01]]                                   | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles/41-Article-Archive               |
-| [[./40-to-49-Articles/42-Article-Notes/index\|P01-42-01]]                                     | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles/42-Article-Notes                 |
-| [[./40-to-49-Articles/index\|P01-40-01]]                                                      | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles                                  |
-| [[./50-to-59-Investigation/51-Interviews/index\|P01-51-01]]                                   | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/51-Interviews               |
-| [[./50-to-59-Investigation/52-Key-Locations/index\|P01-52-01]]                                | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/52-Key-Locations            |
-| [[./50-to-59-Investigation/53-Timeline/index\|P01-53-01]]                                     | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/53-Timeline                 |
-| [[./50-to-59-Investigation/53-Timeline/02-Detailed-Timeline\|P01-53-02 Detailed Timeline]] | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/53-Timeline                 |
-| [[./50-to-59-Investigation/index\|P01-50-01]]                                                 | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation                             |
-| [[./60-to-69-Evidence/61-Digital/index\|P01-61-01]]                                           | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/61-Digital                       |
-| [[./60-to-69-Evidence/62-Forensic/index\|P01-62-01]]                                          | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/62-Forensic                      |
-| [[./60-to-69-Evidence/63-Physical/index\|P01-63-01]]                                          | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/63-Physical                      |
-| [[./60-to-69-Evidence/index\|P01-60-01]]                                                      | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence                                  |
-| [[./70-to-79-People/71-Victims/index\|P01-71-01]]                                           | 6:34 PM - September 18, 2023 | P01/70-to-79-People/71-Victims                         |
-| [[./70-to-79-People/72-Suspects-and-People-of-Interest/index\|P01-72-01]]                     | 6:34 PM - September 18, 2023 | P01/70-to-79-People/72-Suspects-and-People-of-Interest |
-| [[./70-to-79-People/73-Family-and-Friends/index\|P01-73-01]]                                  | 6:34 PM - September 18, 2023 | P01/70-to-79-People/73-Family-and-Friends              |
-| [[./70-to-79-People/74-Witnesses/index\|P01-74-01]]                                           | 6:34 PM - September 18, 2023 | P01/70-to-79-People/74-Witnesses                       |
-| [[./70-to-79-People/75-Police-and-Detectives/index\|P01-75-01]]                               | 6:34 PM - September 18, 2023 | P01/70-to-79-People/75-Police-and-Detectives           |
-| [[./70-to-79-People/76-Experts/index\|P01-76-01]]                                             | 6:34 PM - September 18, 2023 | P01/70-to-79-People/76-Experts                         |
-| [[./70-to-79-People/77-Legal-Teams/index\|P01-77-01]]                                         | 6:34 PM - September 18, 2023 | P01/70-to-79-People/77-Legal-Teams                     |
-| [[./70-to-79-People/index\|P01-70-01]]                                                        | 6:34 PM - September 18, 2023 | P01/70-to-79-People                                    |
-| [[./80-to-89-Trial/81-Hearings/index\|P01-81-01]]                                             | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/81-Hearings                         |
-| [[./80-to-89-Trial/82-Trial-Proceedings/index\|P01-82-01]]                                    | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/82-Trial-Proceedings                |
-| [[./80-to-89-Trial/83-Judgement/index\|P01-83-01]]                                            | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/83-Judgement                        |
-| [[./80-to-89-Trial/84-Sentencing/index\|P01-84-01]]                                           | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/84-Sentencing                       |
-| [[./80-to-89-Trial/85-Appeal/index\|P01-85-01]]                                               | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/85-Appeal                           |
-| [[./80-to-89-Trial/index\|P01-80-01]]                                                         | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial                                     |
-| [[./90-to-99-Miscellaneous/91-Script/index\|P01-91-01]]                                       | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous/91-Script                   |
-| [[./90-to-99-Miscellaneous/91-Script/92-The-Script\|P01-91-02 The Script]]                 | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous/91-Script                   |
-| [[./90-to-99-Miscellaneous/index\|P01-90-01]]                                                 | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous                             |
-| [[index\|P01-01-01-Case of John Doe (Example Case)]]     | 6:34 PM - September 18, 2023 | P01                                                    |

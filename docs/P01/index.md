@@ -1,9 +1,10 @@
 ---
 category: P01
-title: index
-id: P01-01-01
+id: P01.01.01
+title: P01
 ---
-###### You are currently in P01-01-01
+###### You are currently in P01.01.01
+## Case of John Doe (Example Case)
 
 This is the index for this case. 
 
@@ -70,48 +71,48 @@ You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` wher
 
 
 
-| File                                                                                                                                      | Created                      | ID        |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------- |
-| [[./11/01/P01-11-01\|P01-11-01]]                                | 4:52 PM - September 18, 2023 | P01/11/01 |
-| [[./12/01/P01-12-01\|P01-12-01]]                                     | 4:52 PM - September 18, 2023 | P01/12/01 |
-| [[./13/01/P01-13-01\|P01-13-01]]                             | 4:52 PM - September 18, 2023 | P01/13/01 |
-| [[./10/index\|P01-10-01]]                                                    | 4:52 PM - September 18, 2023 | P01/10    |
-| [[./21/01/P01-21-01\|P01-21-01]]                                      | 4:52 PM - September 18, 2023 | P01/21/01 |
-| [[./22/01/P01-22-01\|P01-22-01]]                                            | 4:52 PM - September 18, 2023 | P01/22/01 |
-| [[./20/01/P01-20-01\|P01-20-01]]                                                    | 4:52 PM - September 18, 2023 | P01/20/01 |
-| [[./31/01/P01-31-01\|P01-31-01]]                                     | 4:52 PM - September 18, 2023 | P01/31/01 |
-| [[./32/01/P01-32-01\|P01-32-01]]                                          | 4:52 PM - September 18, 2023 | P01/32/01 |
-| [[./33/01/P01-33-01\|P01-33-01]]                                       | 4:52 PM - September 18, 2023 | P01/33/01 |
-| [[./10/01/P01-34-01\|P01-34-01]]                                     | 4:52 PM - September 18, 2023 | P01/10/01 |
-| [[./35/01/P01-35-01\|P01-35-01]]                                      | 4:52 PM - September 18, 2023 | P01/35/01 |
-| [[./30/01/P01-30-01\|P01-30-01]]                                                    | 4:52 PM - September 18, 2023 | P01/30/01 |
-| [[./22/01/P01-41-01\|P01-41-01]]                                   | 4:52 PM - September 18, 2023 | P01/22/01 |
-| [[./31/01/P01-42-01\|P01-42-01]]                                     | 4:52 PM - September 18, 2023 | P01/31/01 |
-| [[./13/01/P01-40-01\|P01-40-01]]                                                      | 4:52 PM - September 18, 2023 | P01/13/01 |
-| [[./51/01/P01-51-01\|P01-51-01]]                                   | 4:52 PM - September 18, 2023 | P01/51/01 |
-| [[./52/01/P01-52-01\|P01-52-01]]                                | 4:52 PM - September 18, 2023 | P01/52/01 |
-| [[./40/01/P01-53-01\|P01-53-01]]                                     | 4:52 PM - September 18, 2023 | P01/40/01 |
-| [[./53/02/P01-53-02 Detailed Timeline\|P01-53-02 Detailed Timeline]] | 4:52 PM - September 18, 2023 | P01/53/02 |
-| [[./50/01/P01-50-01\|P01-50-01]]                                                 | 4:52 PM - September 18, 2023 | P01/50/01 |
-| [[./61/01/P01-61-01\|P01-61-01]]                                           | 4:52 PM - September 18, 2023 | P01/61/01 |
-| [[./62/01/P01-62-01\|P01-62-01]]                                          | 4:52 PM - September 18, 2023 | P01/62/01 |
-| [[./63/01/P01-63-01\|P01-63-01]]                                          | 4:52 PM - September 18, 2023 | P01/63/01 |
-| [[./60/01/P01-60-01\|P01-60-01]]                                                      | 4:52 PM - September 18, 2023 | P01/60/01 |
-| [[./51/01/P01-71-01\|P01-71-01]]                                           | 4:52 PM - September 18, 2023 | P01/51/01 |
-| [[./72/01/P01-72-01\|P01-72-01]]                     | 4:52 PM - September 18, 2023 | P01/72/01 |
-| [[./73/01/P01-73-01\|P01-73-01]]                                  | 4:52 PM - September 18, 2023 | P01/73/01 |
-| [[./74/01/P01-74-01\|P01-74-01]]                                           | 4:52 PM - September 18, 2023 | P01/74/01 |
-| [[./75/01/P01-75-01\|P01-75-01]]                               | 4:52 PM - September 18, 2023 | P01/75/01 |
-| [[./76/01/P01-76-01\|P01-76-01]]                                             | 4:52 PM - September 18, 2023 | P01/76/01 |
-| [[./77/01/P01-77-01\|P01-77-01]]                                         | 4:52 PM - September 18, 2023 | P01/77/01 |
-| [[./42/01/P01-70-01\|P01-70-01]]                                                        | 4:52 PM - September 18, 2023 | P01/42/01 |
-| [[./81/01/P01-81-01\|P01-81-01]]                                             | 4:52 PM - September 18, 2023 | P01/81/01 |
-| [[./82/01/P01-82-01\|P01-82-01]]                                    | 4:52 PM - September 18, 2023 | P01/82/01 |
-| [[./73/01/P01-83-01\|P01-83-01]]                                            | 4:52 PM - September 18, 2023 | P01/73/01 |
-| [[./84/01/P01-84-01\|P01-84-01]]                                           | 4:52 PM - September 18, 2023 | P01/84/01 |
-| [[./85/01/P01-85-01\|P01-85-01]]                                               | 4:52 PM - September 18, 2023 | P01/85/01 |
-| [[./80/01/P01-80-01\|P01-80-01]]                                                         | 4:52 PM - September 18, 2023 | P01/80/01 |
-| [[./91/01/P01-91-01\|P01-91-01]]                                       | 4:52 PM - September 18, 2023 | P01/91/01 |
-| [[./91/02/P01-91-02 The Script\|P01-91-02 The Script]]                 | 4:52 PM - September 18, 2023 | P01/91/02 |
-| [[./90/01/P01-90-01\|P01-90-01]]                                                 | 4:52 PM - September 18, 2023 | P01/90/01 |
-| [[index\|P01-01-01]]                                                                     | 4:52 PM - September 18, 2023 | P01       |
+| File                                                                                                                                      | Created                      | ID                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------ |
+| [[./10-to-19-Case-Dates/11-Background-Dates/index\|P01-11-01]]                                | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/11-Background-Dates            |
+| [[./10-to-19-Case-Dates/12-Crime-Dates/index\|P01-12-01]]                                     | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/12-Crime-Dates                 |
+| [[./10-to-19-Case-Dates/13-Investigation-Dates/index\|P01-13-01]]                             | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates/13-Investigation-Dates         |
+| [[./10-to-19-Case-Dates/index\|P01-10-01]]                                                    | 6:34 PM - September 18, 2023 | P01/10-to-19-Case-Dates                                |
+| [[./20-to-29-Case-Files/21-File-Notes/index\|P01-21-01]]                                      | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files/21-File-Notes                  |
+| [[./20-to-29-Case-Files/22-PDFs/index\|P01-22-01]]                                            | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files/22-PDFs                        |
+| [[./20-to-29-Case-Files/index\|P01-20-01]]                                                    | 6:34 PM - September 18, 2023 | P01/20-to-29-Case-Files                                |
+| [[./30-to-39-Case-Media/31-Crime-Scene/index\|P01-31-01]]                                     | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/31-Crime-Scene                 |
+| [[./30-to-39-Case-Media/32-People/index\|P01-32-01]]                                          | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/32-People                      |
+| [[./30-to-39-Case-Media/33-Locations/index\|P01-33-01]]                                       | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/33-Locations                   |
+| [[./30-to-39-Case-Media/34-Press-Video/index\|P01-34-01]]                                     | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/34-Press-Video                 |
+| [[./30-to-39-Case-Media/35-Case-Video/index\|P01-35-01]]                                      | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media/35-Case-Video                  |
+| [[./30-to-39-Case-Media/index\|P01-30-01]]                                                    | 6:34 PM - September 18, 2023 | P01/30-to-39-Case-Media                                |
+| [[./40-to-49-Articles/41-Article-Archive/index\|P01-41-01]]                                   | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles/41-Article-Archive               |
+| [[./40-to-49-Articles/42-Article-Notes/index\|P01-42-01]]                                     | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles/42-Article-Notes                 |
+| [[./40-to-49-Articles/index\|P01-40-01]]                                                      | 6:34 PM - September 18, 2023 | P01/40-to-49-Articles                                  |
+| [[./50-to-59-Investigation/51-Interviews/index\|P01-51-01]]                                   | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/51-Interviews               |
+| [[./50-to-59-Investigation/52-Key-Locations/index\|P01-52-01]]                                | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/52-Key-Locations            |
+| [[./50-to-59-Investigation/53-Timeline/index\|P01-53-01]]                                     | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/53-Timeline                 |
+| [[./50-to-59-Investigation/53-Timeline/02-Detailed-Timeline\|P01-53-02 Detailed Timeline]] | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation/53-Timeline                 |
+| [[./50-to-59-Investigation/index\|P01-50-01]]                                                 | 6:34 PM - September 18, 2023 | P01/50-to-59-Investigation                             |
+| [[./60-to-69-Evidence/61-Digital/index\|P01-61-01]]                                           | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/61-Digital                       |
+| [[./60-to-69-Evidence/62-Forensic/index\|P01-62-01]]                                          | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/62-Forensic                      |
+| [[./60-to-69-Evidence/63-Physical/index\|P01-63-01]]                                          | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence/63-Physical                      |
+| [[./60-to-69-Evidence/index\|P01-60-01]]                                                      | 6:34 PM - September 18, 2023 | P01/60-to-69-Evidence                                  |
+| [[./70-to-79-People/71-Victims/index\|P01-71-01]]                                           | 6:34 PM - September 18, 2023 | P01/70-to-79-People/71-Victims                         |
+| [[./70-to-79-People/72-Suspects-and-People-of-Interest/index\|P01-72-01]]                     | 6:34 PM - September 18, 2023 | P01/70-to-79-People/72-Suspects-and-People-of-Interest |
+| [[./70-to-79-People/73-Family-and-Friends/index\|P01-73-01]]                                  | 6:34 PM - September 18, 2023 | P01/70-to-79-People/73-Family-and-Friends              |
+| [[./70-to-79-People/74-Witnesses/index\|P01-74-01]]                                           | 6:34 PM - September 18, 2023 | P01/70-to-79-People/74-Witnesses                       |
+| [[./70-to-79-People/75-Police-and-Detectives/index\|P01-75-01]]                               | 6:34 PM - September 18, 2023 | P01/70-to-79-People/75-Police-and-Detectives           |
+| [[./70-to-79-People/76-Experts/index\|P01-76-01]]                                             | 6:34 PM - September 18, 2023 | P01/70-to-79-People/76-Experts                         |
+| [[./70-to-79-People/77-Legal-Teams/index\|P01-77-01]]                                         | 6:34 PM - September 18, 2023 | P01/70-to-79-People/77-Legal-Teams                     |
+| [[./70-to-79-People/index\|P01-70-01]]                                                        | 6:34 PM - September 18, 2023 | P01/70-to-79-People                                    |
+| [[./80-to-89-Trial/81-Hearings/index\|P01-81-01]]                                             | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/81-Hearings                         |
+| [[./80-to-89-Trial/82-Trial-Proceedings/index\|P01-82-01]]                                    | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/82-Trial-Proceedings                |
+| [[./80-to-89-Trial/83-Judgement/index\|P01-83-01]]                                            | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/83-Judgement                        |
+| [[./80-to-89-Trial/84-Sentencing/index\|P01-84-01]]                                           | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/84-Sentencing                       |
+| [[./80-to-89-Trial/85-Appeal/index\|P01-85-01]]                                               | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial/85-Appeal                           |
+| [[./80-to-89-Trial/index\|P01-80-01]]                                                         | 6:34 PM - September 18, 2023 | P01/80-to-89-Trial                                     |
+| [[./90-to-99-Miscellaneous/91-Script/index\|P01-91-01]]                                       | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous/91-Script                   |
+| [[./90-to-99-Miscellaneous/91-Script/92-The-Script\|P01-91-02 The Script]]                 | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous/91-Script                   |
+| [[./90-to-99-Miscellaneous/index\|P01-90-01]]                                                 | 6:34 PM - September 18, 2023 | P01/90-to-99-Miscellaneous                             |
+| [[index\|P01-01-01-Case of John Doe (Example Case)]]     | 6:34 PM - September 18, 2023 | P01                                                    |

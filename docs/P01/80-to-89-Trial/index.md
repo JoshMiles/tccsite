@@ -1,7 +1,7 @@
 ---
 category: P01/80-to-89-Trial
 id: P01.80.01
-title: "80-to-89-Trial"
+title: "index"
 alias: P01-80-01
 ---
 ###### You are currently in P01-80-01
@@ -14,13 +14,13 @@ Details of the trial
 -  P01-80-84 Sentencing
 -  P01-80-85 Appeal
 
-| File                                                                                       | Created                       | ID        |
-| ------------------------------------------------------------------------------------------ | ----------------------------- | --------- |
-| [[./81-Hearings/index\|P01-81-01]]          | 12:39 PM - September 19, 2023 | P01.81.01 |
-| [[./82-Trial-Proceedings/index\|P01-82-01]] | 12:39 PM - September 19, 2023 | P01.82.01 |
-| [[./83-Judgement/index\|P01-83-01]]         | 12:39 PM - September 19, 2023 | P01.83.01 |
-| [[./84-Sentencing/index\|P01-84-01]]        | 12:39 PM - September 19, 2023 | P01.72.01 |
-| [[./85-Appeal/index\|P01-85-01]]            | 12:39 PM - September 19, 2023 | P01.85.01 |
-| [[index\|P01-80-01]]                      | 12:39 PM - September 19, 2023 | P01.80.01 |
+| J.Dec ID  | File                                                                               | Location                                                       | Created                      |
+| --------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------- |
+| P01.81.01 | [[./81-Hearings/index\|index]]          | Cases/P01-Case-of-John-Doe/80-to-89-Trial/81-Hearings          | 1:34 PM - September 19, 2023 |
+| P01.82.01 | [[./82-Trial-Proceedings/index\|index]] | Cases/P01-Case-of-John-Doe/80-to-89-Trial/82-Trial-Proceedings | 1:34 PM - September 19, 2023 |
+| P01.83.01 | [[./83-Judgement/index\|index]]         | Cases/P01-Case-of-John-Doe/80-to-89-Trial/83-Judgement         | 1:34 PM - September 19, 2023 |
+| P01.84.01 | [[./84-Sentencing/index\|index]]        | Cases/P01-Case-of-John-Doe/80-to-89-Trial/84-Sentencing        | 1:34 PM - September 19, 2023 |
+| P01.85.01 | [[./85-Appeal/index\|index]]            | Cases/P01-Case-of-John-Doe/80-to-89-Trial/85-Appeal            | 1:34 PM - September 19, 2023 |
+| P01.80.01 | [[index\|index]]                      | Cases/P01-Case-of-John-Doe/80-to-89-Trial                      | 1:34 PM - September 19, 2023 |
 
 

@@ -1,8 +1,8 @@
 ---
 category: P01/10-to-19-Case-Dates
 id: P01.10.01
-title: "index"
-alias: P01-10-01
+title: index
+aliases: []
 ---
 
 ###### You are currently in P01-10-01

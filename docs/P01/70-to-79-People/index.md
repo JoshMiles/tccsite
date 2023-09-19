@@ -16,15 +16,15 @@ The people connected to the case
 -  P01-70-76 Experts
 -  P01-70-77 Legal Teams
 
-| File                                                                                                                  | Created                      | ID                          |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
-| [[./71-Victims/index\|P01-71-01]]                       | 6:47 PM - September 18, 2023 | P01.52.01                   |
-| [[./72-Suspects-and-People-of-Interest/index\|P01-72-01]] | 6:47 PM - September 18, 2023 | P01.72.01                   |
-| [[./73-Family-and-Friends/index\|P01-73-01]]              | 6:47 PM - September 18, 2023 | P01.53.01                   |
-| [[./74-Witnesses/index\|P01-74-01]]                       | 6:47 PM - September 18, 2023 | P01.74.01                   |
-| [[./75-Police-and-Detectives/index\|P01-75-01]]           | 6:47 PM - September 18, 2023 | P01.53.02 Detailed Timeline |
-| [[./76-Experts/index\|P01-76-01]]                         | 6:47 PM - September 18, 2023 | P01.76.01                   |
-| [[./77-Legal-Teams/index\|P01-77-01]]                     | 6:47 PM - September 18, 2023 | P01.61.01                   |
-| [[index\|P01-70-01]]                                    | 6:47 PM - September 18, 2023 | P01.70.01                   |
+| File                                                                                                      | Created                       | ID        |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------- | --------- |
+| [[./71-Victims/index\|P01-71-01]]                         | 12:39 PM - September 19, 2023 | P01.71.01 |
+| [[./72-Suspects-and-People-of-Interest/index\|P01-72-01]] | 12:39 PM - September 19, 2023 | P01.72.01 |
+| [[./73-Family-and-Friends/index\|P01-73-01]]              | 12:39 PM - September 19, 2023 | P01.73.01 |
+| [[./74-Witnesses/index\|P01-74-01]]                       | 12:39 PM - September 19, 2023 | P01.74.01 |
+| [[./75-Police-and-Detectives/index\|P01-75-01]]           | 12:39 PM - September 19, 2023 | P01.75.01 |
+| [[./76-Experts/index\|P01-76-01]]                         | 12:39 PM - September 19, 2023 | P01.76.01 |
+| [[./77-Legal-Teams/index\|P01-77-01]]                     | 12:39 PM - September 19, 2023 | P01.77.01 |
+| [[index\|P01-70-01]]                                    | 12:39 PM - September 19, 2023 | P01.70.01 |
 
 

@@ -13,10 +13,10 @@ External files related to the case, e.g PDFs
 
 There should be a file note available with a full write up of content from the PDF files within `P01-20-21 File Notes`.
 
-| File                                                                                                 | Created                      | ID        |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------- | --------- |
-| [[./21-File-Notes/index\|P01-21-01]] | 6:47 PM - September 18, 2023 | P01.21.01 |
-| [[./22-PDFs/index\|P01-22-01]]       | 6:47 PM - September 18, 2023 | P01.22.01 |
-| [[index\|P01-20-01]]               | 6:47 PM - September 18, 2023 | P01.20.01 |
+| File                                                                                     | Created                       | ID        |
+| ---------------------------------------------------------------------------------------- | ----------------------------- | --------- |
+| [[./21-File-Notes/index\|P01-21-01]] | 12:39 PM - September 19, 2023 | P01.21.01 |
+| [[./22-PDFs/index\|P01-22-01]]       | 12:39 PM - September 19, 2023 | P01.22.01 |
+| [[index\|P01-20-01]]               | 12:39 PM - September 19, 2023 | P01.20.01 |
 
 

@@ -14,13 +14,12 @@ All images and videos pertaining to the case.
 - P01-30-34 Press video
 - P01-30-35 Case Video
 
-| File                                                                                                  | Created                      | ID        |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------- | --------- |
-| [[./31-Crime-Scene/index\|P01-31-01]] | 6:47 PM - September 18, 2023 | P01.31.01 |
-| [[./32-People/index\|P01-32-01]]      | 6:47 PM - September 18, 2023 | P01.32.01 |
-| [[./33-Locations/index\|P01-33-01]]   | 6:47 PM - September 18, 2023 | P01.33.01 |
-| [[./34-Press-Video/index\|P01-34-01]] | 6:47 PM - September 18, 2023 | P01.34.01 |
-| [[./35-Case-Video/index\|P01-35-01]]  | 6:47 PM - September 18, 2023 | P01.35.01 |
-| [[index\|P01-30-01]]                | 6:47 PM - September 18, 2023 | P01.30.01 |
+| File                                                                                      | Created                       | ID        |
+| ----------------------------------------------------------------------------------------- | ----------------------------- | --------- |
+| [[./31-Crime-Scene/index\|P01-31-01]] | 12:39 PM - September 19, 2023 | P01.31.01 |
+| [[./32-People/index\|P01-32-01]]      | 12:39 PM - September 19, 2023 | P01.32.01 |
+| [[./33-Locations/index\|P01-33-01]]   | 12:39 PM - September 19, 2023 | P01.33.01 |
+| [[./34-Press-Video/index\|P01-34-01]] | 12:39 PM - September 19, 2023 | P01.34.01 |
+| [[index\|P01-30-01]]                | 12:39 PM - September 19, 2023 | P01.30.01 |
 
 

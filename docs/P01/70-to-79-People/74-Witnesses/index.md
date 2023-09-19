@@ -1,14 +1,24 @@
 ---
-category: P01/70-to-79-People/74-Witnesses
-id: P01.74.01
+category: "P01/70-to-79-People/74-Witnesses"
+jid: "P01.74.01"
+pro: "P01"
+ac: "74"
+id: "01"
+jarea: "70-79 People"
+jcat: "74 Witnesses"
+desc: "Profiles about witnesses."
+friendlyname: "Witnesses"
 title: "index"
-alias: P01-74-01
+alias: "P01-74-01"
 ---
-###### You are currently in P01-74-01
+>[!info]- Location: P01.74.01
+>**Area:** P01 - 70-79 People
+>**Category:** 74 - 74 Witnesses
+>**ID:** 01 - Witnesses
 
 Profiles about witnesses
 
-| J.Dec ID  | File                                                                        | Location                                                | Created                      |
-| --------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------- |
-| P01.74.01 | [[index\|index]] | Cases/P01-Case-of-John-Doe/70-to-79-People/74-Witnesses | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                        | Friendly Name                                                                   | Description               |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
+| [P01.74.01](index.md) | [Witnesses](index.md) | Profiles about witnesses. |
 

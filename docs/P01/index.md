@@ -1,11 +1,21 @@
 ---
-category: P01
-id: P01.01.01
-title: index
-aliases: []
+category: "P01"
+jid: "P01.01.01"
+pro: "P01"
+ac: "01"
+id: "01"
+jarea: "00-09 Case Home"
+jcat: "01 Index"
+desc: "This is the index for this case."
+friendlyname: "P01 Index"
+title: "index"
+alias: "P01-01-01-Case-of-John-Doe"
 ---
-###### You are currently in P01.01.01
-## P01-01-01-Case-of-John-Doe
+>[!info]- Location: P01.01.01
+>**Area:** P01 - 00-09 Case Home
+>**Category:** 01 - 01 Index
+>**ID:** 01 - P01 Index
+## Case of John Doe
 
 This is the index for this case.
 
@@ -15,103 +25,48 @@ The most usable files are:
 
 Every case follows this structure:
 
-### Case Structure
-
-Briefly, the notation for folders follows `PRO.AC.ID` (where `PRO` is the project, `AC` is the area and category and `ID` is the unique identifier for the file). Where `ID` is referenced in notation, it simply means all files under that folder.
-
-You can access directly any file by going to `truecrimecases.com/PRO-AC-ID` where you replace the decimal separator with a dash.
-
-| Folder                                 | What is it                                                                                                                                    |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| P01 Case of John Doe                   | P01 is the identifier for the case. P means Published, S means Shelved, X means the research could not be completed, W means work in progress |
-| P01.10-19 Case Dates                   | Important dates pertaining to the case                                                                                                        |
-| P01.11.01 Background Dates             | This includes dates from before the events of the case took place. E.g date of a divorce                                                      |
-| P01.12.01 Crime Dates                  | This includes dates from the actual crime itself. Usually just the date of the murder.                                                        |
-| P01.13.01 Investigation Dates          | This includes dates referenced from the investigation process                                                                                 |
-| P01.20-29 Case Files                   | External files related to the case, e.g PDFs                                                                                                  |
-| P01.21 File Notes                      | The notes extracted from the PDFs of relevant information                                                                                     |
-| P01.22 PDFs                            | The folder containing the PDFs (note: PDFs won't be uploaded on this site)                                                                    |
-| P01.22.01 Outline                      | An outline of each of the PDFs                                                                                                                |
-| P01.30-39 Case Media                   | All images and videos pertaining to the case                                                                                                  |
-| P01.31 Crime Scene                     | Imagery from the crime scene                                                                                                                  |
-| P01.32 People                          | Images of people involved                                                                                                                     |
-| P01.33 Locations                       | Images of the locations involved                                                                                                              |
-| P01.34 Press Video                     | Any video clips from the press pertaining to the case                                                                                         |
-| P01.35 Case Video                      | Any video clips from the trial or investigation                                                                                               |
-| P01.40-49 Articles                     | The articles used in the research                                                                                                             |
-| P01.41 Article Archive                 | Snapshots of the articles referenced                                                                                                          |
-| P01.42 Article Notes                   | Notes for the articles                                                                                                                        |
-| P01.50-59 Investigation                | Information pertaining to the investigation                                                                                                   |
-| P01.51 Interviews                      | Writeups and notes about interviews conducted by law enforcement                                                                              |
-| P01.52 Key Locations                   | Information and notes about key locations pertaining to the case                                                                              |
-| P01.53 Timeline                        | Contains a brief and a detailed timeline of events                                                                                            |                                                                                                                    |
-| P01.53.02 Detailed Timeline            | Detailed timeline of events                                                                                                                   |
-| P01.60-69 Evidence                     | Information about the evidence                                                                                                                |
-| P01.61 Digital                         | Information about the digital evidence                                                                                                        |
-| P01.62 Forensic                        | Information about the forensic evidence                                                                                                       |
-| P01.63 Physical                        | Information about the physical evidence                                                                                                       |
-| P01.70-79 People                       | The people connected to the case                                                                                                              |
-| P01.71 Victim(s)                       | Profiles about the victim or victims                                                                                                          |
-| P01.72 Suspects and People of Interest | Profiles about any suspects and/or people of interest                                                                                         |
-| P01.73 Family and Friends              | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest                                 |
-| P01.74 Witnesses                       | Profiles about witnesses                                                                                                                      |
-| P01.75 Police and Detectives           | Profiles regarding law enforcement involved                                                                                                   |
-| P01.76 Experts                         | Profiles regarding experts consulted during investigation, and experts called as witnesses                                                    |
-| P01.77 Legal Teams                     | Profiles of individuals on legal teams                                                                                                        |
-| P01.80-89 Trial                        | Details of the trial                                                                                                                          |
-| P01.81 Hearings                        | Any details of pre-trial hearings, prelim hearings or hearings                                                                                |
-| P01.82 Trial Proceedings               | Anything and everything that happened during trial                                                                                            |
-| P01.83 Judgement                       | Details regarding the judgement outcome from trial                                                                                            |
-| P01.84 Sentencing                      | Information about the sentencing                                                                                                              |
-| P01.85 Appeal                          | If applicable, information about appeal(s)                                                                                                    |
-| P01.90-99 Miscellaneous                | Misc files. Includes the script and case kanban                                                                                               |
-| P01.91 Script                          | Contains the script                                                                                                                           |
-| P01.91.02                              | The Script                                                                                                                                              |
-
-
-
-| J.Dec ID                                                                                              | Location                                                                      |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [P01.01.01](index.md)                                                    | Cases/P01-Case-of-John-Doe                                                    |
-| [P01.10.01](./10-to-19-Case-Dates/index.md)                                | Cases/P01-Case-of-John-Doe/10-to-19-Case-Dates                                |
-| [P01.11.01](./10-to-19-Case-Dates/11-Background-Dates/index.md)            | Cases/P01-Case-of-John-Doe/10-to-19-Case-Dates/11-Background-Dates            |
-| [P01.12.01](./10-to-19-Case-Dates/12-Crime-Dates/index.md)                 | Cases/P01-Case-of-John-Doe/10-to-19-Case-Dates/12-Crime-Dates                 |
-| [P01.13.01](./10-to-19-Case-Dates/13-Investigation-Dates/index.md)         | Cases/P01-Case-of-John-Doe/10-to-19-Case-Dates/13-Investigation-Dates         |
-| [P01.20.01](./20-to-29-Case-Files/index.md)                                | Cases/P01-Case-of-John-Doe/20-to-29-Case-Files                                |
-| [P01.21.01](./20-to-29-Case-Files/21-File-Notes/index.md)                  | Cases/P01-Case-of-John-Doe/20-to-29-Case-Files/21-File-Notes                  |
-| [P01.22.01](./20-to-29-Case-Files/22-PDFs/index.md)                        | Cases/P01-Case-of-John-Doe/20-to-29-Case-Files/22-PDFs                        |
-| [P01.30.01](./30-to-39-Case-Media/index.md)                                | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media                                |
-| [P01.31.01](./30-to-39-Case-Media/31-Crime-Scene/index.md)                 | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/31-Crime-Scene                 |
-| [P01.32.01](./30-to-39-Case-Media/32-People/index.md)                      | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/32-People                      |
-| [P01.33.01](./30-to-39-Case-Media/33-Locations/index.md)                   | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/33-Locations                   |
-| [P01.34.01](./30-to-39-Case-Media/34-Press-Video/index.md)                 | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/34-Press-Video                 |
-| [P01.35.01](./30-to-39-Case-Media/35-Case-Video/index.md)                  | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/35-Case-Video                  |
-| [P01.40.01](./40-to-49-Articles/index.md)                                  | Cases/P01-Case-of-John-Doe/40-to-49-Articles                                  |
-| [P01.41.01](./40-to-49-Articles/41-Article-Archive/index.md)               | Cases/P01-Case-of-John-Doe/40-to-49-Articles/41-Article-Archive               |
-| [P01.42.01](./40-to-49-Articles/42-Article-Notes/index.md)                 | Cases/P01-Case-of-John-Doe/40-to-49-Articles/42-Article-Notes                 |
-| [P01.50.01](./50-to-59-Investigation/index.md)                             | Cases/P01-Case-of-John-Doe/50-to-59-Investigation                             |
-| [P01.51.01](./50-to-59-Investigation/51-Interviews/index.md)               | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/51-Interviews               |
-| [P01.52.01](./50-to-59-Investigation/52-Key-Locations/index.md)            | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/52-Key-Locations            |
-| [P01.53.01](./50-to-59-Investigation/53-Timeline/index.md)                 | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/53-Timeline                 |
-| [P01.53.02](./50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md)  | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/53-Timeline                 |
-| [P01.60.01](./60-to-69-Evidence/index.md)                                  | Cases/P01-Case-of-John-Doe/60-to-69-Evidence                                  |
-| [P01.61.01](./60-to-69-Evidence/61-Digital/index.md)                       | Cases/P01-Case-of-John-Doe/60-to-69-Evidence/61-Digital                       |
-| [P01.62.01](./60-to-69-Evidence/62-Forensic/index.md)                      | Cases/P01-Case-of-John-Doe/60-to-69-Evidence/62-Forensic                      |
-| [P01.63.01](./60-to-69-Evidence/63-Physical/index.md)                      | Cases/P01-Case-of-John-Doe/60-to-69-Evidence/63-Physical                      |
-| [P01.70.01](./70-to-79-People/index.md)                                    | Cases/P01-Case-of-John-Doe/70-to-79-People                                    |
-| [P01.71.01](./70-to-79-People/71-Victims/index.md)                         | Cases/P01-Case-of-John-Doe/70-to-79-People/71-Victims                         |
-| [P01.72.01](./70-to-79-People/72-Suspects-and-People-of-Interest/index.md) | Cases/P01-Case-of-John-Doe/70-to-79-People/72-Suspects-and-People-of-Interest |
-| [P01.73.01](./70-to-79-People/73-Family-and-Friends/index.md)              | Cases/P01-Case-of-John-Doe/70-to-79-People/73-Family-and-Friends              |
-| [P01.74.01](./70-to-79-People/74-Witnesses/index.md)                       | Cases/P01-Case-of-John-Doe/70-to-79-People/74-Witnesses                       |
-| [P01.75.01](./70-to-79-People/75-Police-and-Detectives/index.md)           | Cases/P01-Case-of-John-Doe/70-to-79-People/75-Police-and-Detectives           |
-| [P01.76.01](./70-to-79-People/76-Experts/index.md)                         | Cases/P01-Case-of-John-Doe/70-to-79-People/76-Experts                         |
-| [P01.77.01](./70-to-79-People/77-Legal-Teams/index.md)                     | Cases/P01-Case-of-John-Doe/70-to-79-People/77-Legal-Teams                     |
-| [P01.80.01](./80-to-89-Trial/index.md)                                     | Cases/P01-Case-of-John-Doe/80-to-89-Trial                                     |
-| [P01.81.01](./80-to-89-Trial/81-Hearings/index.md)                         | Cases/P01-Case-of-John-Doe/80-to-89-Trial/81-Hearings                         |
-| [P01.82.01](./80-to-89-Trial/82-Trial-Proceedings/index.md)                | Cases/P01-Case-of-John-Doe/80-to-89-Trial/82-Trial-Proceedings                |
-| [P01.83.01](./80-to-89-Trial/83-Judgement/index.md)                        | Cases/P01-Case-of-John-Doe/80-to-89-Trial/83-Judgement                        |
-| [P01.84.01](./80-to-89-Trial/84-Sentencing/index.md)                       | Cases/P01-Case-of-John-Doe/80-to-89-Trial/84-Sentencing                       |
-| [P01.85.01](./80-to-89-Trial/85-Appeal/index.md)                           | Cases/P01-Case-of-John-Doe/80-to-89-Trial/85-Appeal                           |
-| [P01.90.01](./90-to-99-Miscellaneous/index.md)                             | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous                             |
-| [P01.91.01](./90-to-99-Miscellaneous/91-Script/index.md)                   | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous/91-Script                   |
-| [P01.91.02](./90-to-99-Miscellaneous/91-Script/92-The-Script.md)           | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous/91-Script                   |
+| J.Dec ID                                                                                              | Friendly Name                                                                                                               | Description                                                                                                    |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [P01.01.01](index.md)                                                    | [P01 Index](index.md)                                                                          | This is the index for this case.                                                                               |
+| [P01.10.01](./10-to-19-Case-Dates/index.md)                                | [Case Dates](./10-to-19-Case-Dates/index.md)                                                     | Important dates pertaining to the case.                                                                        |
+| [P01.11.01](./10-to-19-Case-Dates/11-Background-Dates/index.md)            | [Background Dates](./10-to-19-Case-Dates/11-Background-Dates/index.md)                           | This includes dates from before the events of the case took place. E.g date of a divorce.                      |
+| [P01.12.01](./10-to-19-Case-Dates/12-Crime-Dates/index.md)                 | [Crime Dates](./10-to-19-Case-Dates/12-Crime-Dates/index.md)                                     | This includes dates from the actual crime itself. Usually just the date of the murder.                         |
+| [P01.13.01](./10-to-19-Case-Dates/13-Investigation-Dates/index.md)         | [Investigation Dates](./10-to-19-Case-Dates/13-Investigation-Dates/index.md)                     | This includes dates referenced from the investigation process.                                                 |
+| [P01.20.01](./20-to-29-Case-Files/index.md)                                | [Case Files](./20-to-29-Case-Files/index.md)                                                     | External files related to the case, e.g PDFs.                                                                  |
+| [P01.21.01](./20-to-29-Case-Files/21-File-Notes/index.md)                  | [File Notes](./20-to-29-Case-Files/21-File-Notes/index.md)                                       | The notes extracted from the PDFs of relevant information.                                                     |
+| [P01.22.01](./20-to-29-Case-Files/22-PDFs/index.md)                        | [PDFs](./20-to-29-Case-Files/22-PDFs/index.md)                                                   | The folder containing the PDFs.                                                                                |
+| [P01.30.01](./30-to-39-Case-Media/index.md)                                | [Case Media](./30-to-39-Case-Media/index.md)                                                     | All images and videos pertaining to the case.                                                                  |
+| [P01.31.01](./30-to-39-Case-Media/31-Crime-Scene/index.md)                 | [Crime Scene](./30-to-39-Case-Media/31-Crime-Scene/index.md)                                     | Imagery from the crime scene.                                                                                  |
+| [P01.32.01](./30-to-39-Case-Media/32-People/index.md)                      | [People](./30-to-39-Case-Media/32-People/index.md)                                               | Images of people involved.                                                                                     |
+| [P01.33.01](./30-to-39-Case-Media/33-Locations/index.md)                   | [Locations](./30-to-39-Case-Media/33-Locations/index.md)                                         | Images of the locations involved.                                                                              |
+| [P01.34.01](./30-to-39-Case-Media/34-Press-Video/index.md)                 | [Press Video](./30-to-39-Case-Media/34-Press-Video/index.md)                                     | Any video clips from the press pertaining to the case.                                                         |
+| [P01.35.01](./30-to-39-Case-Media/35-Case-Video/index.md)                  | [Case Video](./30-to-39-Case-Media/35-Case-Video/index.md)                                       | Any video clips from the trial or investigation.                                                               |
+| [P01.40.01](./40-to-49-Articles/index.md)                                  | [Articles](./40-to-49-Articles/index.md)                                                         | The articles used in the research.                                                                             |
+| [P01.41.01](./40-to-49-Articles/41-Article-Archive/index.md)               | [Article Archive](./40-to-49-Articles/41-Article-Archive/index.md)                               | Snapshots of the articles referenced.                                                                          |
+| [P01.42.01](./40-to-49-Articles/42-Article-Notes/index.md)                 | [Article Notes](./40-to-49-Articles/42-Article-Notes/index.md)                                   | Notes for the articles.                                                                                        |
+| [P01.50.01](./50-to-59-Investigation/index.md)                             | [Investigation](./50-to-59-Investigation/index.md)                                               | Information pertaining to the investigation.                                                                   |
+| [P01.51.01](./50-to-59-Investigation/51-Interviews/index.md)               | [Interviews](./50-to-59-Investigation/51-Interviews/index.md)                                    | Writeups and notes about interviews conducted by law enforcement.                                              |
+| [P01.52.01](./50-to-59-Investigation/52-Key-Locations/index.md)            | [Key Locations](./50-to-59-Investigation/52-Key-Locations/index.md)                              | Information and notes about key locations pertaining to the case.                                              |
+| [P01.53.01](./50-to-59-Investigation/53-Timeline/index.md)                 | [Timeline](./50-to-59-Investigation/53-Timeline/index.md)                                        | Contains the timeline of events.                                                                               |
+| [P01.53.02](./50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md)  | [Detailed Timeline](./50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md)                | Detailed timeline of events.                                                                                   |
+| [P01.60.01](./60-to-69-Evidence/index.md)                                  | [Evidence](./60-to-69-Evidence/index.md)                                                         | Information about the evidence.                                                                                |
+| [P01.61.01](./60-to-69-Evidence/61-Digital/index.md)                       | [Digital Evidence](./60-to-69-Evidence/61-Digital/index.md)                                      | Information about the digital evidence.                                                                        |
+| [P01.62.01](./60-to-69-Evidence/62-Forensic/index.md)                      | [Forensic Evidence](./60-to-69-Evidence/62-Forensic/index.md)                                    | Information about the forensic evidence.                                                                       |
+| [P01.63.01](./60-to-69-Evidence/63-Physical/index.md)                      | [Physical Evidence](./60-to-69-Evidence/63-Physical/index.md)                                    | Information about the physical evidence                                                                        |
+| [P01.70.01](./70-to-79-People/index.md)                                    | [People](./70-to-79-People/index.md)                                                             | The people connected to the case.                                                                              |
+| [P01.71.01](./70-to-79-People/71-Victims/index.md)                         | [Victims](./70-to-79-People/71-Victims/index.md)                                                 | Profiles about the victim or victims                                                                           |
+| [P01.72.01](./70-to-79-People/72-Suspects-and-People-of-Interest/index.md) | [Suspects and People of Interest](./70-to-79-People/72-Suspects-and-People-of-Interest/index.md) | Profiles about any suspects and/or people of interest.                                                         |
+| [P01.73.01](./70-to-79-People/73-Family-and-Friends/index.md)              | [Family and Friends](./70-to-79-People/73-Family-and-Friends/index.md)                           | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |
+| [P01.74.01](./70-to-79-People/74-Witnesses/index.md)                       | [Witnesses](./70-to-79-People/74-Witnesses/index.md)                                             | Profiles about witnesses.                                                                                      |
+| [P01.75.01](./70-to-79-People/75-Police-and-Detectives/index.md)           | [Police and Detectives](./70-to-79-People/75-Police-and-Detectives/index.md)                     | Profiles regarding law enforcement involved.                                                                   |
+| [P01.76.01](./70-to-79-People/76-Experts/index.md)                         | [Experts](./70-to-79-People/76-Experts/index.md)                                                 | Profiles regarding experts consulted during investigation, and experts called as witnesses.                    |
+| [P01.77.01](./70-to-79-People/77-Legal-Teams/index.md)                     | [Legal Teams](./70-to-79-People/77-Legal-Teams/index.md)                                         | Profiles of individuals on legal teams.                                                                        |
+| [P01.80.01](./80-to-89-Trial/index.md)                                     | [Trial](./80-to-89-Trial/index.md)                                                               | Details of the trial.                                                                                          |
+| [P01.81.01](./80-to-89-Trial/81-Hearings/index.md)                         | [Hearings](./80-to-89-Trial/81-Hearings/index.md)                                                | Any details of pre-trial hearings, prelim hearings or hearings.                                                |
+| [P01.82.01](./80-to-89-Trial/82-Trial-Proceedings/index.md)                | [Trial Proceedings](./80-to-89-Trial/82-Trial-Proceedings/index.md)                              | Anything and everything that happened during trial.                                                            |
+| [P01.83.01](./80-to-89-Trial/83-Judgement/index.md)                        | [Judgement](./80-to-89-Trial/83-Judgement/index.md)                                              | Details regarding the judgement outcome from trial.                                                            |
+| [P01.84.01](./80-to-89-Trial/84-Sentencing/index.md)                       | [Sentencing](./80-to-89-Trial/84-Sentencing/index.md)                                            | Information about the sentencing.                                                                              |
+| [P01.85.01](./80-to-89-Trial/85-Appeal/index.md)                           | [Appeal](./80-to-89-Trial/85-Appeal/index.md)                                                    | If applicable, information about appeal(s).                                                                    |
+| [P01.90.01](./90-to-99-Miscellaneous/index.md)                             | [Miscellaneous](./90-to-99-Miscellaneous/index.md)                                               | Misc files. Includes the script.                                                                               |
+| [P01.91.01](./90-to-99-Miscellaneous/91-Script/index.md)                   | [Script Folder](./90-to-99-Miscellaneous/91-Script/index.md)                                     | This folder contains the script.                                                                               |
+| [P01.91.02](./90-to-99-Miscellaneous/91-Script/92-The-Script.md)           | [The Script](./90-to-99-Miscellaneous/91-Script/92-The-Script.md)                                | This is the script for this case.                                                                              |

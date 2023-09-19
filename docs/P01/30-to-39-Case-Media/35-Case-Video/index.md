@@ -1,14 +1,24 @@
 ---
-category: P01/30-to-39-Case-Media/35-Case-Video
-id: P01.35.01
+category: "P01/30-to-39-Case-Media/35-Case-Video"
+jid: "P01.35.01"
+pro: "P01"
+ac: "35"
+id: "01"
+jarea: "30-39 Case Media"
+jcat: "35 Case Video"
+desc: "Any video clips from the trial or investigation."
+friendlyname: "Case Video"
 title: "index"
-alias: P01-35-01
+alias: "P01-35-01"
 ---
-###### You are currently in P01-35-01
+>[!info]- Location: P01.35.01
+>**Area:** P01 - 30-39 Case Media
+>**Category:** 35 - 35 Case Video
+>**ID:** 01 - Case Video
 
 Any video clips from the trial or investigation
 
-| J.Dec ID  | File                                                                             | Location                                                     | Created                      |
-| --------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
-| P01.35.01 | [[index\|index]] | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/35-Case-Video | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                             | Friendly Name                                                                         | Description                                      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [P01.35.01](index.md) | [Case Video](index.md) | Any video clips from the trial or investigation. |
 

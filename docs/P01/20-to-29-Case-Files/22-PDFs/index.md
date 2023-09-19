@@ -1,15 +1,25 @@
 ---
-category: P01/20-to-29-Case-Files/22-PDFs
-id: P01.22.01
+category: "P01/20-to-29-Case-Files/22-PDFs"
+jid: "P01.22.01"
+pro: "P01"
+ac: "22"
+id: "01"
+jarea: "20-29 Case Files"
+jcat: "22 PDFs"
+desc: "The folder containing the PDFs."
+friendlyname: "PDFs"
 title: "index"
-alias: P01-22-01
+alias: "P01-22-01"
 ---
-###### You are currently in P01-22-01
+>[!info]- Location: P01.22.01
+>**Area:** P01 - 20-29 Case Files
+>**Category:** 22 - 22 PDFs
+>**ID:** 01 - PDFs
 
 The folder containing the PDFs
 
-| J.Dec ID  | File                                                                       | Location                                               | Created                      |
-| --------- | -------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------- |
-| P01.22.01 | [[index\|index]] | Cases/P01-Case-of-John-Doe/20-to-29-Case-Files/22-PDFs | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                       | Friendly Name                                                             | Description                     |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------- |
+| [P01.22.01](index.md) | [PDFs](index.md) | The folder containing the PDFs. |
 
 

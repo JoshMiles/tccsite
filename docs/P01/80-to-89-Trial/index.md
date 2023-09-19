@@ -1,10 +1,20 @@
 ---
-category: P01/80-to-89-Trial
-id: P01.80.01
+category: "P01/80-to-89-Trial"
+jid: "P01.80.01"
+pro: "P01"
+ac: "80"
+id: "01"
+jarea: "80-89 Trial"
+jcat: "80 Index"
+desc: "Details of the trial."
+friendlyname: "Trial"
 title: "index"
-alias: P01-80-01
+alias: "P01-80-01"
 ---
-###### You are currently in P01-80-01
+>[!info]- Location: P01.80.01
+>**Area:** P01 - 80-89 Trial
+>**Category:** 80 - 80 Index
+>**ID:** 01 - Trial
 
 Details of the trial
 
@@ -14,13 +24,13 @@ Details of the trial
 -  P01-80-84 Sentencing
 -  P01-80-85 Appeal
 
-| J.Dec ID  | File                                                                               | Location                                                       | Created                      |
-| --------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------- |
-| P01.81.01 | [[./81-Hearings/index\|index]]          | Cases/P01-Case-of-John-Doe/80-to-89-Trial/81-Hearings          | 1:34 PM - September 19, 2023 |
-| P01.82.01 | [[./82-Trial-Proceedings/index\|index]] | Cases/P01-Case-of-John-Doe/80-to-89-Trial/82-Trial-Proceedings | 1:34 PM - September 19, 2023 |
-| P01.83.01 | [[./83-Judgement/index\|index]]         | Cases/P01-Case-of-John-Doe/80-to-89-Trial/83-Judgement         | 1:34 PM - September 19, 2023 |
-| P01.84.01 | [[./84-Sentencing/index\|index]]        | Cases/P01-Case-of-John-Doe/80-to-89-Trial/84-Sentencing        | 1:34 PM - September 19, 2023 |
-| P01.85.01 | [[./85-Appeal/index\|index]]            | Cases/P01-Case-of-John-Doe/80-to-89-Trial/85-Appeal            | 1:34 PM - September 19, 2023 |
-| P01.80.01 | [[index\|index]]                      | Cases/P01-Case-of-John-Doe/80-to-89-Trial                      | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                               | Friendly Name                                                                                  | Description                                                     |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [P01.80.01](index.md)                      | [Trial](index.md)                                  | Details of the trial.                                           |
+| [P01.81.01](./81-Hearings/index.md)          | [Hearings](./81-Hearings/index.md)                   | Any details of pre-trial hearings, prelim hearings or hearings. |
+| [P01.82.01](./82-Trial-Proceedings/index.md) | [Trial Proceedings](./82-Trial-Proceedings/index.md) | Anything and everything that happened during trial.             |
+| [P01.83.01](./83-Judgement/index.md)         | [Judgement](./83-Judgement/index.md)                 | Details regarding the judgement outcome from trial.             |
+| [P01.84.01](./84-Sentencing/index.md)        | [Sentencing](./84-Sentencing/index.md)               | Information about the sentencing.                               |
+| [P01.85.01](./85-Appeal/index.md)            | [Appeal](./85-Appeal/index.md)                       | If applicable, information about appeal(s).                     |
 
 

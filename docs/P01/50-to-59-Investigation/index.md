@@ -1,10 +1,20 @@
 ---
-category: P01/50-to-59-Investigation
-id: P01.50.01
+category: "P01/50-to-59-Investigation"
+jid: "P01.50.01"
+pro: "P01"
+ac: "50"
+id: "01"
+jarea: "50-59 Investigation"
+jcat: "50 Index"
+desc: "Information pertaining to the investigation."
+friendlyname: "Investigation"
 title: "index"
-alias: P01-50-01
+alias: "P01-50-01"
 ---
-###### You are currently in P01-50-01
+>[!info]- Location: P01.50.01
+>**Area:** P01 - 50-59 Investigation
+>**Category:** 50 - 50 Index
+>**ID:** 01 - Investigation
 
 Information pertaining to the investigation
 
@@ -13,12 +23,12 @@ Information pertaining to the investigation
 - P01-50-53 Timeline
 
 
-| J.Dec ID  | File                                                                                                            | Location                                                           | Created                      |
-| --------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------- |
-| P01.51.01 | [[./51-Interviews/index\|index]]                             | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/51-Interviews    | 1:34 PM - September 19, 2023 |
-| P01.52.01 | [[./52-Key-Locations/index\|index]]                          | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/52-Key-Locations | 1:34 PM - September 19, 2023 |
-| P01.53.01 | [[./53-Timeline/index\|index]]                               | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/53-Timeline      | 1:34 PM - September 19, 2023 |
-| P01.53.02 | [[./53-Timeline/02-Detailed-Timeline\|02-Detailed-Timeline]] | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/53-Timeline      | 1:34 PM - September 19, 2023 |
-| P01.50.01 | [[index\|index]]                                           | Cases/P01-Case-of-John-Doe/50-to-59-Investigation                  | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                                             | Friendly Name                                                                                                | Description                                                       |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| [P01.50.01](index.md)                            | [Investigation](index.md)                                | Information pertaining to the investigation.                      |
+| [P01.51.01](./51-Interviews/index.md)              | [Interviews](./51-Interviews/index.md)                     | Writeups and notes about interviews conducted by law enforcement. |
+| [P01.52.01](./52-Key-Locations/index.md)           | [Key Locations](./52-Key-Locations/index.md)               | Information and notes about key locations pertaining to the case. |
+| [P01.53.01](./53-Timeline/index.md)                | [Timeline](./53-Timeline/index.md)                         | Contains the timeline of events.                                  |
+| [P01.53.02](./53-Timeline/02-Detailed-Timeline.md) | [Detailed Timeline](./53-Timeline/02-Detailed-Timeline.md) | Detailed timeline of events.                                      |
 
 

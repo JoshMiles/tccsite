@@ -1,20 +1,20 @@
 ---
 category: P01/40-to-49-Articles
-id: P01.11.01
-title: "40-to-49-Articles"
-alias: P01-11-01
+id: P01.40.01
+title: "index"
+alias: P01-40-01
 ---
-###### You are currently in P01-11-01
+###### You are currently in P01-40-01
 
 The articles used in the research
 
-- P01-11-41 Article Archive
-- P01-11-42 Article Notes
+- P01-40-41 Article Archive
+- P01-40-42 Article Notes
 
-| File                                                                                        | Created                       | ID        |
-| ------------------------------------------------------------------------------------------- | ----------------------------- | --------- |
-| [[./41-Article-Archive/index\|P01-41-01]] | 12:39 PM - September 19, 2023 | P01.41.01 |
-| [[./42-Article-Notes/index\|P01-42-01]]   | 12:39 PM - September 19, 2023 | P01.42.01 |
-| [[index\|P01-40-01]]                    | 12:39 PM - September 19, 2023 | P01.11.01 |
+| J.Dec ID  | File                                                                                | Location                                                        | Created                      |
+| --------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------- |
+| P01.41.01 | [[./41-Article-Archive/index\|index]] | Cases/P01-Case-of-John-Doe/40-to-49-Articles/41-Article-Archive | 1:34 PM - September 19, 2023 |
+| P01.42.01 | [[./42-Article-Notes/index\|index]]   | Cases/P01-Case-of-John-Doe/40-to-49-Articles/42-Article-Notes   | 1:34 PM - September 19, 2023 |
+| P01.40.01 | [[index\|index]]                    | Cases/P01-Case-of-John-Doe/40-to-49-Articles                    | 1:34 PM - September 19, 2023 |
 
 

@@ -1,19 +1,19 @@
 ---
 category: P01/90-to-99-Miscellaneous
-id: P01.73.01
-title: "90-to-99-Miscellaneous"
-alias: P01-73-01
+id: P01.90.01
+title: "index"
+alias: P01-90-01
 ---
-###### You are currently in P01-73-01
+###### You are currently in P01-90-01
 
 Misc files. Includes the script
 
-- P01-73-91 Script
+- P01-90-91 Script
 
-| File                                                                                                          | Created                       | ID        |
-| ------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------- |
-| [[./91-Script/index\|P01-91-01]]                       | 12:39 PM - September 19, 2023 | P01.91.01 |
-| [[./91-Script/92-The-Script\|P01-91-02-The-Script]] | 12:39 PM - September 19, 2023 | P01.77.01 |
-| [[index\|P01-90-01]]                                 | 12:39 PM - September 19, 2023 | P01.73.01 |
+| J.Dec ID  | File                                                                                            | Location                                                    | Created                      |
+| --------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------- |
+| P01.91.01 | [[./91-Script/index\|index]]                 | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous/91-Script | 1:34 PM - September 19, 2023 |
+| P01.91.02 | [[./91-Script/92-The-Script\|02-The-Script]] | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous/91-Script | 1:34 PM - September 19, 2023 |
+| P01.90.01 | [[index\|index]]                           | Cases/P01-Case-of-John-Doe/90-to-99-Miscellaneous           | 1:34 PM - September 19, 2023 |
 
 

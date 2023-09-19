@@ -15,9 +15,9 @@ Important dates pertaining to the case
 
 The dates are structured as follows: `YYYY-MM-DD DAY MONTH DATE YEAR` e.g `2020-12-25 Friday December 25th 2020`
 
-| File                                                                                                          | Created                      | ID        |
-| ------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------- |
-| [[./11-Background-Dates/index\|P01-11-01]]    | 6:47 PM - September 18, 2023 | P01.11.01 |
-| [[./12-Crime-Dates/index\|P01-12-01]]         | 6:47 PM - September 18, 2023 | P01.12.01 |
-| [[./13-Investigation-Dates/index\|P01-13-01]] | 6:47 PM - September 18, 2023 | P01.13.01 |
-| [[index\|P01-10-01]]                        | 6:47 PM - September 18, 2023 | P01.10.01 |
+| File                                                                                              | Created                       | ID        |
+| ------------------------------------------------------------------------------------------------- | ----------------------------- | --------- |
+| [[./11-Background-Dates/index\|P01-11-01]]    | 12:39 PM - September 19, 2023 | P01.11.01 |
+| [[./12-Crime-Dates/index\|P01-12-01]]         | 12:39 PM - September 19, 2023 | P01.12.01 |
+| [[./13-Investigation-Dates/index\|P01-13-01]] | 12:39 PM - September 19, 2023 | P01.13.01 |
+| [[index\|P01-10-01]]                        | 12:39 PM - September 19, 2023 | P01.10.01 |

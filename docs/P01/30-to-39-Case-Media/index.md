@@ -1,10 +1,20 @@
 ---
-category: P01/30-to-39-Case-Media
-id: P01.30.01
+category: "P01/30-to-39-Case-Media"
+jid: "P01.30.01"
+pro: "P01"
+ac: "30"
+id: "01"
+jarea: "30-39 Case Media"
+jcat: "30 Index"
+desc: "All images and videos pertaining to the case."
+friendlyname: "Case Media"
 title: "index"
-alias: P01-30-01
+alias: "P01-30-01"
 ---
-###### You are currently in P01-30-01
+>[!info]- Location: P01.30.01
+>**Area:** P01 - 30-39 Case Media
+>**Category:** 30 - 30 Index
+>**ID:** 01 - Case Media
 
 All images and videos pertaining to the case.
 
@@ -14,13 +24,13 @@ All images and videos pertaining to the case.
 - P01-30-34 Press video
 - P01-30-35 Case Video
 
-| J.Dec ID  | File                                                                              | Location                                                      | Created                      |
-| --------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------- |
-| P01.31.01 | [[./31-Crime-Scene/index\|index]] | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/31-Crime-Scene | 1:34 PM - September 19, 2023 |
-| P01.32.01 | [[./32-People/index\|index]]      | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/32-People      | 1:34 PM - September 19, 2023 |
-| P01.33.01 | [[./33-Locations/index\|index]]   | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/33-Locations   | 1:34 PM - September 19, 2023 |
-| P01.34.01 | [[./34-Press-Video/index\|index]] | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/34-Press-Video | 1:34 PM - September 19, 2023 |
-| P01.35.01 | [[./35-Case-Video/index\|index]]  | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media/35-Case-Video  | 1:34 PM - September 19, 2023 |
-| P01.30.01 | [[index\|index]]                | Cases/P01-Case-of-John-Doe/30-to-39-Case-Media                | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                              | Friendly Name                                                                           | Description                                            |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [P01.30.01](index.md)                | [Case Media](index.md)                 | All images and videos pertaining to the case.          |
+| [P01.31.01](./31-Crime-Scene/index.md) | [Crime Scene](./31-Crime-Scene/index.md) | Imagery from the crime scene.                          |
+| [P01.32.01](./32-People/index.md)      | [People](./32-People/index.md)           | Images of people involved.                             |
+| [P01.33.01](./33-Locations/index.md)   | [Locations](./33-Locations/index.md)     | Images of the locations involved.                      |
+| [P01.34.01](./34-Press-Video/index.md) | [Press Video](./34-Press-Video/index.md) | Any video clips from the press pertaining to the case. |
+| [P01.35.01](./35-Case-Video/index.md)  | [Case Video](./35-Case-Video/index.md)   | Any video clips from the trial or investigation.       |
 
 

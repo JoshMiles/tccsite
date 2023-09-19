@@ -1,14 +1,25 @@
 ---
-category: P01/50-to-59-Investigation/51-Interviews
-id: P01.51.01
+category: "P01/50-to-59-Investigation/51-Interviews"
+jid: "P01.51.01"
+pro: "P01"
+ac: "51"
+id: "01"
+jarea: "50-59 Investigation"
+jcat: "51 Interviews"
+desc: "Writeups and notes about interviews conducted by law enforcement."
+friendlyname: "Interviews"
 title: "index"
-alias: P01-51-01
+alias: "P01-51-01"
 ---
-###### You are currently in P01-51-01
+>[!info]- Location: P01.51.01
+>**Area:** P01 - 50-59 Investigation
+>**Category:** 51 - 51 Interviews
+>**ID:** 01 - Interviews
+
 
 Writeups and notes about interviews conducted by law enforcement
 
-| J.Dec ID  | File                                                                                | Location                                                        | Created                      |
-| --------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------- |
-| P01.51.01 | [[index\|index]] | Cases/P01-Case-of-John-Doe/50-to-59-Investigation/51-Interviews | 1:34 PM - September 19, 2023 |
+| J.Dec ID                                                                                | Friendly Name                                                                            | Description                                                       |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [P01.51.01](index.md) | [Interviews](index.md) | Writeups and notes about interviews conducted by law enforcement. |
 

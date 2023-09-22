@@ -1,5 +1,5 @@
 ---
-category: "P01/80-to-89-Trial"
+category: "P01//80-to-89-Trial"
 jid: "P01.80.01"
 pro: "P01"
 ac: "80"
@@ -16,16 +16,17 @@ alias: "P01-80-01"
 >**Category:** 80 - 80 Index
 >**ID:** 01 - Trial
 
-Details of the trial
+# Trial
 
-- P01-80-81 Hearings
-- P01-80-82 Trial Proceedings
-- P01-80-83 Judgement
--  P01-80-84 Sentencing
--  P01-80-85 Appeal
+Details of the trial 
 
-| J.Dec ID                                                                               | Friendly Name                                                                                  | Description                                                     |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+
+
+---
+# In This Category
+
+| J.Dec ID                                                                       | Friendly Name                                                                          | Description                                                     |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [P01.80.01](index.md)                      | [Trial](index.md)                                  | Details of the trial.                                           |
 | [P01.81.01](./81-Hearings/index.md)          | [Hearings](./81-Hearings/index.md)                   | Any details of pre-trial hearings, prelim hearings or hearings. |
 | [P01.82.01](./82-Trial-Proceedings/index.md) | [Trial Proceedings](./82-Trial-Proceedings/index.md) | Anything and everything that happened during trial.             |
@@ -34,3 +35,6 @@ Details of the trial
 | [P01.85.01](./85-Appeal/index.md)            | [Appeal](./85-Appeal/index.md)                       | If applicable, information about appeal(s).                     |
 
 
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

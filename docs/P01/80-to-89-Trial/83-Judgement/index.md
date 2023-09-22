@@ -1,5 +1,5 @@
 ---
-category: "P01/80-to-89-Trial/83-Judgement"
+category: "P01//80-to-89-Trial/83-Judgement"
 jid: "P01.83.01"
 pro: "P01"
 ac: "83"
@@ -16,9 +16,20 @@ alias: "P01-83-01"
 >**Category:** 83 - 83 Judgement
 >**ID:** 01 - Judgement
 
-Details regarding the judgement outcome from trial
+# Judgement
 
-| J.Dec ID                                                                       | Friendly Name                                                                  | Description                                         |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | --------------------------------------------------- |
+Details regarding the judgement outcome from trial
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                               | Friendly Name                                                          | Description                                         |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------- |
 | [P01.83.01](index.md) | [Judgement](index.md) | Details regarding the judgement outcome from trial. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

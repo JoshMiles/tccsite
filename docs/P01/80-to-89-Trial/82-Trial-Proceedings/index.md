@@ -1,5 +1,5 @@
 ---
-category: "P01/80-to-89-Trial/82-Trial-Proceedings"
+category: "P01//80-to-89-Trial/82-Trial-Proceedings"
 jid: "P01.82.01"
 pro: "P01"
 ac: "82"
@@ -16,10 +16,20 @@ alias: "P01-82-01"
 >**Category:** 82 - 82 Trial Proceedings
 >**ID:** 01 - Trial Proceedings
 
+# Trial Proceedings
 
 Anything and everything that happened during trial
+ 
 
-| J.Dec ID                                                                               | Friendly Name                                                                                  | Description                                         |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+
+---
+# In This Category
+
+| J.Dec ID                                                                       | Friendly Name                                                                          | Description                                         |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [P01.82.01](index.md) | [Trial Proceedings](index.md) | Anything and everything that happened during trial. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

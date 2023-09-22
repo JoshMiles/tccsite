@@ -1,5 +1,5 @@
 ---
-category: "P01/30-to-39-Case-Media/35-Case-Video"
+category: "P01//30-to-39-Case-Media/35-Case-Video"
 jid: "P01.35.01"
 pro: "P01"
 ac: "35"
@@ -16,9 +16,20 @@ alias: "P01-35-01"
 >**Category:** 35 - 35 Case Video
 >**ID:** 01 - Case Video
 
-Any video clips from the trial or investigation
+# Case Video
 
-| J.Dec ID                                                                             | Friendly Name                                                                         | Description                                      |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
+Any video clips from the trial or investigation
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                                     | Friendly Name                                                                 | Description                                      |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
 | [P01.35.01](index.md) | [Case Video](index.md) | Any video clips from the trial or investigation. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

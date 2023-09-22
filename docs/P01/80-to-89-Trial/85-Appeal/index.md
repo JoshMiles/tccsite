@@ -1,5 +1,5 @@
 ---
-category: "P01/80-to-89-Trial/85-Appeal"
+category: "P01//80-to-89-Trial/85-Appeal"
 jid: "P01.85.01"
 pro: "P01"
 ac: "85"
@@ -16,10 +16,20 @@ alias: "P01-85-01"
 >**Category:** 85 - 85 Appeal
 >**ID:** 01 - Appeal
 
+# Appeal
 
 If applicable, information about appeal(s)
+ 
 
-| J.Dec ID                                                                    | Friendly Name                                                            | Description                                 |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
+
+---
+# In This Category
+
+| J.Dec ID                                                            | Friendly Name                                                    | Description                                 |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------- |
 | [P01.85.01](index.md) | [Appeal](index.md) | If applicable, information about appeal(s). |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

@@ -1,5 +1,5 @@
 ---
-category: "P01/30-to-39-Case-Media"
+category: "P01//30-to-39-Case-Media"
 jid: "P01.30.01"
 pro: "P01"
 ac: "30"
@@ -16,16 +16,17 @@ alias: "P01-30-01"
 >**Category:** 30 - 30 Index
 >**ID:** 01 - Case Media
 
+# Case Media
+
 All images and videos pertaining to the case.
 
-- P01-30-31 Crime Scene
-- P01-30-32 People
--  P01-30-33 Locations
-- P01-30-34 Press video
-- P01-30-35 Case Video
 
-| J.Dec ID                                                                              | Friendly Name                                                                           | Description                                            |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+
+---
+# In This Category
+
+| J.Dec ID                                                                      | Friendly Name                                                                   | Description                                            |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [P01.30.01](index.md)                | [Case Media](index.md)                 | All images and videos pertaining to the case.          |
 | [P01.31.01](./31-Crime-Scene/index.md) | [Crime Scene](./31-Crime-Scene/index.md) | Imagery from the crime scene.                          |
 | [P01.32.01](./32-People/index.md)      | [People](./32-People/index.md)           | Images of people involved.                             |
@@ -34,3 +35,6 @@ All images and videos pertaining to the case.
 | [P01.35.01](./35-Case-Video/index.md)  | [Case Video](./35-Case-Video/index.md)   | Any video clips from the trial or investigation.       |
 
 
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

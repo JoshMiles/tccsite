@@ -1,5 +1,5 @@
 ---
-category: "P01/70-to-79-People"
+category: "P01//70-to-79-People"
 jid: "P01.70.01"
 pro: "P01"
 ac: "70"
@@ -16,18 +16,17 @@ alias: "P01-70-01"
 >**Category:** 70 - 70 Index
 >**ID:** 01 - People
 
+# People
+
 The people connected to the case
 
-- P01-70-71 Victim(s)
-- P01-70-72 Suspects and People of Interest
-- P01-70-73 Family and Friends
--  P01-70-74 Witnesses
--  P01-70-75 Police and Detectives
--  P01-70-76 Experts
--  P01-70-77 Legal Teams
 
-| J.Dec ID                                                                                              | Friendly Name                                                                                                               | Description                                                                                                    |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+
+---
+# In This Category
+
+| J.Dec ID                                                                                      | Friendly Name                                                                                                       | Description                                                                                                    |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [P01.70.01](index.md)                                    | [People](index.md)                                                             | The people connected to the case.                                                                              |
 | [P01.71.01](./71-Victims/index.md)                         | [Victims](./71-Victims/index.md)                                                 | Profiles about the victim or victims                                                                           |
 | [P01.72.01](./72-Suspects-and-People-of-Interest/index.md) | [Suspects and People of Interest](./72-Suspects-and-People-of-Interest/index.md) | Profiles about any suspects and/or people of interest.                                                         |
@@ -38,3 +37,6 @@ The people connected to the case
 | [P01.77.01](./77-Legal-Teams/index.md)                     | [Legal Teams](./77-Legal-Teams/index.md)                                         | Profiles of individuals on legal teams.                                                                        |
 
 
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

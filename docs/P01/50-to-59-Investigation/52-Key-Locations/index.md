@@ -1,5 +1,5 @@
 ---
-category: "P01/50-to-59-Investigation/52-Key-Locations"
+category: "P01//50-to-59-Investigation/52-Key-Locations"
 jid: "P01.52.01"
 pro: "P01"
 ac: "52"
@@ -16,9 +16,20 @@ alias: "P01-52-01"
 >**Category:** 52 - 52 Key Locations
 >**ID:** 01 - Key Locations
 
-Information and notes about key locations pertaining to the case
+# Key Locations
 
-| J.Dec ID                                                                                   | Friendly Name                                                                                  | Description                                                       |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+Information and notes about key locations pertaining to the case
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                                           | Friendly Name                                                                          | Description                                                       |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [P01.52.01](index.md) | [Key Locations](index.md) | Information and notes about key locations pertaining to the case. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

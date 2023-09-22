@@ -1,5 +1,5 @@
 ---
-category: "P01/70-to-79-People/74-Witnesses"
+category: "P01//70-to-79-People/74-Witnesses"
 jid: "P01.74.01"
 pro: "P01"
 ac: "74"
@@ -16,9 +16,20 @@ alias: "P01-74-01"
 >**Category:** 74 - 74 Witnesses
 >**ID:** 01 - Witnesses
 
-Profiles about witnesses
+# Witnesses
 
-| J.Dec ID                                                                        | Friendly Name                                                                   | Description               |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
+Profiles about witnesses
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                                | Friendly Name                                                           | Description               |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------- |
 | [P01.74.01](index.md) | [Witnesses](index.md) | Profiles about witnesses. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

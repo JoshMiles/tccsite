@@ -1,5 +1,5 @@
 ---
-category: "P01//80-to-89-Trial/82-Trial-Proceedings"
+category: "P01/80-to-89-Trial/82-Trial-Proceedings"
 jid: "P01.82.01"
 pro: "P01"
 ac: "82"
@@ -7,16 +7,16 @@ id: "01"
 jarea: "80-89 Trial"
 jcat: "82 Trial Proceedings"
 desc: "Anything and everything that happened during trial."
-friendlyname: "Trial Proceedings"
+friendlyname: "Trial Proceedings Index"
 title: "index"
-alias: "P01-82-01"
+alias: "P01-82-01, Trial Proceedings Index"
 ---
 >[!info]- Location: P01.82.01
 >**Area:** P01 - 80-89 Trial
 >**Category:** 82 - 82 Trial Proceedings
->**ID:** 01 - Trial Proceedings
+>**ID:** 01 - Trial Proceedings Index
 
-# Trial Proceedings
+# Trial Proceedings Index
 
 Anything and everything that happened during trial
  
@@ -25,9 +25,9 @@ Anything and everything that happened during trial
 ---
 # In This Category
 
-| J.Dec ID                                                                       | Friendly Name                                                                          | Description                                         |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [P01.82.01](index.md) | [Trial Proceedings](index.md) | Anything and everything that happened during trial. |
+| J.Dec ID                                                                       | Friendly Name                                                                                | Description                                         |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [P01.82.01](index.md) | [Trial Proceedings Index](index.md) | Anything and everything that happened during trial. |
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-category: "P01/80-to-89-Trial/81-Hearings"
+category: "P01//80-to-89-Trial/81-Hearings"
 jid: "P01.81.01"
 pro: "P01"
 ac: "81"
@@ -16,9 +16,20 @@ alias: "P01-81-01"
 >**Category:** 81 - 81 Hearings
 >**ID:** 01 - Hearings
 
-Any details of pre-trial hearings, prelim hearings or hearings
+# Hearings
 
-| J.Dec ID                                                                      | Friendly Name                                                                | Description                                                     |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- |
+Any details of pre-trial hearings, prelim hearings or hearings
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                              | Friendly Name                                                        | Description                                                     |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [P01.81.01](index.md) | [Hearings](index.md) | Any details of pre-trial hearings, prelim hearings or hearings. |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

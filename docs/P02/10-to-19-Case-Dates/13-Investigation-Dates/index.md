@@ -1,0 +1,97 @@
+---
+category: P02/10-to-19-Case-Dates/13-Investigation-Dates
+jid: P02.13.01
+pro: P02
+ac: "13"
+id: "01"
+jarea: 10-19 Case Dates
+jcat: 13 Investigation Dates
+desc: This includes dates referenced from the investigation process.
+friendlyname: Investigation Dates Index
+title: index
+aliases:
+  - P02-13-01
+  - Investigation Dates Index
+---
+>[!info]- Location: P02.13.01
+>**Area:** P02 - 10-19 Case Dates
+>**Category:** 13 - 13 Investigation Dates
+>**ID:** 01 - Investigation Dates
+
+# Investigation Dates
+
+This includes dates referenced from the investigation process
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                                                                                                                          | Friendly Name                                                                                                                                                     | Description                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [2013-02-14 Thursday February 14th 2013](../../../hidden/2013-02-14%20Thursday%20February%2014th%202013.md)   | [2013-02-14 Thursday February 14th 2013](../../../hidden/2013-02-14%20Thursday%20February%2014th%202013.md)   | \-                                                             |
+| [2013-02-15 Friday February 15th 2013](../../../hidden/2013-02-15%20Friday%20February%2015th%202013.md)       | [2013-02-15 Friday February 15th 2013](../../../hidden/2013-02-15%20Friday%20February%2015th%202013.md)       | \-                                                             |
+| [2013-02-16 Saturday February 16th 2013](../../../hidden/2013-02-16%20Saturday%20February%2016th%202013.md)   | [2013-02-16 Saturday February 16th 2013](../../../hidden/2013-02-16%20Saturday%20February%2016th%202013.md)   | \-                                                             |
+| [2013-02-27 Wednesday February 27th 2013](../../../hidden/2013-02-27%20Wednesday%20February%2027th%202013.md) | [2013-02-27 Wednesday February 27th 2013](../../../hidden/2013-02-27%20Wednesday%20February%2027th%202013.md) | \-                                                             |
+| [2013-02-21 Thursday February 21st 2013](../../../hidden/2013-02-21%20Thursday%20February%2021st%202013.md)   | [2013-02-21 Thursday February 21st 2013](../../../hidden/2013-02-21%20Thursday%20February%2021st%202013.md)   | \-                                                             |
+| [2013-02-22 Friday February 22nd 2013](../../../hidden/2013-02-22%20Friday%20February%2022nd%202013.md)       | [2013-02-22 Friday February 22nd 2013](../../../hidden/2013-02-22%20Friday%20February%2022nd%202013.md)       | \-                                                             |
+| [2013-02-28 Thursday February 28th 2013](../../../hidden/2013-02-28%20Thursday%20February%2028th%202013.md)   | [2013-02-28 Thursday February 28th 2013](../../../hidden/2013-02-28%20Thursday%20February%2028th%202013.md)   | \-                                                             |
+| [2013-04 April 2013](../../../hidden/2013-04%20April%202013.md)                                           | [2013-04 April 2013](../../../hidden/2013-04%20April%202013.md)                                           | \-                                                             |
+| [2013-04-22 Monday April 22nd 2013](../../../hidden/2013-04-22%20Monday%20April%2022nd%202013.md)             | [2013-04-22 Monday April 22nd 2013](../../../hidden/2013-04-22%20Monday%20April%2022nd%202013.md)             | \-                                                             |
+| [2013-06 June 2013](../../../hidden/2013-06%20June%202013.md)                                             | [2013-06 June 2013](../../../hidden/2013-06%20June%202013.md)                                             | \-                                                             |
+| [2013-05-06 Monday May 6th 2013](../../../hidden/2013-05-06%20Monday%20May%206th%202013.md)                   | [2013-05-06 Monday May 6th 2013](../../../hidden/2013-05-06%20Monday%20May%206th%202013.md)                   | \-                                                             |
+| [2013-06-20 Thursday June 20th 2013](../../../hidden/2013-06-20%20Thursday%20June%2020th%202013.md)           | [2013-06-20 Thursday June 20th 2013](../../../hidden/2013-06-20%20Thursday%20June%2020th%202013.md)           | \-                                                             |
+| [2013-07 July 2013](../../../hidden/2013-07%20July%202013.md)                                             | [2013-07 July 2013](../../../hidden/2013-07%20July%202013.md)                                             | \-                                                             |
+| [2012-10 October 2012](../../../hidden/2012-10%20October%202012.md)                                       | [2012-10 October 2012](../../../hidden/2012-10%20October%202012.md)                                       | \-                                                             |
+| [2013-09-23 Monday September 23rd 2013](../../../hidden/2013-09-23%20Monday%20September%2023rd%202013.md)     | [2013-09-23 Monday September 23rd 2013](../../../hidden/2013-09-23%20Monday%20September%2023rd%202013.md)     | \-                                                             |
+| [2014-04-10 Thursday April 10th 2014](../../../hidden/2014-04-10%20Thursday%20April%2010th%202014.md)         | [2014-04-10 Thursday April 10th 2014](../../../hidden/2014-04-10%20Thursday%20April%2010th%202014.md)         | \-                                                             |
+| [2014-09-29 Monday September 29th 2014](../../../hidden/2014-09-29%20Monday%20September%2029th%202014.md)     | [2014-09-29 Monday September 29th 2014](../../../hidden/2014-09-29%20Monday%20September%2029th%202014.md)     | \-                                                             |
+| [2014-09-30 Tuesday September 30th 2014](../../../hidden/2014-09-30%20Tuesday%20September%2030th%202014.md)   | [2014-09-30 Tuesday September 30th 2014](../../../hidden/2014-09-30%20Tuesday%20September%2030th%202014.md)   | \-                                                             |
+| [2015-01-12 Monday January 12th 2015](../../../hidden/2015-01-12%20Monday%20January%2012th%202015.md)         | [2015-01-12 Monday January 12th 2015](../../../hidden/2015-01-12%20Monday%20January%2012th%202015.md)         | \-                                                             |
+| [2015-01-28 Wednesday January 28th 2015](../../../hidden/2015-01-28%20Wednesday%20January%2028th%202015.md)   | [2015-01-28 Wednesday January 28th 2015](../../../hidden/2015-01-28%20Wednesday%20January%2028th%202015.md)   | \-                                                             |
+| [2015-02-04 Wednesday February 4th 2015](../../../hidden/2015-02-04%20Wednesday%20February%204th%202015.md)   | [2015-02-04 Wednesday February 4th 2015](../../../hidden/2015-02-04%20Wednesday%20February%204th%202015.md)   | \-                                                             |
+| [2015-03-05 Thursday March 5th 2015](../../../hidden/2015-03-05%20Thursday%20March%205th%202015.md)           | [2015-03-05 Thursday March 5th 2015](../../../hidden/2015-03-05%20Thursday%20March%205th%202015.md)           | \-                                                             |
+| [2015-02-23 Monday February 23rd 2015](../../../hidden/2015-02-23%20Monday%20February%2023rd%202015.md)       | [2015-02-23 Monday February 23rd 2015](../../../hidden/2015-02-23%20Monday%20February%2023rd%202015.md)       | \-                                                             |
+| [2013-03-01 Friday March 1st 2013](../../../hidden/2013-03-01%20Friday%20March%201st%202013.md)               | [2013-03-01 Friday March 1st 2013](../../../hidden/2013-03-01%20Friday%20March%201st%202013.md)               | \-                                                             |
+| [2013-03-08 Friday March 8th 2013](../../../hidden/2013-03-08%20Friday%20March%208th%202013.md)               | [2013-03-08 Friday March 8th 2013](../../../hidden/2013-03-08%20Friday%20March%208th%202013.md)               | \-                                                             |
+| [2013-03-12 Tuesday March 12th 2013](../../../hidden/2013-03-12%20Tuesday%20March%2012th%202013.md)           | [2013-03-12 Tuesday March 12th 2013](../../../hidden/2013-03-12%20Tuesday%20March%2012th%202013.md)           | \-                                                             |
+| [2013-03-28 Thursday March 28th 2013](../../../hidden/2013-03-28%20Thursday%20March%2028th%202013.md)         | [2013-03-28 Thursday March 28th 2013](../../../hidden/2013-03-28%20Thursday%20March%2028th%202013.md)         | \-                                                             |
+| [2014-04-08 Monday April 8th 2014](../../../hidden/2014-04-08%20Monday%20April%208th%202014.md)               | [2014-04-08 Monday April 8th 2014](../../../hidden/2014-04-08%20Monday%20April%208th%202014.md)               | \-                                                             |
+| [2013-04-10 Wednesday April 10th 2013](../../../hidden/2013-04-10%20Wednesday%20April%2010th%202013.md)       | [2013-04-10 Wednesday April 10th 2013](../../../hidden/2013-04-10%20Wednesday%20April%2010th%202013.md)       | \-                                                             |
+| [2013-04-24 Wednesday April 24th 2013](../../../hidden/2013-04-24%20Wednesday%20April%2024th%202013.md)       | [2013-04-24 Wednesday April 24th 2013](../../../hidden/2013-04-24%20Wednesday%20April%2024th%202013.md)       | \-                                                             |
+| [2013-06-14 Friday June 14th 2013](../../../hidden/2013-06-14%20Friday%20June%2014th%202013.md)               | [2013-06-14 Friday June 14th 2013](../../../hidden/2013-06-14%20Friday%20June%2014th%202013.md)               | \-                                                             |
+| [2013-06-19 Wednesday June 19th 2013](../../../hidden/2013-06-19%20Wednesday%20June%2019th%202013.md)         | [2013-06-19 Wednesday June 19th 2013](../../../hidden/2013-06-19%20Wednesday%20June%2019th%202013.md)         | \-                                                             |
+| [2013-06-22 Saturday June 22nd 2013](../../../hidden/2013-06-22%20Saturday%20June%2022nd%202013.md)           | [2013-06-22 Saturday June 22nd 2013](../../../hidden/2013-06-22%20Saturday%20June%2022nd%202013.md)           | \-                                                             |
+| [2013-06-23 Sunday June 23rd 2013](../../../hidden/2013-06-23%20Sunday%20June%2023rd%202013.md)               | [2013-06-23 Sunday June 23rd 2013](../../../hidden/2013-06-23%20Sunday%20June%2023rd%202013.md)               | \-                                                             |
+| [2013-06-25 Tuesday June 25th 2013](../../../hidden/2013-06-25%20Tuesday%20June%2025th%202013.md)             | [2013-06-25 Tuesday June 25th 2013](../../../hidden/2013-06-25%20Tuesday%20June%2025th%202013.md)             | \-                                                             |
+| [2013-06-26 Wednesday June 26th 2013](../../../hidden/2013-06-26%20Wednesday%20June%2026th%202013.md)         | [2013-06-26 Wednesday June 26th 2013](../../../hidden/2013-06-26%20Wednesday%20June%2026th%202013.md)         | \-                                                             |
+| [2013-06-27 Thursday June 27th 2013](../../../hidden/2013-06-27%20Thursday%20June%2027th%202013.md)           | [2013-06-27 Thursday June 27th 2013](../../../hidden/2013-06-27%20Thursday%20June%2027th%202013.md)           | \-                                                             |
+| [2014-05-02 Friday May 2nd 2014](../../../hidden/2014-05-02%20Friday%20May%202nd%202014.md)                   | [2014-05-02 Friday May 2nd 2014](../../../hidden/2014-05-02%20Friday%20May%202nd%202014.md)                   | \-                                                             |
+| [2014-06-13 Friday June 13th 2014](../../../hidden/2014-06-13%20Friday%20June%2013th%202014.md)               | [2014-06-13 Friday June 13th 2014](../../../hidden/2014-06-13%20Friday%20June%2013th%202014.md)               | \-                                                             |
+| [2013-06-28 Friday June 28th 2013](../../../hidden/2013-06-28%20Friday%20June%2028th%202013.md)               | [2013-06-28 Friday June 28th 2013](../../../hidden/2013-06-28%20Friday%20June%2028th%202013.md)               | \-                                                             |
+| [2016-06-12 Monday June 13th 2016](../../../hidden/2016-06-12%20Monday%20June%2013th%202016.md)               | [2016-06-12 Monday June 13th 2016](../../../hidden/2016-06-12%20Monday%20June%2013th%202016.md)               | \-                                                             |
+| [2017-01-09 Monday January 9th 2017](../../../hidden/2017-01-09%20Monday%20January%209th%202017.md)           | [2017-01-09 Monday January 9th 2017](../../../hidden/2017-01-09%20Monday%20January%209th%202017.md)           | \-                                                             |
+| [2017-08-02 Wednesday August 2nd 2017](../../../hidden/2017-08-02%20Wednesday%20August%202nd%202017.md)       | [2017-08-02 Wednesday August 2nd 2017](../../../hidden/2017-08-02%20Wednesday%20August%202nd%202017.md)       | \-                                                             |
+| [2017-08-11 Friday August 11th 2017](../../../hidden/2017-08-11%20Friday%20August%2011th%202017.md)           | [2017-08-11 Friday August 11th 2017](../../../hidden/2017-08-11%20Friday%20August%2011th%202017.md)           | \-                                                             |
+| [2015-02-17 Tuesday February 17th 2015](../../../hidden/2015-02-17%20Tuesday%20February%2017th%202015.md)     | [2015-02-17 Tuesday February 17th 2015](../../../hidden/2015-02-17%20Tuesday%20February%2017th%202015.md)     | \-                                                             |
+| [2015-03-10 Tuesday March 10th 2015](../../../hidden/2015-03-10%20Tuesday%20March%2010th%202015.md)           | [2015-03-10 Tuesday March 10th 2015](../../../hidden/2015-03-10%20Tuesday%20March%2010th%202015.md)           | \-                                                             |
+| [2015-03-09 Monday March 9th 2015](../../../hidden/2015-03-09%20Monday%20March%209th%202015.md)               | [2015-03-09 Monday March 9th 2015](../../../hidden/2015-03-09%20Monday%20March%209th%202015.md)               | \-                                                             |
+| [2013-09-12 Monday September 12th 2013](../../../hidden/2013-09-12%20Monday%20September%2012th%202013.md)     | [2013-09-12 Monday September 12th 2013](../../../hidden/2013-09-12%20Monday%20September%2012th%202013.md)     | \-                                                             |
+| [2013-12-13 Friday December 13th 2013](../../../hidden/2013-12-13%20Friday%20December%2013th%202013.md)       | [2013-12-13 Friday December 13th 2013](../../../hidden/2013-12-13%20Friday%20December%2013th%202013.md)       | \-                                                             |
+| [2014-03-28 Friday March 28th 2014](../../../hidden/2014-03-28%20Friday%20March%2028th%202014.md)             | [2014-03-28 Friday March 28th 2014](../../../hidden/2014-03-28%20Friday%20March%2028th%202014.md)             | \-                                                             |
+| [2014-03-27 Thursday March 27th 2014](../../../hidden/2014-03-27%20Thursday%20March%2027th%202014.md)         | [2014-03-27 Thursday March 27th 2014](../../../hidden/2014-03-27%20Thursday%20March%2027th%202014.md)         | \-                                                             |
+| [2015-02-25 Wednesday February 25th 2015](../../../hidden/2015-02-25%20Wednesday%20February%2025th%202015.md) | [2015-02-25 Wednesday February 25th 2015](../../../hidden/2015-02-25%20Wednesday%20February%2025th%202015.md) | \-                                                             |
+| [2014-04-04 Friday April 4th 2014](../../../hidden/2014-04-04%20Friday%20April%204th%202014.md)               | [2014-04-04 Friday April 4th 2014](../../../hidden/2014-04-04%20Friday%20April%204th%202014.md)               | \-                                                             |
+| [2014-04-09 Tuesday April 9th 2014](../../../hidden/2014-04-09%20Tuesday%20April%209th%202014.md)             | [2014-04-09 Tuesday April 9th 2014](../../../hidden/2014-04-09%20Tuesday%20April%209th%202014.md)             | \-                                                             |
+| [2014-04-29 Tuesday April 29th 2014](../../../hidden/2014-04-29%20Tuesday%20April%2029th%202014.md)           | [2014-04-29 Tuesday April 29th 2014](../../../hidden/2014-04-29%20Tuesday%20April%2029th%202014.md)           | \-                                                             |
+| [2014-05-20 Tuesday May 20th 2014](../../../hidden/2014-05-20%20Tuesday%20May%2020th%202014.md)               | [2014-05-20 Tuesday May 20th 2014](../../../hidden/2014-05-20%20Tuesday%20May%2020th%202014.md)               | \-                                                             |
+| [2014-12-05 Friday December 5th 2014](../../../hidden/2014-12-05%20Friday%20December%205th%202014.md)         | [2014-12-05 Friday December 5th 2014](../../../hidden/2014-12-05%20Friday%20December%205th%202014.md)         | \-                                                             |
+| [2015-01-07 Wednesday January 7th 2015](../../../hidden/2015-01-07%20Wednesday%20January%207th%202015.md)     | [2015-01-07 Wednesday January 7th 2015](../../../hidden/2015-01-07%20Wednesday%20January%207th%202015.md)     | \-                                                             |
+| [2015-02-20 Friday February 20th 2015](../../../hidden/2015-02-20%20Friday%20February%2020th%202015.md)       | [2015-02-20 Friday February 20th 2015](../../../hidden/2015-02-20%20Friday%20February%2020th%202015.md)       | \-                                                             |
+| [2014-09-17 September 17th 2014](../../../hidden/2014-09-17%20September%2017th%202014.md)                   | [2014-09-17 September 17th 2014](../../../hidden/2014-09-17%20September%2017th%202014.md)                   | \-                                                             |
+| [P02.13.01](index.md)                                                                 | [Investigation Dates Index](index.md)                                                 | This includes dates referenced from the investigation process. |
+
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

@@ -1,5 +1,5 @@
 ---
-category: "P01//40-to-49-Articles/41-Article-Archive"
+category: "P01/40-to-49-Articles/41-Article-Archive"
 jid: "P01.41.01"
 pro: "P01"
 ac: "41"
@@ -7,16 +7,16 @@ id: "01"
 jarea: "40-49 Articles"
 jcat: "41 Article Archive"
 desc: "Snapshots of the articles referenced."
-friendlyname: "Article Archive"
+friendlyname: "Article Archive Index"
 title: "index"
-alias: "P01-41-01"
+alias: "P01-41-01, Article Archive Index"
 ---
 >[!info]- Location: P01.41.01
 >**Area:** P01 - 40-49 Articles
 >**Category:** 41 - 41 Article Archive
->**ID:** 01 - Article Archive
+>**ID:** 01 - Article Archive Index
 
-# Article Archive
+# Article Archive Index
 
 Snapshots of the articles referenced
  
@@ -25,9 +25,9 @@ Snapshots of the articles referenced
 ---
 # In This Category
 
-| J.Dec ID                                                                        | Friendly Name                                                                         | Description                           |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- |
-| [P01.41.01](index.md) | [Article Archive](index.md) | Snapshots of the articles referenced. |
+| J.Dec ID                                                                        | Friendly Name                                                                               | Description                           |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [P01.41.01](index.md) | [Article Archive Index](index.md) | Snapshots of the articles referenced. |
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-category: "P01/70-to-79-People/71-Victims"
+category: "P01//70-to-79-People/71-Victims"
 jid: "P01.71.01"
 pro: "P01"
 ac: "71"
@@ -16,9 +16,20 @@ alias: "P01-71-01"
 >**Category:** 71 - 71 Victims
 >**ID:** 01 - Victims
 
-Profiles about the victim or victims
+# Victims
 
-| J.Dec ID                                                                      | Friendly Name                                                               | Description                          |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
+Profiles about the victim or victims
+ 
+
+
+---
+# In This Category
+
+| J.Dec ID                                                              | Friendly Name                                                       | Description                          |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------ |
 | [P01.71.01](index.md) | [Victims](index.md) | Profiles about the victim or victims |
 
+
+---
+# Backlinks
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">1</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>

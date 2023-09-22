@@ -1,5 +1,5 @@
 ---
-category: "P01//50-to-59-Investigation/53-Timeline"
+category: "P01/50-to-59-Investigation/53-Timeline"
 jid: "P01.53.02"
 pro: "P01"
 ac: "53"
@@ -9,7 +9,7 @@ jcat: "53 Timeline"
 desc: "Detailed timeline of events."
 friendlyname: "Detailed Timeline"
 title: "02-Detailed-Timeline"
-alias: "P01-53-02"
+alias: "P01-53-02, Detailed Timeline"
 ---
 >[!info]- Location: P01.53.02
 >**Area:** P01 - 50-59 Investigation
@@ -28,7 +28,7 @@ alias: "P01-53-02"
 
 | J.Dec ID                                                                                     | Friendly Name                                                                                        | Description                      |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [P01.53.01](./index.md)                | [Timeline](./index.md)                         | Contains the timeline of events. |
+| [P01.53.01](./index.md)                | [Timeline Index](./index.md)                   | Contains the timeline of events. |
 | [P01.53.02](02-Detailed-Timeline.md) | [Detailed Timeline](02-Detailed-Timeline.md) | Detailed timeline of events.     |
 
 

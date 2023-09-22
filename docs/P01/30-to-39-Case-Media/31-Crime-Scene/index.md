@@ -1,5 +1,5 @@
 ---
-category: "P01//30-to-39-Case-Media/31-Crime-Scene"
+category: "P01/30-to-39-Case-Media/31-Crime-Scene"
 jid: "P01.31.01"
 pro: "P01"
 ac: "31"
@@ -7,16 +7,16 @@ id: "01"
 jarea: "30-39 Case Media"
 jcat: "31 Crime Scene"
 desc: "Imagery from the crime scene."
-friendlyname: "Crime Scene"
+friendlyname: "Crime Scene Index"
 title: "index"
-alias: "P01-31-01"
+alias: "P01-31-01, Crime Scene Index"
 ---
 >[!info]- Location: P01.31.01
 >**Area:** P01 - 30-39 Case Media
 >**Category:** 31 - 31 Crime Scene
->**ID:** 01 - Crime Scene
+>**ID:** 01 - Crime Scene Index
 
-# Crime Scene
+# Crime Scene Index
 
 Imagery from the crime scene
  
@@ -25,9 +25,9 @@ Imagery from the crime scene
 ---
 # In This Category
 
-| J.Dec ID                                                                      | Friendly Name                                                                   | Description                   |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------- |
-| [P01.31.01](index.md) | [Crime Scene](index.md) | Imagery from the crime scene. |
+| J.Dec ID                                                                      | Friendly Name                                                                         | Description                   |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- |
+| [P01.31.01](index.md) | [Crime Scene Index](index.md) | Imagery from the crime scene. |
 
 
 ---

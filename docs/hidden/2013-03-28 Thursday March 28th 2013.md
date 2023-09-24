@@ -1,7 +1,0 @@
----
-title: 2013-03-28 Thursday March 28th 2013
-date created: Wednesday, August 30th 2023, 3:51:06 pm
-date modified: Sunday, September 17th 2023, 9:18:32 pm
----
-
-# 2013-03-28 Thursday March 28th 2013

@@ -21,9 +21,9 @@ aliases:
 # Smith v. Uttecht File Notes  
   
   
-[../22-PDFs/23 Smith v. Uttecht.pdf](../../../assets/attachments/23 Smith v. Uttecht.pdf)  
+[../22-PDFs/24_Smith_v_Uttecht.pdf](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
   
-![](../../../assets/attachments/23 Smith v. Uttecht.pdf)  
+![](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) was serving his #sentence at Coyote Ridge Corrections Centre in [Connel, Washington](https://en.wikipedia.org/wiki/Connell,_Washington) in 2022.  
   

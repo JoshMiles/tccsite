@@ -22,9 +22,9 @@ aliases:
   
   
   
-[../22-PDFs/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf](../../../assets/attachments/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf)  
+[../22-PDFs/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
-![](../../../assets/attachments/27 13-1-01546-8 138 (MOTION AND AFFIDAVIT DECLARATION).pdf)  
+![](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) moves the Court for an order allowing [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) to seek review at public expense and providing appointment of attorneyt on appeal.  
   

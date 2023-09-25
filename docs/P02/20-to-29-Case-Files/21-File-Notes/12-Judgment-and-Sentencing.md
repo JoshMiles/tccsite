@@ -22,9 +22,9 @@ aliases:
   
   
   
-[../22-PDFs/21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf](../../../assets/attachments/21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf)  
+[../22-PDFs/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
-![](../../../assets/attachments/21 13-1-01546-8 136 (FELONY JUDGMENT AND SENTENCE).pdf)  
+![](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
 1 count of First Degree Murder with a Deadly Weapon (Domestic Violence) ^i5evb  
   

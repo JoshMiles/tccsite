@@ -22,9 +22,9 @@ aliases:
   
   
   
-[../22-PDFs/15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf](../../../assets/attachments/15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf)  
+[../22-PDFs/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
   
-![](../../../assets/attachments/15 13-1-01546-8 105 (STATE'S TRIAL MEMORANDUM).pdf)  
+![](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
   
 ## Homicide Scene and Autopsy Photos  
   

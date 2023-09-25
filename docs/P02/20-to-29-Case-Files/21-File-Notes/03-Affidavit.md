@@ -30,11 +30,11 @@ aliases:
   - affidavit  
   
   
-[../22-PDFs/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../assets/attachments/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf)  
+[../22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
   
 If you are viewing this on truecrimecases.com, you can find the PDF [here](<https://github.com/JoshMiles/truecrimecases/blob/main/P02%20Case%20of%20Susann%20Smith/20-29%20Case%20Files/22%20PDFs/03%2013-1-01546-8%202%20(AFFIDAVIT%20DECLARATION%20PROB%20CAUSE).pdf>).  
   
-![](../../../assets/attachments/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf)  
+![](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
   
 On [02-2013-02-11-Monday-February-11th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/02-2013-02-11-Monday-February-11th-2013.md#), during the early morning hours, [the defendant](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) (dob 1975/07/19) savagely beat, cut and ultimately drowned his estranged wife, [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#) at her [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#) home, located at [216 240th St SW, Bothell, WA](geo:47.78026465,-122.23629542497216).[^1] ^9pr8u  
   
@@ -258,4 +258,4 @@ The state believed that [Alan Smith](../../70-to-79-People/72-Suspects-and-Peopl
   
 # Footnotes  
   
-[^1]: [../22-PDFs/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../assets/attachments/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf)  
+[^1]: [../22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  

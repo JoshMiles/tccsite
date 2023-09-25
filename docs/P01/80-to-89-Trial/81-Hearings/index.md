@@ -27,7 +27,7 @@ Any details of pre-trial hearings, prelim hearings or hearings
   
 | J.Dec ID                                                              | Friendly Name                                                              | Description                                                     |  
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [P01.81.01](index.md) | [Hearings Index](index.md) | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [P01.81.01](index.md#) | [Hearings Index](index.md#) | Any details of pre-trial hearings, prelim hearings or hearings. |  
   
   
 ---  

@@ -20,12 +20,12 @@ aliases:
   
 # Mallet  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^9h1wa)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#9h1wa)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^adwpf)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#adwpf)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^7rrk7)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#7rrk7)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md##^-s0h8)  
+![](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md#s0h8)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md##^k8a71)  
+![](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md#k8a71)  

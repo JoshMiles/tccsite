@@ -20,8 +20,8 @@ aliases:
   
 # CCTV  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^nqxr-)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#nqxr)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^ccr9m)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#ccr9m)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^buz6d)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#buz6d)  

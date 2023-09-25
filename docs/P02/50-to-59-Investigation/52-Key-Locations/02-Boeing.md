@@ -20,6 +20,6 @@ aliases:
   
 # Boeing  
   
-![](../../20-to-29-Case-Files/21-File-Notes/08-Prosecutor_s-Version-of-Events.md##^9188d)  
+![](../../20-to-29-Case-Files/21-File-Notes/08-Prosecutor_s-Version-of-Events.md#9188d)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/08-Prosecutor_s-Version-of-Events.md##^t2yc8)  
+![](../../20-to-29-Case-Files/21-File-Notes/08-Prosecutor_s-Version-of-Events.md#t2yc8)  

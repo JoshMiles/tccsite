@@ -29,13 +29,13 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                                              | Friendly Name                                                                                                      | Description                                                                                 |  
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |  
-| [P02.76.01](index.md)                     | [Experts Index](index.md)                              | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
-| [P02.76.02](./02-Kris-Kern.md)              | [Kris Kern](./02-Kris-Kern.md)                           | Expert                                                                                      |  
-| [P02.76.03](./03-Steve-Stone.md)            | [Steve Stone](./03-Steve-Stone.md)                       | Expert                                                                                      |  
-| [P02.76.04](./04-Sergeant-Shelly-Massey.md) | [Sergeant Shelly Massey](./04-Sergeant-Shelly-Massey.md) | Expert                                                                                      |  
-| [P02.76.05](./05-Dr-Stanley-Adams.md)       | [Dr Stanley Adams](./05-Dr-Stanley-Adams.md)             | Expert                                                                                      |  
-| [P02.76.06](./06-Kathy-Geil.md)             | [Kathy Geil](./06-Kathy-Geil.md)                         | Expert                                                                                      |  
-| [P02.76.07](./07-Mr-Krull.md)               | [Mr Krull](./07-Mr-Krull.md)                             | Expert                                                                                      |  
+| [P02.76.01](index.md#)                     | [Experts Index](index.md#)                              | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [P02.76.02](./02-Kris-Kern.md#)              | [Kris Kern](./02-Kris-Kern.md#)                           | Expert                                                                                      |  
+| [P02.76.03](./03-Steve-Stone.md#)            | [Steve Stone](./03-Steve-Stone.md#)                       | Expert                                                                                      |  
+| [P02.76.04](./04-Sergeant-Shelly-Massey.md#) | [Sergeant Shelly Massey](./04-Sergeant-Shelly-Massey.md#) | Expert                                                                                      |  
+| [P02.76.05](./05-Dr-Stanley-Adams.md#)       | [Dr Stanley Adams](./05-Dr-Stanley-Adams.md#)             | Expert                                                                                      |  
+| [P02.76.06](./06-Kathy-Geil.md#)             | [Kathy Geil](./06-Kathy-Geil.md#)                         | Expert                                                                                      |  
+| [P02.76.07](./07-Mr-Krull.md#)               | [Mr Krull](./07-Mr-Krull.md#)                             | Expert                                                                                      |  
   
   
 ---  

@@ -27,9 +27,9 @@ Misc files. Includes the script
   
 | J.Dec ID                                                                            | Friendly Name                                                                         | Description                       |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P01.90.01](index.md)                   | [Miscellaneous Index](index.md)           | Misc files. Includes the script.  |  
-| [P01.91.01](./91-Script/index.md)         | [Script Folder Index](./91-Script/index.md) | This folder contains the script.  |  
-| [P01.91.02](./91-Script/92-The-Script.md) | [The Script](./91-Script/92-The-Script.md)  | This is the script for this case. |  
+| [P01.90.01](index.md#)                   | [Miscellaneous Index](index.md#)           | Misc files. Includes the script.  |  
+| [P01.91.01](./91-Script/index.md#)         | [Script Folder Index](./91-Script/index.md#) | This folder contains the script.  |  
+| [P01.91.02](./91-Script/92-The-Script.md#) | [The Script](./91-Script/92-The-Script.md#)  | This is the script for this case. |  
   
   
 ---  

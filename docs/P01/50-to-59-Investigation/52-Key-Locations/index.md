@@ -27,7 +27,7 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                           | Friendly Name                                                                                | Description                                                       |  
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P01.52.01](index.md) | [Key Locations Index](index.md) | Information and notes about key locations pertaining to the case. |  
+| [P01.52.01](index.md#) | [Key Locations Index](index.md#) | Information and notes about key locations pertaining to the case. |  
   
   
 ---  

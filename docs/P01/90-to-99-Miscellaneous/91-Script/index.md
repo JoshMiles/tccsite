@@ -29,8 +29,8 @@ This folder contains the script.
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                     | Description                       |  
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P02.91.01](index.md)         | [Script Folder Index](index.md) | This folder contains the script.  |  
-| [P02.91.02](../../../P02/90-to-99-Miscellaneous/91-Script/92-The-Script.md) | [The Script](../../../P02/90-to-99-Miscellaneous/91-Script/92-The-Script.md)  | This is the script for this case. |  
+| [P02.91.01](index.md#)         | [Script Folder Index](index.md#) | This folder contains the script.  |  
+| [P02.91.02](../../../P02/90-to-99-Miscellaneous/91-Script/92-The-Script.md#) | [The Script](../../../P02/90-to-99-Miscellaneous/91-Script/92-The-Script.md#)  | This is the script for this case. |  
   
   
 ---  

@@ -29,10 +29,10 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                      | Description                             |  
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P02.77.01](index.md)           | [Legal Teams Index](index.md)      | Profiles of individuals on legal teams. |  
-| [P02.77.02](./02-John-Ely.md)     | [John Ely](./02-John-Ely.md)         | Divorce Attorney                        |  
-| [P02.77.03](./03-Commissioner.md) | [Commissioner](./03-Commissioner.md) | The Commissioner                        |  
-| [P02.77.04](./04-Judge-Fair.md)   | [Judge Fair](./04-Judge-Fair.md)     | Judge                                   |  
+| [P02.77.01](index.md#)           | [Legal Teams Index](index.md#)      | Profiles of individuals on legal teams. |  
+| [P02.77.02](./02-John-Ely.md#)     | [John Ely](./02-John-Ely.md#)         | Divorce Attorney                        |  
+| [P02.77.03](./03-Commissioner.md#) | [Commissioner](./03-Commissioner.md#) | The Commissioner                        |  
+| [P02.77.04](./04-Judge-Fair.md#)   | [Judge Fair](./04-Judge-Fair.md#)     | Judge                                   |  
   
   
 ---  

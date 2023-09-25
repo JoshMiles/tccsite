@@ -1,4 +1,25 @@
 ---  
+category: "P02/50-to-59-Investigation/53-Timeline"  
+jid: "P02.53.02"  
+pro: "P02"  
+ac: "53"  
+id: "02"  
+jarea: "50-59 Investigation"  
+jcat: "53 Timeline"  
+desc: "Detailed Timeline"  
+friendlyname: "Detailed Timeline"  
+title: "02-Detailed-Timeline"  
+aliases:   
+- "P02.53.02"  
+- "Detailed Timeline"  
+---  
+>[!info]- Location: P02.53.02  
+>**Area:** P02 - 50-59 Investigation  
+>**Category:** 53 - 53 Timeline  
+>**ID:** 02 - Detailed Timeline  
+  
+# Detailed Timeline  
+  
 category: P02/50-to-59-Investigation/53-Timeline  
 jid: P03.53.02  
 pro: P03  
@@ -12,7 +33,7 @@ title: 02-Detailed-Timeline
 aliases:  
   - P03-53-02  
   - Detailed Timeline  
----  
+  
 >[!info]- Location: P03.53.02  
 >**Area:** P03 - 50-59 Investigation  
 >**Category:** 53 - 53 Timeline  
@@ -368,7 +389,7 @@ aliases:
 ## [03-2013-02-14-Thursday-February-14th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/03-2013-02-14-Thursday-February-14th-2013.md#.md#)  
   
 - [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) received the voicemail placed by [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) two days ago.[^252]   
-- An article, [02-2013_02_14---Few-details-in-death-of-Bothell-woman](../../40-to-49-Articles/41-Article-Archive/02-2013_02_14---Few-details-in-death-of-Bothell-woman.md#), is published in The Herald titled "*Few details in death of Bothell woman*" which details the first information the public learnt of what had happened.  
+- An article, [02-2013_02_14Few-details-in-death-of-Bothell-woman](../../40-to-49-Articles/41-Article-Archive/02-2013_02_14Few-details-in-death-of-Bothell-woman.md), is published in The Herald titled "*Few details in death of Bothell woman*" which details the first information the public learnt of what had happened.  
   
 ## [04-2013-02-15-Friday-February-15th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/04-2013-02-15-Friday-February-15th-2013.md#)  
   
@@ -744,7 +765,7 @@ aliases:
   
 # Footnotes  
   
-[^1]: (see [03-Affidavit > #^6un01](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#^6un01)  
+[^1]: (see [03-Affidavit > #^6un01](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#^6un01))  
 [^2]: (see [03-Affidavit > #^5p1e-](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#5p1e))  
 [^3]: (see [../../20-to-29-Case-Files/21-File-Notes/06 Prosecutor's Version of Events > ^1](../../20-to-29-Case-Files/21-File-Notes/08-Prosecutor_s-Version-of-Events.md#1))  
 [^4]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^0s7so](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#0s7so))   
@@ -1013,7 +1034,7 @@ aliases:
 [^267]: (see [../../20-to-29-Case-Files/21-File-Notes/08 State's Trial Memorandum > ^ca0gh](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md#ca0gh))  
 [^268]: (see [../../20-to-29-Case-Files/21-File-Notes/08 State's Trial Memorandum > ^k8a71](../../20-to-29-Case-Files/21-File-Notes/09-State_s-Trial-Memorandum.md#k8a71))  
 [^269]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^t7ybf](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md.md#t7ybf))  
-[^270]: (see [../../40-to-49-Articles/41-Article-Archive/01 2013.02.14 - Few details in death of Bothell woman > ^pnmmr](../../40-to-49-Articles/41-Article-Archive/02-2013_02_14---Few-details-in-death-of-Bothell-woman.md#pnmmr))  
+[^270]: (see [../../40-to-49-Articles/41-Article-Archive/01 2013.02.14 - Few details in death of Bothell woman > ^pnmmr](../../40-to-49-Articles/41-Article-Archive/02-2013_02_14Few-details-in-death-of-Bothell-woman.md#^pnmmr))  
 [^271]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^nlj7p](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#nlj7p))  
 [^272]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^ry8gy](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#ry8gy))  
 [^273]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^3ian2](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#3ian2))  
@@ -1050,22 +1071,22 @@ aliases:
 [^304]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
 [^305]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
 [^306]: (see [../../20-to-29-Case-Files/21-File-Notes/02 Affidavit > ^szlna](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md.md#szlna))  
-[^307]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^aaoit](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#aaoit))  
-[^308]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^zl8xk](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#zl8xk))  
+[^307]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^aaoit](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^aaoit))  
+[^308]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^zl8xk](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^zl8xk))  
 [^309]: (see [../../20-to-29-Case-Files/21-File-Notes/05 Smith v. Uttecht > ^8csm4](../../20-to-29-Case-Files/21-File-Notes/06-Smith-v_-Uttecht.md#8csm4))  
 [^310]: (see [../../20-to-29-Case-Files/21-File-Notes/05 Smith v. Uttecht > ^8csm4](../../20-to-29-Case-Files/21-File-Notes/06-Smith-v_-Uttecht.md.md#8csm4))  
 [^311]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
 [^312]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
 [^313]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
-[^314]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^qdarf](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#qdarf))  
+[^314]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^qdarf](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^qdarf))  
 [^315]: (see [../../20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf))  
-[^316]: (see [../../40-to-49-Articles/41-Article-Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say > ^skuu7](../../40-to-49-Articles/41-Article-Archive/03-2013_04_22---Estranged-husband_-person-of-interest-plans-to-move-into-murdered-wife’s-Bothell-home_-neighbors-say.md#skuu7))  
-[^317]: (see [../../40-to-49-Articles/41-Article-Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say > ^obb02](../../40-to-49-Articles/41-Article-Archive/03-2013_04_22---Estranged-husband_-person-of-interest-plans-to-move-into-murdered-wife’s-Bothell-home_-neighbors-say.md#obb02))  
-[^318]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^yqr41](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#yqr41))  
-[^319]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^ns3xr](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#ns3xr))  
-[^320]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman's killing](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#))  
-[^321]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^f5imz](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#f5imz))  
-[^322]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^9w9nl](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06---Bicycle-could-be-clue-in-Bothell-woman’s-killing.md#9w9nl))  
+[^316]: (see [../../40-to-49-Articles/41-Article-Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say > ^skuu7](../../40-to-49-Articles/41-Article-Archive/03-2013_04_22Estranged-husband_-person-of-interest-plans-to-move-into-murdered-wife_s-Bothell-home_-neighbors-say.md#^skuu7))  
+[^317]: (see [../../40-to-49-Articles/41-Article-Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife’s Bothell home, neighbors say > ^obb02](../../40-to-49-Articles/41-Article-Archive/03-2013_04_22Estranged-husband_-person-of-interest-plans-to-move-into-murdered-wife_s-Bothell-home_-neighbors-say.md#^obb02))  
+[^318]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^yqr41](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^yqr41))  
+[^319]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^ns3xr](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^ns3xr))  
+[^320]: (see [03 2013.05.06 - Bicycle could be clue in Bothell woman's killing](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md))  
+[^321]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^f5imz](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^f5imz))  
+[^322]: (see [../../40-to-49-Articles/41-Article-Archive/03 2013.05.06 - Bicycle could be clue in Bothell woman’s killing > ^9w9nl](../../40-to-49-Articles/41-Article-Archive/04-2013_05_06Bicycle-could-be-clue-in-Bothell-woman_s-killing.md#^9w9nl))  
 [^323]: (see [../../20-to-29-Case-Files/21-File-Notes/04 Appeal > ^yg4k2](../../20-to-29-Case-Files/21-File-Notes/05-Appeal.md#yg4k2))  
 [^324]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^7y10o](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#7y10o))  
 [^325]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^2pkzb](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#2pkzb))  
@@ -1076,12 +1097,12 @@ aliases:
 [^330]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^m-xv2](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#m-xv2))  
 [^331]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^9v173](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#9v173))  
 [^332]: (see [../../20-to-29-Case-Files/21-File-Notes/03 Defence Trial Brief > ^ltznh](../../20-to-29-Case-Files/21-File-Notes/04-Defence-Trial-Brief.md#ltznh))  
-[^333]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^5cc7u](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#5cc7u))  
-[^334]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^3q-8q](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#3q-8q))  
-[^335]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^48s9q](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#48s9q))  
-[^336]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^sn-b7](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#sn-b7))  
-[^337]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^v2gqk](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#v2gqk))  
-[^338]: (see [../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20---Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#))  
+[^333]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^5cc7u](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#^5cc7u))  
+[^334]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^3q-8q](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#^3q-8q))  
+[^335]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^48s9q](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#^48s9q))  
+[^336]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^sn-b7](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#^sn-b7))  
+[^337]: (see [../../40-to-49-Articles/41-Article-Archive/04 2013.06.20 - Police nab man having sex outside his murdered wife's house > ^v2gqk](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md#^v2gqk))  
+[^338]: (see [../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house](../../40-to-49-Articles/41-Article-Archive/05-2013_06_20Police-nab-man-having-sex-outside-his-murdered-wife_s-house.md))  
 [^339]: (see [../../20-to-29-Case-Files/21-File-Notes/02 Affidavit > ^91dat](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#91dat))  
 [^340]: (see [../../20-to-29-Case-Files/21-File-Notes/02 Affidavit > ^3unzj](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#3unzj))  
 [^341]: (see [../../20-to-29-Case-Files/21-File-Notes/02 Affidavit > ^w4n2t](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#w4n2t))  
@@ -1121,19 +1142,19 @@ aliases:
 [^375]: (see [../../20-to-29-Case-Files/21-File-Notes/02 Affidavit > ^ada8m](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#ada8m))   
 [^376]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^m57-0](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#m57-0))  
 [^377]: (see [../../20-to-29-Case-Files/21-File-Notes/01 3.5 Memorandum > ^tfo5t](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#tfo5t))  
-[^378]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^9wx16](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#9wx16))  
-[^379]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^4148p](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#4148p))  
+[^378]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^9wx16](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^9wx16))  
+[^379]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^4148p](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^4148p))  
 [^380]: (see [../../20-to-29-Case-Files/21-File-Notes/07 State's Motion and Affidavit for Order to Compel > ^harbx](../../20-to-29-Case-Files/21-File-Notes/07-State_s-Motion-and-Affidavit-for-Order-to-Compel.md#harbx))  
-[^381]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^bt6bq](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#bt6bq))  
-[^382]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^bt6bq](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md.md#bt6bq))  
-[^383]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^1lccy](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#1lccy))  
-[^384]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^oongz](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#oongz))  
-[^385]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^taqjm](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#taqjm))  
-[^386]: (see [../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#))  
-[^387]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^hb6x1](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10---Witness-in-Alan-Smith-murder-trial-commits-suicide.md#hb6x1))  
+[^381]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^bt6bq](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^bt6bq))  
+[^382]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^bt6bq](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^bt6bq))  
+[^383]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^1lccy](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^1lccy))  
+[^384]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^oongz](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^oongz))  
+[^385]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^taqjm](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^taqjm))  
+[^386]: (see [../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md))  
+[^387]: (see [../../40-to-49-Articles/41-Article-Archive/05 2014.04.10 - Witness in Alan Smith murder trial commits suicide > ^hb6x1](../../40-to-49-Articles/41-Article-Archive/06-2014_04_10Witness-in-Alan-Smith-murder-trial-commits-suicide.md#^hb6x1))  
 [^388]: (see [../../20-to-29-Case-Files/21-File-Notes/07 State's Motion and Affidavit for Order to Compel > ^harbx](../../20-to-29-Case-Files/21-File-Notes/07-State_s-Motion-and-Affidavit-for-Order-to-Compel.md.md#harbx))  
 [^389]: (see [../../20-to-29-Case-Files/21-File-Notes/07 State's Motion and Affidavit for Order to Compel > ^x718a](../../20-to-29-Case-Files/21-File-Notes/07-State_s-Motion-and-Affidavit-for-Order-to-Compel.md#x718a))  
-[^390]: (see [../../40-to-49-Articles/41-Article-Archive/06 2015.01.28 - Witness says suspect confessed to him that he killed his wife > ^rw1jh](../../40-to-49-Articles/41-Article-Archive/07-2015_01_28---Witness-says-suspect-confessed-to-him-that-he-killed-his-wife.md#rw1jh))  
+[^390]: (see [../../40-to-49-Articles/41-Article-Archive/06 2015.01.28 - Witness says suspect confessed to him that he killed his wife > ^rw1jh](../../40-to-49-Articles/41-Article-Archive/07-2015_01_28Witness-says-suspect-confessed-to-him-that-he-killed-his-wife.md#^rw1jh))  
 [^391]: (see [../../20-to-29-Case-Files/21-File-Notes/05 Smith v. Uttecht > ^dc0d1](../../20-to-29-Case-Files/21-File-Notes/06-Smith-v_-Uttecht.md#dc0d1))  
 [^392]: (see [../../20-to-29-Case-Files/21-File-Notes/05 Smith v. Uttecht > ^3fp2r](../../20-to-29-Case-Files/21-File-Notes/06-Smith-v_-Uttecht.md#3fp2r))  
 [^393]: (see [../../20-to-29-Case-Files/21-File-Notes/05 Smith v. Uttecht > ^56wi2](../../20-to-29-Case-Files/21-File-Notes/06-Smith-v_-Uttecht.md#56wi2))  
@@ -1184,7 +1205,7 @@ aliases:
 [^438]: (see [../../20-to-29-Case-Files/21-File-Notes/10 State's Sentencing Memorandum > ^wphno](../../20-to-29-Case-Files/21-File-Notes/11-State_s-Sentencing-Memorandum.md#wphno))  
 [^439]: (see [../../20-to-29-Case-Files/21-File-Notes/10 State's Sentencing Memorandum > ^5yw-0](../../20-to-29-Case-Files/21-File-Notes/11-State_s-Sentencing-Memorandum.md#5yw-0))  
 [^440]: (see [../../20-to-29-Case-Files/21-File-Notes/10 State's Sentencing Memorandum > ^n708z](../../20-to-29-Case-Files/21-File-Notes/11-State_s-Sentencing-Memorandum.md#n708z))  
-[^441]: (see [../../40-to-49-Articles/41-Article-Archive/07 2015.03.05 - Bothell man gets 28.5 years for wife’s murder > ^bc2u6](../../40-to-49-Articles/41-Article-Archive/08-2015_03_05---Bothell-man-gets-28_5-years-for-wife’s-murder.md#bc2u6))  
+[^441]: (see [../../40-to-49-Articles/41-Article-Archive/07 2015.03.05 - Bothell man gets 28.5 years for wife’s murder > ^bc2u6](../../40-to-49-Articles/41-Article-Archive/08-2015_03_05Bothell-man-gets-28_5-years-for-wife_s-murder.md#^bc2u6))  
 [^442]: (see [../../20-to-29-Case-Files/21-File-Notes/10 State's Sentencing Memorandum > ^wphno](../../20-to-29-Case-Files/21-File-Notes/11-State_s-Sentencing-Memorandum.md.md#wphno))  
 [^443]: (see [../../20-to-29-Case-Files/21-File-Notes/12 Motion and Affidavit for Appeal > ^hrzzx](../../20-to-29-Case-Files/21-File-Notes/13-Motion-and-Affidavit-for-Appeal.md#hrzzx))  
 [^444]: (see [../../20-to-29-Case-Files/21-File-Notes/12 Motion and Affidavit for Appeal > ^1kd02](../../20-to-29-Case-Files/21-File-Notes/13-Motion-and-Affidavit-for-Appeal.md#1kd02))  

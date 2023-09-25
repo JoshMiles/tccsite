@@ -29,8 +29,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                  | Description                          |  
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [P02.71.01](index.md)           | [Victims Index](index.md)          | Profiles about the victim or victims |  
-| [P02.71.02](./02-Susann-Smith.md) | [Susann Smith](./02-Susann-Smith.md) | Victim                               |  
+| [P02.71.01](index.md#)           | [Victims Index](index.md#)          | Profiles about the victim or victims |  
+| [P02.71.02](./02-Susann-Smith.md#) | [Susann Smith](./02-Susann-Smith.md#) | Victim                               |  
   
   
 ---  

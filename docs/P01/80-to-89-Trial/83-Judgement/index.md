@@ -27,7 +27,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                               | Friendly Name                                                                | Description                                         |  
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [P01.83.01](index.md) | [Judgement Index](index.md) | Details regarding the judgement outcome from trial. |  
+| [P01.83.01](index.md#) | [Judgement Index](index.md#) | Details regarding the judgement outcome from trial. |  
   
   
 ---  

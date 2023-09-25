@@ -29,8 +29,8 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                                | Friendly Name                                                                                 | Description                     |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- |  
-| [P02.22.01](index.md)      | [PDFs Index](index.md)           | The folder containing the PDFs. |  
-| [P02.22.02](./02-Outline.md) | [Outline of PDFs](./02-Outline.md) | Outline of the PDFs             |  
+| [P02.22.01](index.md#)      | [PDFs Index](index.md#)           | The folder containing the PDFs. |  
+| [P02.22.02](./02-Outline.md#) | [Outline of PDFs](./02-Outline.md#) | Outline of the PDFs             |  
   
   
 ---  

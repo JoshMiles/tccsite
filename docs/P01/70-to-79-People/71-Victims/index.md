@@ -27,7 +27,7 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                              | Friendly Name                                                             | Description                          |  
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ |  
-| [P01.71.01](index.md) | [Victims Index](index.md) | Profiles about the victim or victims |  
+| [P01.71.01](index.md#) | [Victims Index](index.md#) | Profiles about the victim or victims |  
   
   
 ---  

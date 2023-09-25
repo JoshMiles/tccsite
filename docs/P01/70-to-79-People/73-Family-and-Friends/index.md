@@ -27,7 +27,7 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                         | Friendly Name                                                                                   | Description                                                                                                    |  
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [P01.73.01](index.md) | [Family and Friends Index](index.md) | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [P01.73.01](index.md#) | [Family and Friends Index](index.md#) | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
   
   
 ---  

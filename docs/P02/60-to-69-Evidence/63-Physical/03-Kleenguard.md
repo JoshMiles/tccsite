@@ -20,16 +20,16 @@ aliases:
   
 # Kleenguard  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^78mqr)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#78mqr)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^5e3bz)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#5e3bz)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^adwpf)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#adwpf)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^1kt2m)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#1kt2m)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^rj7e9)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#rj7e9)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^n0g3z)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#n0g3z)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^0i0z8)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#0i0z8)  

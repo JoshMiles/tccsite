@@ -22,7 +22,7 @@ aliases:
   
 Taped statement in [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#)'s apartment that took place at 8:42pm on [Tuesday February 12th 2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md#)  
   
-02-3_5-Memorandum  
+(Link: [title](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md))  
 # Recorded Witness Statement Form  
   
 > [!info] Important to note   
@@ -945,4 +945,3 @@ Tsonera, she's from Bellingham. So. we met at a Hall.. Halloween party this.. th
   
 > [!question] [Detective Chissus](../../70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md)   
 >  
-Link: {{url}

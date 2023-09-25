@@ -18,8 +18,8 @@ Welcome to my research hub for all my true crime cases for my [YouTube channel](
 > [!NOTE]  
 > You are more than welcome to use my research in your own coverage of these cases, all I ask is that you provide credit and link back to this repo. Feel free to send me links to your coverage as I would love to see it!
 
-| Case Name                                                    | Created                      | Last Updated                 | Size (in Bytes) |
-| ------------------------------------------------------------ | ---------------------------- | ---------------------------- | --------------- |
-| [P03-Case-of-Susann-Smith](Cases/P03-Case-of-Susann-Smith.md) | 3:12 PM - September 22, 2023 | 3:12 PM - September 22, 2023 | 1281            |
-| [P01-John-Doe](Cases/P01-John-Doe.md)                         | 4:29 PM - September 22, 2023 | 4:29 PM - September 22, 2023 | 1277            |
+| Case Name                                                                                                                                              | Created                      | Last Updated                 | Size (in Bytes) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- | --------------- |
+| <ul><li>[P02-01-01-Susann-Smith](Cases/P02-Case-of-Susann-Smith/index.md.md)</li><li>[P02 Index](Cases/P02-Case-of-Susann-Smith/index.md.md)</li></ul> | 3:12 PM - September 22, 2023 | 3:39 PM - September 24, 2023 | 806             |
+| [index](./P01/index.md)                                                                                                                 | 8:36 PM - September 22, 2023 | 8:37 PM - September 22, 2023 | 1284            |
 

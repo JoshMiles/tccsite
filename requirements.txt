@@ -18,4 +18,4 @@ pillow==10.0.1
 mkdocs-glightbox==0.3.4
 mkdocs-minify-plugin==0.7.1
 mkdocs-pdf==0.1.1
-mkdocs-timetoread-plugin==0.04
+mkdocs-timetoread-plugin==0.0.4

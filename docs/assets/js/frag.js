@@ -32,7 +32,7 @@ if (!('fragmention' in window.location)) (function () {
 
 		// set location fragmention as uri-decoded text (from href, as hash may be decoded)
 		var
-		id = location.href.match(/((?:#|%23)?)(.+)/) || [0,'',''],
+		id = location.href.match(/#((?:#|%23)?)(.+)/) || [0,'',''],
 		node = document.getElementById(id[1]+id[2]) || getAnchorableElementByName(id[1]+id[2]),
 		match = decodeURIComponent(id[2].replace(/\+/g, ' ')).split('  ');
 

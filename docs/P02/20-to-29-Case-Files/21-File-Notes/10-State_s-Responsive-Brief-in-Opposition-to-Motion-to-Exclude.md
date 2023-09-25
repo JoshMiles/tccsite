@@ -22,9 +22,9 @@ aliases:
   
   
   
-[../22-PDFs/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf](../../../assets/attachments/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf)  
+[../22-PDFs/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
   
-![](../../../assets/attachments/18 13-1-01546-8 113 (STATE'S RESPONSIVE BRIEF IN).pdf)  
+![](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
   
 [John Ely](../../70-to-79-People/77-Legal-Teams/02-John-Ely.md#) was [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#)'s lawyer during her dissolution proceedings with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#). After [Commissioner](../../70-to-79-People/77-Legal-Teams/03-Commissioner.md#) Brudvik had made her initial rulings on Temporary Orders related to the divorce on [../../10-to-19-Case-Dates/11-Background-Dates/05-2012-08-03-Friday-August-3rd-2012](../../10-to-19-Case-Dates/11-Background-Dates/05-2012-08-03-Friday-August-3rd-2012.md#), the parties and their respective lawyers went out into the hall to reduce [the Commissioner](../../70-to-79-People/77-Legal-Teams/03-Commissioner.md#)'s rulings to writing. ^jhnjt  
   

@@ -18,7 +18,7 @@ aliases:
 >**Category:** 01 - 01 Index  
 >**ID:** 01 - P02 Index  
   
-## Susann Smith  
+# Susann Smith  
   
 This is the index for this case.  
   

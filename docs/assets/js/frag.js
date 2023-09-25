@@ -72,7 +72,7 @@ if (!('fragmention' in window.location)) (function () {
 
 				// set fragmention attribute
 				element.setAttribute('fragmention', '');
-				element.style.cssText += 'color:#ffa;-webkit-transition: all 1s linear;';
+				element.style.cssText += 'background-color:#ffa;-webkit-transition: all 1s linear;';
 
 				// DEPRECATED: trigger style in IE8
 				if (element.runtimeStyle) {

@@ -66,7 +66,9 @@ if (!('fragmention' in window.location)) (function () {
 			// if element found
 			if (element) {
 				// scroll to element
-				element.scrollIntoView();
+				const yOffset = -10; 
+				const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+				window.scrollTo({top: y, behavior: 'smooth'});
 
 				// set fragmention attribute
 				element.setAttribute('fragmention', '');

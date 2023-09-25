@@ -22,9 +22,9 @@ aliases:
   
   
   
-[../22-PDFs/25 State v AJ Smith Appeal.pdf](../../../assets/attachments/25 State v AJ Smith Appeal.pdf)  
+[../22-PDFs/26_State_v_AJ_Smith_Appeal.pdf](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
   
-![](../../../assets/attachments/25 State v AJ Smith Appeal.pdf)  
+![](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
   
 # Facts  
   

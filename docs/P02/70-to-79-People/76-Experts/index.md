@@ -27,15 +27,15 @@ Profiles regarding experts consulted during investigation, and experts called as
 ---
 # In This Category
 
-| J.Dec ID                                                                                                              | Friendly Name                                                                                                         | Description                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [01 Kris Kern](../../../hidden/01%20Kris%20Kern.md)                           | [01 Kris Kern](../../../hidden/01%20Kris%20Kern.md)                           | \-                                                                                          |
-| [02 Steve Stone](../../../hidden/02%20Steve%20Stone.md)                       | [02 Steve Stone](../../../hidden/02%20Steve%20Stone.md)                       | \-                                                                                          |
-| [03 Sergeant Shelly Massey](../../../hidden/03%20Sergeant%20Shelly%20Massey.md) | [03 Sergeant Shelly Massey](../../../hidden/03%20Sergeant%20Shelly%20Massey.md) | \-                                                                                          |
-| [04 Dr Stanley Adams](../../../hidden/04%20Dr%20Stanley%20Adams.md)             | [04 Dr Stanley Adams](../../../hidden/04%20Dr%20Stanley%20Adams.md)             | \-                                                                                          |
-| [06 Mr Krull](../../../hidden/06%20Mr%20Krull.md)                             | [06 Mr Krull](../../../hidden/06%20Mr%20Krull.md)                             | \-                                                                                          |
-| [05 Kathy Geil](../../../hidden/05%20Kathy%20Geil.md)                         | [05 Kathy Geil](../../../hidden/05%20Kathy%20Geil.md)                         | \-                                                                                          |
-| [P02.76.01](index.md)                                     | [Experts Index](index.md)                                 | Profiles regarding experts consulted during investigation, and experts called as witnesses. |
+| J.Dec ID                                                                                              | Friendly Name                                                                                                      | Description                                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| [P02.76.01](index.md)                     | [Experts Index](index.md)                              | Profiles regarding experts consulted during investigation, and experts called as witnesses. |
+| [P02.76.02](./02-Kris-Kern.md)              | [Kris Kern](./02-Kris-Kern.md)                           | Expert                                                                                      |
+| [P02.76.03](./03-Steve-Stone.md)            | [Steve Stone](./03-Steve-Stone.md)                       | Expert                                                                                      |
+| [P02.76.04](./04-Sergeant-Shelly-Massey.md) | [Sergeant Shelly Massey](./04-Sergeant-Shelly-Massey.md) | Expert                                                                                      |
+| [P02.76.05](./05-Dr-Stanley-Adams.md)       | [Dr Stanley Adams](./05-Dr-Stanley-Adams.md)             | Expert                                                                                      |
+| [P02.76.06](./06-Kathy-Geil.md)             | [Kathy Geil](./06-Kathy-Geil.md)                         | Expert                                                                                      |
+| [P02.76.07](./07-Mr-Krull.md)               | [Mr Krull](./07-Mr-Krull.md)                             | Expert                                                                                      |
 
 
 ---

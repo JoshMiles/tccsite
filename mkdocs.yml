@@ -71,6 +71,7 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+      toc_depth: 1-7
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences:

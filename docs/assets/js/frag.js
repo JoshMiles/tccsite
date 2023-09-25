@@ -66,12 +66,13 @@ if (!('fragmention' in window.location)) (function () {
 			// if element found
 			if (element) {
 				// scroll to element
-				const yOffset = -10; 
+				const yOffset = -100; 
 				const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
 				window.scrollTo({top: y, behavior: 'smooth'});
 
 				// set fragmention attribute
 				element.setAttribute('fragmention', '');
+				element.style.cssText += 'color:#ffa;-webkit-transition: all 1s linear;';
 
 				// DEPRECATED: trigger style in IE8
 				if (element.runtimeStyle) {

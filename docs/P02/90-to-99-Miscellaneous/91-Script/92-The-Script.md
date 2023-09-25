@@ -271,13 +271,13 @@ And as he was doing so, the detectives placed another call to the assigned prose
 
 When [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) left his office building, the detectives informed him that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were going into [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#) until further notice, and that the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#) paperwork could be retrieved at [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#) Police Department.[^138] 
 
-The detectives handed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) directions to the police department so he could pick up the paperwork.[^139]
+The detectives handed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) directions to the police department so he could pick up the paperwork.[^139]
 
-And this ended the first initial police contact with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^140] 
+And this ended the first initial police contact with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^140] 
 
 At approximately 5:00pm, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#) contacted the [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#.md#) Police Department to let them know that [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would be enroute to them to get the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#.md#) paperwork.[^141] 
 
-Shortly before [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department, he actually left a message on [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s voicemail in which he asked whether the police wanted to look around his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#) or take a [DNA](../../60-to-69-Evidence/62-Forensic/05-DNA.md#) sample. [^142] [^143] 
+Shortly before [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department, he actually left a message on [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s voicemail in which he asked whether the police wanted to look around his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#) or take a [DNA](../../60-to-69-Evidence/62-Forensic/05-DNA.md#) sample. [^142] [^143] 
 
 >[!note] Editor's Note
 >The following quote displayed on screen as the previous paragraph is spoken:
@@ -286,13 +286,13 @@ Shortly before [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/0
 
 The detective wouldn't hear this message until two days later, on the 14th of February, when he checked his voicemail but as you'll soon find out, it didn't matter all too much.[^144] 
 
-At 6:00pm, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department and entered the front lobby.[^145] 
+At 6:00pm, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department and entered the front lobby.[^145] 
 
 A member of staff and [Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#) met with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and together they went over the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#.md#.md#) paperwork.[^146] 
 
 It was during this conversation that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) told them that his [car](../../60-to-69-Evidence/63-Physical/05-Car.md#.md#) had been parked outside and that the police could search it and his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#) if they wanted to.[^147] 
 
-[Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#.md#) explained that there were forms [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would have to signed if that was what he wanted, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he'd be fine with that.[^148] 
+[Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#.md#) explained that there were forms [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would have to signed if that was what he wanted, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he'd be fine with that.[^148] 
 
 Detective Stone was then contacted at 6:35pm and informed of Alan's consent for a search[^149] , with Detective Stone and Detective Chissus arriving back at the Bothell Police Department at 6:55pm to meet with Alan to go through the paperwork.[^150] 
 
@@ -318,7 +318,11 @@ Alan Smith read and signed a consent to search form at 7:26pm.[^166] (on screen:
 
 During the course of the search of his apartment, Alan Smith apparently spoke with two of the detectives and discussed a number of topics but its unclear what exactly they spoke about.[^167] 
 
-Alan also allowed the detectives to remove a hatchet that had been found in his living room.[^168] 
+At about 8:40pm, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) mentioned that he was willing to volunteer a buccal swab for DNA purposes[^169] , which he did without being prompted by the police.[^170] 
+
+The investigators accepted his offer and subsequently obtained two separate DNA samples of [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s saliva.[^171] 
+
+[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) then sat down with [Detective Chissus](../../70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md#.md#.md#.md#) and [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) in his [Apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#.md#) and gave a taped statement at 8:42pm.[^172] 
 
 
 
@@ -495,4 +499,8 @@ Alan also allowed the detectives to remove a hatchet that had been found in his 
 [^165]: (see [../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline > ^jh00h](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^jh00h))
 [^166]: (see [../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline > ^yasx0](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^yasx0))
 [^167]: (see [../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline > ^iw1cc](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^iw1cc))
-[^168]: (see [../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline > ^3wb-0](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^3wb-0))
+[^168]: (see [../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline > ^3wb-0](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md#^3wb-0))
+[^169]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^q5io4))
+[^170]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^bcuwq))
+[^171]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^2aicb))
+[^172]: (see [02-Detailed-Timeline](../../50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md##^8hzxl))

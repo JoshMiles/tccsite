@@ -22,14 +22,14 @@ aliases:
   
 ## [03_13-1-01546-8_1_INFORMATION.pdf](../../../assets/attachments/03_13-1-01546-8_1_INFORMATION.pdf)  
   
-![03_13-1-01546-8_1_INFORMATION](../../../assets/attachments/03_13-1-01546-8_1_INFORMATION.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![03_13-1-01546-8_1_INFORMATION](../../../assets/attachments/03_13-1-01546-8_1_INFORMATION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Information regarding the charge  
 - Information regarding [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#)  
   
 ## [04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
   
-![04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Information proving probably cause to arrest [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#) on the charges brought against them.  
 	- Brief investigative report from [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#) Police Department  
@@ -39,7 +39,7 @@ aliases:
 	- Witness statements  
 ## [05_13-1-01546-8_37_3_5_MEMORANDUM.pdf](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
   
-![05_13-1-01546-8_37_3_5_MEMORANDUM](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![05_13-1-01546-8_37_3_5_MEMORANDUM](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Statements from [2013-02-12-Tuesday-February-12th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md#)  
 	- Transcript on page 19  
@@ -51,50 +51,50 @@ aliases:
   
 ## [06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf](../../../assets/attachments/06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf)  
   
-![06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING](../../../assets/attachments/06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING](../../../assets/attachments/06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Facts of the case  
 - Addresses the question of whether [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#)'s confession to murdering his wife falls under the Priest-Penitent privilege with [Wendell Morris](../../70-to-79-People/74-Witnesses/02-Wendell-Morris.md#).  
   
 ## [07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF.pdf](../../../assets/attachments/07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF.pdf)  
   
-![07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF](../../../assets/attachments/07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF](../../../assets/attachments/07_13-1-01546-8_48_RESPONSIVE_3_5_BRIEF.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Initial Non-Custodial Interview re: interview in the conference room at [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md#) Security Building and the legal argument surrounding that.  
   
 ## [08_13-1-01546-8_50_EVIDENTIARY_HEARING.pdf](../../../assets/attachments/08_13-1-01546-8_50_EVIDENTIARY_HEARING.pdf)  
   
-![08_13-1-01546-8_50_EVIDENTIARY_HEARING](../../../assets/attachments/08_13-1-01546-8_50_EVIDENTIARY_HEARING.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![08_13-1-01546-8_50_EVIDENTIARY_HEARING](../../../assets/attachments/08_13-1-01546-8_50_EVIDENTIARY_HEARING.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
 - Court finding that [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#) was not in custody when questioned on [2013-02-12-Tuesday-February-12th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md#.md#)  
   
 ## [09_13-1-01546-8_51_EVIDENTIARY_HEARING.pdf](../../../assets/attachments/09_13-1-01546-8_51_EVIDENTIARY_HEARING.pdf)  
   
-![09_13-1-01546-8_51_EVIDENTIARY_HEARING](../../../assets/attachments/09_13-1-01546-8_51_EVIDENTIARY_HEARING.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![09_13-1-01546-8_51_EVIDENTIARY_HEARING](../../../assets/attachments/09_13-1-01546-8_51_EVIDENTIARY_HEARING.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Court finding that [Wendell Morris](../../70-to-79-People/74-Witnesses/02-Wendell-Morris.md#.md#) had not been acting as a member of the clergy when the confession happened.  
   
 ## [10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA.pdf](../../../assets/attachments/10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA.pdf)  
   
-![10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA](../../../assets/attachments/10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA](../../../assets/attachments/10_13-1-01546-8_57_DECLARATION_OF_TIFFANY_L_MECCA.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Declaration from Tiffany Mecca who was the attorney for [the defendant](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#)  
   
 ## [11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN.pdf](../../../assets/attachments/11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN.pdf)  
   
-![11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN](../../../assets/attachments/11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN](../../../assets/attachments/11_13-1-01546-8_58_DECLARATION_OF_CAROLINE_MANN.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Declaration from Caroline Mann who was one of the attorneys for [the defendant](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#)  
 	- Mentions that the defence hired Chesterene Cwiklik as a forensic expert in the case.  
   
 ## [12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL.pdf](../../../assets/attachments/12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL.pdf)  
   
-![12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL](../../../assets/attachments/12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL](../../../assets/attachments/12_13-1-01546-8_59_DECLARATION_OF_KATHY_MCCALL.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Declaration from Kathy McCall who was the defence investigator.  
   
 ## [13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
   
-![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf }  
+![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Brief summary of the prosecutors evidence  
 	- Welfare check on [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#)  
@@ -122,13 +122,13 @@ aliases:
   
 ## [14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF.pdf](../../../assets/attachments/14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
   
-![14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF](../../../assets/attachments/14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF](../../../assets/attachments/14_13-1-01546-8_85_STATE_S_MOTION_RE_PROHIBITION_OF.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The State's motion requesting that the Court prohibit the defence from seeking to introduce evidence, make argument, infer or imply that [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#) was murdered by someone other than her estranged husband, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)  
   
 ## [15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf](../../../assets/attachments/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
   
-![15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF](../../../assets/attachments/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF](../../../assets/attachments/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Motion to COMPEL [the defendant](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)  
 - Mentions trial schedule date  
@@ -138,7 +138,7 @@ aliases:
   
 ## [16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
   
-![16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The State's expectation of facts to be elicited during the trial (with details)  
 	- Homicide Scene and [Autopsy](../../60-to-69-Evidence/62-Forensic/02-Autopsy.md#.md#.md#) photos necessary to explain what happened to [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#)  
@@ -150,7 +150,7 @@ aliases:
   
 ## [17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
   
-![17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The Defence's facts  
 	- Text messages and emails between [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#)  
@@ -162,70 +162,70 @@ aliases:
   
 ## [18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT.pdf](../../../assets/attachments/18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT.pdf)  
   
-![18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT](../../../assets/attachments/18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT](../../../assets/attachments/18_13-1-01546-8_111_WAIVER_OF_JURY_TRIAL_BY_DEFENDANT.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Documentation that states that [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had discussed his right to a trial by jury with his attorney and knowingly, voluntarily and intelligently waives the right to a jury trial  
   
 ## [19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
   
-![19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Defence tried to get [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#)'s divorce lawyer [John](../../70-to-79-People/77-Legal-Teams/02-John-Ely.md#) Ely dismissed from the trial, this document describes the relationship between [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) in more detail and more about the divorce.  
   
 ## [20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
   
-![20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The full conviction of [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)  
 - The sentencing recommendation  
   
 ## [21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA.pdf](../../../assets/attachments/21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA.pdf)  
   
-![21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA](../../../assets/attachments/21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA](../../../assets/attachments/21_13-1-01546-8_134_ORDER_REQ_BLOOD_TESTS_FOR_DNA.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The order for [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)to undergo [DNA](../../60-to-69-Evidence/62-Forensic/05-DNA.md#) testing  
   
 ## [22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
-![22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - The felony judgement, finger prints, order of commitment, sentence of 344 months.  
   
 ## [23_13-1-01546-8_145_ORDER_RE_EXHIBITS.pdf](../../../assets/attachments/23_13-1-01546-8_145_ORDER_RE_EXHIBITS.pdf)  
   
-![23_13-1-01546-8_145_ORDER_RE_EXHIBITS](../../../assets/attachments/23_13-1-01546-8_145_ORDER_RE_EXHIBITS.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![23_13-1-01546-8_145_ORDER_RE_EXHIBITS](../../../assets/attachments/23_13-1-01546-8_145_ORDER_RE_EXHIBITS.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - A list of evidential exhibits used at trial  
   
 ## [24_Smith_v_Uttecht](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
   
-![24_Smith_v_Uttecht](../../../assets/attachments/24_Smith_v_Uttecht.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![24_Smith_v_Uttecht](../../../assets/attachments/24_Smith_v_Uttecht.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## [25_State_v_AJ_Smith-Answer_to_Petition](../../../assets/attachments/25_State_v_AJ_Smith-Answer_to_Petition.pdf)  
   
-![25_State_v_AJ_Smith-Answer_to_Petition](../../../assets/attachments/25_State_v_AJ_Smith-Answer_to_Petition.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![25_State_v_AJ_Smith-Answer_to_Petition](../../../assets/attachments/25_State_v_AJ_Smith-Answer_to_Petition.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## [26_State_v_AJ_Smith_Appeal](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
   
-![26_State_v_AJ_Smith_Appeal](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![26_State_v_AJ_Smith_Appeal](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## [27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf)  
   
-![27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Notice of appeal filed on [2015-03-10-Tuesday-March-10th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/57-2015-03-10-Tuesday-March-10th-2015.md#).  
 	- Includes the sentencing judgement and order of commitment.  
   
 ## [28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
-![28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 - Motion of the appeal detailed the declaration of the appeal.  
   
 ## [29_13-1-01546-8_148_WITNESS_RECORD.pdf](../../../assets/attachments/29_13-1-01546-8_148_WITNESS_RECORD.pdf)  
   
-![29_13-1-01546-8_148_WITNESS_RECORD](../../../assets/attachments/29_13-1-01546-8_148_WITNESS_RECORD.pdf){ type=application/pdf style="min-height:25vh;width:100%" }  
+![29_13-1-01546-8_148_WITNESS_RECORD](../../../assets/attachments/29_13-1-01546-8_148_WITNESS_RECORD.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## [30_13-1-01546-8_150_WITNESS_RECORD.pdf](../../../assets/attachments/30_13-1-01546-8_150_WITNESS_RECORD.pdf)  
   
-![30_13-1-01546-8_150_WITNESS_RECORD](../../../assets/attachments/30_13-1-01546-8_150_WITNESS_RECORD.pdf){ type=application/pdf style="min-height:25vh;width:100%" }
+![30_13-1-01546-8_150_WITNESS_RECORD](../../../assets/attachments/30_13-1-01546-8_150_WITNESS_RECORD.pdf){ type=application/pdf style="min-height:100vh;width:100%" }

@@ -27,11 +27,11 @@ Information about the digital evidence
 ---
 # In This Category
 
-| J.Dec ID                                                                                        | Friendly Name                                                                                    | Description                             |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| [01 CCTV](../../../hidden/01%20CCTV.md)             | [01 CCTV](../../../hidden/01%20CCTV.md)              | \-                                      |
-| [02 Garmin GPS](../../../hidden/02%20Garmin%20GPS.md) | [02 Garmin GPS](../../../hidden/02%20Garmin%20GPS.md)  | \-                                      |
-| [P02.61.01](index.md)             | [Digital Evidence Index](index.md) | Information about the digital evidence. |
+| J.Dec ID                                                                                    | Friendly Name                                                                                    | Description                             |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| [P02.61.01](index.md)         | [Digital Evidence Index](index.md) | Information about the digital evidence. |
+| [P02.61.02](./02-CCTV.md)       | [CCTV](./02-CCTV.md)                 | Digital Evidence                        |
+| [P02.61.03](./03-Garmin-GPS.md) | [Garmin GPS](./03-Garmin-GPS.md)     | Digital Evidence                        |
 
 
 ---

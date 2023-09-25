@@ -27,10 +27,10 @@ Profiles about any suspects and/or people of interest
 ---
 # In This Category
 
-| J.Dec ID                                                                                                              | Friendly Name                                                                                                                         | Description                                            |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [01 Alan Smith](../../../hidden/01%20Alan%20Smith.md) | [01 Alan Smith](../../../hidden/01%20Alan%20Smith.md)                 | \-                                                     |
-| [P02.72.01](index.md)             | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |
+| J.Dec ID                                                                                                          | Friendly Name                                                                                                                         | Description                                            |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [P02.72.01](index.md)         | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |
+| [P02.72.02](./02-Alan-Smith.md) | [Alan Smith](./02-Alan-Smith.md)                    | Suspect                                                |
 
 
 ---

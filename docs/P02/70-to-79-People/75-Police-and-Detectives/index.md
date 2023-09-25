@@ -27,19 +27,18 @@ Profiles regarding law enforcement involved
 ---
 # In This Category
 
-| J.Dec ID                                                                                                                      | Friendly Name                                                                                                                 | Description                                  |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [02 Detective Stone](../../../hidden/02%20Detective%20Stone.md)         | [02 Detective Stone](../../../hidden/02%20Detective%20Stone.md)         | \-                                           |
-| [01 Detective Chissus](../../../hidden/01%20Detective%20Chissus.md)     | [01 Detective Chissus](../../../hidden/01%20Detective%20Chissus.md)     | \-                                           |
-| [03 Detectives](../../../hidden/03%20Detectives.md)                   | [03 Detectives](../../../hidden/03%20Detectives.md)                   | \-                                           |
-| [04 Detective Betts](../../../hidden/04%20Detective%20Betts.md)         | [04 Detective Betts](../../../hidden/04%20Detective%20Betts.md)         | \-                                           |
-| [05 Detective Bilyeu](../../../hidden/05%20Detective%20Bilyeu.md)       | [05 Detective Bilyeu](../../../hidden/05%20Detective%20Bilyeu.md)       | \-                                           |
-| [06 Beck](../../../hidden/06%20Beck.md)                               | [06 Beck](../../../hidden/06%20Beck.md)                               | \-                                           |
-| [07 Detective Thompson](../../../hidden/07%20Detective%20Thompson.md)   | [07 Detective Thompson](../../../hidden/07%20Detective%20Thompson.md)   | \-                                           |
-| [08 CPS](../../../hidden/08%20CPS.md)                                 | [08 CPS](../../../hidden/08%20CPS.md)                                 | \-                                           |
-| [09 Detective O’Bryant](../../../hidden/09%20Detective%20O%E2%80%99Bryant.md)   | [09 Detective O’Bryant](../../../hidden/09%20Detective%20O%E2%80%99Bryant.md)   | \-                                           |
-| [10 Detective Sgt Brown](../../../hidden/10%20Detective%20Sgt%20Brown.md) | [10 Detective Sgt Brown](../../../hidden/10%20Detective%20Sgt%20Brown.md) | \-                                           |
-| [P02.75.01](index.md)                               | [Police and Detectives Index](index.md)             | Profiles regarding law enforcement involved. |
+| J.Dec ID                                                                                                         | Friendly Name                                                                                                              | Description                                  |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [P02.75.01](index.md)                  | [Police and Detectives Index](index.md)          | Profiles regarding law enforcement involved. |
+| [P02.75.02](./02-Detective-Chissus.md)   | [Detective Chissus](./02-Detective-Chissus.md)     | Detective                                    |
+| [P02.75.03](./03-Detective-Stone.md)     | [Detective Stone](./03-Detective-Stone.md)         | Detective                                    |
+| [P02.75.04](./04-Detective-Betts.md)     | [Detective Betts](./04-Detective-Betts.md)         | Detective                                    |
+| [P02.75.05](./05-Detective-Bilyeu.md)    | [Detective Bilyeu](./05-Detective-Bilyeu.md)       | Detective                                    |
+| [P02.75.06](./06-Beck.md)                | [Beck](./06-Beck.md)                               | Police Force                                 |
+| [P02.75.07](./07-Detective-Thompson.md)  | [Detective Thompson](./07-Detective-Thompson.md)   | Detective                                    |
+| [P02.75.08](./08-CPS.md)                 | [CPS](./08-CPS.md)                                 | Child Protective Services                    |
+| [P02.75.09](./09-Detective-O%E2%80%99Bryant.md)  | [Detective O'Bryant](./09-Detective-O%E2%80%99Bryant.md)   | Detective                                    |
+| [P02.75.10](./10-Detective-Sgt-Brown.md) | [Detective Sgt Brown](./10-Detective-Sgt-Brown.md) | Detective                                    |
 
 
 ---

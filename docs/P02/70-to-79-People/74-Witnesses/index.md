@@ -27,11 +27,11 @@ Profiles about witnesses
 ---
 # In This Category
 
-| J.Dec ID                                                                                                | Friendly Name                                                                                           | Description               |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [01 Wendell Morris](../../../hidden/01%20Wendell%20Morris.md) | [01 Wendell Morris](../../../hidden/01%20Wendell%20Morris.md) | \-                        |
-| [02 Truck Driver](../../../hidden/02%20Truck%20Driver.md)     | [02 Truck Driver](../../../hidden/02%20Truck%20Driver.md)     | \-                        |
-| [P02.74.01](index.md)                     | [Witnesses Index](index.md)               | Profiles about witnesses. |
+| J.Dec ID                                                                                        | Friendly Name                                                                                        | Description               |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
+| [P02.74.01](index.md)             | [Witnesses Index](index.md)            | Profiles about witnesses. |
+| [P02.74.02](./02-Wendell-Morris.md) | [Wendell Morris](./02-Wendell-Morris.md) | Witness                   |
+| [P02.74.03](./03-Truck-Driver.md)   | [Truck Driver](./03-Truck-Driver.md)     | Witness                   |
 
 
 ---

@@ -27,15 +27,15 @@ Information about the physical evidence
 ---
 # In This Category
 
-| J.Dec ID                                                                                                     | Friendly Name                                                                                                | Description                             |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| [01 Bicycle](../../../hidden/01%20Bicycle.md)                   | [01 Bicycle](../../../hidden/01%20Bicycle.md)                   | \-                                      |
-| [03 Mallet](../../../hidden/03%20Mallet.md)                     | [03 Mallet](../../../hidden/03%20Mallet.md)                     | \-                                      |
-| [02 Kleenguard](../../../hidden/02%20Kleenguard.md)             | [02 Kleenguard](../../../hidden/02%20Kleenguard.md)             | \-                                      |
-| [04 Car](../../../hidden/04%20Car.md)                           | [04 Car](../../../hidden/04%20Car.md)                           | \-                                      |
-| [05 Roll of Tape](../../../hidden/05%20Roll%20of%20Tape.md)         | [05 Roll of Tape](../../../hidden/05%20Roll%20of%20Tape.md)         | \-                                      |
-| [06 Croc-style Shoes](../../../hidden/06%20Croc-style%20Shoes.md) | [06 Croc-style Shoes](../../../hidden/06%20Croc-style%20Shoes.md) | \-                                      |
-| [P02.63.01](index.md)                         | [Physical Evidence Index](index.md)           | Information about the physical evidence |
+| J.Dec ID                                                                                           | Friendly Name                                                                                             | Description                             |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [P02.63.01](index.md)               | [Physical Evidence Index](index.md)        | Information about the physical evidence |
+| [P02.63.02](./02-Bicycle.md)          | [Bicycle](./02-Bicycle.md)                   | Physical Evidence                       |
+| [P02.63.03](./03-Kleenguard.md)       | [Kleenguard](./03-Kleenguard.md)             | Physical Evidence                       |
+| [P02.63.04](./04-Mallet.md)           | [Mallet](./04-Mallet.md)                     | Physical Evidence                       |
+| [P02.63.05](./05-Car.md)              | [Car](./05-Car.md)                           | Physical Evidence                       |
+| [P02.63.06](./06-Roll-of-Tape.md)     | [Roll of Tape](./06-Roll-of-Tape.md)         | Physical Evidence                       |
+| [P02.63.07](./07-Croc-style-Shoes.md) | [Croc-style Shoes](./07-Croc-style-Shoes.md) | Physical Evidence                       |
 
 
 ---

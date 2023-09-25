@@ -27,12 +27,12 @@ Profiles of individuals on legal teams
 ---
 # In This Category
 
-| J.Dec ID                                                                                              | Friendly Name                                                                                         | Description                             |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [01 John Ely](../../../hidden/01%20John%20Ely.md)         | [01 John Ely](../../../hidden/01%20John%20Ely.md)         | \-                                      |
-| [02 Commissioner](../../../hidden/02%20Commissioner.md) | [02 Commissioner](../../../hidden/02%20Commissioner.md) | \-                                      |
-| [03 Judge Fair](../../../hidden/03%20Judge%20Fair.md)     | [03 Judge Fair](../../../hidden/03%20Judge%20Fair.md)     | \-                                      |
-| [P02.77.01](index.md)                 | [Legal Teams Index](index.md)         | Profiles of individuals on legal teams. |
+| J.Dec ID                                                                                        | Friendly Name                                                                                      | Description                             |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [P02.77.01](index.md)           | [Legal Teams Index](index.md)      | Profiles of individuals on legal teams. |
+| [P02.77.02](./02-John-Ely.md)     | [John Ely](./02-John-Ely.md)         | Divorce Attorney                        |
+| [P02.77.03](./03-Commissioner.md) | [Commissioner](./03-Commissioner.md) | The Commissioner                        |
+| [P02.77.04](./04-Judge-Fair.md)   | [Judge Fair](./04-Judge-Fair.md)     | Judge                                   |
 
 
 ---

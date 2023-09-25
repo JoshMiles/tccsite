@@ -27,13 +27,13 @@ Information about the forensic evidence
 ---
 # In This Category
 
-| J.Dec ID                                                                                                         | Friendly Name                                                                                                    | Description                              |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [02 Footprint Analysis](../../../hidden/02%20Footprint%20Analysis.md) | [02 Footprint Analysis](../../../hidden/02%20Footprint%20Analysis.md) | \-                                       |
-| [03 Forensic Evidence](../../../hidden/03%20Forensic%20Evidence.md)   | [03 Forensic Evidence](../../../hidden/03%20Forensic%20Evidence.md)   | \-                                       |
-| [01 Autopsy](../../../hidden/01%20Autopsy.md)                       | [01 Autopsy](../../../hidden/01%20Autopsy.md)                       | \-                                       |
-| [04 DNA](../../../hidden/04%20DNA.md)                               | [04 DNA](../../../hidden/04%20DNA.md)                               | \-                                       |
-| [P02.62.01](index.md)                             | [Forensic Evidence Index](index.md)               | Information about the forensic evidence. |
+| J.Dec ID                                                                                             | Friendly Name                                                                                                 | Description                              |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [P02.62.01](index.md)                 | [Forensic Evidence Index](index.md)            | Information about the forensic evidence. |
+| [P02.62.02](./02-Autopsy.md)            | [Autopsy](./02-Autopsy.md)                       | Forensic Evidence                        |
+| [P02.62.03](./03-Footprint-Analysis.md) | [Footprint Analysis](./03-Footprint-Analysis.md) | Forensic Evidence                        |
+| [P02.62.04](./04-Forensic-Evidence.md)  | [Forensic Evidence](./04-Forensic-Evidence.md)   | Forensic Evidence                        |
+| [P02.62.05](./05-DNA.md)                | [DNA](./05-DNA.md)                               | Forensic Evidence                        |
 
 
 ---

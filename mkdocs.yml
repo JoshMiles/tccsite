@@ -38,7 +38,9 @@ theme:
         - search.highlight
         - toc.integrate
         - toc.follow
-        
+nav:
+  - Home: index.md
+  - ...
 # Extensions
 markdown_extensions:
   - footnotes

@@ -29,14 +29,14 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                                       | Friendly Name                                                                                                             | Description                                                                                                    |  
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [P02.73.01](index.md)                   | [Family and Friends Index](index.md)               | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
-| [P02.73.02](./02-Colin-Warner.md)         | [Colin Warner](./02-Colin-Warner.md)                 | Friend                                                                                                         |  
-| [P02.73.03](./03-Love-Thai.md)            | [Love Thai](./03-Love-Thai.md)                       | Friend                                                                                                         |  
-| [P02.73.04](./04-Matthew-Pierce.md)       | [Matthew Pierce](./04-Matthew-Pierce.md)             | Friend                                                                                                         |  
-| [P02.73.05](./05-Rachel-Amrine.md)        | [Rachel Amrine](./05-Rachel-Amrine.md)               | Friend                                                                                                         |  
-| [P02.73.06](./06-Ani-Gothard-Williams.md) | [Ani Gothard-Williams](./06-Ani-Gothard-Williams.md) | Friend                                                                                                         |  
-| [P02.73.07](./07-Mr-Buckley.md)           | [Mr Buckley](./07-Mr-Buckley.md)                     | Friend                                                                                                         |  
-| [P02.73.08](./08-Children.md)             | [Children](./08-Children.md)                         | Family                                                                                                         |  
+| [P02.73.01](index.md#)                   | [Family and Friends Index](index.md#)               | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [P02.73.02](./02-Colin-Warner.md#)         | [Colin Warner](./02-Colin-Warner.md#)                 | Friend                                                                                                         |  
+| [P02.73.03](./03-Love-Thai.md#)            | [Love Thai](./03-Love-Thai.md#)                       | Friend                                                                                                         |  
+| [P02.73.04](./04-Matthew-Pierce.md#)       | [Matthew Pierce](./04-Matthew-Pierce.md#)             | Friend                                                                                                         |  
+| [P02.73.05](./05-Rachel-Amrine.md#)        | [Rachel Amrine](./05-Rachel-Amrine.md#)               | Friend                                                                                                         |  
+| [P02.73.06](./06-Ani-Gothard-Williams.md#) | [Ani Gothard-Williams](./06-Ani-Gothard-Williams.md#) | Friend                                                                                                         |  
+| [P02.73.07](./07-Mr-Buckley.md#)           | [Mr Buckley](./07-Mr-Buckley.md#)                     | Friend                                                                                                         |  
+| [P02.73.08](./08-Children.md#)             | [Children](./08-Children.md#)                         | Family                                                                                                         |  
   
   
 ---  

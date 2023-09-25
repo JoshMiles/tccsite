@@ -27,7 +27,7 @@ This includes dates referenced from the investigation process
   
 | J.Dec ID                                                                              | Friendly Name                                                                                         | Description                                                    |  
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |  
-| [P01.13.01](index.md) | [Investigation Dates Index](index.md) | This includes dates referenced from the investigation process. |  
+| [P01.13.01](index.md#) | [Investigation Dates Index](index.md#) | This includes dates referenced from the investigation process. |  
   
   
 ---  

@@ -37,11 +37,6 @@ aliases:
 	- [Autopsy](../../60-to-69-Evidence/62-Forensic/02-Autopsy.md#) results  
 	- Forensic reports  
 	- Witness statements  
-  
-## [04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
-  
-![04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
-  
 ## [05_13-1-01546-8_37_3_5_MEMORANDUM.pdf](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
   
 ![05_13-1-01546-8_37_3_5_MEMORANDUM](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
@@ -203,6 +198,17 @@ aliases:
   
 - A list of evidential exhibits used at trial  
   
+## [24_Smith_v_Uttecht](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
+  
+![24_Smith_v_Uttecht](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
+  
+## [25_State_v_AJ_Smith-Answer_to_Petition](../../../assets/attachments/25_State_v_AJ_Smith-Answer_to_Petition.pdf)  
+  
+![25_State_v_AJ_Smith-Answer_to_Petition](../../../assets/attachments/25_State_v_AJ_Smith-Answer_to_Petition.pdf)  
+  
+## [26_State_v_AJ_Smith_Appeal](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
+  
+![26_State_v_AJ_Smith_Appeal](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
 ## [27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf)  
   
 ![27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf)  

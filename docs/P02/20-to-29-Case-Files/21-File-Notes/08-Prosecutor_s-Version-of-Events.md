@@ -20,9 +20,9 @@ aliases:
   
 # Prosecutor's Version of Events File Note  
   
-[../22-PDFs/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf](../../../assets/attachments/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf)  
+[../22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
   
-![](../../../assets/attachments/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf)  
+![](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
   
 On [03-2013-02-12-Tuesday-February-12th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md#), [Bothell](geo:47.7623204,-122.2054035) Police Officers were dispatched to[216 240th St. SW, Bothell](geo:47.78026465,-122.23629542497216) for a welfare check of [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#) who had failed to report to work for the past two days. [^1] ^etnen  
   
@@ -76,5 +76,5 @@ The Detective reported that in all time frames the conversation between [Alan Sm
   
 # Footnotes  
   
-[^1]: [../22-PDFs/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf](../../../assets/attachments/12 13-1-01546-8 69 (STATE'S RESPONSE TO DEFENSE MOTION).pdf)  
-[^2]: [../22-PDFs/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf](../../../assets/attachments/03 13-1-01546-8 2 (AFFIDAVIT DECLARATION PROB CAUSE).pdf)  
+[^1]: [../22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
+[^2]: [../22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  

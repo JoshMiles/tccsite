@@ -24,8 +24,8 @@ alias: "P01-91-02, The Script"
   
 | J.Dec ID                                                                            | Friendly Name                                                                         | Description                       |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P01.91.01](./index.md)         | [Script Folder Index](./index.md) | This folder contains the script.  |  
-| [P01.91.02](92-The-Script.md) | [The Script](92-The-Script.md)  | This is the script for this case. |  
+| [P01.91.01](./index.md#)         | [Script Folder Index](./index.md#) | This folder contains the script.  |  
+| [P01.91.02](92-The-Script.md#) | [The Script](92-The-Script.md#)  | This is the script for this case. |  
   
   
 ---  

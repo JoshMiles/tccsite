@@ -15,8 +15,10 @@ Welcome to my research hub for all my true crime cases for my [YouTube channel](
 >- The `P01-John-Doe` folder contains an example research project demonstrating how it is setup. Reference the Case Structure table below for more information.  
 >	- I follow the Johnny.Decimal system for organisation, see [here](https://johnnydecimal.com/).  
   
-| Case Name                                     | Created                      | Last Updated                 | Size (in Bytes) |  
-| --------------------------------------------- | ---------------------------- | ---------------------------- | --------------- |  
-| [Cases/P02-Case-of-Susann-Smith](P02/index.md) | 3:12 PM - September 22, 2023 | 3:39 PM - September 24, 2023 | 806             |  
-| [Cases/P01-John-Doe](P01/index.md)             | 8:36 PM - September 22, 2023 | 8:37 PM - September 22, 2023 | 1284            |  
+# Cases  
+  
+| PRO | Case Name                                     | Created                      | Last Updated                 | Size (in Bytes) |  
+| --- | --------------------------------------------- | ---------------------------- | ---------------------------- | --------------- |  
+| P01 | [Cases/P01-John-Doe](P01/index.md)             | 8:36 PM - September 22, 2023 | 8:37 PM - September 22, 2023 | 1284            |  
+| P02 | [Cases/P02-Case-of-Susann-Smith](P02/index.md) | 3:12 PM - September 22, 2023 | 3:39 PM - September 24, 2023 | 806             |  
   

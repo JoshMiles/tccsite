@@ -109,6 +109,7 @@ plugins:
   - callouts
   - mkdocs-pdf
   - timetoread
+  - autolinks
   - glightbox
 hooks:
   - overrides/hooks/on_page_markdown.py

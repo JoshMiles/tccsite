@@ -20,12 +20,12 @@ aliases:
   
 # Bicycle  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^lor3j)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#lor3j)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^p1hcc)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#p1hcc)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^3qyh6)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#3qyh6)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^szlna)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#szlna)  
   
-![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md##^b027t)  
+![](../../20-to-29-Case-Files/21-File-Notes/03-Affidavit.md#b027t)  

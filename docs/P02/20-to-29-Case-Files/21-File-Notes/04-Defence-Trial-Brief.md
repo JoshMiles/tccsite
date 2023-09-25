@@ -24,9 +24,9 @@ aliases:
   
 # 03 Defence Trial Brief  
   
-[../22-PDFs/16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf](../../../assets/attachments/16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf)  
+[../22-PDFs/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
   
-![](../../../assets/attachments/16 13-1-01546-8 108 (DEFENSE TRIAL BRIEF).pdf)  
+![](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
   
 ## Facts  
   

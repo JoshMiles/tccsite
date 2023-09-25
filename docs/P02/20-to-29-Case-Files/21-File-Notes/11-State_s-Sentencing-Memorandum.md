@@ -20,9 +20,9 @@ aliases:
   
 # State's Sentencing Memorandum File Notes  
   
-[../22-PDFs/19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf](../../../assets/attachments/19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf)  
+[../22-PDFs/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
   
-![](../../../assets/attachments/19 13-1-01546-8 125 (STATE'S SENTENCING MEMORANDUM).pdf)  
+![](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
   
 Sentencing scheduled for [../../10-to-19-Case-Dates/13-Investigation-Dates/53-2015-02-23-Monday-February-23rd-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/53-2015-02-23-Monday-February-23rd%202015.md#), at 1:30pm. ^y3csb  
   

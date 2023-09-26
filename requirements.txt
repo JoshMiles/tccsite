@@ -20,3 +20,4 @@ mkdocs-minify-plugin==0.7.1
 mkdocs-pdf==0.1.1
 mkdocs-timetoread-plugin==0.0.4
 mkdocs-autolinks-plugin==0.7.1
+mkdocs-backlinks==0.9.1

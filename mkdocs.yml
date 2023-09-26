@@ -110,7 +110,8 @@ plugins:
   - mkdocs-pdf
   - timetoread
   - autolinks
-  - mkdocs-backlinks
+  - mkdocs-backlinks:
+        ignored_pages: ['index']
   - glightbox
 hooks:
   - overrides/hooks/on_page_markdown.py

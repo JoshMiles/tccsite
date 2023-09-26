@@ -20,27 +20,6 @@ aliases:
   
 # Detailed Timeline  
   
-category: P02/50-to-59-Investigation/53-Timeline  
-jid: P03.53.02  
-pro: P03  
-ac: "53"  
-id: "02"  
-jarea: 50-59 Investigation  
-jcat: 53 Timeline  
-desc: Detailed timeline of events.  
-friendlyname: Detailed Timeline  
-title: 02-Detailed-Timeline  
-aliases:  
-  - P03-53-02  
-  - Detailed Timeline  
-  
->[!info]- Location: P03.53.02  
->**Area:** P03 - 50-59 Investigation  
->**Category:** 53 - 53 Timeline  
->**ID:** 02 - Detailed Timeline  
-  
-# Detailed Timeline  
-  
 ### [02-2009](../../10-to-19-Case-Dates/11-Background-Dates/02-2009.md#)  
   
 - [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#) and [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) moved into [The Smith House](../52-Key-Locations/04-The-Smith-House.md#)[^3]  ^c57kk  

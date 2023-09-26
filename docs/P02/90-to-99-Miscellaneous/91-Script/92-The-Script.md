@@ -296,9 +296,9 @@ It was during this conversation that [Alan](../../70-to-79-People/72-Suspects-an
   
 Detective Stone was then contacted at 6:35pm and informed of Alan's consent for a search[^149] , with Detective Stone and Detective Chissus arriving back at the Bothell Police Department at 6:55pm to meet with Alan to go through the paperwork.[^150]   
   
-Alan wrote this brief statement in which he indicated that he was initiating contact with detectives and that he did not need the presence of his lawyer while the police inspected his car and apartment. (on screen: [../../20-to-29-Case-Files/22-PDFs/04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf > page=12](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))[^151]   
+Alan wrote this brief statement in which he indicated that he was initiating contact with detectives and that he did not need the presence of his lawyer while the police inspected his car and apartment. (on screen: [(3.5 MEMORANDUM).pdf > page=12](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))[^151]   
   
-Detective Stone then went over the Ferrier consent form with Alan, which he signed. (on screen: [../../20-to-29-Case-Files/22-PDFs/04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf > page=14](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))[^152]   
+Detective Stone then went over the Ferrier consent form with Alan, which he signed. (on screen: [(3.5 MEMORANDUM).pdf > page=14](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))[^152]   
   
 The search of Alan Smith's car began at approximately 7:00pm.[^153]   
   
@@ -314,7 +314,7 @@ Alan Smith then drove himself to his apartment, followed closely by Detective St
   
 A number of detectives also arrived at Alan's apartment shortly thereafter to assist in the search.[^165]   
   
-Alan Smith read and signed a consent to search form at 7:26pm.[^166] (on screen: [../../20-to-29-Case-Files/22-PDFs/04 13-1-01546-8 37 (3.5 MEMORANDUM).pdf > page=16](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))  
+Alan Smith read and signed a consent to search form at 7:26pm.[^166] (on screen: [(3.5 MEMORANDUM).pdf > page=16](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf))  
   
 During the course of the search of his apartment, Alan Smith apparently spoke with two of the detectives and discussed a number of topics but its unclear what exactly they spoke about.[^167]   
   

@@ -3,9 +3,8 @@ category: /
 title: index  
 date created: Thursday, August 31st 2023, 1:16:10 pm  
 date modified: Sunday, September 17th 2023, 9:18:32 pm  
+timetoread: "False"  
 ---  
-# Home  
-  
 Welcome to my research hub for all my true crime cases for my [YouTube channel](https://youtube.com/itsjoshuamiles).  
   
 > [!NOTE]  Using my Research  
@@ -17,8 +16,8 @@ Welcome to my research hub for all my true crime cases for my [YouTube channel](
   
 # Cases  
   
-| PRO | Case Name                                     | Created                      | Last Updated                 | Size (in Bytes) |  
-| --- | --------------------------------------------- | ---------------------------- | ---------------------------- | --------------- |  
-| P01 | [Cases/P01-John-Doe](P01/index.md#)             | 8:36 PM - September 22, 2023 | 8:37 PM - September 22, 2023 | 1284            |  
-| P02 | [Cases/P02-Case-of-Susann-Smith](P02/index.md#) | 3:12 PM - September 22, 2023 | 3:39 PM - September 24, 2023 | 806             |  
+| PRO | Case Name                                     | Created                      | Last Updated                  | Size (in Bytes) |  
+| --- | --------------------------------------------- | ---------------------------- | ----------------------------- | --------------- |  
+| P01 | [Cases/P01-John-Doe](P01/index.md#)             | 8:36 PM - September 22, 2023 | 8:37 PM - September 22, 2023  | 1284            |  
+| P02 | [Cases/P02-Case-of-Susann-Smith](P02/index.md#) | 3:12 PM - September 22, 2023 | 12:58 AM - September 26, 2023 | 805             |  
   

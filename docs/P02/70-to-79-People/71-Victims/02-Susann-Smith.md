@@ -1,17 +1,18 @@
 ---  
-category: "P02/70-to-79-People/71-Victims"  
-jid: "P02.71.02"  
-pro: "P02"  
+category: P02/70-to-79-People/71-Victims  
+jid: P02.71.02  
+pro: P02  
 ac: "71"  
 id: "02"  
-jarea: "70-79 People"  
-jcat: "71 Victims"  
-desc: "Victim"  
-friendlyname: "Susann Smith"  
-title: "02-Susann-Smith"  
-aliases:   
-- "P02.71.02"  
-- "Susann Smith"  
+jarea: 70-79 People  
+jcat: 71 Victims  
+desc: Victim  
+friendlyname: Susann Smith  
+title: 02-Susann-Smith  
+aliases:  
+  - P02.71.02  
+  - Susann Smith  
+  - Susann  
 ---  
 >[!info]- Location: P02.71.02  
 >**Area:** P02 - 70-79 People  

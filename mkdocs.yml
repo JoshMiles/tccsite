@@ -110,6 +110,7 @@ plugins:
   - mkdocs-pdf
   - timetoread
   - autolinks
+  - mkdocs-backlinks
   - glightbox
 hooks:
   - overrides/hooks/on_page_markdown.py

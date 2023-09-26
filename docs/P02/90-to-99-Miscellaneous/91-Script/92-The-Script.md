@@ -52,7 +52,6 @@ After the hearing, [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#
 This stare had been something the like [John Ely](../../70-to-79-People/77-Legal-Teams/02-John-Ely.md#.md#.md#.md#) had never seen in his some 15 years of practise, and it had been concerning enough to [John Ely](../../70-to-79-People/77-Legal-Teams/02-John-Ely.md#.md#) that he actually asked [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#) about it afterwards, and mentioned it to his staff.[^12]   
   
 In September of 2012, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#) actually began dating a different woman by the name of [Rachel Amrine](../../70-to-79-People/73-Family-and-Friends/05-Rachel-Amrine.md#).[^13]   
-  
 [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) hadn't been shy of making his thoughts and opinions known about the divorce and about [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#) to his new girlfriend Rachel, with [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#) asking during one angry rant to Rachel: "*how could he make someone disappear without anyone knowing*".[^14]   
   
 Several days after that angry rant, in an angry phone call, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) told Rachel that he "*just wanted her to be done with*" - presumably referring to the mother of his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#), [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#).[^15]   
@@ -144,7 +143,7 @@ Financial records did indicate that [Alan](../../70-to-79-People/72-Suspects-and
   
 While it is not corroborated by official sources, it seems reasonable to infer that he likely needed to grab some groceries and supplies for himself and his [kids](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) after spending the week in Ireland on business (**note: this is the author's inference**).  
   
-That Sunday evening, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) watched movies at his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#) with his [kids](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)  and then they had all slept there at his apartment. [^53]   
+That Sunday evening, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) watched movies at his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#) with his [kids](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)  and then they had all slept there at his apartment. [^53]   
   
 [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), that day, used her time away from her [kids](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) to catch up with some of her friends.[^56]   
   
@@ -174,7 +173,7 @@ On Monday the 11th of February 2013, [Susann Smith](../../70-to-79-People/71-Vic
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) dropped off the two [kids](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) at the day care that morning[^70] , and picked them up after he had finished his shift at the [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md#.md#.md#) plant.[^71]   
   
-According to [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#), he and the [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) spent that night at [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#).[^72]   
+According to [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), he and the [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) spent that night at [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#).[^72]   
   
 The following day, on Tuesday the 12th of February 2013, [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) failed to show up to work for the second day in a row.[^73]   
   
@@ -236,7 +235,7 @@ At approximately 2pm, [Detective Stone](../../70-to-79-People/75-Police-and-Dete
   
 En route, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#) contact [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md#.md#.md#.md#.md#.md#) Security Office Brian Ferguson and requested a meeting with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^109]   
   
-He detailed the purpose of the visit to both inform [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) that his wife appeared to have been murdered, that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were safe, and to see if [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#) appeared to have any injuries that may have been associated with the murder, and to find out [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s whereabouts at relevant times to the crime.[^110]   
+He detailed the purpose of the visit to both inform [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) that his wife appeared to have been murdered, that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were safe, and to see if [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) appeared to have any injuries that may have been associated with the murder, and to find out [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s whereabouts at relevant times to the crime.[^110]   
   
 The two detectives and the uniformed officer arrived at the [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md#.md#.md#.md#.md#.md#.md#) plant at about 2:45pm.[^111] [^112]   
   
@@ -244,47 +243,47 @@ Upon their arrival, they were escorted into one of [Boeing](../../50-to-59-Inves
   
 [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#) introduced himself and [Detective Chissus](../../70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md#.md#.md#) to [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and told him that they would like to talk with him.[^115]   
   
-It's important to note that the uniformed officer was seated in the far corner of the conference room and had no interaction with [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#)[^116] directly, while [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) sat at the head of the conference table[^117] with the two detectives who had been dressed in plain clothes.[^118]   
+It's important to note that the uniformed officer was seated in the far corner of the conference room and had no interaction with [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#)[^116] directly, while [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) sat at the head of the conference table[^117] with the two detectives who had been dressed in plain clothes.[^118]   
   
-The detectives informed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#) that they were investigating a serious crime, but importantly that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were safe[^119] , before telling [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) that they had located a dead body at [The Smith House](../../50-to-59-Investigation/52-Key-Locations/04-The-Smith-House.md#.md#.md#.md#.md#).[^120]   
+The detectives informed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#) that they were investigating a serious crime, but importantly that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were safe[^119] , before telling [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) that they had located a dead body at [The Smith House](../../50-to-59-Investigation/52-Key-Locations/04-The-Smith-House.md#.md#.md#.md#.md#).[^120]   
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) then proceeded to give the police his first account of his activities over the past several days, which included when he claimed to have last seen [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and the state of the pending divorce.[^121]   
   
-After [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#) disclosed this account, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#) attempted to press [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#) further and mentioned that divorce and child custody hearings could be very emotional, asking [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) whether he had any reason to harm [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^122]   
+After [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#) disclosed this account, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#) attempted to press [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#) further and mentioned that divorce and child custody hearings could be very emotional, asking [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) whether he had any reason to harm [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^122]   
   
-[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#) did not answer the detective.[^123]   
+[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#) did not answer the detective.[^123]   
   
 So, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#) asked [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) the question again.[^124]   
   
-To which, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) said: "*I think I may need to talk to an attorney.*"[^125]   
+To which, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#) said: "*I think I may need to talk to an attorney.*"[^125]   
   
-It was at that point that [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#) informed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#) that he was not under arrest, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he understood what the detective was saying.[^126]   
+It was at that point that [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#) informed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#) that he was not under arrest, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he understood what the detective was saying.[^126]   
   
-Now, it's important to note that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) did not ask these detectives as to whose body had been found[^127] , and according to the two detectives, it seemed as if [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s reaction had been rehearsed.[^128]   
+Now, it's important to note that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#) did not ask these detectives as to whose body had been found[^127] , and according to the two detectives, it seemed as if [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s reaction had been rehearsed.[^128]   
   
-It was at this point that the detectives took note of [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s obviously swollen left hand and a cut that he had sustained to his left thumb.[^129]   
+It was at this point that the detectives took note of [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s obviously swollen left hand and a cut that he had sustained to his left thumb.[^129]   
   
-The detectives asked [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) whether they could take photographs of his hands, to which he agreed.[^130]   
+The detectives asked [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) whether they could take photographs of his hands, to which he agreed.[^130]   
   
 [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#) then excused himself and stepped away from the conference room to call the assigned prosecutor, and they decided that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was not going to be detained at that time and that he was free to go.[^131]   
   
 The interview in the conference room came to an end at approximately 4:30pm[^132] , and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) agreed to let the detectives drive him back to his building where his [car](../../60-to-69-Evidence/63-Physical/05-Car.md#) had been parked.[^133]   
   
-[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) sat in the back of the police vehicle as they drove to his building[^134] , with no further questioning taking place.[^135]   
+[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) sat in the back of the police vehicle as they drove to his building[^134] , with no further questioning taking place.[^135]   
   
-When they arrived at his building, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) went inside and retrieved his laptop.[^136]   
+When they arrived at his building, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) went inside and retrieved his laptop.[^136]   
   
-And as he was doing so, the detectives placed another call to the assigned prosecutor and it was subsequently determined that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would be placed with child protective services, or [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#), until [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had been cleared in the homicide investigation. [^137]   
+And as he was doing so, the detectives placed another call to the assigned prosecutor and it was subsequently determined that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would be placed with child protective services, or [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#), until [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had been cleared in the homicide investigation. [^137]   
   
-When [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) left his office building, the detectives informed him that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were going into [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#) until further notice, and that the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#) paperwork could be retrieved at [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#) Police Department.[^138]   
+When [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) left his office building, the detectives informed him that his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) were going into [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#) until further notice, and that the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#) paperwork could be retrieved at [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#) Police Department.[^138]   
   
-The detectives handed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) directions to the police department so he could pick up the paperwork.[^139]  
+The detectives handed [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) directions to the police department so he could pick up the paperwork.[^139]  
   
 And this ended the first initial police contact with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#).[^140]   
   
 At approximately 5:00pm, [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#) contacted the [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#.md#) Police Department to let them know that [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would be enroute to them to get the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#.md#) paperwork.[^141]   
   
-Shortly before [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department, he actually left a message on [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s voicemail in which he asked whether the police wanted to look around his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#) or take a [DNA](../../60-to-69-Evidence/62-Forensic/05-DNA.md#) sample. [^142] [^143]   
+Shortly before [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) arrived at the police department, he actually left a message on [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s voicemail in which he asked whether the police wanted to look around his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#) or take a [DNA](../../60-to-69-Evidence/62-Forensic/05-DNA.md#) sample. [^142] [^143]   
   
 >[!note] Editor's Note  
 >The following quote displayed on screen as the previous paragraph is spoken:  
@@ -297,9 +296,9 @@ At 6:00pm, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest
   
 A member of staff and [Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#) met with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and together they went over the [CPS](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#.md#.md#.md#) paperwork.[^146]   
   
-It was during this conversation that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) told them that his [car](../../60-to-69-Evidence/63-Physical/05-Car.md#.md#) had been parked outside and that the police could search it and his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#) if they wanted to.[^147]   
+It was during this conversation that [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) told them that his [car](../../60-to-69-Evidence/63-Physical/05-Car.md#.md#) had been parked outside and that the police could search it and his [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#) if they wanted to.[^147]   
   
-[Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#.md#) explained that there were forms [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would have to signed if that was what he wanted, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he'd be fine with that.[^148]   
+[Detective Thompson](../../70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md#.md#) explained that there were forms [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) would have to signed if that was what he wanted, and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) indicated that he'd be fine with that.[^148]   
   
 Detective Stone was then contacted at 6:35pm and informed of Alan's consent for a search[^149] , with Detective Stone and Detective Chissus arriving back at the Bothell Police Department at 6:55pm to meet with Alan to go through the paperwork.[^150]   
   
@@ -327,103 +326,93 @@ During the course of the search of his apartment, Alan Smith apparently spoke wi
   
 At about 8:40pm, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) mentioned that he was willing to volunteer a buccal swab for DNA purposes[^169] , which he did without being prompted by the police.[^170]   
   
-The investigators accepted his offer and subsequently obtained two separate DNA samples of [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s saliva.[^171]   
+The investigators accepted his offer and subsequently obtained two separate DNA samples of [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#)'s saliva.[^171]   
   
-[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) then sat down with [Detective Chissus](../../70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md#.md#.md#.md#) and [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) in his [Apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#.md#) and gave a taped statement at 8:42pm.[^172]   
+[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) then sat down with [Detective Chissus](../../70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md#.md#.md#.md#) and [Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) in his [Apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#.md#.md#.md#.md#.md#.md#.md#) and gave a taped statement at 8:42pm.[^172]   
   
-In this taped statement, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was asked to describe where he and Susann first met, to which he described that they had met in 1999 when he had been attending the University of Colorado Boulder.[^173]   
+In this taped statement, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was asked to describe where he and Susann first met, to which he described that they had met in 1999 when he had been attending the University of Colorado Boulder.[^173]   
   
 >[!note] Editor's Note  
 >On screen screenshot of [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#hdrwj) reply.  
   
-According to [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had been a foreign exchange student from Germany as he had been getting his undergrad and after they had met, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had learned German.[^174]   
+According to [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had been a foreign exchange student from Germany as he had been getting his undergrad and after they had met, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had learned German.[^174]   
   
 He went on to explain that he had wanted to go experience a little bit of Germany, which he did.[^175]   
   
 Firstly, he got a job in Austria but had been unable to afford the bills so ended up going to Germany for a while and worked there.[^176]   
   
-After which, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) and [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) went on what [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) described as a world tour and ultimately ended up in the United States in the [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) area in 2009.[^177] [^178]  
+After which, [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) and [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) went on what [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) described as a world tour and ultimately ended up in the United States in the [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) area in 2009.[^177] [^178]  
   
-transcript  
-- Alan describing his relationship with Susann  
-- Alan describing the couples therapy  
-- When Alan moved out + details about that  
-- About his status of divorce at that time.  
-- When was the last time he spoke to Susann.  
-- His description of the house, why he was there, what he did.  
-	- mark and oksana.  
-- when they bought the house, how long he had been there.  
-- did susann have any boyfs?  
-	- would anyone want to harm her  
-	- church part  
-- child support  
-- susanns job  
-- the search of the apartment and the hatchet that they removed  
-	- him describing what happened.  
-- revisiting if susann had any bofs  
-	- alan describing his relationships hed had  
-		- interesting that he didnt mention rachel armine.  
-- "how do you feel if somethings happened to susann?"  
-- "who do you think is in susanns home right now. we believe that theres a dead body in there, who do yu think is in there?"  
-- the vehicles alan has  
-- the mention of the bicycle  
+When [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) was asked about his relationship with [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) said that it was complicated and that they had communication troubles, detailing that there had been fights in front of the kids that ultimately led to separation.[^180]   
   
-the csrt's analysis of the crime scene  
+>[!note] Editor's Note  
+>On screen screenshot of [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#fb3ix) reply.  
   
-the autoposy  
+[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) also revealed to the investigators that he and [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) had tried couples counselling though it hadn't helped and ultimately [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) ended up moving out of the family home.[^181]   
   
-the feb 16th statement  
+He confirmed that he moved out of [The Smith House](../../50-to-59-Investigation/52-Key-Locations/04-The-Smith-House.md#.md#.md#.md#.md#.md#) in November of 2011 and moved into an apartment in the North Creek area of Bothell.[^182]   
   
-search warrant signed   
+[Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) explained that his relationship with [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) at that point had been collegial and rather formal.[^183]   
+The detectives then inquired as to the state of the divorce proceedings to which [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) detailed that there had been a parenting plan in place and that they were nearing finalising the divorce, though they hadn't set up a date for mediation as of that point.[^184]   
   
-detectives wanting to speak to alan prior to the search warrant being served  
+[Detective Stone](../../70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) asked [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) when the last time was that he spoke to [Susann](../../70-to-79-People/71-Victims/02-Susann-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#), and [Alan](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#.md#) stated that he spoke to her on the Saturday of the Fasching party at the house and that conversation had been the last time.[^185] [^186]   
   
-search warrant for devices  
   
-a man calling the police about a bike   
   
-alan goes to get his car keys  
-  
-search warrant for his finances.  
-  
-reports that alan had changed the locks on the house and that susanns car had been removed.  
-- police telling neighbours not to have contact.  
-- alan planning to move back into the house  
-  
-alan begins dating love thai and moves into the house  
-  
-police interview mr cain who was the truck driver seen in the cctv footage  
-  
-police called about a woman screaming  
-  
-alan and love thai being told they were turned away from the city church  
-  
-alan reaches out to wendell morris and gives confession  
-  
-wendell morris called the police  
-  
-bloody footprint analysis conclusion  
-  
-alans arrest  
-  
-love thai being pregnant  
-  
-pretrial hearings commence  
-  
-love thai commits suicide  
-  
-alan smiths attorneys interview mr krull  
-  
-trial begins  
-- gps evidence detail & internet searches  
-  
-trial outcome  
-  
-sentencing memorandum  
-  
-sentencing hearing   
-  
-appeal  
+ - [ ] transcript  
+	- [x] Alan describing his relationship with Susann ✅ 2023-09-26  
+	- [x] Alan describing the couples therapy ✅ 2023-09-26  
+	- [x] When Alan moved out + details about that ✅ 2023-09-26  
+	- [x] About his status of divorce at that time. ✅ 2023-09-26  
+	- [x] When was the last time he spoke to Susann. ✅ 2023-09-26  
+	- [ ] His description of the house, why he was there, what he did.  
+		- [ ] mark and oksana.  
+	- [ ] when they bought the house, how long he had been there.  
+	- [ ] did susann have any boyfs?  
+		- [ ] would anyone want to harm her  
+		- [ ] church part  
+	- [ ] child support  
+	- [ ] susanns job  
+	- [ ] the search of the apartment and the hatchet that they removed  
+		- [ ] him describing what happened.  
+	- [ ] revisiting if susann had any bofs  
+		- [ ] alan describing his relationships hed had  
+			- [ ] interesting that he didnt mention rachel armine.  
+	- [ ] "how do you feel if somethings happened to susann?"  
+	- [ ] "who do you think is in susanns home right now. we believe that theres a dead body in there, who do yu think is in there?"  
+	- [ ] the vehicles alan has  
+	- [ ] the mention of the bicycle  
+- [ ] the csrt's analysis of the crime scene  
+- [ ] the autoposy  
+- [ ] the feb 16th statement  
+- [ ] search warrant signed   
+- [ ] detectives wanting to speak to alan prior to the search warrant being served  
+- [ ] search warrant for devices  
+- [ ] a man calling the police about a bike   
+- [ ] alan goes to get his car keys  
+- [ ] search warrant for his finances.  
+- [ ] reports that alan had changed the locks on the house and that susanns car had been removed.  
+	- [ ] police telling neighbours not to have contact.  
+	- [ ] alan planning to move back into the house  
+- [ ] alan begins dating love thai and moves into the house  
+- [ ] police interview mr cain who was the truck driver seen in the cctv footage  
+- [ ] police called about a woman screaming  
+- [ ] alan and love thai being told they were turned away from the city church  
+- [ ] alan reaches out to wendell morris and gives confession  
+- [ ] wendell morris called the police  
+- [ ] bloody footprint analysis conclusion  
+- [ ] alans arrest  
+- [ ] love thai being pregnant  
+- [ ] pretrial hearings commence  
+- [ ] love thai commits suicide  
+- [ ] alan smiths attorneys interview mr krull  
+- [ ] trial begins  
+	- [ ]  gps evidence detail & internet searches  
+- [ ] trial outcome  
+- [ ] sentencing memorandum  
+- [ ] sentencing hearing   
+- [ ] appeal  
+- [ ] use the [14-TE_S_RESPONSE_TO_DEFENSE_MOTION](../../20-to-29-Case-Files/21-File-Notes/14-TE_S_RESPONSE_TO_DEFENSE_MOTION.md#) to fill in the extra details  
   
   
   
@@ -611,4 +600,11 @@ appeal
 [^176]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md.md.md.md.md#hdrwj))  
 [^177]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md.md.md.md.md.md#hdrwj))  
 [^178]:   
-[^179]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#z6zfj))
+[^179]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#z6zfj))  
+[^180]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md.md#fb3ix))  
+[^181]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#1-02))  
+[^182]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#tdjyd))  
+[^183]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#en5o0))  
+[^184]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#c2pyt))  
+[^185]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#lirf))  
+[^186]: (see [02-3_5-Memorandum](../../20-to-29-Case-Files/21-File-Notes/02-3_5-Memorandum.md#hv18b))

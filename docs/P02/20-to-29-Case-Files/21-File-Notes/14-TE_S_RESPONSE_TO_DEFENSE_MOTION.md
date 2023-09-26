@@ -1038,7 +1038,7 @@ Warrant for:
   
 ### Alan Smith Moves into Victim's Residence (crime scene)  
   
-- On 04/21/2013, Detectives determined Alan Smith moved into Susann Smith's residence.   
+- On 04/21/2013, Detectives determined Alan Smith moved into Susann Smith's residence. ^l3l2-  
 - Alan Smith began clean up and remodelling projects to the residence including removing Susann Smith's two vehicles.  
 - Bothell Police patrol officers have responded to the residence on 3 separate occasions on domestic incidences involving Alan Smith and his 32 year old female girlfriend.   
 - Officers confirmed Alan Smith is living at the residence.  

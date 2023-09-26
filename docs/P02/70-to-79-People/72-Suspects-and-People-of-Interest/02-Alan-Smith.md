@@ -1,17 +1,18 @@
 ---  
-category: "P02/70-to-79-People/72-Suspects-and-People-of-Interest"  
-jid: "P02.72.02"  
-pro: "P02"  
+category: P02/70-to-79-People/72-Suspects-and-People-of-Interest  
+jid: P02.72.02  
+pro: P02  
 ac: "72"  
 id: "02"  
-jarea: "70-79 People"  
-jcat: "72 Suspects and People of Interest"  
-desc: "Suspect"  
-friendlyname: "Alan Smith"  
-title: "02-Alan-Smith"  
-aliases:   
-- "P02.72.02"  
-- "Alan Smith"  
+jarea: 70-79 People  
+jcat: 72 Suspects and People of Interest  
+desc: Suspect  
+friendlyname: Alan Smith  
+title: 02-Alan-Smith  
+aliases:  
+  - P02.72.02  
+  - Alan Smith  
+  - Alan  
 ---  
 >[!info]- Location: P02.72.02  
 >**Area:** P02 - 70-79 People  

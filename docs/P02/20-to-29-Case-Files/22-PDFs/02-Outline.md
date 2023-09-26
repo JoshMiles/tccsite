@@ -46,7 +46,7 @@ aliases:
 - Statement from [2013-02-16-Saturday-February-16th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/05-2013-02-16-Saturday-February-16th-2013.md#)  
 - Statement from [2013-02-22-Friday-February-22nd-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/07-2013-02-22-Friday-February-22nd-2013.md#)  
 - Statement about arrest on [2013-06-27-Thursday-June-27th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/27-2013-06-27-Thursday-June-27th-2013.md#)  
-- Consent to search [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#) [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#) and remove a Hatchett from the living room (pg. 16)  
+- Consent to search [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#) [apartment](../../50-to-59-Investigation/52-Key-Locations/06-Apartment.md#) and remove a Hatchett from the living room (pg. 16) ^ifuz0  
 - Consent to search [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#) vehicle (pg. 14)  
   
 ## [06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf](../../../assets/attachments/06_13-1-01546-8_45_BRIEF_IN_OPPOSITION_TO_A_FINDING.pdf)  

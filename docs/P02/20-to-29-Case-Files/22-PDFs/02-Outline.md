@@ -213,14 +213,14 @@ aliases:
   
 ![27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL](../../../assets/attachments/27_13-1-01546-8_137_NOTICE_OF_APPEAL_TO_COURT_OF_APPEAL.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
-- Notice of appeal filed on [2015-03-10-Tuesday-March-10th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/57-2015-03-10-Tuesday-March-10th-2015.md#).  
+- Notice of appeal filed on [2015-03-10-Tuesday-March-10th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/57-2015-03-10-Tuesday-March-10th-2015.md#). ^852ru  
 	- Includes the sentencing judgement and order of commitment.  
   
 ## [28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
 ![28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
-- Motion of the appeal detailed the declaration of the appeal.  
+- Motion of the appeal detailed the declaration of the appeal. ^l9h30  
   
 ## [29_13-1-01546-8_148_WITNESS_RECORD.pdf](../../../assets/attachments/29_13-1-01546-8_148_WITNESS_RECORD.pdf)  
   

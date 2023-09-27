@@ -983,24 +983,24 @@ Warrant for:
   
 - Search warrant and search warrant affidavit # 2013-115 outlined Alan Smith had not mentioned purchasing or owning a bicycle.   
 - That search warrant and search warrant affidavit are both attached to this addendum and Incorporated by reference.   
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives were unable to locate the same bicycle under the previous search warrants.</span>   
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives learned from interviews of Alan Smith's co-workers and acquaintances he was an avid bicyclist.</span>  
+- Detectives were unable to locate the same bicycle under the previous search warrants. ^b549s  
+- Detectives learned from interviews of Alan Smith's co-workers and acquaintances he was an avid bicyclist. ^tje2j  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">Search warrant # 2013-115 further outlined the same Trek bicycle was recovered abandoned in a green belt in Alan Smith's apartment complex on 03/01/2013, reference Bothell Police report # 13-4723. </span>  
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives checked outside ATM video surveillance from the US Bank located at 23131 Bothell Everett Hwy which showed a subject riding a bicycle southbound past the ATM on 02/1112013, at 02:24 hours. </span>  
-- <span style="background:rgba(240, 200, 0, 0.2)">A search of the highway video obtained from the camera at Bothell Everett Hwy (SR 527 SE) and 240th ST SE shows at 02/11/2012, at 04:13 hours, a subject similar to shape and size of a bicyclist riding north bound on 240th ST SE making a left turn and continuing riding north bound onto Bothell Everett Hwy. </span>  
+- Search warrant # 2013-115 further outlined the same Trek bicycle was recovered abandoned in a green belt in Alan Smith's apartment complex on 03/01/2013, reference Bothell Police report # 13-4723.   
+- Detectives checked outside ATM video surveillance from the US Bank located at 23131 Bothell Everett Hwy which showed a subject riding a bicycle southbound past the ATM on 02/1112013, at 02:24 hours.  
+- A search of the highway video obtained from the camera at Bothell Everett Hwy (SR 527 SE) and 240th ST SE shows at 02/11/2012, at 04:13 hours, a subject similar to shape and size of a bicyclist riding north bound on 240th ST SE making a left turn and continuing riding north bound onto Bothell Everett Hwy.  
 - There is not enough of a clear image on both videos to depict any physical characteristics of the individual or the bicycle.   
 - This is the shortest route to travel {approximately 1.7 miles) from Alan Smith's apartment to Susann Smith residence.  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">Under the authority of search warrant and search warrant affidavit # 2013-49, photographs of Alan Smith were taken including photographs of Alan Smith's bare feet.</span>  
+- Under the authority of search warrant and search warrant affidavit # 2013-49, photographs of Alan Smith were taken including photographs of Alan Smith's bare feet.  
   
 - As described in the initial search warrant # 2013-36, a large amount of the victim's blood was present at the crime scene.  
 - Also observed at the crime scene were numerous bloody foot impressions.   
 - Washington State Patrol Crime Scene Response Team (WSP CSRD processed the scene including taking detail photographs of the bloody foot impressions.   
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives conducted a comparison of the images of the foot impressions from the crime scene against Alan Smith's bare feet images and determined Alan Smith's left foot is similar in shape and size to the left foot impression image taken at the crime scene.</span>  
+- Detectives conducted a comparison of the images of the foot impressions from the crime scene against Alan Smith's bare feet images and determined Alan Smith's left foot is similar in shape and size to the left foot impression image taken at the crime scene.  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives were unable to determine or confirm a positive match of Alan Smith's bare feet to the bloody foot impressions from the crime scene. </span>  
-- <span style="background:rgba(240, 200, 0, 0.2)">Additionally, your affiant was further not able to obtain detailed foot impressions of Alan Smith's bare feet under the authority of search warrant # 2013--49, due to limited resources and expertise to properly take latent foot and foot castings at the time the warrant was served.</span>  
+- Detectives were unable to determine or confirm a positive match of Alan Smith's bare feet to the bloody foot impressions from the crime scene.   
+- Additionally, your affiant was further not able to obtain detailed foot impressions of Alan Smith's bare feet under the authority of search warrant # 2013--49, due to limited resources and expertise to properly take latent foot and foot castings at the time the warrant was served.  
   
 - Washington State Patrol (WSP) Crime Laboratory does not conduct examinations, analysis or comparisons involving human feet.   
 - Your affiant was not aware of WSP Laboratory limitations regarding bare feet comparisons at the time warrant # 2013-49 was authorized and therefore only photographs of Alan Smith's bare feet were taken.  
@@ -1016,35 +1016,35 @@ Warrant for:
 - That search warrant and search warrant affidavit was reviewed and signed by Snohomish County Superior Court Judge Fair and assigned warrant # 2013-70.   
 - The search warrant and search warrant affidavit authorized the digital forensic search of Alan Smith's electronic devices including his person Apple Pad and Samsung android cell phone.   
 - That search warrant and search warrant affidavit are both attached to this addendum and incorporated by reference.  
-- <span style="background:rgba(240, 200, 0, 0.2)">Related results of the digital forensic searches of Alan Smith's I-Pad and Samsung cell phone listed the following internet searches:</span>  
+- Related results of the digital forensic searches of Alan Smith's I-Pad and Samsung cell phone listed the following internet searches:  
 	- 12/02/12 19:57 hours google.com: How realistic is CSI Miami.  
 	- 12/02/12 20:05 hours google.com: Most realistic crime shows  
 	- 12/07/12 20:30 hours google.com: Forensic Files  
 	- 01/03/2013 16:59 hours google.com: Where do people get fake passports.  
 	- 02/13/2013 02:04 AM Metro Transit Planner. 1630 228111 ST SE to Seattle Tacoma International Airport leaving 02/13/2013 at 03:30 hrs  
 	- 02/13/2013 02:12 AM Map of Bellevue Transit Center  
-- <span style="background:rgba(240, 200, 0, 0.2)">Alan Smith's internet searches regarding DNA:</span>  
+- Alan Smith's internet searches regarding DNA:  
 	- 02/21/2013 17:19 hours wiki.answers: How long does it take for DNA test.  
 	- 02/21/2013 17:51 hours google.com: How much material is need for DNA.  
 	- 02/21/2013 17:52 hours google.com redirect to orchidcellmark.com  
 	- 02/21/2013 17:52 hours orchidcellmark.com: Forensic DNA FAQ's.  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">Detectives were unable to locate Alan Smith's passports during authorized searches of his apartment, work place and vehicles.</span>  
+- Detectives were unable to locate Alan Smith's passports during authorized searches of his apartment, work place and vehicles. ^3i21x  
   
 - On 03/08/2013, your affiant met Alan Smith at the Bothell Police Department to returned his vehicle to him that was seized and searched under the authority of search warrant and search warrant affidavit # 2013-49 and search warrant addendum # 2013-50.  
-- <span style="background:rgba(240, 200, 0, 0.2)"> During the contact, your affiant asked Alan Smith about his passport inctuding telling of the authorization to seize his passport under authority of search warrant # 2013-49.</span>   
-- <span style="background:rgba(240, 200, 0, 0.2)">Alan Smith declined to turn over his passport at that time.</span>  
+- During the contact, your affiant asked Alan Smith about his passport including telling of the authorization to seize his passport under authority of search warrant # 2013-49. ^dcum9  
+- Alan Smith declined to turn over his passport at that time. ^h65b5  
   
 ### Alan Smith Moves into Victim's Residence (crime scene)  
   
 - On 04/21/2013, Detectives determined Alan Smith moved into Susann Smith's residence. ^l3l2-  
-- A<span style="background:rgba(240, 200, 0, 0.2)">lan Smith began clean up and remodelling projects to the residence including removing Susann Smith's two vehicles.</span>  
+- Alan Smith began clean up and remodelling projects to the residence including removing Susann Smith's two vehicles.  
 - Bothell Police patrol officers have responded to the residence on 3 separate occasions on domestic incidences involving Alan Smith and his 32 year old female girlfriend.   
 - Officers confirmed Alan Smith is living at the residence.  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">On 05/21/2013, your affiant learned from an adult friend of the 32 year old girlfriend of Alan Smith's that she and Alan Smith were considering "getting out of this country" and going to South America to avoid the police.</span>  
+- On 05/21/2013, your affiant learned from an adult friend of the 32 year old girlfriend of Alan Smith's that she and Alan Smith were considering "getting out of this country" and going to South America to avoid the police. ^yhcpe  
   
 ### Alan Smith is Placed on Leave Without Pay With Boeing  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">On 06/18/2013, detectives learned from Boeing Corporate Security, on 06/13/2013, Alan Smith was sent a notice indicating his employment status had been changed to leave without pay from the Boeing Company effective 07/25/2013.</span>   
-- <span style="background:rgba(240, 200, 0, 0.2)">Alan Smith had been on paid administrative leave since end of February 2013</span>.
+- On 06/18/2013, detectives learned from Boeing Corporate Security, on 06/13/2013, Alan Smith was sent a notice indicating his employment status had been changed to leave without pay from the Boeing Company effective 07/25/2013.  
+- Alan Smith had been on paid administrative leave since end of February 2013.

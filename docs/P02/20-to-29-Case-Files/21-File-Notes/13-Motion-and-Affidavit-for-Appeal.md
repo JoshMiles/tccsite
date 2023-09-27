@@ -20,21 +20,19 @@ aliases:
   
 # Motion and Affidavit for Appeal File Notes  
   
-  
-  
-[../22-PDFs/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
+[13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
 ![](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) moves the Court for an order allowing [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) to seek review at public expense and providing appointment of attorneyt on appeal.  
   
-Dated [../../10-to-19-Case-Dates/13-Investigation-Dates/56-2015-03-09-Monday-March-9th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/56-2015-03-09-Monday-March-9th-2015.md#).  
+Dated [Monday-March-9th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/56-2015-03-09-Monday-March-9th-2015.md#).  
   
 The declaration was as follows:  
   
 I was tried and convicted on one count of First Degree Murder with a Deadly Weapon in front of the Honorable Lind C Krese.  
   
-A Judgement and sentence was entered in this matter on the [../../10-to-19-Case-Dates/13-Investigation-Dates/55-2015-03-05-Thursday-March-5th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/55-2015-03-05-Thursday-March-5th-2015.md#).  
+A Judgement and sentence was entered in this matter on the [Thursday-March-5th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/55-2015-03-05-Thursday-March-5th-2015.md#).  
   
 I desire to appeal the conviction and the judgement imposed.    
 I believe that the appeal has merit and is not frivolous and make the following assignments of error:  

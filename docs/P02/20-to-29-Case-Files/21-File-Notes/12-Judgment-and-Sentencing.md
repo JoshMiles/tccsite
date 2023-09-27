@@ -20,15 +20,13 @@ aliases:
   
 # Judgment and Sentencing  
   
-  
-  
-[../22-PDFs/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
+[13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
 ![](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
 1 count of First Degree Murder with a Deadly Weapon (Domestic Violence) ^i5evb  
   
-[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) was sentenced to 344 months imprisonment. ^jy4k0    
+[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) was sentenced to 344 months imprisonment. [^jy4k0]    
 And a further 36 months community custody. ^gg2qb  
   
 ## Order of Commitment  

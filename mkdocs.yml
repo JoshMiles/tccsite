@@ -1,6 +1,6 @@
 site_name: True Crime Cases # Change this to your site name
 site_description: truecrimecases
-site_url: https://staged.truecrimecases.com # Change this to your site URL
+site_url: https://truecrimecases.com # Change this to your site URL
 
 theme:
     name: 'material'

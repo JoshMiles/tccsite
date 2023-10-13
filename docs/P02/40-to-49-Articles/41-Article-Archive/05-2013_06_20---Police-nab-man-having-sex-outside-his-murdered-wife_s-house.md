@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/40-to-49-Articles/41-Article-Archive"  
 jid: "P02.41.05"  
 pro: "P02"  
@@ -34,12 +36,12 @@ Police consider [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Int
   
     
   
-[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#) moved back into the house after the murder, and recently neighbors called police after they heard a woman screaming. ^5cc7u    
-When police arrived, they say they found [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#) and another woman having sex in the yard. ^3q-8q  
+[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) moved back into the house after the murder, and recently neighbors called police after they heard a woman screaming. ^5cc7u    
+When police arrived, they say they found [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) and another woman having sex in the yard. ^3q-8q  
   
     
   
-The woman with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#) that night, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#), said the story is pretty simple.    
+The woman with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) that night, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#), said the story is pretty simple.    
   
     
   
@@ -55,7 +57,7 @@ Thai said it would have taken an effort for anyone to see the couple having sex.
   
     
   
-While [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#.md#.md#.md#) has not been charged with any crime in relation to his estranged wife's murder, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#) believes the suspicion that surrounds him is steering the neighborhood's reaction to the recent incident.    
+While [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) has not been charged with any crime in relation to his estranged wife's murder, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#) believes the suspicion that surrounds him is steering the neighborhood's reaction to the recent incident.    
   
     
   
@@ -72,8 +74,8 @@ She also said the attitude of residents in the area is taking its toll on the co
     
   
 No charges were filed for the sexual activity in the yard. ^48s9q    
-Neighbors have also complained about nude sunbathing, which [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#.md#) said would also be very hard to see. ^sn-b7  
+Neighbors have also complained about nude sunbathing, which [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#) said would also be very hard to see. ^sn-b7  
   
     
   
-[Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#.md#.md#) said the couple has found threatening notes left on the property, but she doesn't know who put them there. ^v2gqk  
+[Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#) said the couple has found threatening notes left on the property, but she doesn't know who put them there. ^v2gqk  

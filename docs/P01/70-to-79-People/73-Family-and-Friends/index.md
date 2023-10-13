@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/70-to-79-People/73-Family-and-Friends"  
 jid: "P01.73.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/30-to-39-Case-Media/32-People"  
 jid: "P01.32.01"  
 pro: "P01"  

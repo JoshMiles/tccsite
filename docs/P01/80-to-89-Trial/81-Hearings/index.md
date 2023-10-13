@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/80-to-89-Trial/81-Hearings"  
 jid: "P01.81.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/10-to-19-Case-Dates/12-Crime-Dates"  
 jid: "P01.12.01"  
 pro: "P01"  

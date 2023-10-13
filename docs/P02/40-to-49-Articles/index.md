@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/40-to-49-Articles  
 jid: P02.40.01  
 pro: P02  

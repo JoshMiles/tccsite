@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/20-to-29-Case-Files/21-File-Notes  
 jid: P02.21.01  
 pro: P02  
@@ -42,6 +44,7 @@ The notes extracted from the PDFs of relevant information
 | [P02.21.11](./11-State_s-Sentencing-Memorandum.md#)                               | [State's Sentencing Memorandum File Notes](./11-State_s-Sentencing-Memorandum.md#)                                                             | File Note                                                  |  
 | [P02.21.12](./12-Judgment-and-Sentencing.md#)                                     | [Judgment and Sentencing File Notes](./12-Judgment-and-Sentencing.md#)                                                                         | File Note                                                  |  
 | [P02.21.13](./13-Motion-and-Affidavit-for-Appeal.md#)                             | [Motion and Affidavit for Appeal File Notes](./13-Motion-and-Affidavit-for-Appeal.md#)                                                         | File Note                                                  |  
+| [P02.21.14](./14-TE_S_RESPONSE_TO_DEFENSE_MOTION.md#)                             | [State's Response to Defense Motion](./14-TE_S_RESPONSE_TO_DEFENSE_MOTION.md#)                                                                 | File Note                                                  |  
   
   
 ---  

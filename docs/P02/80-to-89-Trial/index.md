@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/80-to-89-Trial  
 jid: P02.80.01  
 pro: P02  

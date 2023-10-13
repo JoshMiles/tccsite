@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/80-to-89-Trial/85-Appeal"  
 jid: "P01.85.01"  
 pro: "P01"  

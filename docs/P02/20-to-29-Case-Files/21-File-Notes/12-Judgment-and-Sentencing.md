@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/20-to-29-Case-Files/21-File-Notes  
 jid: P02.21.12  
 pro: P02  
@@ -33,6 +35,6 @@ And a further 36 months community custody. ^gg2qb
   
 The State of Washington to the Sheriff of the County of Snohomish; State of Washington, and to the Secretary of the Department of Corrections, and the Superintendent of the Washington Corrections Center of the State of Washingon;  
   
-WHEREAS, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#) has been duly convicted of the crime of:  
+WHEREAS, [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) has been duly convicted of the crime of:  
   
 Count 1: First Degree Murder with a Deadly Weapon (Domestic Violence)  

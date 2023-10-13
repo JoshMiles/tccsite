@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/70-to-79-People/72-Suspects-and-People-of-Interest  
 jid: P02.72.01  
 pro: P02  

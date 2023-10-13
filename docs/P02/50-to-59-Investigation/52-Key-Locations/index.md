@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/50-to-59-Investigation/52-Key-Locations  
 jid: P02.52.01  
 pro: P02  

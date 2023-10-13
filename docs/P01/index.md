@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01"  
 jid: "P01.01.01"  
 pro: "P01"  

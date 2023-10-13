@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/60-to-69-Evidence"  
 jid: "P01.60.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/30-to-39-Case-Media  
 jid: P02.30.01  
 pro: P02  

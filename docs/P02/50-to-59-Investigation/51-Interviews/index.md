@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/50-to-59-Investigation/51-Interviews  
 jid: P02.51.01  
 pro: P02  

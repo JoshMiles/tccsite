@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/20-to-29-Case-Files/21-File-Notes"  
 jid: "P02.21.14"  
 pro: "P02"  
@@ -99,9 +101,9 @@ I, Katherine E. Wetmore, Deputy Prosecuting Attorney, hereby make the following 
 	- After notification from law enforcement of Susann's death and that his children had been placed in to CPS custody, Alan performed another search on Kayak.com.   
 	- At 0606 hours on 2/13/2013 Alan searched for flight information from Seattle to Venezuela for only 1 adult.  
   
-- <span style="background:rgba(240, 200, 0, 0.2)">Forensic analysis of Susann Smith's cell phone showed that the last incoming text message from Alan Smith was on 2/12/13 which read "hi Susi."</span>  
-	- <span style="background:rgba(240, 200, 0, 0.2)">The detectives indicated that on no other occasion in the text message history did Alan refer to Susann as Susi, but specifically addressed her as Susann on many of the messages.</span>   
-	- <span style="background:rgba(240, 200, 0, 0.2)">The Detective reported that in all time frames the conversations between Alan and Susann by text were with regards to child transfers or other issues with the children or them, and that in no other message did Alan ever simply write "hi."</span>  
+-Forensic analysis of Susann Smith's cell phone showed that the last incoming text message from Alan Smith was on 2/12/13 which read "hi Susi."  
+	- The detectives indicated that on no other occasion in the text message history did Alan refer to Susann as Susi, but specifically addressed her as Susann on many of the messages.   
+	- The Detective reported that in all time frames the conversations between Alan and Susann by text were with regards to child transfers or other issues with the children or them, and that in no other message did Alan ever simply write "hi."  
   
 ## Search Warrant 2013-49  
   

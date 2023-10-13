@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/80-to-89-Trial/81-Hearings  
 jid: P02.81.01  
 pro: P02  

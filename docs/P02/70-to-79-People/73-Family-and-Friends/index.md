@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/70-to-79-People/73-Family-and-Friends  
 jid: P02.73.01  
 pro: P02  

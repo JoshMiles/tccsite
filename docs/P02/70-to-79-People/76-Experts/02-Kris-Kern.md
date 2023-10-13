@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/70-to-79-People/76-Experts"  
 jid: "P02.76.02"  
 pro: "P02"  

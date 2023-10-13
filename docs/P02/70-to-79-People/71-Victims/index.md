@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/70-to-79-People/71-Victims  
 jid: P02.71.01  
 pro: P02  

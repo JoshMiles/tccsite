@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/60-to-69-Evidence/61-Digital"  
 jid: "P02.61.03"  
 pro: "P02"  

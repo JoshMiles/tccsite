@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/40-to-49-Articles/42-Article-Notes"  
 jid: "P01.42.01"  
 pro: "P01"  

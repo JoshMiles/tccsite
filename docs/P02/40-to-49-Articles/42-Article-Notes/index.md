@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/40-to-49-Articles/42-Article-Notes  
 jid: P02.42.01  
 pro: P02  

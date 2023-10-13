@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/30-to-39-Case-Media/34-Press-Video  
 jid: P02.34.01  
 pro: P02  

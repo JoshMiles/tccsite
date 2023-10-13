@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/70-to-79-People/77-Legal-Teams"  
 jid: "P01.77.01"  
 pro: "P01"  

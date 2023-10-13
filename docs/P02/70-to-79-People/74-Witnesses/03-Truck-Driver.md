@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/70-to-79-People/74-Witnesses"  
 jid: "P02.74.03"  
 pro: "P02"  

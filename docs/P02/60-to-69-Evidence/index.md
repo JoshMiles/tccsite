@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/60-to-69-Evidence  
 jid: P02.60.01  
 pro: P02  

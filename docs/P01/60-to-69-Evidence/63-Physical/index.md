@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/60-to-69-Evidence/63-Physical"  
 jid: "P01.63.01"  
 pro: "P01"  

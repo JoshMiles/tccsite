@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/70-to-79-People/75-Police-and-Detectives"  
 jid: "P02.75.10"  
 pro: "P02"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/30-to-39-Case-Media/34-Press-Video"  
 jid: "P01.34.01"  
 pro: "P01"  

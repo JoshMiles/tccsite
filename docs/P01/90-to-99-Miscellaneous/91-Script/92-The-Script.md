@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/90-to-99-Miscellaneous/91-Script"  
 jid: "P01.91.02"  
 pro: "P01"  

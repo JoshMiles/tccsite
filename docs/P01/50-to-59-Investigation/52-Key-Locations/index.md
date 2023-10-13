@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/50-to-59-Investigation/52-Key-Locations"  
 jid: "P01.52.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/80-to-89-Trial/83-Judgement  
 jid: P02.83.01  
 pro: P02  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/30-to-39-Case-Media/32-People  
 jid: P02.32.01  
 pro: P02  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/30-to-39-Case-Media/31-Crime-Scene  
 jid: P02.31.01  
 pro: P02  

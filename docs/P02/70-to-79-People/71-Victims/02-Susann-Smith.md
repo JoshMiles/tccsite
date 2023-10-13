@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/70-to-79-People/71-Victims  
 jid: P02.71.02  
 pro: P02  
@@ -31,12 +33,10 @@ Age: 37[^2]
 Court papers show the woman who lived at the home moved to the U.S. from Germany about eight years ago. She and her husband were in the process of divorcing.[^3]   
   
 She had two [children](../73-Family-and-Friends/08-Children.md#), who were taken into protective custody following her death.[^4]   
-  
-- The [children](../73-Family-and-Friends/08-Children.md#.md#) are aged 6 and 3[^5]   
-- The [children](../73-Family-and-Friends/08-Children.md#.md#.md#) had been living with her sister during the trial in Germany.[^6] [^7]   
+- The [children](../73-Family-and-Friends/08-Children.md#) are aged 6 and 3[^5]   
+- The [children](../73-Family-and-Friends/08-Children.md#) had been living with her sister during the trial in Germany.[^6] [^7]   
   
 Her mother, father and sister were from Germany.[^8]   
-  
 # Footnotes  
   
 [^1]: (see [../../40-to-49-Articles/41-Article-Archive/02 2013.04.22 - Estranged husband, person of interest plans to move into murdered wife's Bothell home, neighbors say > ^skuu7](../../40-to-49-Articles/41-Article-Archive/03-2013_04_22Estranged-husband_-person-of-interest-plans-to-move-into-murdered-wife's-Bothell-home_-neighbors-say.md#^skuu7))  

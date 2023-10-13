@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/40-to-49-Articles/41-Article-Archive"  
 jid: "P01.41.01"  
 pro: "P01"  

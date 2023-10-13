@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/70-to-79-People/73-Family-and-Friends"  
 jid: "P02.73.03"  
 pro: "P02"  
@@ -27,7 +29,7 @@ Was involved with [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smi
   
 Committed suicide on April 8th, 2014.  
   
-On 15th July of 2013, she revealed she was pregnant with [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md#.md#)'s child, posting an ultrasound photo to her personal Facebook account. - was 6 weeks, 6 days pregnant when posted.  
+On 15th July of 2013, she revealed she was pregnant with [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md#)'s child, posting an ultrasound photo to her personal Facebook account. - was 6 weeks, 6 days pregnant when posted.  
   
 Birthday 17th July 2013, was 33.  
   

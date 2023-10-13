@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/70-to-79-People  
 jid: P02.70.01  
 pro: P02  

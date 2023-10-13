@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/80-to-89-Trial/84-Sentencing  
 jid: P02.84.01  
 pro: P02  

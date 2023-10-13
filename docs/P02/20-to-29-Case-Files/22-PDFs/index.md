@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/20-to-29-Case-Files/22-PDFs  
 jid: P02.22.01  
 pro: P02  

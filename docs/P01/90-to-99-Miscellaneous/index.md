@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/90-to-99-Miscellaneous"  
 jid: "P01.90.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/10-to-19-Case-Dates/13-Investigation-Dates  
 jid: P02.13.01  
 pro: P02  
@@ -61,14 +63,14 @@ This includes dates referenced from the investigation process
 | [P02.13.30](./30-2013-09-12-Monday-September-12th-2013.md#)    | [Monday September 12th 2013](./30-2013-09-12-Monday-September-12th-2013.md#)       | Date                                                           |  
 | [P02.13.31](./31-2013-09-23-Monday-September-23rd-2013.md#)    | [Monday September 23rd 2013](./31-2013-09-23-Monday-September-23rd-2013.md#)       | Date                                                           |  
 | [P02.13.32](./32-2013-12-13-Friday-December-13th-2013.md#)     | [Friday December 13th 2013](./32-2013-12-13-Friday-December-13th-2013.md#)         | Date                                                           |  
-| [P02.13.33](./33-2014-03-27-Thursday-March-27th%202014.md#)      | [Thursday March 27th 2014](./33-2014-03-27-Thursday-March-27th%202014.md#)           | Date                                                           |  
+| [P02.13.33](./33-2014-03-27-Thursday-March-27th-2014.md#)      | [Thursday March 27th 2014](./33-2014-03-27-Thursday-March-27th-2014.md#)           | Date                                                           |  
 | [P02.13.34](./34-2014-03-28-Friday-March-28th-2014.md#)        | [Friday March 28th 2014](./34-2014-03-28-Friday-March-28th-2014.md#)               | Date                                                           |  
 | [P02.13.35](./35-2014-04-04-Friday-April-4th-2014.md#)         | [Friday April 4th 2014](./35-2014-04-04-Friday-April-4th-2014.md#)                 | Date                                                           |  
 | [P02.13.36](./36-2014-04-08-Monday-April-8th-2014.md#)         | [Monday April 8th 2014](./36-2014-04-08-Monday-April-8th-2014.md#)                 | Date                                                           |  
 | [P02.13.37](./37-2014-04-09-Tuesday-April-9th-2014.md#)        | [Tuesday April 9th 2014](./37-2014-04-09-Tuesday-April-9th-2014.md#)               | Date                                                           |  
 | [P02.13.38](./38-2014-04-10-Thursday-April-10th-2014.md#)      | [Thursday April 10th 2014](./38-2014-04-10-Thursday-April-10th-2014.md#)           | Date                                                           |  
 | [P02.13.39](./39-2014-04-29-Tuesday-April-29th-2014.md#)       | [Tuesday April 29th 2014](./39-2014-04-29-Tuesday-April-29th-2014.md#)             | Date                                                           |  
-| [P02.13.40](./40-2014-05-02-Friday-May-2nd%202014.md#)           | [Friday May 2nd 2014](./40-2014-05-02-Friday-May-2nd%202014.md#)                     | Date                                                           |  
+| [P02.13.40](./40-2014-05-02-Friday-May-2nd-2014.md#)           | [Friday May 2nd 2014](./40-2014-05-02-Friday-May-2nd-2014.md#)                     | Date                                                           |  
 | [P02.13.41](./41-2014-05-20-Tuesday-May-20th-2014.md#)         | [Tuesday May 20th 2014](./41-2014-05-20-Tuesday-May-20th-2014.md#)                 | Date                                                           |  
 | [P02.13.42](./42-2014-06-13-Friday-June-13th-2014.md#)         | [Friday June 13th 2014](./42-2014-06-13-Friday-June-13th-2014.md#)                 | Date                                                           |  
 | [P02.13.43](./43-2014-09-17-September-17th-2014.md#) | [Wednesday September 17th 2014](./43-2014-09-17-September-17th-2014.md#) | Date                                                           |  
@@ -76,12 +78,12 @@ This includes dates referenced from the investigation process
 | [P02.13.45](./45-2014-09-30-Tuesday-September-30th-2014.md#)   | [Tuesday September 30th 2014](./45-2014-09-30-Tuesday-September-30th-2014.md#)     | Date                                                           |  
 | [P02.13.46](./46-2014-12-05-Friday-December-5th-2014.md#)      | [Friday December 5th 2014](./46-2014-12-05-Friday-December-5th-2014.md#)           | Date                                                           |  
 | [P02.13.47](./47-2015-01-07-Wednesday-January-7th-2015.md#)    | [Wednesday January 7th 2015](./47-2015-01-07-Wednesday-January-7th-2015.md#)       | Date                                                           |  
-| [P02.13.48](./48-2015-01-12-Monday-January-12th%202015.md#)      | [Monday January 12th 2015](./48-2015-01-12-Monday-January-12th%202015.md#)           | Date                                                           |  
+| [P02.13.48](./48-2015-01-12-Monday-January-12th-2015.md#)      | [Monday January 12th 2015](./48-2015-01-12-Monday-January-12th-2015.md#)           | Date                                                           |  
 | [P02.13.49](./49-2015-01-28-Wednesday-January-28th-2015.md#)   | [Wednesday January 28th 2015](./49-2015-01-28-Wednesday-January-28th-2015.md#)     | Date                                                           |  
 | [P02.13.50](./50-2015-02-04-Wednesday-February-4th-2015.md#)   | [Wednesday February 4th 2015](./50-2015-02-04-Wednesday-February-4th-2015.md#)     | Date                                                           |  
-| [P02.13.51](./51-2015-02-17-Tuesday-February-17th%202015.md#)    | [Tuesday February 17th 2015](./51-2015-02-17-Tuesday-February-17th%202015.md#)       | Date                                                           |  
+| [P02.13.51](./51-2015-02-17-Tuesday-February-17th-2015.md#)    | [Tuesday February 17th 2015](./51-2015-02-17-Tuesday-February-17th-2015.md#)       | Date                                                           |  
 | [P02.13.52](./52-2015-02-20-Friday-February-20th-2015.md#)     | [Friday February 20th 2015](./52-2015-02-20-Friday-February-20th-2015.md#)         | Date                                                           |  
-| [P02.13.53](./53-2015-02-23-Monday-February-23rd%202015.md#)     | [Monday February 23rd 2015](./53-2015-02-23-Monday-February-23rd%202015.md#)         | Date                                                           |  
+| [P02.13.53](./53-2015-02-23-Monday-February-23rd-2015.md#)     | [Monday February 23rd 2015](./53-2015-02-23-Monday-February-23rd-2015.md#)         | Date                                                           |  
 | [P02.13.54](./54-2015-02-25-Wednesday-February-25th-2015.md#)  | [Wednesday February 25th 2015](./54-2015-02-25-Wednesday-February-25th-2015.md#)   | Date                                                           |  
 | [P02.13.55](./55-2015-03-05-Thursday-March-5th-2015.md#)       | [Thursday March 5th 2015](./55-2015-03-05-Thursday-March-5th-2015.md#)             | Date                                                           |  
 | [P02.13.56](./56-2015-03-09-Monday-March-9th-2015.md#)         | [Monday March 9th 2015](./56-2015-03-09-Monday-March-9th-2015.md#)                 | Date                                                           |  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/60-to-69-Evidence/62-Forensic"  
 jid: "P02.62.05"  
 pro: "P02"  

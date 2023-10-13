@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: P02/50-to-59-Investigation/52-Key-Locations  
 jid: P02.52.04  
 pro: P02  
@@ -18,4 +20,7 @@ aliases:
 >**Category:** 52 - 52 Key Locations  
 >**ID:** 04 - The Smith House  
   
-# The Smith House
+# The Smith House  
+  
+47.7802942019446, -122.23629525132311  
+  

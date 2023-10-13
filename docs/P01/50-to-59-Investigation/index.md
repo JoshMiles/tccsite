@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/50-to-59-Investigation"  
 jid: "P01.50.01"  
 pro: "P01"  

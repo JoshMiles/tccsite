@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/80-to-89-Trial/84-Sentencing"  
 jid: "P01.84.01"  
 pro: "P01"  

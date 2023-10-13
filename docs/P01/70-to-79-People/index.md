@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/70-to-79-People"  
 jid: "P01.70.01"  
 pro: "P01"  

@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P02/10-to-19-Case-Dates/11-Background-Dates"  
 jid: "P02.11.14"  
 pro: "P02"  

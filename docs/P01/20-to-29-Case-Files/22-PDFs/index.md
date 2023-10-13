@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/20-to-29-Case-Files/22-PDFs"  
 jid: "P01.22.01"  
 pro: "P01"  

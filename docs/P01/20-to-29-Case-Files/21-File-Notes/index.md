@@ -1,4 +1,6 @@
 ---  
+staged: true  
+share: true  
 category: "P01/20-to-29-Case-Files/21-File-Notes"  
 jid: "P01.21.01"  
 pro: "P01"  

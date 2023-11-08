@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/30-to-39-Case-Media/31-Crime-Scene"  
@@ -31,7 +32,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                     | Description                   |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [P04.31.01](index.md#) | [Crime Scene Index](index.md#) | Imagery from the crime scene. |  
+| [P04.31.01](index.md) | [Crime Scene Index](index.md) | Imagery from the crime scene. |  
   
   
 ---  

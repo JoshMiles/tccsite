@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/30-to-39-Case-Media/34-Press-Video"  
@@ -31,7 +32,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                     | Description                                            |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P04.34.01](index.md#) | [Press Video Index](index.md#) | Any video clips from the press pertaining to the case. |  
+| [P04.34.01](index.md) | [Press Video Index](index.md) | Any video clips from the press pertaining to the case. |  
   
   
 ---  

@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/80-to-89-Trial/81-Hearings"  
@@ -29,7 +30,7 @@ Any details of pre-trial hearings, prelim hearings or hearings
   
 | J.Dec ID                                                                          | Friendly Name                                                                          | Description                                                     |  
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [P04.81.01](index.md#) | [Hearings Index](index.md#) | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [P04.81.01](index.md) | [Hearings Index](index.md) | Any details of pre-trial hearings, prelim hearings or hearings. |  
   
   
 ---  

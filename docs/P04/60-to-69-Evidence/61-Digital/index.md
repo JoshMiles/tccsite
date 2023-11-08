@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/60-to-69-Evidence/61-Digital"  
@@ -29,7 +30,7 @@ Information about the digital evidence
   
 | J.Dec ID                                                                            | Friendly Name                                                                                    | Description                             |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [P04.61.01](index.md#) | [Digital Evidence Index](index.md#) | Information about the digital evidence. |  
+| [P04.61.01](index.md) | [Digital Evidence Index](index.md) | Information about the digital evidence. |  
   
   
 ---  

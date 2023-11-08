@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/20-to-29-Case-Files/22-PDFs"  
@@ -29,7 +30,7 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                           | Friendly Name                                                                       | Description                     |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------- |  
-| [P04.22.01](index.md#) | [PDFs Index](index.md#) | The folder containing the PDFs. |  
+| [P04.22.01](index.md) | [PDFs Index](index.md) | The folder containing the PDFs. |  
   
   
 ---  

@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/80-to-89-Trial/83-Judgement"  
@@ -29,7 +30,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                                           | Friendly Name                                                                            | Description                                         |  
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [P04.83.01](index.md#) | [Judgement Index](index.md#) | Details regarding the judgement outcome from trial. |  
+| [P04.83.01](index.md) | [Judgement Index](index.md) | Details regarding the judgement outcome from trial. |  
   
   
 ---  

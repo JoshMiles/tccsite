@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/70-to-79-People/75-Police-and-Detectives"  
@@ -29,7 +30,7 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                                     | Description                                  |  
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [P04.75.01](index.md#) | [Police and Detectives Index](index.md#) | Profiles regarding law enforcement involved. |  
+| [P04.75.01](index.md) | [Police and Detectives Index](index.md) | Profiles regarding law enforcement involved. |  
   
   
 ---  

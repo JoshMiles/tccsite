@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/10-to-19-Case-Dates/11-Background-Dates"  
@@ -29,7 +30,7 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                               | Description                                                                               |  
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [P04.11.01](index.md#) | [Background Dates Index](index.md#) | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [P04.11.01](index.md) | [Background Dates Index](index.md) | This includes dates from before the events of the case took place. E.g date of a divorce. |  
   
   
 ---  

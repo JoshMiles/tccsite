@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/50-to-59-Investigation/51-Interviews"  
@@ -29,7 +30,7 @@ Writeups and notes about interviews conducted by law enforcement
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                      | Description                                                       |  
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P04.51.01](index.md#) | [Interviews Index](index.md#) | Writeups and notes about interviews conducted by law enforcement. |  
+| [P04.51.01](index.md) | [Interviews Index](index.md) | Writeups and notes about interviews conducted by law enforcement. |  
   
   
 ---  

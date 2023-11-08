@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/80-to-89-Trial/84-Sentencing"  
@@ -29,7 +30,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                            | Friendly Name                                                                              | Description                       |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------- |  
-| [P04.84.01](index.md#) | [Sentencing Index](index.md#) | Information about the sentencing. |  
+| [P04.84.01](index.md) | [Sentencing Index](index.md) | Information about the sentencing. |  
   
   
 ---  

@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/80-to-89-Trial/85-Appeal"  
@@ -29,7 +30,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                        | Friendly Name                                                                      | Description                                 |  
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |  
-| [P04.85.01](index.md#) | [Appeal Index](index.md#) | If applicable, information about appeal(s). |  
+| [P04.85.01](index.md) | [Appeal Index](index.md) | If applicable, information about appeal(s). |  
   
   
 ---  

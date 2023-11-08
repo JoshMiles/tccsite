@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/70-to-79-People/76-Experts"  
@@ -29,7 +30,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                          | Friendly Name                                                                         | Description                                                                                 |  
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [P04.76.01](index.md#) | [Experts Index](index.md#) | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [P04.76.01](index.md) | [Experts Index](index.md) | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

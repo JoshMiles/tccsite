@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/70-to-79-People/72-Suspects-and-People-of-Interest"  
@@ -29,8 +30,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                                | Friendly Name                                                                                                                         | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P04.72.01](index.md#)               | [Suspects and People of Interest Index](index.md#) | Profiles about any suspects and/or people of interest. |  
-| [P04.72.01](./01-Ingemar-Westlund.md#) | [Ingemar Westlund](./01-Ingemar-Westlund.md#)        | Suspect                                                |  
+| [P04.72.01](./01-Ingemar-Westlund.md) | [Ingemar Westlund](./01-Ingemar-Westlund.md)        | Suspect                                                |  
+| [P04.72.01](index.md)               | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/30-to-39-Case-Media/35-Case-Video"  
@@ -30,7 +31,7 @@ Any video clips from the trial or investigation
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                   | Description                                      |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ |  
-| [P04.35.01](index.md#) | [Case Video Index](index.md#) | Any video clips from the trial or investigation. |  
+| [P04.35.01](index.md) | [Case Video Index](index.md) | Any video clips from the trial or investigation. |  
   
   
 ---  

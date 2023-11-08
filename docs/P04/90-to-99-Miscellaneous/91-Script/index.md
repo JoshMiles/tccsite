@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/90-to-99-Miscellaneous/91-Script"  
@@ -29,8 +30,8 @@ This folder contains the script.
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                     | Description                       |  
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P04.91.01](index.md#)         | [Script Folder Index](index.md#) | This folder contains the script.  |  
-| [P04.91.02](./92-The-Script.md#) | [The Script](./92-The-Script.md#)  | This is the script for this case. |  
+| [P04.91.01](index.md)         | [Script Folder Index](index.md) | This folder contains the script.  |  
+| [P04.91.02](./92-The-Script.md) | [The Script](./92-The-Script.md)  | This is the script for this case. |  
   
   
 ---  

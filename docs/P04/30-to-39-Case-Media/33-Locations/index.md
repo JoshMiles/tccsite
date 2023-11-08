@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/30-to-39-Case-Media/33-Locations"  
@@ -30,7 +31,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                                | Friendly Name                                                                                 | Description                       |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P04.33.01](index.md#) | [Locations Index](index.md#) | Images of the locations involved. |  
+| [P04.33.01](index.md) | [Locations Index](index.md) | Images of the locations involved. |  
   
   
 ---  

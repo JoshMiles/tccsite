@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/20-to-29-Case-Files/21-File-Notes"  
@@ -29,7 +30,7 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                   | Description                                                |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P04.21.01](index.md#) | [File Notes Index](index.md#) | The notes extracted from the PDFs of relevant information. |  
+| [P04.21.01](index.md) | [File Notes Index](index.md) | The notes extracted from the PDFs of relevant information. |  
   
   
 ---  

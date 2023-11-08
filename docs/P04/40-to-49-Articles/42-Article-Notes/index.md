@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/40-to-49-Articles/42-Article-Notes"  
@@ -29,7 +30,7 @@ Notes for the articles
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                       | Description             |  
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |  
-| [P04.42.01](index.md#) | [Article Notes Index](index.md#) | Notes for the articles. |  
+| [P04.42.01](index.md) | [Article Notes Index](index.md) | Notes for the articles. |  
   
   
 ---  

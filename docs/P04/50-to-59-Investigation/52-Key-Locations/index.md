@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/50-to-59-Investigation/52-Key-Locations"  
@@ -29,7 +30,7 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                            | Description                                                       |  
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P04.52.01](index.md#) | [Key Locations Index](index.md#) | Information and notes about key locations pertaining to the case. |  
+| [P04.52.01](index.md) | [Key Locations Index](index.md) | Information and notes about key locations pertaining to the case. |  
   
   
 ---  

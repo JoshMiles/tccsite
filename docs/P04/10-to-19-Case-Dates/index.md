@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/10-to-19-Case-Dates"  
@@ -30,15 +31,15 @@ The dates are structured as follows: `YYYY-MM-DD-DAY-MONTH-DATE-YEAR` e.g `2020-
   
 | J.Dec ID                                                                                                                          | Friendly Name                                                                                                                                       | Description                                                                               |  
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [P04.10.01](index.md#)                                                        | [Case Dates Index](index.md#)                                                                   | Important dates pertaining to the case.                                                   |  
-| [P04.11.01](./11-Background-Dates/index.md#)                                    | [Background Dates Index](./11-Background-Dates/index.md#)                                         | This includes dates from before the events of the case took place. E.g date of a divorce. |  
-| [P04.12.01](./12-Crime-Dates/index.md#)                                         | [Crime Dates Index](./12-Crime-Dates/index.md#)                                                   | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
-| [P04.12.01](./12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md#)            | [Friday September 8th 2008](./12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md#)              | Date                                                                                      |  
-| [P04.13.01](./13-Investigation-Dates/index.md#)                                 | [Investigation Dates Index](./13-Investigation-Dates/index.md#)                                   | This includes dates referenced from the investigation process.                            |  
-| [P04.13.01](./13-Investigation-Dates/2008-9-6-Saturday-September-6th-2008.md#)  | [Saturday September 6th 2008](./13-Investigation-Dates/2008-9-6-Saturday-September-6th-2008.md#)  | Date                                                                                      |  
-| [P04.13.02](./13-Investigation-Dates/2008-12-15-Monday-December-15th-2008.md#)  | [Monday December 15th 2008](./13-Investigation-Dates/2008-12-15-Monday-December-15th-2008.md#)    | Date                                                                                      |  
-| [P04.13.03](./13-Investigation-Dates/2009-1-28-Wednesday-January-28th-2009.md#) | [Wednesday January 28th 2009](./13-Investigation-Dates/2009-1-28-Wednesday-January-28th-2009.md#) | Date                                                                                      |  
-| [P04.13.04](./13-Investigation-Dates/2009-9-28-Monday-September-28th-2009.md#)  | [Monday September 28th 2009](./13-Investigation-Dates/2009-9-28-Monday-September-28th-2009.md#)   | Date                                                                                      |  
+| [P04.10.01](index.md)                                                        | [Case Dates Index](index.md)                                                                   | Important dates pertaining to the case.                                                   |  
+| [P04.11.01](./11-Background-Dates/index.md)                                    | [Background Dates Index](./11-Background-Dates/index.md)                                         | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [P04.12.01](./12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md)            | [Friday September 8th 2008](./12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md)              | Date                                                                                      |  
+| [P04.12.01](./12-Crime-Dates/index.md)                                         | [Crime Dates Index](./12-Crime-Dates/index.md)                                                   | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
+| [P04.13.01](./13-Investigation-Dates/2008-9-6-Saturday-September-6th-2008.md)  | [Saturday September 6th 2008](./13-Investigation-Dates/2008-9-6-Saturday-September-6th-2008.md)  | Date                                                                                      |  
+| [P04.13.01](./13-Investigation-Dates/index.md)                                 | [Investigation Dates Index](./13-Investigation-Dates/index.md)                                   | This includes dates referenced from the investigation process.                            |  
+| [P04.13.02](./13-Investigation-Dates/2008-12-15-Monday-December-15th-2008.md)  | [Monday December 15th 2008](./13-Investigation-Dates/2008-12-15-Monday-December-15th-2008.md)    | Date                                                                                      |  
+| [P04.13.03](./13-Investigation-Dates/2009-1-28-Wednesday-January-28th-2009.md) | [Wednesday January 28th 2009](./13-Investigation-Dates/2009-1-28-Wednesday-January-28th-2009.md) | Date                                                                                      |  
+| [P04.13.04](./13-Investigation-Dates/2009-9-28-Monday-September-28th-2009.md)  | [Monday September 28th 2009](./13-Investigation-Dates/2009-9-28-Monday-September-28th-2009.md)   | Date                                                                                      |  
   
   
 ---  

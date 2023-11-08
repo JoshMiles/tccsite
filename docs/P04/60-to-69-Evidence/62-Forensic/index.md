@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/60-to-69-Evidence/62-Forensic"  
@@ -29,7 +30,7 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                             | Friendly Name                                                                                      | Description                              |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [P04.62.01](index.md#) | [Forensic Evidence Index](index.md#) | Information about the forensic evidence. |  
+| [P04.62.01](index.md) | [Forensic Evidence Index](index.md) | Information about the forensic evidence. |  
   
   
 ---  

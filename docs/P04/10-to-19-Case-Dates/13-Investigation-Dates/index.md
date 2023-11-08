@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/10-to-19-Case-Dates/13-Investigation-Dates"  
@@ -29,11 +30,11 @@ This includes dates referenced from the investigation process
   
 | J.Dec ID                                                                                                                          | Friendly Name                                                                                                                                       | Description                                                    |  
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |  
-| [P04.13.01](index.md#)                                 | [Investigation Dates Index](index.md#)                                   | This includes dates referenced from the investigation process. |  
-| [P04.13.01](./2008-9-6-Saturday-September-6th-2008.md#)  | [Saturday September 6th 2008](./2008-9-6-Saturday-September-6th-2008.md#)  | Date                                                           |  
-| [P04.13.02](./2008-12-15-Monday-December-15th-2008.md#)  | [Monday December 15th 2008](./2008-12-15-Monday-December-15th-2008.md#)    | Date                                                           |  
-| [P04.13.03](./2009-1-28-Wednesday-January-28th-2009.md#) | [Wednesday January 28th 2009](./2009-1-28-Wednesday-January-28th-2009.md#) | Date                                                           |  
-| [P04.13.04](./2009-9-28-Monday-September-28th-2009.md#)  | [Monday September 28th 2009](./2009-9-28-Monday-September-28th-2009.md#)   | Date                                                           |  
+| [P04.13.01](./2008-9-6-Saturday-September-6th-2008.md)  | [Saturday September 6th 2008](./2008-9-6-Saturday-September-6th-2008.md)  | Date                                                           |  
+| [P04.13.01](index.md)                                 | [Investigation Dates Index](index.md)                                   | This includes dates referenced from the investigation process. |  
+| [P04.13.02](./2008-12-15-Monday-December-15th-2008.md)  | [Monday December 15th 2008](./2008-12-15-Monday-December-15th-2008.md)    | Date                                                           |  
+| [P04.13.03](./2009-1-28-Wednesday-January-28th-2009.md) | [Wednesday January 28th 2009](./2009-1-28-Wednesday-January-28th-2009.md) | Date                                                           |  
+| [P04.13.04](./2009-9-28-Monday-September-28th-2009.md)  | [Monday September 28th 2009](./2009-9-28-Monday-September-28th-2009.md)   | Date                                                           |  
   
   
 ---  

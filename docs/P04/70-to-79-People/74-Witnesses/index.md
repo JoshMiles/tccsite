@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/70-to-79-People/74-Witnesses"  
@@ -29,7 +30,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                            | Friendly Name                                                                             | Description               |  
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |  
-| [P04.74.01](index.md#) | [Witnesses Index](index.md#) | Profiles about witnesses. |  
+| [P04.74.01](index.md) | [Witnesses Index](index.md) | Profiles about witnesses. |  
   
   
 ---  

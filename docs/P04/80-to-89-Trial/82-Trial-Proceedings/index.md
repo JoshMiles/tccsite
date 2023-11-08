@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/80-to-89-Trial/82-Trial-Proceedings"  
@@ -29,7 +30,7 @@ Anything and everything that happened during trial
   
 | J.Dec ID                                                                                   | Friendly Name                                                                                            | Description                                         |  
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [P04.82.01](index.md#) | [Trial Proceedings Index](index.md#) | Anything and everything that happened during trial. |  
+| [P04.82.01](index.md) | [Trial Proceedings Index](index.md) | Anything and everything that happened during trial. |  
   
   
 ---  

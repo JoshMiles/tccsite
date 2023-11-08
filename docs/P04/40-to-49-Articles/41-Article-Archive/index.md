@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/40-to-49-Articles/41-Article-Archive"  
@@ -29,7 +30,7 @@ Snapshots of the articles referenced
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                           | Description                           |  
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [P04.41.01](index.md#) | [Article Archive Index](index.md#) | Snapshots of the articles referenced. |  
+| [P04.41.01](index.md) | [Article Archive Index](index.md) | Snapshots of the articles referenced. |  
   
   
 ---  

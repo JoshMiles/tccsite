@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/10-to-19-Case-Dates/12-Crime-Dates"  
@@ -29,8 +30,8 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                                                               | Friendly Name                                                                                                                          | Description                                                                            |  
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [P04.12.01](index.md#)                              | [Crime Dates Index](index.md#)                                      | This includes dates from the actual crime itself. Usually just the date of the murder. |  
-| [P04.12.01](./2008-9-8-Friday-September-8th-2008.md#) | [Friday September 8th 2008](./2008-9-8-Friday-September-8th-2008.md#) | Date                                                                                   |  
+| [P04.12.01](./2008-9-8-Friday-September-8th-2008.md) | [Friday September 8th 2008](./2008-9-8-Friday-September-8th-2008.md) | Date                                                                                   |  
+| [P04.12.01](index.md)                              | [Crime Dates Index](index.md)                                      | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

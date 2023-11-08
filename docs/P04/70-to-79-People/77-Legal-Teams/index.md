@@ -1,4 +1,5 @@
 ---  
+staged: True  
 share: true  
 STAGED: true  
 category: "P04/70-to-79-People/77-Legal-Teams"  
@@ -29,7 +30,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                              | Friendly Name                                                                                 | Description                             |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P04.77.01](index.md#) | [Legal Teams Index](index.md#) | Profiles of individuals on legal teams. |  
+| [P04.77.01](index.md) | [Legal Teams Index](index.md) | Profiles of individuals on legal teams. |  
   
   
 ---  

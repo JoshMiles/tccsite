@@ -24,24 +24,24 @@ aliases:
   
   
   
-[../../10-to-19-Case-Dates/13-Investigation-Dates/22-2013-06-20-Thursday-June-20th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/22-2013-06-20-Thursday-June-20th-2013.md#)  
+[../../10-to-19-Case-Dates/13-Investigation-Dates/22-2013-06-20-Thursday-June-20th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/22-2013-06-20-Thursday-June-20th-2013.md)  
   
 <https://komonews.com/archive/police-nab-man-having-sex-outside-his-murdered-wifes-house-11-20-2015>  
   
-BOTHELL, Wash. -- A [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#) man is accused of having sex outside of the very house his estranged wife was murdered in less than six months ago.    
+BOTHELL, Wash. -- A [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md) man is accused of having sex outside of the very house his estranged wife was murdered in less than six months ago.    
   
     
   
-Police consider [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) a "person of interest" in the [February murder](http://www.komonews.com/news/local/Medical-examiner-Bothell-mom-was-killed-by-injuries-to-the-head-191452901.html) of his estranged wife, [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#).    
+Police consider [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) a "person of interest" in the [February murder](http://www.komonews.com/news/local/Medical-examiner-Bothell-mom-was-killed-by-injuries-to-the-head-191452901.html) of his estranged wife, [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md).    
   
     
   
-[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) moved back into the house after the murder, and recently neighbors called police after they heard a woman screaming. ^5cc7u    
-When police arrived, they say they found [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) and another woman having sex in the yard. ^3q-8q  
+[Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) moved back into the house after the murder, and recently neighbors called police after they heard a woman screaming. ^5cc7u    
+When police arrived, they say they found [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) and another woman having sex in the yard. ^3q-8q  
   
     
   
-The woman with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) that night, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#), said the story is pretty simple.    
+The woman with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) that night, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md.md.md), said the story is pretty simple.    
   
     
   
@@ -57,7 +57,7 @@ Thai said it would have taken an effort for anyone to see the couple having sex.
   
     
   
-While [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) has not been charged with any crime in relation to his estranged wife's murder, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#) believes the suspicion that surrounds him is steering the neighborhood's reaction to the recent incident.    
+While [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) has not been charged with any crime in relation to his estranged wife's murder, [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md.md) believes the suspicion that surrounds him is steering the neighborhood's reaction to the recent incident.    
   
     
   
@@ -69,13 +69,13 @@ She also said the attitude of residents in the area is taking its toll on the co
   
     
   
-"What really breaks my heart is that his neighbors haven't come and just cooked him a home-cooked meal," [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#) said. "Help him, he's hurting. He's lost his wife. He's lost his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#) - -he hasn't seen his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#) in four months."    
+"What really breaks my heart is that his neighbors haven't come and just cooked him a home-cooked meal," [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md.md.md) said. "Help him, he's hurting. He's lost his wife. He's lost his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md.md) - -he hasn't seen his [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md.md) in four months."    
   
     
   
 No charges were filed for the sexual activity in the yard. ^48s9q    
-Neighbors have also complained about nude sunbathing, which [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#) said would also be very hard to see. ^sn-b7  
+Neighbors have also complained about nude sunbathing, which [Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md.md.md) said would also be very hard to see. ^sn-b7  
   
     
   
-[Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md#.md#.md#) said the couple has found threatening notes left on the property, but she doesn't know who put them there. ^v2gqk  
+[Love Thai](../../70-to-79-People/73-Family-and-Friends/03-Love-Thai.md.md.md) said the couple has found threatening notes left on the property, but she doesn't know who put them there. ^v2gqk  

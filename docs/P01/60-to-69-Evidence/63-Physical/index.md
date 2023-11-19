@@ -29,7 +29,7 @@ Information about the physical evidence
   
 | J.Dec ID                                                                 | Friendly Name                                                                          | Description                             |  
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P01.63.01](index.md#) | [Physical Evidence Index](index.md#) | Information about the physical evidence |  
+| [P01.63.01](index.md) | [Physical Evidence Index](index.md) | Information about the physical evidence |  
   
   
 ---  

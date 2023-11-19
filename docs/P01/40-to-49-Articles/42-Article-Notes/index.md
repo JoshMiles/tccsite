@@ -29,7 +29,7 @@ Notes for the articles
   
 | J.Dec ID                                                                      | Friendly Name                                                                           | Description             |  
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------- |  
-| [P01.42.01](index.md#) | [Article Notes Index](index.md#) | Notes for the articles. |  
+| [P01.42.01](index.md) | [Article Notes Index](index.md) | Notes for the articles. |  
   
   
 ---  

@@ -28,7 +28,7 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                               | Friendly Name                                                                                        | Description                              |  
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [P06.62.01](index.md#) | [Forensic Evidence Index](index.md#) | Information about the forensic evidence. |  
+| [P06.62.01](index.md) | [Forensic Evidence Index](index.md) | Information about the forensic evidence. |  
   
   
 ---  

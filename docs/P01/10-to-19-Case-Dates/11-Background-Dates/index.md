@@ -29,7 +29,7 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                           | Friendly Name                                                                                   | Description                                                                               |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [P01.11.01](index.md#) | [Background Dates Index](index.md#) | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [P01.11.01](index.md) | [Background Dates Index](index.md) | This includes dates from before the events of the case took place. E.g date of a divorce. |  
   
   
 ---  

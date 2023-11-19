@@ -29,10 +29,10 @@ alias: "P06-53-02, Detailed Timeline"
   
 | J.Dec ID                                                                                                   | Friendly Name                                                                                                      | Description                      |  
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------- |  
-| [P06.53.01](./index.md#)                | [Timeline Index](./index.md#)                   | Contains the timeline of events. |  
-| [P06.53.02](02-Detailed-Timeline.md#) | [Detailed Timeline](02-Detailed-Timeline.md#) | Detailed timeline of events.     |  
+| [P06.53.01](./index.md)                | [Timeline Index](./index.md)                   | Contains the timeline of events. |  
+| [P06.53.02](02-Detailed-Timeline.md) | [Detailed Timeline](02-Detailed-Timeline.md) | Detailed timeline of events.     |  
   
   
 ---  
 # Backlinks  
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">9</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">10</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>

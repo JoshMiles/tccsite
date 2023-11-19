@@ -23,7 +23,7 @@ aliases:
 # Wendell Morris  
   
 Wendell Morris Jr.    
-He had met [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) at a potluck a few weeks prior to June 2013.    
+He had met [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md) at a potluck a few weeks prior to June 2013.    
 Married.  
   
 ```smart-connections  

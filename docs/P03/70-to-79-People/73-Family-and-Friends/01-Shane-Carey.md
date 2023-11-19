@@ -26,16 +26,16 @@ aliases:
   
 | Name                               |            |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../assets/attachments/06-shane-carey.jpg#) |  
+| Photo?                             | ![200](../../../assets/attachments/06-shane-carey.jpg) |  
 | Date of Birth?                     |            |  
 | Age?                               |            |  
 | Lives In?                          |  Austin, Texas          |  
 | Address?                           |            |  
 | Profession?                        |  Worked for a moving company in North Austin  (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md#7pvim))        |  
-| Spouse?                            | [Magen Fieramusca](../72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#)            |  
+| Spouse?                            | [Magen Fieramusca](../72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md)            |  
 | Deceased?                          | ❌      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Two children: [Newborn Child](./02-Newborn-Child.md#) and [Six Year Old Child](./03-Six-Year-Old-Child.md#)            |  
+| Family?                            | Two children: [Newborn Child](./02-Newborn-Child.md) and [Six Year Old Child](./03-Six-Year-Old-Child.md)            |  
 | Hair Colour?                       |            |  
 | Weight?                            |            |  
 | Eye Colour?                        |            |  

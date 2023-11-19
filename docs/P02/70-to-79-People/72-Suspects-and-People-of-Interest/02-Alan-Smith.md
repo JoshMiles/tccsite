@@ -28,14 +28,14 @@ aliases:
   
 <https://www.facebook.com/alan.ucsu>  
   
-Husband of [Susann Smith](../71-Victims/02-Susann-Smith.md#)  
+Husband of [Susann Smith](../71-Victims/02-Susann-Smith.md)  
   
 According to his Facebook:  
   
-- Works at [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md#) Commercial Airplanes  
+- Works at [Boeing](../../50-to-59-Investigation/52-Key-Locations/02-Boeing.md) Commercial Airplanes  
 - Graduated in the year 2000 from University of Colorado Boulder  
 - From Corpus Christi, Texas  
-- Lives in [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#), Washington  
+- Lives in [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md), Washington  
   
 DoB: 07/19/1975    
 HT: 507    

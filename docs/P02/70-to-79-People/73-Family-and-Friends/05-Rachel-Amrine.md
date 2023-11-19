@@ -23,4 +23,4 @@ aliases:
 # Rachel Amrine  
   
   
-Was involved with [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md#) in October of 2012  
+Was involved with [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md) in October of 2012  

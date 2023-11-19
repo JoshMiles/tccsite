@@ -30,9 +30,9 @@ Profiles about witnesses
   
 | J.Dec ID                                                                             | Friendly Name                                                                        | Description               |  
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------- |  
-| [P03.74.01](./01-Nurse-SD.md#) | [Nurse S.D](./01-Nurse-SD.md#) | Nurse Witness             |  
-| [P03.74.01](index.md#)       | [Witnesses Index](index.md#) | Profiles about witnesses. |  
-| [P03.74.02](./02-MW.md#)       | [M.W](./02-MW.md#)             | Witness                   |  
+| [P03.74.01](./01-Nurse-SD.md) | [Nurse S.D](./01-Nurse-SD.md) | Nurse Witness             |  
+| [P03.74.01](index.md)       | [Witnesses Index](index.md) | Profiles about witnesses. |  
+| [P03.74.02](./02-MW.md)       | [M.W](./02-MW.md)             | Witness                   |  
   
   
 ---  

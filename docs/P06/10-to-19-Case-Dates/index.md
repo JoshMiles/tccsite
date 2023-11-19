@@ -29,10 +29,10 @@ The dates are structured as follows: `YYYY-MM-DD-DAY-MONTH-DATE-YEAR` e.g `2020-
   
 | J.Dec ID                                                                                            | Friendly Name                                                                                                       | Description                                                                               |  
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [P06.10.01](index.md#)                        | [Case Dates Index](index.md#)                                 | Important dates pertaining to the case.                                                   |  
-| [P06.11.01](./11-Background-Dates/index.md#)    | [Background Dates Index](./11-Background-Dates/index.md#)       | This includes dates from before the events of the case took place. E.g date of a divorce. |  
-| [P06.12.01](./12-Crime-Dates/index.md#)         | [Crime Dates Index](./12-Crime-Dates/index.md#)                 | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
-| [P06.13.01](./13-Investigation-Dates/index.md#) | [Investigation Dates Index](./13-Investigation-Dates/index.md#) | This includes dates referenced from the investigation process.                            |  
+| [P06.10.01](index.md)                        | [Case Dates Index](index.md)                                 | Important dates pertaining to the case.                                                   |  
+| [P06.11.01](./11-Background-Dates/index.md)    | [Background Dates Index](./11-Background-Dates/index.md)       | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [P06.12.01](./12-Crime-Dates/index.md)         | [Crime Dates Index](./12-Crime-Dates/index.md)                 | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
+| [P06.13.01](./13-Investigation-Dates/index.md) | [Investigation Dates Index](./13-Investigation-Dates/index.md) | This includes dates referenced from the investigation process.                            |  
   
   
 ---  

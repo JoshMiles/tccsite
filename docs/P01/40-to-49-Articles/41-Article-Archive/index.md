@@ -29,7 +29,7 @@ Snapshots of the articles referenced
   
 | J.Dec ID                                                                        | Friendly Name                                                                               | Description                           |  
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [P01.41.01](index.md#) | [Article Archive Index](index.md#) | Snapshots of the articles referenced. |  
+| [P01.41.01](index.md) | [Article Archive Index](index.md) | Snapshots of the articles referenced. |  
   
   
 ---  

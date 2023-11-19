@@ -30,13 +30,13 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                                 | Friendly Name                                                                                                       | Description                                                                                                    |  
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [P03.73.01](./01-Shane-Carey.md#)         | [Shane Carey](./01-Shane-Carey.md#)                  | Boyfriend                                                                                                      |  
-| [P03.73.01](index.md#)                  | [Family and Friends Index](index.md#)              | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
-| [P03.73.02](./02-Newborn-Child.md#)       | [Newborn Child](./02-Newborn-Child.md#)              | Heidi's Newborn                                                                                                |  
-| [P03.73.03](./03-Six-Year-Old-Child.md#)  | [Six Year Old Child](./03-Six-Year-Old-Child.md#)    | Heidi's Child                                                                                                  |  
-| [P03.73.04](./04-VS.md#)                  | [V.S](./04-VS.md#)                                   | Family Friend                                                                                                  |  
-| [P03.73.05](./05-Shane-Careys-Father.md#) | [Shane Carey's Father](./05-Shane-Careys-Father.md#) | Father                                                                                                         |  
-| [P03.73.06](./06-Christopher-Green.md#)   | [Christopher Green](./06-Christopher-Green.md#)      | Magen's Boyfriend                                                                                              |  
+| [P03.73.01](./01-Shane-Carey.md)         | [Shane Carey](./01-Shane-Carey.md)                  | Boyfriend                                                                                                      |  
+| [P03.73.01](index.md)                  | [Family and Friends Index](index.md)              | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [P03.73.02](./02-Newborn-Child.md)       | [Newborn Child](./02-Newborn-Child.md)              | Heidi's Newborn                                                                                                |  
+| [P03.73.03](./03-Six-Year-Old-Child.md)  | [Six Year Old Child](./03-Six-Year-Old-Child.md)    | Heidi's Child                                                                                                  |  
+| [P03.73.04](./04-VS.md)                  | [V.S](./04-VS.md)                                   | Family Friend                                                                                                  |  
+| [P03.73.05](./05-Shane-Careys-Father.md) | [Shane Carey's Father](./05-Shane-Careys-Father.md) | Father                                                                                                         |  
+| [P03.73.06](./06-Christopher-Green.md)   | [Christopher Green](./06-Christopher-Green.md)      | Magen's Boyfriend                                                                                              |  
   
   
 ---  

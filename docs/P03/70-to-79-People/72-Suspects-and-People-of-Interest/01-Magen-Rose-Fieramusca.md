@@ -31,7 +31,7 @@ aliases:
   
 | Name                               |  Magen Rose Fieramusca          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../assets/attachments/15-magen-mugshot.jpg#) |  
+| Photo?                             | ![200](../../../assets/attachments/15-magen-mugshot.jpg) |  
 | Date of Birth?                     |  1986/01/13          |  
 | Age?                               |            |  
 | Lives In?                          | Houston, Texas, USA           |  
@@ -54,7 +54,7 @@ aliases:
 | Name assigned for privacy reasons? |  ❌    |  
 | Privacy assigned name?             | N/A           |  
 | Role in Case?                      | Perpetrator           |  
-| Relation to Victim (if any)?       | Best Friend of [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md#)            |  
+| Relation to Victim (if any)?       | Best Friend of [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md)            |  
 | Relation to Perp (if any)?         |            |  
   
 ## Any Additional Information  

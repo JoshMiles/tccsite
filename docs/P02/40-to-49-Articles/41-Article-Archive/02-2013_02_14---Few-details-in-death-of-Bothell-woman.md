@@ -24,16 +24,16 @@ aliases:
   
   
   
-[../../10-to-19-Case-Dates/13-Investigation-Dates/03-2013-02-14-Thursday-February-14th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/03-2013-02-14-Thursday-February-14th-2013.md#)    
+[../../10-to-19-Case-Dates/13-Investigation-Dates/03-2013-02-14-Thursday-February-14th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/03-2013-02-14-Thursday-February-14th-2013.md)    
 <https://www.heraldnet.com/news/few-details-in-death-of-bothell-woman/>  
   
-**UPDATE, 1:20 p.m. [../../10-to-19-Case-Dates/13-Investigation-Dates/04-2013-02-15-Friday-February-15th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/04-2013-02-15-Friday-February-15th-2013.md#):** The victim was identified Friday as [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md#), 37. Updates to follow. ^pnmmr  
+**UPDATE, 1:20 p.m. [../../10-to-19-Case-Dates/13-Investigation-Dates/04-2013-02-15-Friday-February-15th-2013](../../10-to-19-Case-Dates/13-Investigation-Dates/04-2013-02-15-Friday-February-15th-2013.md):** The victim was identified Friday as [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md), 37. Updates to follow. ^pnmmr  
   
 ———————————  
   
-BOTHELL — Detectives are staying tight-lipped about the homicide of a [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#) woman [found dead](http://www.heraldnet.com/article/20130213/BLOG41/130219938/1131/NEWS08#Police-say-Bothell-woman-died-from-homicidal-violence) at her home earlier this week.  
+BOTHELL — Detectives are staying tight-lipped about the homicide of a [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md) woman [found dead](http://www.heraldnet.com/article/20130213/BLOG41/130219938/1131/NEWS08#Police-say-Bothell-woman-died-from-homicidal-violence) at her home earlier this week.  
   
-The woman's two young [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md#) have been found safe and were taken into protective custody, according to police and [Child Protective Services](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md#). ^mdozi  
+The woman's two young [children](../../70-to-79-People/73-Family-and-Friends/08-Children.md) have been found safe and were taken into protective custody, according to police and [Child Protective Services](../../70-to-79-People/75-Police-and-Detectives/08-CPS.md). ^mdozi  
   
 Police have not released any details about possible suspects or a motive in the killing.  
   

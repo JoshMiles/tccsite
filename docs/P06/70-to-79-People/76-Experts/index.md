@@ -28,7 +28,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                            | Friendly Name                                                                           | Description                                                                                 |  
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [P06.76.01](index.md#) | [Experts Index](index.md#) | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [P06.76.01](index.md) | [Experts Index](index.md) | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

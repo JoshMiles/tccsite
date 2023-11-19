@@ -32,7 +32,7 @@ aliases:
 | Age?                               |            |  
 | Lives In?                          |            |  
 | Address?                           |            |  
-| Profession?                        | Not profession. Attended school at [Cowan Elementary](../../50-to-59-Investigation/52-Key-Locations/02-Cowan-Elementary.md#). (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md#ro2v3))            |  
+| Profession?                        | Not profession. Attended school at [Cowan Elementary](../../50-to-59-Investigation/52-Key-Locations/02-Cowan-Elementary.md). (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md#ro2v3))            |  
 | Spouse?                            |            |  
 | Deceased?                          | ❌/✅      |  
 | Date of Death (if applicable)?     |            |  

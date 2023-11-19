@@ -30,7 +30,7 @@ Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Note
   
 | Name                               |  Margo Carey          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             |  ![200](../../../assets/attachments/04-newborn-baby.jpg#) |  
+| Photo?                             |  ![200](../../../assets/attachments/04-newborn-baby.jpg) |  
 | Date of Birth?                     |  2019/11/26          |  
 | Age?                               |            |  
 | Lives In?                          | Austin, Texas           |  
@@ -39,7 +39,7 @@ Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Note
 | Spouse?                            |      N/A      |  
 | Deceased?                          | ❌      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Mother is [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md#) and Father is [Shane Carey](./01-Shane-Carey.md#)            |  
+| Family?                            | Mother is [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md) and Father is [Shane Carey](./01-Shane-Carey.md)            |  
 | Hair Colour?                       |            |  
 | Weight?                            |            |  
 | Eye Colour?                        |            |  

@@ -28,12 +28,12 @@ Details of the trial
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                              | Description                                                     |  
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [P06.80.01](index.md#)                      | [Trial Index](index.md#)                                  | Details of the trial.                                           |  
-| [P06.81.01](./81-Hearings/index.md#)          | [Hearings Index](./81-Hearings/index.md#)                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
-| [P06.82.01](./82-Trial-Proceedings/index.md#) | [Trial Proceedings Index](./82-Trial-Proceedings/index.md#) | Anything and everything that happened during trial.             |  
-| [P06.83.01](./83-Judgement/index.md#)         | [Judgement Index](./83-Judgement/index.md#)                 | Details regarding the judgement outcome from trial.             |  
-| [P06.84.01](./84-Sentencing/index.md#)        | [Sentencing Index](./84-Sentencing/index.md#)               | Information about the sentencing.                               |  
-| [P06.85.01](./85-Appeal/index.md#)            | [Appeal Index](./85-Appeal/index.md#)                       | If applicable, information about appeal(s).                     |  
+| [P06.80.01](index.md)                      | [Trial Index](index.md)                                  | Details of the trial.                                           |  
+| [P06.81.01](./81-Hearings/index.md)          | [Hearings Index](./81-Hearings/index.md)                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [P06.82.01](./82-Trial-Proceedings/index.md) | [Trial Proceedings Index](./82-Trial-Proceedings/index.md) | Anything and everything that happened during trial.             |  
+| [P06.83.01](./83-Judgement/index.md)         | [Judgement Index](./83-Judgement/index.md)                 | Details regarding the judgement outcome from trial.             |  
+| [P06.84.01](./84-Sentencing/index.md)        | [Sentencing Index](./84-Sentencing/index.md)               | Information about the sentencing.                               |  
+| [P06.85.01](./85-Appeal/index.md)            | [Appeal Index](./85-Appeal/index.md)                       | If applicable, information about appeal(s).                     |  
   
   
 ---  

@@ -22,7 +22,7 @@ aliases:
 >**ID:** 03 - Magen's House  
   
 # Magen's House  
-| Name           | [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#) and [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md#)'s house     |  
+| Name           | [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md) and [Christopher Green](../../70-to-79-People/73-Family-and-Friends/06-Christopher-Green.md)'s house     |  
 | -------------- | --- |  
 | Address        | 8118 Bo Jack Drive, Houston, Texas 77040    |  
 | Co-ordinates   |     |  

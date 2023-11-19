@@ -35,10 +35,10 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 | Lives In?                          | Austin, Texas           |  
 | Address?                           |            |  
 | Profession?                        | Cracker Barrel, Buda, Texas. Worked there since 2015. Had been off work since giving birth. (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#9g91f))            |  
-| Spouse?                            | Yes, [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md#)           |  
+| Spouse?                            | Yes, [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md)           |  
 | Deceased?                          | ✅      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Two children: [Newborn Child](../73-Family-and-Friends/02-Newborn-Child.md#) and [Six Year Old Child](../73-Family-and-Friends/03-Six-Year-Old-Child.md#)            |  
+| Family?                            | Two children: [Newborn Child](../73-Family-and-Friends/02-Newborn-Child.md) and [Six Year Old Child](../73-Family-and-Friends/03-Six-Year-Old-Child.md)            |  
 | Hair Colour?                       | Long, dark brown with highlights           |  
 | Weight?                            | 150lbs           |  
 | Eye Colour?                        | Blue           |  
@@ -53,7 +53,7 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 | Privacy assigned name?             |            |  
 | Role in Case?                      |   Victim         |  
 | Relation to Victim (if any)?       |   N/A         |  
-| Relation to Perp (if any)?         |  Best friend of [Magen Fieramusca](../72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md#)           |  
+| Relation to Perp (if any)?         |  Best friend of [Magen Fieramusca](../72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md)           |  
   
 ## Any Additional Information  
   
@@ -62,9 +62,9 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 - Pinterest: https://www.pinterest.com/heidiluv71/  
   
 - Heidi studied to be a veterinary technician in college.[^3] ^cjjf6  
-- She met [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md#) in 2009, and had been engaged since November 2012.[^4] ^tiuuk  
+- She met [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md) in 2009, and had been engaged since November 2012.[^4] ^tiuuk  
 - Heidi was originally from Lake Charles, Louisiana.[^5] ^3d3m5  
-- Heidi and [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md#) had also lived in Kyle, Texas.[^6] ^k-tdr  
+- Heidi and [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md) had also lived in Kyle, Texas.[^6] ^k-tdr  
   
 - Heidi Elizabeth Broussard, 33, of Austin, TX died Thursday, December 19, 2019 in Houston, TX.    
     

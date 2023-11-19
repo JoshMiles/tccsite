@@ -28,7 +28,7 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                   | Friendly Name                                                                                     | Description                                                |  
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P06.21.01](index.md#) | [File Notes Index](index.md#) | The notes extracted from the PDFs of relevant information. |  
+| [P06.21.01](index.md) | [File Notes Index](index.md) | The notes extracted from the PDFs of relevant information. |  
   
   
 ---  

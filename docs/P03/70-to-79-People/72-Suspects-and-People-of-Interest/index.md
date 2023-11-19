@@ -30,8 +30,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                                | Friendly Name                                                                                                                       | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P03.72.01](./01-Magen-Rose-Fieramusca.md#) | [Magan Rose Fieramusca](./01-Magen-Rose-Fieramusca.md#) | Suspect                                                |  
-| [P03.72.01](index.md#)                    | [Suspects and People of Interest Index](index.md#)    | Profiles about any suspects and/or people of interest. |  
+| [P03.72.01](index.md)                    | [Suspects and People of Interest Index](index.md)    | Profiles about any suspects and/or people of interest. |  
+| [P03.72.01](./01-Magen-Rose-Fieramusca.md) | [Magan Rose Fieramusca](./01-Magen-Rose-Fieramusca.md) | Suspect                                                |  
   
   
 ---  

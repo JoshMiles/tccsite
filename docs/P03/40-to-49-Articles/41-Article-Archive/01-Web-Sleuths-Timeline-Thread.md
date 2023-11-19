@@ -7174,7 +7174,7 @@ Watch “Dateline” tonight at 10 p.m. on NBC4.
   
 AUG 20, 2021    
 **Remembering Heidi**    
-Loved ones remember [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#)   
+Loved ones remember [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md)   
   
 https://www.facebook.com/watch/?v=110413637934951  
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdatelinenbc%2Fvideos%2F110413637934951%2F%3Fref%3Dembed_video&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>  

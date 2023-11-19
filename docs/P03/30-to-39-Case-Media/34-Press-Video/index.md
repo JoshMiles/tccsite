@@ -32,7 +32,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                             | Friendly Name                                                                                | Description                                            |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P03.34.01](index.md#) | [Press Video Index](index.md#) | Any video clips from the press pertaining to the case. |  
+| [P03.34.01](index.md) | [Press Video Index](index.md) | Any video clips from the press pertaining to the case. |  
   
   
 ---  

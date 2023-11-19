@@ -31,9 +31,9 @@ Profiles about witnesses
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                        | Description               |  
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |  
-| [P02.74.01](index.md#)             | [Witnesses Index](index.md#)            | Profiles about witnesses. |  
-| [P02.74.02](./02-Wendell-Morris.md#) | [Wendell Morris](./02-Wendell-Morris.md#) | Witness                   |  
-| [P02.74.03](./03-Truck-Driver.md#)   | [Truck Driver](./03-Truck-Driver.md#)     | Witness                   |  
+| [P02.74.01](index.md)             | [Witnesses Index](index.md)            | Profiles about witnesses. |  
+| [P02.74.02](./02-Wendell-Morris.md) | [Wendell Morris](./02-Wendell-Morris.md) | Witness                   |  
+| [P02.74.03](./03-Truck-Driver.md)   | [Truck Driver](./03-Truck-Driver.md)     | Witness                   |  
   
   
 ---  

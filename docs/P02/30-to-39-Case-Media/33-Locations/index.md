@@ -31,7 +31,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                                | Friendly Name                                                                                 | Description                       |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P02.33.01](index.md#) | [Locations Index](index.md#) | Images of the locations involved. |  
+| [P02.33.01](index.md) | [Locations Index](index.md) | Images of the locations involved. |  
   
   
 ---  

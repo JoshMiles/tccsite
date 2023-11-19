@@ -25,16 +25,16 @@ aliases:
   
 ![](../../../assets/attachments/03-Susann-Smith.jpg)  
   
-Wife of [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md#)  
+Wife of [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md)  
   
-A [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#) resident - 200 Block of 240th Street SW[^1] - 216 240th St. SW, [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md#).    
+A [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md) resident - 200 Block of 240th Street SW[^1] - 216 240th St. SW, [Bothell](../../50-to-59-Investigation/52-Key-Locations/05-Bothell.md.md).    
 Age: 37[^2]   
   
 Court papers show the woman who lived at the home moved to the U.S. from Germany about eight years ago. She and her husband were in the process of divorcing.[^3]   
   
-She had two [children](../73-Family-and-Friends/08-Children.md#), who were taken into protective custody following her death.[^4]   
-- The [children](../73-Family-and-Friends/08-Children.md#) are aged 6 and 3[^5]   
-- The [children](../73-Family-and-Friends/08-Children.md#) had been living with her sister during the trial in Germany.[^6] [^7]   
+She had two [children](../73-Family-and-Friends/08-Children.md.md), who were taken into protective custody following her death.[^4]   
+- The [children](../73-Family-and-Friends/08-Children.md.md) are aged 6 and 3[^5]   
+- The [children](../73-Family-and-Friends/08-Children.md.md) had been living with her sister during the trial in Germany.[^6] [^7]   
   
 Her mother, father and sister were from Germany.[^8]   
 # Footnotes  

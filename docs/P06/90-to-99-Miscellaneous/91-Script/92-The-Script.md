@@ -211,8 +211,8 @@ https://docs.google.com/document/d/1uYCh5Aqe91zfMgDVE3LWV-nSEGZ7SYjnLV91ipOhevU/
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                       | Description                       |  
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P06.91.01](./index.md#)         | [Script Folder Index](./index.md#) | This folder contains the script.  |  
-| [P06.91.02](92-The-Script.md#) | [The Script](92-The-Script.md#)  | This is the script for this case. |  
+| [P06.91.01](./index.md)         | [Script Folder Index](./index.md) | This folder contains the script.  |  
+| [P06.91.02](92-The-Script.md) | [The Script](92-The-Script.md)  | This is the script for this case. |  
   
   
 ---  

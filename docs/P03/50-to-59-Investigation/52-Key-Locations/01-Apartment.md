@@ -24,7 +24,7 @@ aliases:
   
 # Apartment  
   
-| Name           | [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md#) and [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md#)'s apartment     |  
+| Name           | [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md) and [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md)'s apartment     |  
 | -------------- | --- |  
 | Address        | 744 West William Cannon Drive, Austin, Travis County, Texas    |  
 | Co-ordinates   |     |  

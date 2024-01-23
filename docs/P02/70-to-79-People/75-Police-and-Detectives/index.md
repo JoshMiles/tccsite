@@ -32,16 +32,16 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                                         | Friendly Name                                                                                                              | Description                                  |  
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [P02.75.01](index.md)                  | [Police and Detectives Index](index.md)          | Profiles regarding law enforcement involved. |  
-| [P02.75.02](./02-Detective-Chissus.md)   | [Detective Chissus](./02-Detective-Chissus.md)     | Detective                                    |  
-| [P02.75.03](./03-Detective-Stone.md)     | [Detective Stone](./03-Detective-Stone.md)         | Detective                                    |  
-| [P02.75.04](./04-Detective-Betts.md)     | [Detective Betts](./04-Detective-Betts.md)         | Detective                                    |  
-| [P02.75.05](./05-Detective-Bilyeu.md)    | [Detective Bilyeu](./05-Detective-Bilyeu.md)       | Detective                                    |  
-| [P02.75.06](./06-Beck.md)                | [Beck](./06-Beck.md)                               | Police Force                                 |  
-| [P02.75.07](./07-Detective-Thompson.md)  | [Detective Thompson](./07-Detective-Thompson.md)   | Detective                                    |  
-| [P02.75.08](./08-CPS.md)                 | [CPS](./08-CPS.md)                                 | Child Protective Services                    |  
-| [P02.75.09](./09-Detective-O%E2%80%99Bryant.md)  | [Detective O'Bryant](./09-Detective-O%E2%80%99Bryant.md)   | Detective                                    |  
-| [P02.75.10](./10-Detective-Sgt-Brown.md) | [Detective Sgt Brown](./10-Detective-Sgt-Brown.md) | Detective                                    |  
+| [[index\|P02.75.01]]                  | [[index\|Police and Detectives Index]]          | Profiles regarding law enforcement involved. |  
+| [[./02-Detective-Chissus\|P02.75.02]]   | [[./02-Detective-Chissus\|Detective Chissus]]     | Detective                                    |  
+| [[./03-Detective-Stone\|P02.75.03]]     | [[./03-Detective-Stone\|Detective Stone]]         | Detective                                    |  
+| [[./04-Detective-Betts\|P02.75.04]]     | [[./04-Detective-Betts\|Detective Betts]]         | Detective                                    |  
+| [[./05-Detective-Bilyeu\|P02.75.05]]    | [[./05-Detective-Bilyeu\|Detective Bilyeu]]       | Detective                                    |  
+| [[./06-Beck\|P02.75.06]]                | [[./06-Beck\|Beck]]                               | Police Force                                 |  
+| [[./07-Detective-Thompson\|P02.75.07]]  | [[./07-Detective-Thompson\|Detective Thompson]]   | Detective                                    |  
+| [[./08-CPS\|P02.75.08]]                 | [[./08-CPS\|CPS]]                                 | Child Protective Services                    |  
+| [[./09-Detective-O’Bryant\|P02.75.09]]  | [[./09-Detective-O’Bryant\|Detective O'Bryant]]   | Detective                                    |  
+| [[./10-Detective-Sgt-Brown\|P02.75.10]] | [[./10-Detective-Sgt-Brown\|Detective Sgt Brown]] | Detective                                    |  
   
   
 ---  

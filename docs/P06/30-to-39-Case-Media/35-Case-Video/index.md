@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/30-to-39-Case-Media/35-Case-Video"  
-jid: "P06.35.01"  
-pro: "P06"  
+category: P06/30-to-39-Case-Media/35-Case-Video  
+jid: P06.35.01  
+pro: P06  
 ac: "35"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "35 Case Video"  
-desc: "Any video clips from the trial or investigation."  
-friendlyname: "Case Video Index"  
-title: "index"  
-alias: "P06-35-01, Case Video Index"  
+jarea: 30-39 Case Media  
+jcat: 35 Case Video  
+desc: Any video clips from the trial or investigation.  
+friendlyname: Case Video Index  
+title: index  
+alias: P06-35-01, Case Video Index  
 ---  
+  
 >[!info]- Location: P06.35.01  
 >**Area:** P06 - 30-39 Case Media  
 >**Category:** 35 - 35 Case Video  

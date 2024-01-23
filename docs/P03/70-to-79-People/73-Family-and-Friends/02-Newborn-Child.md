@@ -19,6 +19,7 @@ aliases:
   - Margo Carey  
   - Margo  
 ---  
+  
 >[!info]- Location: P03.73.02  
 >**Area:** P03 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  
@@ -30,7 +31,7 @@ Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Note
   
 | Name                               |  Margo Carey          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             |  ![200](../../../assets/attachments/04-newborn-baby.jpg) |  
+| Photo?                             |  ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/04-newborn-baby.jpg) |  
 | Date of Birth?                     |  2019/11/26          |  
 | Age?                               |            |  
 | Lives In?                          | Austin, Texas           |  

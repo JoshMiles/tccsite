@@ -16,6 +16,7 @@ aliases:
   - Susann Smith  
   - Susann  
 ---  
+  
 >[!info]- Location: P02.71.02  
 >**Area:** P02 - 70-79 People  
 >**Category:** 71 - 71 Victims  
@@ -23,7 +24,7 @@ aliases:
   
 # Susann Smith  
   
-![](../../../assets/attachments/03-Susann-Smith.jpg)  
+![](../../../Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/32-People/03-Susann-Smith.jpg)  
   
 Wife of [Alan Smith](../72-Suspects-and-People-of-Interest/02-Alan-Smith.md)  
   

@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/80-to-89-Trial/85-Appeal"  
-jid: "P03.85.01"  
-pro: "P03"  
+category: P03/80-to-89-Trial/85-Appeal  
+jid: P03.85.01  
+pro: P03  
 ac: "85"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "85 Appeal"  
-desc: "If applicable, information about appeal(s)."  
-friendlyname: "Appeal Index"  
-title: "index"  
-alias: "P03-85-01, Appeal Index"  
+jarea: 80-89 Trial  
+jcat: 85 Appeal  
+desc: If applicable, information about appeal(s).  
+friendlyname: Appeal Index  
+title: index  
+alias: P03-85-01, Appeal Index  
 ---  
+  
 >[!info]- Location: P03.85.01  
 >**Area:** P03 - 80-89 Trial  
 >**Category:** 85 - 85 Appeal  

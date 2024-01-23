@@ -31,8 +31,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                        | Description                          |  
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [P04.71.01](./01-Agneta-Westlund.md) | [Agneta Westlund](./01-Agneta-Westlund.md) | Victim                               |  
-| [P04.71.01](index.md)              | [Victims Index](index.md)                | Profiles about the victim or victims |  
+| [[./01-Agneta-Westlund\|P04.71.01]] | [[./01-Agneta-Westlund\|Agneta Westlund]] | Victim                               |  
+| [[index\|P04.71.01]]              | [[index\|Victims Index]]                | Profiles about the victim or victims |  
   
   
 ---  

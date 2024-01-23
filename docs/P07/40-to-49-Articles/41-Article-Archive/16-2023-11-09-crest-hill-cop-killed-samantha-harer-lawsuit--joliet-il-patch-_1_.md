@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.16"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.16  
+pro: P07  
 ac: "41"  
 id: "16"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch (1)"  
-title: "16-2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch-_1_"  
-aliases:   
-- "P07.41.16"  
-- "2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch (1)"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch (1)  
+title: 16-2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch-_1_  
+aliases:  
+  - P07.41.16  
+  - 2023-11-09-crest-hill-cop-killed-samantha-harer-lawsuit--joliet-il-patch (1)  
 ---  
+  
 >[!info]- Location: P07.41.16  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

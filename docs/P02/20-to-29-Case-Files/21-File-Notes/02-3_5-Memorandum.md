@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.02"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.02  
+pro: P02  
 ac: "21"  
 id: "02"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "3.5 Memorandum File Note"  
-title: "02-3_5-Memorandum"  
-aliases:   
-- "P02.21.02"  
-- "3.5 Memorandum File Note"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: 3.5 Memorandum File Note  
+title: 02-3_5-Memorandum  
+aliases:  
+  - P02.21.02  
+  - 3.5 Memorandum File Note  
 ---  
+  
   
 > [!info]- Location: P02.21.02    
 > **Area:** P02 - 20-29 Case Files    
@@ -23,9 +24,9 @@ aliases:
   
 # 3.5 Memorandum File Note  
   
-Notes for: [05_13-1-01546-8_37_3_5_MEMORANDUM.pdf](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
+Notes for: [05_13-1-01546-8_37_3_5_MEMORANDUM.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
   
-![](../../../assets/attachments/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/05_13-1-01546-8_37_3_5_MEMORANDUM.pdf)  
   
 # [Tuesday-February-12th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md.md) Statements  
   

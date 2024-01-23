@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/70-to-79-People"  
-jid: "P05.70.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/70-to-79-People  
+jid: P05.70.01  
+pro: P05  
 ac: "70"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "70 Index"  
-desc: "The people connected to the case."  
-friendlyname: "People Index"  
-title: "index"  
-alias: "P05-70-01, People Index"  
+jarea: 70-79 People  
+jcat: 70 Index  
+desc: The people connected to the case.  
+friendlyname: People Index  
+title: index  
+alias: P05-70-01, People Index  
 ---  
+  
 >[!info]- Location: P05.70.01  
 >**Area:** P05 - 70-79 People  
 >**Category:** 70 - 70 Index  

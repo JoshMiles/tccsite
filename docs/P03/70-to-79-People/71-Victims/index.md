@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/71-Victims"  
-jid: "P03.71.01"  
-pro: "P03"  
+category: P03/70-to-79-People/71-Victims  
+jid: P03.71.01  
+pro: P03  
 ac: "71"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "71 Victims"  
-desc: "Profiles about the victim or victims"  
-friendlyname: "Victims Index"  
-title: "index"  
-alias: "P03-71-01, Victims Index"  
+jarea: 70-79 People  
+jcat: 71 Victims  
+desc: Profiles about the victim or victims  
+friendlyname: Victims Index  
+title: index  
+alias: P03-71-01, Victims Index  
 ---  
+  
 >[!info]- Location: P03.71.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 71 - 71 Victims  

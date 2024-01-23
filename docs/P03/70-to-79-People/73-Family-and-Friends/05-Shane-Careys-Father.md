@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/73-Family-and-Friends"  
-jid: "P03.73.05"  
-pro: "P03"  
+category: P03/70-to-79-People/73-Family-and-Friends  
+jid: P03.73.05  
+pro: P03  
 ac: "73"  
 id: "05"  
-jarea: "70-79 People"  
-jcat: "73 Family and Friends"  
-desc: "Father"  
-friendlyname: "Shane Carey's Father"  
-title: "05-Shane-Careys-Father"  
-aliases:   
-- "P03.73.05"  
-- "Shane Carey's Father"  
+jarea: 70-79 People  
+jcat: 73 Family and Friends  
+desc: Father  
+friendlyname: Shane Carey's Father  
+title: 05-Shane-Careys-Father  
+aliases:  
+  - P03.73.05  
+  - Shane Carey's Father  
 ---  
+  
 >[!info]- Location: P03.73.05  
 >**Area:** P03 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

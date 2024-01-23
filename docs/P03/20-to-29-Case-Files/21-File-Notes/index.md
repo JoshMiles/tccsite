@@ -31,16 +31,16 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                                                    | Friendly Name                                                                                                                                                | Description                                                |  
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |  
-| [P03.21.01](./02-Magen-Fieramusca-Arrest-Affidavit.md)          | [Magen Fieramusca Arrest Affidavit](./02-Magen-Fieramusca-Arrest-Affidavit.md)                   | Affidavit File Note                                        |  
-| [P03.21.01](index.md)                                         | [File Notes Index](index.md)                                                                   | The notes extracted from the PDFs of relevant information. |  
-| [P03.21.02](./02-Magen-Fieramusca-Kidnapping-Arrest-Warrant.md) | [Magen-Fieramusca-Kidnapping-Arrest-Warrant](./02-Magen-Fieramusca-Kidnapping-Arrest-Warrant.md) | File Note                                                  |  
-| [P03.21.03](./03-Heidi-Broussard-Missing-Persons-Poster.md)     | [Heidi Broussard Missing Persons Poster](./03-Heidi-Broussard-Missing-Persons-Poster.md)         | File Notes                                                 |  
-| [P03.21.04](./04-Negotiated-Plea.md)                            | [Negotiated Plea](./04-Negotiated-Plea.md)                                                       | File Note                                                  |  
-| [P03.21.05](./05-Press-Release.md)                              | [Press Release](./05-Press-Release.md)                                                           | File Note                                                  |  
-| [P03.21.06](./06-Arrest-Warrant.md)                             | [Arrest Warrant](./06-Arrest-Warrant.md)                                                         | File Note                                                  |  
-| [P03.21.07](./07-Finding-of-Indignecy.md)                       | [Finding of Indignecy](./07-Finding-of-Indignecy.md)                                             | File Note                                                  |  
-| [P03.21.08](./08-Order-to-Seal.md)                              | [Order to Seal](./08-Order-to-Seal.md)                                                           | File Note                                                  |  
-| [P03.21.09](./09-Motion-Order-to-Unseal.md)                     | [Motion Order to Unseal](./09-Motion-Order-to-Unseal.md)                                         | File Note                                                  |  
+| [[./02-Magen-Fieramusca-Arrest-Affidavit\|P03.21.01]]          | [[./02-Magen-Fieramusca-Arrest-Affidavit\|Magen Fieramusca Arrest Affidavit]]                   | Affidavit File Note                                        |  
+| [[index\|P03.21.01]]                                         | [[index\|File Notes Index]]                                                                   | The notes extracted from the PDFs of relevant information. |  
+| [[./02-Magen-Fieramusca-Kidnapping-Arrest-Warrant\|P03.21.02]] | [[./02-Magen-Fieramusca-Kidnapping-Arrest-Warrant\|Magen-Fieramusca-Kidnapping-Arrest-Warrant]] | File Note                                                  |  
+| [[./03-Heidi-Broussard-Missing-Persons-Poster\|P03.21.03]]     | [[./03-Heidi-Broussard-Missing-Persons-Poster\|Heidi Broussard Missing Persons Poster]]         | File Notes                                                 |  
+| [[./04-Negotiated-Plea\|P03.21.04]]                            | [[./04-Negotiated-Plea\|Negotiated Plea]]                                                       | File Note                                                  |  
+| [[./05-Press-Release\|P03.21.05]]                              | [[./05-Press-Release\|Press Release]]                                                           | File Note                                                  |  
+| [[./06-Arrest-Warrant\|P03.21.06]]                             | [[./06-Arrest-Warrant\|Arrest Warrant]]                                                         | File Note                                                  |  
+| [[./07-Finding-of-Indignecy\|P03.21.07]]                       | [[./07-Finding-of-Indignecy\|Finding of Indignecy]]                                             | File Note                                                  |  
+| [[./08-Order-to-Seal\|P03.21.08]]                              | [[./08-Order-to-Seal\|Order to Seal]]                                                           | File Note                                                  |  
+| [[./09-Motion-Order-to-Unseal\|P03.21.09]]                     | [[./09-Motion-Order-to-Unseal\|Motion Order to Unseal]]                                         | File Note                                                  |  
   
   
 ---  

@@ -19,13 +19,14 @@ Welcome to my research hub for all my true crime cases for my [YouTube channel](
   
 # Cases  
   
-| PRO | Case Name                                       | Created                      | Last Updated                | Size (in Bytes) |  
-| --- | ----------------------------------------------- | ---------------------------- | --------------------------- | --------------- |  
-| P01 | [Cases/P01-John-Doe](P01/index.md)               | 3:16 PM - October 13, 2023   | 4:56 PM - October 12, 2023  | 1309            |  
-| P02 | [Cases/P02-Case-of-Susann-Smith](P02/index.md)   | 3:16 PM - October 13, 2023   | 4:56 PM - October 12, 2023  | 830             |  
-| P03 | [Cases/P03-Heidi-Broussard](P03/index.md)        | 3:16 PM - October 13, 2023   | 7:36 PM - October 17, 2023  | 1461            |  
-| P04 | [Cases/P04-Swedish-Moose-Murder](P04/index.md)   | 11:03 AM - October 16, 2023  | 1:28 PM - November 08, 2023 | 1592            |  
-| P05 | [Cases/P05-Gold-Sock-Killer](P05/index.md)       | 7:25 PM - October 17, 2023   | 7:10 PM - November 08, 2023 | 1450            |  
-| P06 | [Cases/P06-Case-Updates-Sanda-Dia](P06/index.md) | 4:29 PM - October 25, 2023   | 7:35 PM - October 26, 2023  | 1449            |  
-| P07 | [Cases/P07-Samantha-Harer](P07/index.md)         | 12:05 PM - November 08, 2023 | 5:00 PM - November 19, 2023 | 1433            |  
+| PRO    | Case Name                                             | Created                      | Last Updated                | Size (in Bytes) |  
+| ------ | ----------------------------------------------------- | ---------------------------- | --------------------------- | --------------- |  
+| P01    | [[P01/index\|Cases/P01-John-Doe]]                     | 3:16 PM - October 13, 2023   | 4:56 PM - October 12, 2023  | 1309            |  
+| P02    | [[P02/index\|Cases/P02-Case-of-Susann-Smith]]         | 3:16 PM - October 13, 2023   | 4:56 PM - October 12, 2023  | 830             |  
+| P03    | [[P03/index\|Cases/P03-Heidi-Broussard]]              | 3:16 PM - October 13, 2023   | 7:36 PM - October 17, 2023  | 1461            |  
+| P04    | [[P04/index\|Cases/P04-Swedish-Moose-Murder]]         | 11:03 AM - October 16, 2023  | 1:28 PM - November 08, 2023 | 1592            |  
+| P05    | [[P05/index\|Cases/P05-Gold-Sock-Killer]]             | 7:25 PM - October 17, 2023   | 7:10 PM - November 08, 2023 | 1450            |  
+| P06    | [[P06/index\|Cases/P06-Case-Updates-Sanda-Dia]]       | 4:29 PM - October 25, 2023   | 7:35 PM - October 26, 2023  | 1449            |  
+| P07    | [[P07/index\|Cases/P07-Samantha-Harer]]               | 12:05 PM - November 08, 2023 | 5:00 PM - November 19, 2023 | 1433            |  
+| P10P10 | [[P10P10/index\|Cases/P10-Death-of-a-Crime-Novelist]] | 11:50 AM - December 21, 2023 | 3:48 PM - January 23, 2024  | 1467            |  
   

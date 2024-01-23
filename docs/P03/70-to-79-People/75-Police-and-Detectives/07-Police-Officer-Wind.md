@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/75-Police-and-Detectives"  
-jid: "P03.75.07"  
-pro: "P03"  
+category: P03/70-to-79-People/75-Police-and-Detectives  
+jid: P03.75.07  
+pro: P03  
 ac: "75"  
 id: "07"  
-jarea: "70-79 People"  
-jcat: "75 Police and Detectives"  
-desc: "Police Officer"  
-friendlyname: "Police Officer Wind"  
-title: "07-Police-Officer-Wind"  
-aliases:   
-- "P03.75.07"  
-- "Police Officer Wind"  
+jarea: 70-79 People  
+jcat: 75 Police and Detectives  
+desc: Police Officer  
+friendlyname: Police Officer Wind  
+title: 07-Police-Officer-Wind  
+aliases:  
+  - P03.75.07  
+  - Police Officer Wind  
 ---  
+  
 >[!info]- Location: P03.75.07  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

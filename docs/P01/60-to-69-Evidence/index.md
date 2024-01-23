@@ -1,18 +1,19 @@
 ---  
 staged: true  
 share: true  
-category: "P01/60-to-69-Evidence"  
-jid: "P01.60.01"  
-pro: "P01"  
+category: P01/60-to-69-Evidence  
+jid: P01.60.01  
+pro: P01  
 ac: "60"  
 id: "01"  
-jarea: "60-69 Evidence"  
-jcat: "60 Index"  
-desc: "Information about the evidence."  
-friendlyname: "Evidence Index"  
-title: "index"  
-alias: "P01-60-01, Evidence Index"  
+jarea: 60-69 Evidence  
+jcat: 60 Index  
+desc: Information about the evidence.  
+friendlyname: Evidence Index  
+title: index  
+alias: P01-60-01, Evidence Index  
 ---  
+  
 >[!info]- Location: P01.60.01  
 >**Area:** P01 - 60-69 Evidence  
 >**Category:** 60 - 60 Index  

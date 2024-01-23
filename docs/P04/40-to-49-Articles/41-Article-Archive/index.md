@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/40-to-49-Articles/41-Article-Archive"  
-jid: "P04.41.01"  
-pro: "P04"  
+category: P04/40-to-49-Articles/41-Article-Archive  
+jid: P04.41.01  
+pro: P04  
 ac: "41"  
 id: "01"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Snapshots of the articles referenced."  
-friendlyname: "Article Archive Index"  
-title: "index"  
-alias: "P04-41-01, Article Archive Index"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Snapshots of the articles referenced.  
+friendlyname: Article Archive Index  
+title: index  
+alias: P04-41-01, Article Archive Index  
 ---  
+  
 >[!info]- Location: P04.41.01  
 >**Area:** P04 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

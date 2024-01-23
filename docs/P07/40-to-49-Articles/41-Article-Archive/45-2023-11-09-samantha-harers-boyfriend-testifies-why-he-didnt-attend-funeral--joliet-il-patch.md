@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.45"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.45  
+pro: P07  
 ac: "41"  
 id: "45"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch"  
-title: "45-2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch"  
-aliases:   
-- "P07.41.45"  
-- "2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch  
+title: 45-2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch  
+aliases:  
+  - P07.41.45  
+  - 2023-11-09-samantha-harers-boyfriend-testifies-why-he-didnt-attend-funeral--joliet-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.45  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

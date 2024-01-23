@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/40-to-49-Articles"  
-jid: "P05.40.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/40-to-49-Articles  
+jid: P05.40.01  
+pro: P05  
 ac: "40"  
 id: "01"  
-jarea: "40-49 Articles"  
-jcat: "40 Index"  
-desc: "The articles used in the research."  
-friendlyname: "Articles Index"  
-title: "index"  
-alias: "P05-40-01, Articles Index"  
+jarea: 40-49 Articles  
+jcat: 40 Index  
+desc: The articles used in the research.  
+friendlyname: Articles Index  
+title: index  
+alias: P05-40-01, Articles Index  
 ---  
+  
 >[!info]- Location: P05.40.01  
 >**Area:** P05 - 40-49 Articles  
 >**Category:** 40 - 40 Index  

@@ -15,6 +15,7 @@ aliases:
   - P02.21.12  
   - Judgment and Sentencing File Notes  
 ---  
+  
 >[!info]- Location: P02.21.12  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Judgment and Sentencing  
   
-[13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
+[13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
-![](../../../assets/attachments/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/22_13-1-01546-8_136_FELONY_JUDGMENT_AND_SENTENCE.pdf)  
   
 1 count of First Degree Murder with a Deadly Weapon (Domestic Violence) ^i5evb  
   

@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/80-to-89-Trial"  
-jid: "P05.80.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/80-to-89-Trial  
+jid: P05.80.01  
+pro: P05  
 ac: "80"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "80 Index"  
-desc: "Details of the trial."  
-friendlyname: "Trial Index"  
-title: "index"  
-alias: "P05-80-01, Trial Index"  
+jarea: 80-89 Trial  
+jcat: 80 Index  
+desc: Details of the trial.  
+friendlyname: Trial Index  
+title: index  
+alias: P05-80-01, Trial Index  
 ---  
+  
 >[!info]- Location: P05.80.01  
 >**Area:** P05 - 80-89 Trial  
 >**Category:** 80 - 80 Index  

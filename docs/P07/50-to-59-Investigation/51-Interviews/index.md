@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/50-to-59-Investigation/51-Interviews"  
-jid: "P07.51.01"  
-pro: "P07"  
+share: true  
+category: P07/50-to-59-Investigation/51-Interviews  
+jid: P07.51.01  
+pro: P07  
 ac: "51"  
 id: "01"  
-jarea: "50-59 Investigation"  
-jcat: "51 Interviews"  
-desc: "Writeups and notes about interviews conducted by law enforcement."  
-friendlyname: "Interviews Index"  
-title: "index"  
-alias: "P07-51-01, Interviews Index"  
+jarea: 50-59 Investigation  
+jcat: 51 Interviews  
+desc: Writeups and notes about interviews conducted by law enforcement.  
+friendlyname: Interviews Index  
+title: index  
+alias: P07-51-01, Interviews Index  
 ---  
+  
 >[!info]- Location: P07.51.01  
 >**Area:** P07 - 50-59 Investigation  
 >**Category:** 51 - 51 Interviews  

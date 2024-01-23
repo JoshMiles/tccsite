@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/70-to-79-People/72-Suspects-and-People-of-Interest"  
-jid: "P04.72.01"  
-pro: "P04"  
+category: P04/70-to-79-People/72-Suspects-and-People-of-Interest  
+jid: P04.72.01  
+pro: P04  
 ac: "72"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "72 Suspects and People of Interest"  
-desc: "Profiles about any suspects and/or people of interest."  
-friendlyname: "Suspects and People of Interest Index"  
-title: "index"  
-alias: "P04-72-01, Suspects and People of Interest Index"  
+jarea: 70-79 People  
+jcat: 72 Suspects and People of Interest  
+desc: Profiles about any suspects and/or people of interest.  
+friendlyname: Suspects and People of Interest Index  
+title: index  
+alias: P04-72-01, Suspects and People of Interest Index  
 ---  
+  
 >[!info]- Location: P04.72.01  
 >**Area:** P04 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  

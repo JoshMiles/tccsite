@@ -505,8 +505,8 @@ usual outro
   
 | J.Dec ID                                                                                  | Friendly Name                                                                               | Description                       |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P07.91.01](./index.md)         | [Script Folder Index](./index.md) | This folder contains the script.  |  
-| [P07.91.02](92-The-Script.md) | [The Script](92-The-Script.md)  | This is the script for this case. |  
+| [[./index\|P07.91.01]]         | [[./index\|Script Folder Index]] | This folder contains the script.  |  
+| [[92-The-Script\|P07.91.02]] | [[92-The-Script\|The Script]]  | This is the script for this case. |  
   
   
 ---  
@@ -515,5 +515,5 @@ usual outro
 # Footnotes  
   
 [^1]: https://www.findagrave.com/memorial/188612225/samantha-grace-harer  
-[^2]: (see [22-2023-11-09-harer-family-lawyer-this-lawsuit-was-never-about-money-for-them--joliet-il-patch](../../40-to-49-Articles/41-Article-Archive/22-2023-11-09-harer-family-lawyer-this-lawsuit-was-never-about-money-for-them--joliet-il-patch.md#sxixk))  
-[^3]: (see [09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch](../../40-to-49-Articles/41-Article-Archive/09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch.md#kff61))
+[^2]: (see [22-2023-11-09-harer-family-lawyer-this-lawsuit-was-never-about-money-for-them--joliet-il-patch](../../40-to-49-Articles/41-Article-Archive/22-2023-11-09-harer-family-lawyer-this-lawsuit-was-never-about-money-for-them--joliet-il-patch.md##%5Esxixk))  
+[^3]: (see [09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch](../../40-to-49-Articles/41-Article-Archive/09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch.md##%5Ekff61))

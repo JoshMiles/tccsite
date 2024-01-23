@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.14"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.14  
+pro: P02  
 ac: "21"  
 id: "14"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "State's Response to Defense Motion"  
-title: "14-TE_S_RESPONSE_TO_DEFENSE_MOTION"  
-aliases:   
-- "P02.21.14"  
-- "State's Response to Defense Motion"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: State's Response to Defense Motion  
+title: 14-TE_S_RESPONSE_TO_DEFENSE_MOTION  
+aliases:  
+  - P02.21.14  
+  - State's Response to Defense Motion  
 ---  
+  
 >[!info]- Location: P02.21.14  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,7 +23,7 @@ aliases:
   
 # State's Response to Defense Motion  
   
-![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## Declaration   
   

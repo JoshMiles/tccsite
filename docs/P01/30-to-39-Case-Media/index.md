@@ -30,12 +30,12 @@ All images and videos pertaining to the case.
   
 | J.Dec ID                                                                      | Friendly Name                                                                         | Description                                            |  
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P01.30.01](index.md)                | [Case Media Index](index.md)                 | All images and videos pertaining to the case.          |  
-| [P01.31.01](./31-Crime-Scene/index.md) | [Crime Scene Index](./31-Crime-Scene/index.md) | Imagery from the crime scene.                          |  
-| [P01.32.01](./32-People/index.md)      | [People Index](./32-People/index.md)           | Images of people involved.                             |  
-| [P01.33.01](./33-Locations/index.md)   | [Locations Index](./33-Locations/index.md)     | Images of the locations involved.                      |  
-| [P01.34.01](./34-Press-Video/index.md) | [Press Video Index](./34-Press-Video/index.md) | Any video clips from the press pertaining to the case. |  
-| [P01.35.01](./35-Case-Video/index.md)  | [Case Video Index](./35-Case-Video/index.md)   | Any video clips from the trial or investigation.       |  
+| [[index\|P01.30.01]]                | [[index\|Case Media Index]]                 | All images and videos pertaining to the case.          |  
+| [[./31-Crime-Scene/index\|P01.31.01]] | [[./31-Crime-Scene/index\|Crime Scene Index]] | Imagery from the crime scene.                          |  
+| [[./32-People/index\|P01.32.01]]      | [[./32-People/index\|People Index]]           | Images of people involved.                             |  
+| [[./33-Locations/index\|P01.33.01]]   | [[./33-Locations/index\|Locations Index]]     | Images of the locations involved.                      |  
+| [[./34-Press-Video/index\|P01.34.01]] | [[./34-Press-Video/index\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
+| [[./35-Case-Video/index\|P01.35.01]]  | [[./35-Case-Video/index\|Case Video Index]]   | Any video clips from the trial or investigation.       |  
   
   
 ---  

@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/30-to-39-Case-Media/32-People"  
-jid: "P05.32.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/30-to-39-Case-Media/32-People  
+jid: P05.32.01  
+pro: P05  
 ac: "32"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "32 People"  
-desc: "Images of people involved."  
-friendlyname: "People Index"  
-title: "index"  
-alias: "P05-32-01, People Index"  
+jarea: 30-39 Case Media  
+jcat: 32 People  
+desc: Images of people involved.  
+friendlyname: People Index  
+title: index  
+alias: P05-32-01, People Index  
 ---  
+  
 >[!info]- Location: P05.32.01  
 >**Area:** P05 - 30-39 Case Media  
 >**Category:** 32 - 32 People  

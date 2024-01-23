@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/20-to-29-Case-Files/21-File-Notes"  
-jid: "P03.21.05"  
-pro: "P03"  
+category: P03/20-to-29-Case-Files/21-File-Notes  
+jid: P03.21.05  
+pro: P03  
 ac: "21"  
 id: "05"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "Press Release"  
-title: "05-Press-Release"  
-aliases:   
-- "P03.21.05"  
-- "Press Release"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: Press Release  
+title: 05-Press-Release  
+aliases:  
+  - P03.21.05  
+  - Press Release  
 ---  
+  
 >[!info]- Location: P03.21.05  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -23,7 +24,7 @@ aliases:
   
 # Press Release  
   
-![05-press-release-magen-fieramusca](../../../assets/attachments/05-press-release-magen-fieramusca.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![05-press-release-magen-fieramusca](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/05-press-release-magen-fieramusca.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## For Immediate Release/January 28th 2020  
   

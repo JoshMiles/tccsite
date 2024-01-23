@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/80-to-89-Trial/83-Judgement"  
-jid: "P03.83.01"  
-pro: "P03"  
+category: P03/80-to-89-Trial/83-Judgement  
+jid: P03.83.01  
+pro: P03  
 ac: "83"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "83 Judgement"  
-desc: "Details regarding the judgement outcome from trial."  
-friendlyname: "Judgement Index"  
-title: "index"  
-alias: "P03-83-01, Judgement Index"  
+jarea: 80-89 Trial  
+jcat: 83 Judgement  
+desc: Details regarding the judgement outcome from trial.  
+friendlyname: Judgement Index  
+title: index  
+alias: P03-83-01, Judgement Index  
 ---  
+  
 >[!info]- Location: P03.83.01  
 >**Area:** P03 - 80-89 Trial  
 >**Category:** 83 - 83 Judgement  

@@ -29,11 +29,11 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                                  | Friendly Name                                                                                                             | Description                                                |  
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P07.21.01](./01-officer-misconduct.md)        | [officer misconduct](./01-officer-misconduct.md)               | File Note                                                  |  
-| [P07.21.01](index.md)                        | [File Notes Index](index.md)                                 | The notes extracted from the PDFs of relevant information. |  
-| [P07.21.02](./02-harer-v-casey.md)             | [harer-v-casey](./02-harer-v-casey.md)                         | File Note                                                  |  
-| [P07.21.03](./03-harer-v-flores-07-18-2019.md) | [harer-v-flores-07-18-2019](./03-harer-v-flores-07-18-2019.md) | File Note                                                  |  
-| [P07.21.04](./04-harer-v-flores-11-14-2019.md) | [harer-v-flores-11-14-2019](./04-harer-v-flores-11-14-2019.md) | File Note                                                  |  
+| [[./01-officer-misconduct\|P07.21.01]]        | [[./01-officer-misconduct\|officer misconduct]]               | File Note                                                  |  
+| [[index\|P07.21.01]]                        | [[index\|File Notes Index]]                                 | The notes extracted from the PDFs of relevant information. |  
+| [[./02-harer-v-casey\|P07.21.02]]             | [[./02-harer-v-casey\|harer-v-casey]]                         | File Note                                                  |  
+| [[./03-harer-v-flores-07-18-2019\|P07.21.03]] | [[./03-harer-v-flores-07-18-2019\|harer-v-flores-07-18-2019]] | File Note                                                  |  
+| [[./04-harer-v-flores-11-14-2019\|P07.21.04]] | [[./04-harer-v-flores-11-14-2019\|harer-v-flores-11-14-2019]] | File Note                                                  |  
   
   
 ---  

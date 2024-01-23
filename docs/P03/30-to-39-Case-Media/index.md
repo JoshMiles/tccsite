@@ -1,18 +1,19 @@
 ---  
 share: true  
 shared: true  
-category: "P03/30-to-39-Case-Media"  
-jid: "P03.30.01"  
-pro: "P03"  
+category: P03/30-to-39-Case-Media  
+jid: P03.30.01  
+pro: P03  
 ac: "30"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "30 Index"  
-desc: "All images and videos pertaining to the case."  
-friendlyname: "Case Media Index"  
-title: "index"  
-alias: "P03-30-01, Case Media Index"  
+jarea: 30-39 Case Media  
+jcat: 30 Index  
+desc: All images and videos pertaining to the case.  
+friendlyname: Case Media Index  
+title: index  
+alias: P03-30-01, Case Media Index  
 ---  
+  
 >[!info]- Location: P03.30.01  
 >**Area:** P03 - 30-39 Case Media  
 >**Category:** 30 - 30 Index  

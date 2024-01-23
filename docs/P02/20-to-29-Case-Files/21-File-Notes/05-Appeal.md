@@ -15,6 +15,7 @@ aliases:
   - P02.21.05  
   - Appeal File Note  
 ---  
+  
 >[!info]- Location: P02.21.05  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Appeal File Note  
   
-[26_State_v_AJ_Smith_Appeal.pdf](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
+[26_State_v_AJ_Smith_Appeal.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/26_State_v_AJ_Smith_Appeal.pdf)  
   
-![](../../../assets/attachments/26_State_v_AJ_Smith_Appeal.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/26_State_v_AJ_Smith_Appeal.pdf)  
   
 # Facts  
   

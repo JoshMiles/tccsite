@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/70-to-79-People/72-Suspects-and-People-of-Interest"  
-jid: "P07.72.01"  
-pro: "P07"  
+share: true  
+category: P07/70-to-79-People/72-Suspects-and-People-of-Interest  
+jid: P07.72.01  
+pro: P07  
 ac: "72"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "72 Suspects and People of Interest"  
-desc: "Profiles about any suspects and/or people of interest."  
-friendlyname: "Suspects and People of Interest Index"  
-title: "index"  
-alias: "P07-72-01, Suspects and People of Interest Index"  
+jarea: 70-79 People  
+jcat: 72 Suspects and People of Interest  
+desc: Profiles about any suspects and/or people of interest.  
+friendlyname: Suspects and People of Interest Index  
+title: index  
+alias: P07-72-01, Suspects and People of Interest Index  
 ---  
+  
 >[!info]- Location: P07.72.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  

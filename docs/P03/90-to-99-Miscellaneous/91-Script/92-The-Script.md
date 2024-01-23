@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/90-to-99-Miscellaneous/91-Script"  
-jid: "P03.91.02"  
-pro: "P03"  
+category: P03/90-to-99-Miscellaneous/91-Script  
+jid: P03.91.02  
+pro: P03  
 ac: "91"  
 id: "02"  
-jarea: "90-99 Miscellaneous"  
-jcat: "91 Script Folder"  
-desc: "This is the script for this case."  
-friendlyname: "The Script"  
-title: "92-The-Script"  
-alias: "P03-91-02, The Script"  
+jarea: 90-99 Miscellaneous  
+jcat: 91 Script Folder  
+desc: This is the script for this case.  
+friendlyname: The Script  
+title: 92-The-Script  
+alias: P03-91-02, The Script  
 ---  
+  
 >[!info]- Location: P03.91.02  
 >**Area:** P03 - 90-99 Miscellaneous  
 >**Category:** 91 - 91 Script Folder  

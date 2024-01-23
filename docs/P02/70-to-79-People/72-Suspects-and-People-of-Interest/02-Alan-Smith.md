@@ -16,6 +16,7 @@ aliases:
   - Alan Smith  
   - Alan  
 ---  
+  
 >[!info]- Location: P02.72.02  
 >**Area:** P02 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  
@@ -24,7 +25,7 @@ aliases:
 # Alan Smith  
   
   
-![](../../../assets/attachments/01-Alan-Smith.jpg)  
+![](../../../Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/32-People/01-Alan-Smith.jpg)  
   
 <https://www.facebook.com/alan.ucsu>  
   

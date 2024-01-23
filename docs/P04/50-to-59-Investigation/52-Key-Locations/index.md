@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/50-to-59-Investigation/52-Key-Locations"  
-jid: "P04.52.01"  
-pro: "P04"  
+category: P04/50-to-59-Investigation/52-Key-Locations  
+jid: P04.52.01  
+pro: P04  
 ac: "52"  
 id: "01"  
-jarea: "50-59 Investigation"  
-jcat: "52 Key Locations"  
-desc: "Information and notes about key locations pertaining to the case."  
-friendlyname: "Key Locations Index"  
-title: "index"  
-alias: "P04-52-01, Key Locations Index"  
+jarea: 50-59 Investigation  
+jcat: 52 Key Locations  
+desc: Information and notes about key locations pertaining to the case.  
+friendlyname: Key Locations Index  
+title: index  
+alias: P04-52-01, Key Locations Index  
 ---  
+  
 >[!info]- Location: P04.52.01  
 >**Area:** P04 - 50-59 Investigation  
 >**Category:** 52 - 52 Key Locations  

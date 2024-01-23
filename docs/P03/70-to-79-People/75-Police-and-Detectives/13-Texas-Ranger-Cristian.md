@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/75-Police-and-Detectives"  
-jid: "P03.75.13"  
-pro: "P03"  
+category: P03/70-to-79-People/75-Police-and-Detectives  
+jid: P03.75.13  
+pro: P03  
 ac: "75"  
 id: "13"  
-jarea: "70-79 People"  
-jcat: "75 Police and Detectives"  
-desc: "Texas Ranger"  
-friendlyname: "Texas Ranger Cristian"  
-title: "13-Texas-Ranger-Cristian"  
-aliases:   
-- "P03.75.13"  
-- "Texas Ranger Cristian"  
+jarea: 70-79 People  
+jcat: 75 Police and Detectives  
+desc: Texas Ranger  
+friendlyname: Texas Ranger Cristian  
+title: 13-Texas-Ranger-Cristian  
+aliases:  
+  - P03.75.13  
+  - Texas Ranger Cristian  
 ---  
+  
 >[!info]- Location: P03.75.13  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

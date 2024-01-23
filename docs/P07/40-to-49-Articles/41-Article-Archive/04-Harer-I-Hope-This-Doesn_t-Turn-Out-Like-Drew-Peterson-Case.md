@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.04"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.04  
+pro: P07  
 ac: "41"  
 id: "04"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "Harer I Hope This Doesn't Turn Out Like Drew Peterson Case"  
-title: "04-Harer-I-Hope-This-Doesn_t-Turn-Out-Like-Drew-Peterson-Case"  
-aliases:   
-- "P07.41.04"  
-- "Harer I Hope This Doesn't Turn Out Like Drew Peterson Case"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: Harer I Hope This Doesn't Turn Out Like Drew Peterson Case  
+title: 04-Harer-I-Hope-This-Doesn_t-Turn-Out-Like-Drew-Peterson-Case  
+aliases:  
+  - P07.41.04  
+  - Harer I Hope This Doesn't Turn Out Like Drew Peterson Case  
 ---  
+  
 >[!info]- Location: P07.41.04  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

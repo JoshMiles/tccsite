@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/60-to-69-Evidence/62-Forensic"  
-jid: "P02.62.02"  
-pro: "P02"  
+category: P02/60-to-69-Evidence/62-Forensic  
+jid: P02.62.02  
+pro: P02  
 ac: "62"  
 id: "02"  
-jarea: "60-69 Evidence"  
-jcat: "62 Forensic"  
-desc: "Forensic Evidence"  
-friendlyname: "Autopsy"  
-title: "02-Autopsy"  
-aliases:   
-- "P02.62.02"  
-- "Autopsy"  
+jarea: 60-69 Evidence  
+jcat: 62 Forensic  
+desc: Forensic Evidence  
+friendlyname: Autopsy  
+title: 02-Autopsy  
+aliases:  
+  - P02.62.02  
+  - Autopsy  
 ---  
+  
 >[!info]- Location: P02.62.02  
 >**Area:** P02 - 60-69 Evidence  
 >**Category:** 62 - 62 Forensic  

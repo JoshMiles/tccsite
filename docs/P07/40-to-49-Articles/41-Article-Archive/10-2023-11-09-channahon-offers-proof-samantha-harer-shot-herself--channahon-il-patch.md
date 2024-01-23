@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.10"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.10  
+pro: P07  
 ac: "41"  
 id: "10"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch"  
-title: "10-2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch"  
-aliases:   
-- "P07.41.10"  
-- "2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch  
+title: 10-2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch  
+aliases:  
+  - P07.41.10  
+  - 2023-11-09-channahon-offers-proof-samantha-harer-shot-herself--channahon-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.10  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

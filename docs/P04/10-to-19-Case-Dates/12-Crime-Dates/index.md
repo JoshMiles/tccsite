@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/10-to-19-Case-Dates/12-Crime-Dates"  
-jid: "P04.12.01"  
-pro: "P04"  
+category: P04/10-to-19-Case-Dates/12-Crime-Dates  
+jid: P04.12.01  
+pro: P04  
 ac: "12"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "12 Crime Dates"  
-desc: "This includes dates from the actual crime itself. Usually just the date of the murder."  
-friendlyname: "Crime Dates Index"  
-title: "index"  
-alias: "P04-12-01, Crime Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 12 Crime Dates  
+desc: This includes dates from the actual crime itself. Usually just the date of the murder.  
+friendlyname: Crime Dates Index  
+title: index  
+alias: P04-12-01, Crime Dates Index  
 ---  
+  
 >[!info]- Location: P04.12.01  
 >**Area:** P04 - 10-19 Case Dates  
 >**Category:** 12 - 12 Crime Dates  

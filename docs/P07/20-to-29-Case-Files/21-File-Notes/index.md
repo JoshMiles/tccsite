@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/20-to-29-Case-Files/21-File-Notes"  
-jid: "P07.21.01"  
-pro: "P07"  
+share: true  
+category: P07/20-to-29-Case-Files/21-File-Notes  
+jid: P07.21.01  
+pro: P07  
 ac: "21"  
 id: "01"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "The notes extracted from the PDFs of relevant information."  
-friendlyname: "File Notes Index"  
-title: "index"  
-alias: "P07-21-01, File Notes Index"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: The notes extracted from the PDFs of relevant information.  
+friendlyname: File Notes Index  
+title: index  
+alias: P07-21-01, File Notes Index  
 ---  
+  
 >[!info]- Location: P07.21.01  
 >**Area:** P07 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  

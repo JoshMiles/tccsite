@@ -1,5 +1,5 @@
 ---  
-share: True  
+share: true  
 category: P07/70-to-79-People/73-Family-and-Friends  
 jid: P07.73.01  
 pro: P07  
@@ -16,6 +16,7 @@ aliases:
   - Heather  
   - Samantha's Mother  
 ---  
+  
 >[!info]- Location: P07.73.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

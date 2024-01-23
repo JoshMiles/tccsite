@@ -21,6 +21,7 @@ aliases:
   - Maygen  
   - Fieramusca  
 ---  
+  
 >[!info]- Location: P03.72.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  
@@ -31,7 +32,7 @@ aliases:
   
 | Name                               |  Magen Rose Fieramusca          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../assets/attachments/15-magen-mugshot.jpg) |  
+| Photo?                             | ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/15-magen-mugshot.jpg) |  
 | Date of Birth?                     |  1986/01/13          |  
 | Age?                               |            |  
 | Lives In?                          | Houston, Texas, USA           |  

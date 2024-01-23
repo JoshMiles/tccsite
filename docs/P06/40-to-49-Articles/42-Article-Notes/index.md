@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/40-to-49-Articles/42-Article-Notes"  
-jid: "P06.42.01"  
-pro: "P06"  
+category: P06/40-to-49-Articles/42-Article-Notes  
+jid: P06.42.01  
+pro: P06  
 ac: "42"  
 id: "01"  
-jarea: "40-49 Articles"  
-jcat: "42 Article Notes"  
-desc: "Notes for the articles."  
-friendlyname: "Article Notes Index"  
-title: "index"  
-alias: "P06-42-01, Article Notes Index"  
+jarea: 40-49 Articles  
+jcat: 42 Article Notes  
+desc: Notes for the articles.  
+friendlyname: Article Notes Index  
+title: index  
+alias: P06-42-01, Article Notes Index  
 ---  
+  
 >[!info]- Location: P06.42.01  
 >**Area:** P06 - 40-49 Articles  
 >**Category:** 42 - 42 Article Notes  

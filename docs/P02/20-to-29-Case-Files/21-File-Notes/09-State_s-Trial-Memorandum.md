@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.09"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.09  
+pro: P02  
 ac: "21"  
 id: "09"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "State's Trial Memorandum File Notes"  
-title: "09-State_s-Trial-Memorandum"  
-aliases:   
-- "P02.21.09"  
-- "State's Trial Memorandum File Notes"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: State's Trial Memorandum File Notes  
+title: 09-State_s-Trial-Memorandum  
+aliases:  
+  - P02.21.09  
+  - State's Trial Memorandum File Notes  
 ---  
+  
 >[!info]- Location: P02.21.09  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # State's Trial Memorandum File Notes  
   
-[13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
+[13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
   
-![](../../../assets/attachments/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/16_13-1-01546-8_105_STATE_S_TRIAL_MEMORANDUM.pdf)  
   
 ## Homicide Scene and Autopsy Photos  
   

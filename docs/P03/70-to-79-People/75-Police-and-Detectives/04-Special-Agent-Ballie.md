@@ -17,6 +17,7 @@ aliases:
   - Special Agent J. Ballie  
   - Special Agent Ballie  
 ---  
+  
 >[!info]- Location: P03.75.04  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/10-to-19-Case-Dates/13-Investigation-Dates"  
-jid: "P07.13.01"  
-pro: "P07"  
+share: true  
+category: P07/10-to-19-Case-Dates/13-Investigation-Dates  
+jid: P07.13.01  
+pro: P07  
 ac: "13"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "13 Investigation Dates"  
-desc: "This includes dates referenced from the investigation process."  
-friendlyname: "Investigation Dates Index"  
-title: "index"  
-alias: "P07-13-01, Investigation Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 13 Investigation Dates  
+desc: This includes dates referenced from the investigation process.  
+friendlyname: Investigation Dates Index  
+title: index  
+alias: P07-13-01, Investigation Dates Index  
 ---  
+  
 >[!info]- Location: P07.13.01  
 >**Area:** P07 - 10-19 Case Dates  
 >**Category:** 13 - 13 Investigation Dates  

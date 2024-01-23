@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/60-to-69-Evidence/61-Digital"  
-jid: "P04.61.01"  
-pro: "P04"  
+category: P04/60-to-69-Evidence/61-Digital  
+jid: P04.61.01  
+pro: P04  
 ac: "61"  
 id: "01"  
-jarea: "60-69 Evidence"  
-jcat: "61 Digital"  
-desc: "Information about the digital evidence."  
-friendlyname: "Digital Evidence Index"  
-title: "index"  
-alias: "P04-61-01, Digital Evidence Index"  
+jarea: 60-69 Evidence  
+jcat: 61 Digital  
+desc: Information about the digital evidence.  
+friendlyname: Digital Evidence Index  
+title: index  
+alias: P04-61-01, Digital Evidence Index  
 ---  
+  
 >[!info]- Location: P04.61.01  
 >**Area:** P04 - 60-69 Evidence  
 >**Category:** 61 - 61 Digital  

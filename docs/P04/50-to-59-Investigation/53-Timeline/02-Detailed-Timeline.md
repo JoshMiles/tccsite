@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/50-to-59-Investigation/53-Timeline"  
-jid: "P04.53.02"  
-pro: "P04"  
+category: P04/50-to-59-Investigation/53-Timeline  
+jid: P04.53.02  
+pro: P04  
 ac: "53"  
 id: "02"  
-jarea: "50-59 Investigation"  
-jcat: "53 Timeline"  
-desc: "Detailed timeline of events."  
-friendlyname: "Detailed Timeline"  
-title: "02-Detailed-Timeline"  
-alias: "P04-53-02, Detailed Timeline"  
+jarea: 50-59 Investigation  
+jcat: 53 Timeline  
+desc: Detailed timeline of events.  
+friendlyname: Detailed Timeline  
+title: 02-Detailed-Timeline  
+alias: P04-53-02, Detailed Timeline  
 ---  
+  
 >[!info]- Location: P04.53.02  
 >**Area:** P04 - 50-59 Investigation  
 >**Category:** 53 - 53 Timeline  
@@ -37,4 +38,4 @@ alias: "P04-53-02, Detailed Timeline"
   
 ---  
 # Backlinks  
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">10</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">15</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>

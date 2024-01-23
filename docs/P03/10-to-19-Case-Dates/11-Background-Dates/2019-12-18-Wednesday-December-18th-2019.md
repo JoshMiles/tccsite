@@ -21,6 +21,7 @@ aliases:
   - 18th of December (2019)  
   - 18th of December, 2019,  
 ---  
+  
 >[!info]- Location: P03.11.04  
 >**Area:** P03 - 10-19 Case Dates  
 >**Category:** 11 - 11 Background Dates  

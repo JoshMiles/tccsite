@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/70-to-79-People/77-Legal-Teams"  
-jid: "P04.77.01"  
-pro: "P04"  
+category: P04/70-to-79-People/77-Legal-Teams  
+jid: P04.77.01  
+pro: P04  
 ac: "77"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "77 Legal Teams"  
-desc: "Profiles of individuals on legal teams."  
-friendlyname: "Legal Teams Index"  
-title: "index"  
-alias: "P04-77-01, Legal Teams Index"  
+jarea: 70-79 People  
+jcat: 77 Legal Teams  
+desc: Profiles of individuals on legal teams.  
+friendlyname: Legal Teams Index  
+title: index  
+alias: P04-77-01, Legal Teams Index  
 ---  
+  
 >[!info]- Location: P04.77.01  
 >**Area:** P04 - 70-79 People  
 >**Category:** 77 - 77 Legal Teams  

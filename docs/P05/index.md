@@ -1,5 +1,5 @@
 ---  
-share: True  
+share: true  
 staged: true  
 category: P05  
 jid: P05.01.01  
@@ -15,6 +15,7 @@ aliases:
   - P05-01-01-Gold-Sock-Killer  
   - P05 Index  
 ---  
+  
 >[!info]- Location: P05.01.01  
 >**Area:** P05 - 00-09 Case Home  
 >**Category:** 01 - 01 Index  

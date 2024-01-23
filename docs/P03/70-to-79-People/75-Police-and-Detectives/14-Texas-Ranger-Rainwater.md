@@ -17,6 +17,7 @@ aliases:
   - Texas Ranger Rainwater  
   - Ranger Rainwater  
 ---  
+  
 >[!info]- Location: P03.75.14  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

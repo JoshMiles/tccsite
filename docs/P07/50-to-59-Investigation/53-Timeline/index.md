@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/50-to-59-Investigation/53-Timeline"  
-jid: "P07.53.01"  
-pro: "P07"  
+share: true  
+category: P07/50-to-59-Investigation/53-Timeline  
+jid: P07.53.01  
+pro: P07  
 ac: "53"  
 id: "01"  
-jarea: "50-59 Investigation"  
-jcat: "53 Timeline"  
-desc: "Contains the timeline of events."  
-friendlyname: "Timeline Index"  
-title: "index"  
-alias: "P07-53-01, Timeline Index"  
+jarea: 50-59 Investigation  
+jcat: 53 Timeline  
+desc: Contains the timeline of events.  
+friendlyname: Timeline Index  
+title: index  
+alias: P07-53-01, Timeline Index  
 ---  
+  
 >[!info]- Location: P07.53.01  
 >**Area:** P07 - 50-59 Investigation  
 >**Category:** 53 - 53 Timeline  

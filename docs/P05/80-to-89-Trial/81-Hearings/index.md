@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/80-to-89-Trial/81-Hearings"  
-jid: "P05.81.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/80-to-89-Trial/81-Hearings  
+jid: P05.81.01  
+pro: P05  
 ac: "81"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "81 Hearings"  
-desc: "Any details of pre-trial hearings, prelim hearings or hearings."  
-friendlyname: "Hearings Index"  
-title: "index"  
-alias: "P05-81-01, Hearings Index"  
+jarea: 80-89 Trial  
+jcat: 81 Hearings  
+desc: Any details of pre-trial hearings, prelim hearings or hearings.  
+friendlyname: Hearings Index  
+title: index  
+alias: P05-81-01, Hearings Index  
 ---  
+  
 >[!info]- Location: P05.81.01  
 >**Area:** P05 - 80-89 Trial  
 >**Category:** 81 - 81 Hearings  

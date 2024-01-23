@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/50-to-59-Investigation/53-Timeline"  
-jid: "P04.53.01"  
-pro: "P04"  
+category: P04/50-to-59-Investigation/53-Timeline  
+jid: P04.53.01  
+pro: P04  
 ac: "53"  
 id: "01"  
-jarea: "50-59 Investigation"  
-jcat: "53 Timeline"  
-desc: "Contains the timeline of events."  
-friendlyname: "Timeline Index"  
-title: "index"  
-alias: "P04-53-01, Timeline Index"  
+jarea: 50-59 Investigation  
+jcat: 53 Timeline  
+desc: Contains the timeline of events.  
+friendlyname: Timeline Index  
+title: index  
+alias: P04-53-01, Timeline Index  
 ---  
+  
 >[!info]- Location: P04.53.01  
 >**Area:** P04 - 50-59 Investigation  
 >**Category:** 53 - 53 Timeline  

@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People"  
-jid: "P03.70.01"  
-pro: "P03"  
+category: P03/70-to-79-People  
+jid: P03.70.01  
+pro: P03  
 ac: "70"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "70 Index"  
-desc: "The people connected to the case."  
-friendlyname: "People Index"  
-title: "index"  
-alias: "P03-70-01, People Index"  
+jarea: 70-79 People  
+jcat: 70 Index  
+desc: The people connected to the case.  
+friendlyname: People Index  
+title: index  
+alias: P03-70-01, People Index  
 ---  
+  
 >[!info]- Location: P03.70.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 70 - 70 Index  
@@ -33,8 +34,8 @@ The people connected to the case
 | [P03.70.01](index.md)                                                        | [People Index](index.md)                                                                            | The people connected to the case.                                                                              |  
 | [P03.71.01](./71-Victims/01-Heidi-Broussard.md)                                | [Heidi Broussard](./71-Victims/01-Heidi-Broussard.md)                                                 | Victim                                                                                                         |  
 | [P03.71.01](./71-Victims/index.md)                                             | [Victims Index](./71-Victims/index.md)                                                                | Profiles about the victim or victims                                                                           |  
-| [P03.72.01](./72-Suspects-and-People-of-Interest/index.md)                     | [Suspects and People of Interest Index](./72-Suspects-and-People-of-Interest/index.md)                | Profiles about any suspects and/or people of interest.                                                         |  
 | [P03.72.01](./72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md)  | [Magan Rose Fieramusca](./72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md)             | Suspect                                                                                                        |  
+| [P03.72.01](./72-Suspects-and-People-of-Interest/index.md)                     | [Suspects and People of Interest Index](./72-Suspects-and-People-of-Interest/index.md)                | Profiles about any suspects and/or people of interest.                                                         |  
 | [P03.73.01](./73-Family-and-Friends/01-Shane-Carey.md)                         | [Shane Carey](./73-Family-and-Friends/01-Shane-Carey.md)                                              | Boyfriend                                                                                                      |  
 | [P03.73.01](./73-Family-and-Friends/index.md)                                  | [Family and Friends Index](./73-Family-and-Friends/index.md)                                          | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
 | [P03.73.02](./73-Family-and-Friends/02-Newborn-Child.md)                       | [Newborn Child](./73-Family-and-Friends/02-Newborn-Child.md)                                          | Heidi's Newborn                                                                                                |  

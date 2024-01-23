@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/70-to-79-People/73-Family-and-Friends"  
-jid: "P07.73.01"  
-pro: "P07"  
+share: true  
+category: P07/70-to-79-People/73-Family-and-Friends  
+jid: P07.73.01  
+pro: P07  
 ac: "73"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "73 Family and Friends"  
-desc: "Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest."  
-friendlyname: "Family and Friends Index"  
-title: "index"  
-alias: "P07-73-01, Family and Friends Index"  
+jarea: 70-79 People  
+jcat: 73 Family and Friends  
+desc: Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest.  
+friendlyname: Family and Friends Index  
+title: index  
+alias: P07-73-01, Family and Friends Index  
 ---  
+  
 >[!info]- Location: P07.73.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  
@@ -28,8 +29,8 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                         | Description                                                                                                    |  
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [P07.73.01](./01-Heather-Harer.md) | [Heather Harer](./01-Heather-Harer.md) | Mother of Victim                                                                                               |  
 | [P07.73.01](index.md)            | [Family and Friends Index](index.md) | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [P07.73.01](./01-Heather-Harer.md) | [Heather Harer](./01-Heather-Harer.md) | Mother of Victim                                                                                               |  
 | [P07.73.02](./02-Kevin-Harer.md)   | [Kevin Harer](./02-Kevin-Harer.md)     | Father of Victim                                                                                               |  
   
   

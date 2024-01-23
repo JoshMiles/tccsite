@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/20-to-29-Case-Files/21-File-Notes"  
-jid: "P07.21.01"  
-pro: "P07"  
+share: true  
+category: P07/20-to-29-Case-Files/21-File-Notes  
+jid: P07.21.01  
+pro: P07  
 ac: "21"  
 id: "01"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "officer misconduct"  
-title: "01-officer-misconduct"  
-aliases:   
-- "P07.21.01"  
-- "officer misconduct"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: officer misconduct  
+title: 01-officer-misconduct  
+aliases:  
+  - P07.21.01  
+  - officer misconduct  
 ---  
+  
 >[!info]- Location: P07.21.01  
 >**Area:** P07 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -21,7 +22,7 @@ aliases:
   
 # Officer Misconduct  
   
-![01-officer-misconduct](../../../assets/attachments/01-officer-misconduct.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![01-officer-misconduct](../../../Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/01-officer-misconduct.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
   
 ## MEMORANDUM OPINION AND ORDER  

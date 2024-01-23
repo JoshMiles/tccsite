@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/10-to-19-Case-Dates"  
-jid: "P06.10.01"  
-pro: "P06"  
+category: P06/10-to-19-Case-Dates  
+jid: P06.10.01  
+pro: P06  
 ac: "10"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "10 Index"  
-desc: "Important dates pertaining to the case."  
-friendlyname: "Case Dates Index"  
-title: "index"  
-alias: "P06-10-01, Case Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 10 Index  
+desc: Important dates pertaining to the case.  
+friendlyname: Case Dates Index  
+title: index  
+alias: P06-10-01, Case Dates Index  
 ---  
+  
 >[!info]- Location: P06.10.01  
 >**Area:** P06 - 10-19 Case Dates  
 >**Category:** 10 - 10 Index  

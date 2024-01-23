@@ -15,6 +15,7 @@ aliases:
   - P02-75-01  
   - Police and Detectives Index  
 ---  
+  
 >[!info]- Location: P02.75.01  
 >**Area:** P02 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

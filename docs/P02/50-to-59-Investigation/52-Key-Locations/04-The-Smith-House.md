@@ -15,6 +15,7 @@ aliases:
   - P02.52.04  
   - The Smith House  
 ---  
+  
 >[!info]- Location: P02.52.04  
 >**Area:** P02 - 50-59 Investigation  
 >**Category:** 52 - 52 Key Locations  

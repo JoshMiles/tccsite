@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/74-Witnesses"  
-jid: "P03.74.01"  
-pro: "P03"  
+category: P03/70-to-79-People/74-Witnesses  
+jid: P03.74.01  
+pro: P03  
 ac: "74"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "74 Witnesses"  
-desc: "Profiles about witnesses."  
-friendlyname: "Witnesses Index"  
-title: "index"  
-alias: "P03-74-01, Witnesses Index"  
+jarea: 70-79 People  
+jcat: 74 Witnesses  
+desc: Profiles about witnesses.  
+friendlyname: Witnesses Index  
+title: index  
+alias: P03-74-01, Witnesses Index  
 ---  
+  
 >[!info]- Location: P03.74.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 74 - 74 Witnesses  

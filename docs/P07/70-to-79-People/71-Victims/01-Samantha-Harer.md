@@ -1,5 +1,5 @@
 ---  
-share: True  
+share: true  
 category: P07/70-to-79-People/71-Victims  
 jid: P07.71.01  
 pro: P07  
@@ -17,6 +17,7 @@ aliases:
   - Sam Harer  
   - Sam  
 ---  
+  
 >[!info]- Location: P07.71.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 71 - 71 Victims  
@@ -27,7 +28,7 @@ aliases:
   
 | Name                               | Samantha Harer           |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![01-samantha-harer\|200](../../../assets/attachments/01-samantha-harer.jpg) |  
+| Photo?                             | ![01-samantha-harer\|200](../../../Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/01-samantha-harer.jpg) |  
 | Date of Birth?                     |  25/07/1994          |  
 | Age?                               |            |  
 | Lives In?                          |            |  

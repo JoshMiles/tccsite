@@ -17,6 +17,7 @@ aliases:
   - Judge Kocurek  
   - Judge J. Kocurek  
 ---  
+  
 >[!info]- Location: P03.77.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 77 - 77 Legal Teams  

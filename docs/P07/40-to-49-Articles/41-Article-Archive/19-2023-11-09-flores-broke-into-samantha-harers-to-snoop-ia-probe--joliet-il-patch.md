@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.19"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.19  
+pro: P07  
 ac: "41"  
 id: "19"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch"  
-title: "19-2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch"  
-aliases:   
-- "P07.41.19"  
-- "2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch  
+title: 19-2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch  
+aliases:  
+  - P07.41.19  
+  - 2023-11-09-flores-broke-into-samantha-harers-to-snoop-ia-probe--joliet-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.19  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

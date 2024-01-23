@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/75-Police-and-Detectives"  
-jid: "P03.75.10"  
-pro: "P03"  
+category: P03/70-to-79-People/75-Police-and-Detectives  
+jid: P03.75.10  
+pro: P03  
 ac: "75"  
 id: "10"  
-jarea: "70-79 People"  
-jcat: "75 Police and Detectives"  
-desc: "Detective"  
-friendlyname: "Detective Mitchell"  
-title: "10-Detective-Mitchell"  
-aliases:   
-- "P03.75.10"  
-- "Detective Mitchell"  
+jarea: 70-79 People  
+jcat: 75 Police and Detectives  
+desc: Detective  
+friendlyname: Detective Mitchell  
+title: 10-Detective-Mitchell  
+aliases:  
+  - P03.75.10  
+  - Detective Mitchell  
 ---  
+  
 >[!info]- Location: P03.75.10  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

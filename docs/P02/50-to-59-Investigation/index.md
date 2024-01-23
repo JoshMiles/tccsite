@@ -15,6 +15,7 @@ aliases:
   - P02-50-01  
   - Investigation Index  
 ---  
+  
 >[!info]- Location: P02.50.01  
 >**Area:** P02 - 50-59 Investigation  
 >**Category:** 50 - 50 Index  

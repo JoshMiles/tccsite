@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/60-to-69-Evidence/62-Forensic"  
-jid: "P02.62.04"  
-pro: "P02"  
+category: P02/60-to-69-Evidence/62-Forensic  
+jid: P02.62.04  
+pro: P02  
 ac: "62"  
 id: "04"  
-jarea: "60-69 Evidence"  
-jcat: "62 Forensic"  
-desc: "Forensic Evidence"  
-friendlyname: "Forensic Evidence"  
-title: "04-Forensic-Evidence"  
-aliases:   
-- "P02.62.04"  
-- "Forensic Evidence"  
+jarea: 60-69 Evidence  
+jcat: 62 Forensic  
+desc: Forensic Evidence  
+friendlyname: Forensic Evidence  
+title: 04-Forensic-Evidence  
+aliases:  
+  - P02.62.04  
+  - Forensic Evidence  
 ---  
+  
 >[!info]- Location: P02.62.04  
 >**Area:** P02 - 60-69 Evidence  
 >**Category:** 62 - 62 Forensic  

@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.05"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.05  
+pro: P07  
 ac: "41"  
 id: "05"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "Samantha Harer Police Misconduct Trial May Go 6-8 Weeks"  
-title: "05-Samantha-Harer-Police-Misconduct-Trial-May-Go-6-8-Weeks"  
-aliases:   
-- "P07.41.05"  
-- "Samantha Harer Police Misconduct Trial May Go 6-8 Weeks"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: Samantha Harer Police Misconduct Trial May Go 6-8 Weeks  
+title: 05-Samantha-Harer-Police-Misconduct-Trial-May-Go-6-8-Weeks  
+aliases:  
+  - P07.41.05  
+  - Samantha Harer Police Misconduct Trial May Go 6-8 Weeks  
 ---  
+  
 >[!info]- Location: P07.41.05  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

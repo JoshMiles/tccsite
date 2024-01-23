@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/70-to-79-People/73-Family-and-Friends"  
-jid: "P04.73.01"  
-pro: "P04"  
+category: P04/70-to-79-People/73-Family-and-Friends  
+jid: P04.73.01  
+pro: P04  
 ac: "73"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "73 Family and Friends"  
-desc: "Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest."  
-friendlyname: "Family and Friends Index"  
-title: "index"  
-alias: "P04-73-01, Family and Friends Index"  
+jarea: 70-79 People  
+jcat: 73 Family and Friends  
+desc: Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest.  
+friendlyname: Family and Friends Index  
+title: index  
+alias: P04-73-01, Family and Friends Index  
 ---  
+  
 >[!info]- Location: P04.73.01  
 >**Area:** P04 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

@@ -15,6 +15,7 @@ aliases:
   - P02-83-01  
   - Judgement Index  
 ---  
+  
 >[!info]- Location: P02.83.01  
 >**Area:** P02 - 80-89 Trial  
 >**Category:** 83 - 83 Judgement  

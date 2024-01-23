@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.08"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.08  
+pro: P02  
 ac: "21"  
 id: "08"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Notes"  
-friendlyname: "Prosecutor's Version of Events File Note"  
-title: "08-Prosecutor_s-Version-of-Events"  
-aliases:   
-- "P02.21.08"  
-- "Prosecutor's Version of Events File Note"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Notes  
+friendlyname: Prosecutor's Version of Events File Note  
+title: 08-Prosecutor_s-Version-of-Events  
+aliases:  
+  - P02.21.08  
+  - Prosecutor's Version of Events File Note  
 ---  
+  
 >[!info]- Location: P02.21.08  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Prosecutor's Version of Events File Note  
   
-[13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
+[13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
   
-![](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
   
 On [Tuesday-February-12th-2013](../../10-to-19-Case-Dates/12-Crime-Dates/03-2013-02-12-Tuesday-February-12th-2013.md.md), [Bothell](geo:47.7623204,-122.2054035) Police Officers were dispatched to[216 240th St. SW, Bothell](geo:47.78026465,-122.23629542497216) for a welfare check of [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md.md) who had failed to report to work for the past two days. [^1] ^etnen  
   
@@ -79,5 +80,5 @@ The Detective reported that in all time frames the conversation between [Alan Sm
   
 # Footnotes  
   
-[^1]: [../22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../assets/attachments/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
-[^2]: [../22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../assets/attachments/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  
+[^1]: [../22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf)  
+[^2]: [../22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/04_13-1-01546-8_2_AFFIDAVIT_DECLARATION_PROB_CAUSE.pdf)  

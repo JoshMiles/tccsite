@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.21"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.21  
+pro: P07  
 ac: "41"  
 id: "21"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch"  
-title: "21-2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch"  
-aliases:   
-- "P07.41.21"  
-- "2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch  
+title: 21-2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch  
+aliases:  
+  - P07.41.21  
+  - 2023-11-09-glasgow-wont-charge-ex-cop-flores-with-murder-of-samantha-harer--joliet-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.21  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

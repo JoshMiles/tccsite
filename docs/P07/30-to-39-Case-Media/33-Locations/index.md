@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/30-to-39-Case-Media/33-Locations"  
-jid: "P07.33.01"  
-pro: "P07"  
+share: true  
+category: P07/30-to-39-Case-Media/33-Locations  
+jid: P07.33.01  
+pro: P07  
 ac: "33"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "33 Locations"  
-desc: "Images of the locations involved."  
-friendlyname: "Locations Index"  
-title: "index"  
-alias: "P07-33-01, Locations Index"  
+jarea: 30-39 Case Media  
+jcat: 33 Locations  
+desc: Images of the locations involved.  
+friendlyname: Locations Index  
+title: index  
+alias: P07-33-01, Locations Index  
 ---  
+  
 >[!info]- Location: P07.33.01  
 >**Area:** P07 - 30-39 Case Media  
 >**Category:** 33 - 33 Locations  

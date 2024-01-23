@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.03"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.03  
+pro: P07  
 ac: "41"  
 id: "03"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "Flores Broke Into Samantha Harer's To Snoop"  
-title: "03-Flores-Broke-Into-Samantha-Harer_s-To-Snoop"  
-aliases:   
-- "P07.41.03"  
-- "Flores Broke Into Samantha Harer's To Snoop"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: Flores Broke Into Samantha Harer's To Snoop  
+title: 03-Flores-Broke-Into-Samantha-Harer_s-To-Snoop  
+aliases:  
+  - P07.41.03  
+  - Flores Broke Into Samantha Harer's To Snoop  
 ---  
+  
 >[!info]- Location: P07.41.03  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

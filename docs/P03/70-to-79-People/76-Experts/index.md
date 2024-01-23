@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/76-Experts"  
-jid: "P03.76.01"  
-pro: "P03"  
+category: P03/70-to-79-People/76-Experts  
+jid: P03.76.01  
+pro: P03  
 ac: "76"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "76 Experts"  
-desc: "Profiles regarding experts consulted during investigation, and experts called as witnesses."  
-friendlyname: "Experts Index"  
-title: "index"  
-alias: "P03-76-01, Experts Index"  
+jarea: 70-79 People  
+jcat: 76 Experts  
+desc: Profiles regarding experts consulted during investigation, and experts called as witnesses.  
+friendlyname: Experts Index  
+title: index  
+alias: P03-76-01, Experts Index  
 ---  
+  
 >[!info]- Location: P03.76.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 76 - 76 Experts  

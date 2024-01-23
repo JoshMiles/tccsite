@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/10-to-19-Case-Dates"  
-jid: "P03.10.01"  
-pro: "P03"  
+category: P03/10-to-19-Case-Dates  
+jid: P03.10.01  
+pro: P03  
 ac: "10"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "10 Index"  
-desc: "Important dates pertaining to the case."  
-friendlyname: "Case Dates Index"  
-title: "index"  
-alias: "P03-10-01, Case Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 10 Index  
+desc: Important dates pertaining to the case.  
+friendlyname: Case Dates Index  
+title: index  
+alias: P03-10-01, Case Dates Index  
 ---  
+  
 >[!info]- Location: P03.10.01  
 >**Area:** P03 - 10-19 Case Dates  
 >**Category:** 10 - 10 Index  
@@ -41,8 +42,8 @@ The dates are structured as follows: `YYYY-MM-DD-DAY-MONTH-DATE-YEAR` e.g `2020-
 | [P03.11.05](./11-Background-Dates/2019-12-09-Monday-December-9th-2019.md)        | [Monday December 9th 2019](./11-Background-Dates/2019-12-09-Monday-December-9th-2019.md)            | Date                                                                                      |  
 | [P03.11.06](./11-Background-Dates/2019-12-11-Wednesday-December-11th-2019.md)    | [Wednesday December 11th 2019](./11-Background-Dates/2019-12-11-Wednesday-December-11th-2019.md)    | Date                                                                                      |  
 | [P03.11.07](./11-Background-Dates/2019-11-11-Monday-November-11th-2019.md)       | [Monday November 11th 2019](./11-Background-Dates/2019-11-11-Monday-November-11th-2019.md)          | Date                                                                                      |  
-| [P03.12.01](./12-Crime-Dates/index.md)                                           | [Crime Dates Index](./12-Crime-Dates/index.md)                                                      | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
 | [P03.12.01](./12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md)            | [Thursday December 12th 2019](./12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md)             | Date                                                                                      |  
+| [P03.12.01](./12-Crime-Dates/index.md)                                           | [Crime Dates Index](./12-Crime-Dates/index.md)                                                      | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
 | [P03.13.01](./13-Investigation-Dates/2019-12-13-Friday-December-13-2019.md)      | [Friday December 13th 2019](./13-Investigation-Dates/2019-12-13-Friday-December-13-2019.md)         | Date                                                                                      |  
 | [P03.13.01](./13-Investigation-Dates/index.md)                                   | [Investigation Dates Index](./13-Investigation-Dates/index.md)                                      | This includes dates referenced from the investigation process.                            |  
 | [P03.13.02](./13-Investigation-Dates/2019-12-15-Sunday-December-15-2019.md)      | [Sunday December 15th 2019](./13-Investigation-Dates/2019-12-15-Sunday-December-15-2019.md)         | Date                                                                                      |  

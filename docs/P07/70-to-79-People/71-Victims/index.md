@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/70-to-79-People/71-Victims"  
-jid: "P07.71.01"  
-pro: "P07"  
+share: true  
+category: P07/70-to-79-People/71-Victims  
+jid: P07.71.01  
+pro: P07  
 ac: "71"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "71 Victims"  
-desc: "Profiles about the victim or victims"  
-friendlyname: "Victims Index"  
-title: "index"  
-alias: "P07-71-01, Victims Index"  
+jarea: 70-79 People  
+jcat: 71 Victims  
+desc: Profiles about the victim or victims  
+friendlyname: Victims Index  
+title: index  
+alias: P07-71-01, Victims Index  
 ---  
+  
 >[!info]- Location: P07.71.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 71 - 71 Victims  
@@ -28,8 +29,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                | Friendly Name                                                                                | Description                          |  
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [P07.71.01](./01-Samantha-Harer.md) | [Samantha Harer](./01-Samantha-Harer.md) | Victim                               |  
 | [P07.71.01](index.md)             | [Victims Index](index.md)              | Profiles about the victim or victims |  
+| [P07.71.01](./01-Samantha-Harer.md) | [Samantha Harer](./01-Samantha-Harer.md) | Victim                               |  
   
   
 ---  

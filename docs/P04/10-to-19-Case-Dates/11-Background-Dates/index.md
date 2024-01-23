@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/10-to-19-Case-Dates/11-Background-Dates"  
-jid: "P04.11.01"  
-pro: "P04"  
+category: P04/10-to-19-Case-Dates/11-Background-Dates  
+jid: P04.11.01  
+pro: P04  
 ac: "11"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "11 Background Dates"  
-desc: "This includes dates from before the events of the case took place. E.g date of a divorce."  
-friendlyname: "Background Dates Index"  
-title: "index"  
-alias: "P04-11-01, Background Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 11 Background Dates  
+desc: This includes dates from before the events of the case took place. E.g date of a divorce.  
+friendlyname: Background Dates Index  
+title: index  
+alias: P04-11-01, Background Dates Index  
 ---  
+  
 >[!info]- Location: P04.11.01  
 >**Area:** P04 - 10-19 Case Dates  
 >**Category:** 11 - 11 Background Dates  

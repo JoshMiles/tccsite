@@ -15,6 +15,7 @@ aliases:
   - P02.21.07  
   - State's Motion and Affidavit for Order to Compel File Notes  
 ---  
+  
 >[!info]- Location: P02.21.07  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # State's Motion and Affidavit for Order to Compel File Notes  
   
-[13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf](../../../assets/attachments/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
+[13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
   
-![](../../../assets/attachments/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/15_13-1-01546-8_86_STATE_S_MOTION_RE_PROHIBITION_OF.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md) is currently charged with one count of First Degree Murder. The person murdered was [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md), [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md)'s estranged wife.    
 Trial is scheduled to begin on [Monday-January-12th-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/48-2015-01-12-Monday-January-12th-2015.md). ^x718a  

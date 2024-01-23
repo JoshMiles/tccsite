@@ -1,5 +1,5 @@
 ---  
-share: True  
+share: true  
 category: P07/70-to-79-People/75-Police-and-Detectives  
 jid: P07.75.01  
 pro: P07  
@@ -16,6 +16,7 @@ aliases:
   - Detective McClellan  
   - McClellan  
 ---  
+  
 >[!info]- Location: P07.75.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/20-to-29-Case-Files/21-File-Notes"  
-jid: "P03.21.03"  
-pro: "P03"  
+category: P03/20-to-29-Case-Files/21-File-Notes  
+jid: P03.21.03  
+pro: P03  
 ac: "21"  
 id: "03"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Notes"  
-friendlyname: "Heidi Broussard Missing Persons Poster"  
-title: "03-Heidi-Broussard-Missing-Persons-Poster"  
-aliases:   
-- "P03.21.03"  
-- "Heidi Broussard Missing Persons Poster"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Notes  
+friendlyname: Heidi Broussard Missing Persons Poster  
+title: 03-Heidi-Broussard-Missing-Persons-Poster  
+aliases:  
+  - P03.21.03  
+  - Heidi Broussard Missing Persons Poster  
 ---  
+  
 >[!info]- Location: P03.21.03  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -23,7 +24,7 @@ aliases:
   
 # Heidi Broussard Missing Persons Poster  
   
-![01-Heidi-Broussard-Margot-Carey-Flyer](../../../assets/attachments/01-Heidi-Broussard-Margot-Carey-Flyer.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![01-Heidi-Broussard-Margot-Carey-Flyer](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/01-Heidi-Broussard-Margot-Carey-Flyer.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 # Details from Flyer ^xgjr-  
   

@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/20-to-29-Case-Files/22-PDFs"  
-jid: "P03.22.01"  
-pro: "P03"  
+category: P03/20-to-29-Case-Files/22-PDFs  
+jid: P03.22.01  
+pro: P03  
 ac: "22"  
 id: "01"  
-jarea: "20-29 Case Files"  
-jcat: "22 PDFs"  
-desc: "The folder containing the PDFs."  
-friendlyname: "PDFs Index"  
-title: "index"  
-alias: "P03-22-01, PDFs Index"  
+jarea: 20-29 Case Files  
+jcat: 22 PDFs  
+desc: The folder containing the PDFs.  
+friendlyname: PDFs Index  
+title: index  
+alias: P03-22-01, PDFs Index  
 ---  
+  
 >[!info]- Location: P03.22.01  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 22 - 22 PDFs  

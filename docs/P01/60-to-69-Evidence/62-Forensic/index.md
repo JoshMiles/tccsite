@@ -1,18 +1,19 @@
 ---  
 staged: true  
 share: true  
-category: "P01/60-to-69-Evidence/62-Forensic"  
-jid: "P01.62.01"  
-pro: "P01"  
+category: P01/60-to-69-Evidence/62-Forensic  
+jid: P01.62.01  
+pro: P01  
 ac: "62"  
 id: "01"  
-jarea: "60-69 Evidence"  
-jcat: "62 Forensic"  
-desc: "Information about the forensic evidence."  
-friendlyname: "Forensic Evidence Index"  
-title: "index"  
-alias: "P01-62-01, Forensic Evidence Index"  
+jarea: 60-69 Evidence  
+jcat: 62 Forensic  
+desc: Information about the forensic evidence.  
+friendlyname: Forensic Evidence Index  
+title: index  
+alias: P01-62-01, Forensic Evidence Index  
 ---  
+  
 >[!info]- Location: P01.62.01  
 >**Area:** P01 - 60-69 Evidence  
 >**Category:** 62 - 62 Forensic  

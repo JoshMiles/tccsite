@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.31"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.31  
+pro: P07  
 ac: "41"  
 id: "31"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch"  
-title: "31-2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch"  
-aliases:   
-- "P07.41.31"  
-- "2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch  
+title: 31-2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch  
+aliases:  
+  - P07.41.31  
+  - 2023-11-09-phil-flores-must-pay-$15-million-for-samantha-harers-death-judge--joliet-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.31  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

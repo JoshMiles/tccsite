@@ -15,6 +15,7 @@ aliases:
   - P02-01-01-Susann-Smith  
   - P02 Index  
 ---  
+  
 >[!info]- Location: P02.01.01  
 >**Area:** P02 - 00-09 Case Home  
 >**Category:** 01 - 01 Index  

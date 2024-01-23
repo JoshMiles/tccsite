@@ -2,20 +2,21 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/20-to-29-Case-Files/21-File-Notes"  
-jid: "P03.21.02"  
-pro: "P03"  
+category: P03/20-to-29-Case-Files/21-File-Notes  
+jid: P03.21.02  
+pro: P03  
 ac: "21"  
 id: "02"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "Magen-Fieramusca-Kidnapping-Arrest-Warrant"  
-title: "02-Magen-Fieramusca-Kidnapping-Arrest-Warrant"  
-aliases:   
-- "P03.21.02"  
-- "Magen-Fieramusca-Kidnapping-Arrest-Warrant"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: Magen-Fieramusca-Kidnapping-Arrest-Warrant  
+title: 02-Magen-Fieramusca-Kidnapping-Arrest-Warrant  
+aliases:  
+  - P03.21.02  
+  - Magen-Fieramusca-Kidnapping-Arrest-Warrant  
 ---  
+  
 >[!info]- Location: P03.21.02  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -23,7 +24,7 @@ aliases:
   
 # Magen-Fieramusca-Kidnapping-Arrest-Warrant  
   
-![04-Magen-Fieramusca-Kidnapping-Arrest-Warrant](../../../assets/attachments/04-Magen-Fieramusca-Kidnapping-Arrest-Warrant.PDF){ type=application/pdf style="min-height:100vh;width:100%" }  
+![04-Magen-Fieramusca-Kidnapping-Arrest-Warrant](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/04-Magen-Fieramusca-Kidnapping-Arrest-Warrant.PDF){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 This document is the same as in [01-Magen-Fieramusca-Arrest-Affidavit](./02-Magen-Fieramusca-Arrest-Affidavit.md) except for paragraph 64 which reads:  
   

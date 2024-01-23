@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.13"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.13  
+pro: P02  
 ac: "21"  
 id: "13"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "Motion and Affidavit for Appeal File Notes"  
-title: "13-Motion-and-Affidavit-for-Appeal"  
-aliases:   
-- "P02.21.13"  
-- "Motion and Affidavit for Appeal File Notes"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: Motion and Affidavit for Appeal File Notes  
+title: 13-Motion-and-Affidavit-for-Appeal  
+aliases:  
+  - P02.21.13  
+  - Motion and Affidavit for Appeal File Notes  
 ---  
+  
 >[!info]- Location: P02.21.13  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Motion and Affidavit for Appeal File Notes  
   
-[13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
+[13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
-![](../../../assets/attachments/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/28_13-1-01546-8_138_MOTION_AND_AFFIDAVIT_DECLARATION.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) moves the Court for an order allowing [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) to seek review at public expense and providing appointment of attorneyt on appeal.  
   

@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/10-to-19-Case-Dates/12-Crime-Dates"  
-jid: "P07.12.01"  
-pro: "P07"  
+share: true  
+category: P07/10-to-19-Case-Dates/12-Crime-Dates  
+jid: P07.12.01  
+pro: P07  
 ac: "12"  
 id: "01"  
-jarea: "10-19 Case Dates"  
-jcat: "12 Crime Dates"  
-desc: "This includes dates from the actual crime itself. Usually just the date of the murder."  
-friendlyname: "Crime Dates Index"  
-title: "index"  
-alias: "P07-12-01, Crime Dates Index"  
+jarea: 10-19 Case Dates  
+jcat: 12 Crime Dates  
+desc: This includes dates from the actual crime itself. Usually just the date of the murder.  
+friendlyname: Crime Dates Index  
+title: index  
+alias: P07-12-01, Crime Dates Index  
 ---  
+  
 >[!info]- Location: P07.12.01  
 >**Area:** P07 - 10-19 Case Dates  
 >**Category:** 12 - 12 Crime Dates  

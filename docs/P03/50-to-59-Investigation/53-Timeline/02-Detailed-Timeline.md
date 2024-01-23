@@ -19,6 +19,7 @@ cssclasses:
   - wide-table  
 ---  
   
+  
 >[!info]- Location: P03.53.02  
 >**Area:** P03 - 50-59 Investigation  
 >**Category:** 53 - 53 Timeline  
@@ -32,15 +33,15 @@ cssclasses:
 1. [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) (also known as [Maygen Humphrey](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md)) and [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) became friends after attending the Texas Bible Institute in Columbus, Texas. ^rz8jc  
 	1. They quickly became best friends and spoke on the phone regularly.[^2] ^q2gi3  
   
-| ![25-magen-and-heidi-at-church-camp\|200](../../../assets/attachments/25-magen-and-heidi-at-church-camp.jpg) |  
+| ![25-magen-and-heidi-at-church-camp\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/25-magen-and-heidi-at-church-camp.jpg) |  
 | :--------------------------------------------------------------------------------------------------------------------: |  
 | *[Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) and [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md) at the church camp where they first met*                                                                                                                     |  
   
-| ![24-fb-heidi-and-magen\|200](../../../assets/attachments/24-fb-heidi-and-magen.jpg) |  
+| ![24-fb-heidi-and-magen\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/24-fb-heidi-and-magen.jpg) |  
 |:-------------:|  
 |    *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) photo of [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) in 2013*    |  
   
-| ![23-fb-heidi-and-magen\|200](../../../assets/attachments/23-fb-heidi-and-magen.jpg) |  
+| ![23-fb-heidi-and-magen\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/23-fb-heidi-and-magen.jpg) |  
 |:-------------:|  
 |    *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) and [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) in 2013*    |  
   
@@ -53,15 +54,15 @@ cssclasses:
 	3. [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) held her hands to her apparently pregnant stomach, appearing to support the weight of her unborn child.[^6]   
 	4. [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) and [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) had discussed the possibility of delivering on the same date.[^7] ^wwjws  
   
-| ![14-heidi-pregnant\|200](../../../assets/attachments/14-heidi-pregnant.jpg) |  
+| ![14-heidi-pregnant\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/14-heidi-pregnant.jpg) |  
 |:-------------:|  
 |    *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) pregnant*    |  
   
-| ![08-heidi-and-shane\|200](../../../assets/attachments/08-heidi-and-shane.jpg) |  
+| ![08-heidi-and-shane\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/08-heidi-and-shane.jpg) |  
 |:-------------:|  
 |    *[Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md) and a pregnant [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) *    |  
   
-| ![22-heidi-and-shane\|200](../../../assets/attachments/22-heidi-and-shane.jpg) |  
+| ![22-heidi-and-shane\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/22-heidi-and-shane.jpg) |  
 |:-------------:|  
 |    *[Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md) and a pregnant [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) at the beach*    |  
   
@@ -92,7 +93,7 @@ cssclasses:
 		1. Neither [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md.md.md.md.md.md.md.md) nor [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) could ever locate the [apartment](../52-Key-Locations/01-Apartment.md.md.md) key that [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md.md.md.md.md.md.md.md.md.md.md.md.md) had been given that granted her access to their [apartment](../52-Key-Locations/01-Apartment.md.md.md).[^27] ^b10l7  
 	5. [Magen](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md.md.md.md.md.md.md.md.md.md.md.md.md) left the hospital no more than one hour after [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) had given birth, and returned to [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md.md.md.md)'s apartment, where she stayed until [November 27th 2019](../../10-to-19-Case-Dates/11-Background-Dates/2019-11-27-Wednesday-November-27th-2019.md).[^28] ^9ww-8  
   
-| ![12-heidi-and-newborn-baby-immediately-after-birth\|200](../../../assets/attachments/12-heidi-and-newborn-baby-immediately-after-birth.jpg) |  
+| ![12-heidi-and-newborn-baby-immediately-after-birth\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/12-heidi-and-newborn-baby-immediately-after-birth.jpg) |  
 |:-------------:|  
 |    *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) and [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md.md) in the hospital*    |  
   
@@ -102,7 +103,7 @@ cssclasses:
 1. [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) left [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) and [Shane](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md.md.md.md)'s [apartment](../52-Key-Locations/01-Apartment.md.md.md) and returned to Houston, Texas.[^29]   
 	1. [Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md) drove a grey 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md.md.md.md) four door.  
   
-| ![27-nissan\|200](../../../assets/attachments/27-nissan.jpg) |  
+| ![27-nissan\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/31-Crime-Scene/27-nissan.jpg) |  
 |:-------------:|  
 |    *[Magen Fieramusca](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md.md.md)'s [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md.md)*    |  
   
@@ -121,7 +122,7 @@ cssclasses:
 	2. Surveillance cameras at the school showed [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) entering and exiting the school with the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md.md),[^35] [^36]  leaving at approximately **8:12am**.[^37] ^3-70z  
 	3. [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) was last seen wearing a purple-coloured shirt with long sleeves (as evidenced by the below picture) at [Cowan Elementary](../52-Key-Locations/02-Cowan-Elementary.md.md), but it was believed that she may have returned to her residence.[^38]   
   
-| ![05-heidi-at-the-school\|200](../../../assets/attachments/05-heidi-at-the-school.png) |  
+| ![05-heidi-at-the-school\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/05-heidi-at-the-school.png) |  
 | :------------------------: |  
 |  *Heidi at the school*                        |                                                                      |  
 3. [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md) and [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) spoke on the phone at approximately **8:30am** regarding dropping the [Six Year Old Child](../../70-to-79-People/73-Family-and-Friends/03-Six-Year-Old-Child.md.md.md.md.md.md.md.md.md) off at school, a conversation that was confirmed by a consent search of [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md)'s phone.[^39] ^zbrg7  
@@ -139,15 +140,15 @@ cssclasses:
 	5. Neither [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) nor the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md.md) were inside.[^51] ^3vsd2  
 	6. [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md) believed that [Heidi](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md.md.md.md.md.md.md.md.md.md.md) and the [Newborn Child](../../70-to-79-People/73-Family-and-Friends/02-Newborn-Child.md.md) were possibly visiting another apartment in the complex, or were at the park.[^52] ^e43us  
   
-|                                              ![02-apartment\|350](../../../assets/attachments/02-apartment.jpg)                                               |  
+|                                              ![02-apartment\|350](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/33-Locations/02-apartment.jpg)                                               |  
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|  
 | *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) and [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md)'s apartment* |                                                                                                                                                                      |  
   
-| ![06-heidi-front-door\|200](../../../assets/attachments/06-heidi-front-door.jpg)                                                                                            |  
+| ![06-heidi-front-door\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/33-Locations/06-heidi-front-door.jpg)                                                                                            |  
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |  
 | *Front door to [Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md) and [Shane Carey](../../70-to-79-People/73-Family-and-Friends/01-Shane-Carey.md.md)'s apartment* |  
   
-| ![08-vehicle\|200](../../../assets/attachments/08-vehicle.jpg) |  
+| ![08-vehicle\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/31-Crime-Scene/08-vehicle.jpg) |  
 |:-------------:|  
 |    *[Heidi Broussard](../../70-to-79-People/71-Victims/01-Heidi-Broussard.md.md.md)'s Toyota*    |  
   
@@ -362,7 +363,7 @@ Transcript: see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to
 	3. The vehicle was parked in a manner consistent with an attempt to conceal the vehicle from public view.[^184] ^8rdw6  
 	4. The vehicle was later confirmed as a gray 2015 [Nissan](../../60-to-69-Evidence/63-Physical/05-Magen-Nissan.md.md.md.md) Versa.[^185] ^ke2jp  
   
-| ![14-car-where-body-was-found\|200](../../../assets/attachments/14-car-where-body-was-found.jpeg) |  
+| ![14-car-where-body-was-found\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/31-Crime-Scene/14-car-where-body-was-found.jpeg) |  
 |:-------------:|  
 |    *The vehicle seen by aerial observation*    |  
   
@@ -580,7 +581,7 @@ Transcript: see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to
   
 ---  
 # Backlinks  
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">10</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>  
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">15</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>  
 ---  
 # Footnotes  
   

@@ -18,6 +18,7 @@ aliases:
   - Heidi  
   - Broussard  
 ---  
+  
 >[!info]- Location: P03.71.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 71 - 71 Victims  
@@ -29,7 +30,7 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
   
 | Name                               | Heidi Broussard            |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![02-Heidi\|200](../../../assets/attachments/02-Heidi.jpg) |  
+| Photo?                             | ![02-Heidi\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/02-Heidi.jpg) |  
 | Date of Birth?                     | 1986/06/04           |  
 | Age?                               | 33           |  
 | Lives In?                          | Austin, Texas           |  

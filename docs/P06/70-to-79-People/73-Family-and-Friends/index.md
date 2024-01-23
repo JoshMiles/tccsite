@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/70-to-79-People/73-Family-and-Friends"  
-jid: "P06.73.01"  
-pro: "P06"  
+category: P06/70-to-79-People/73-Family-and-Friends  
+jid: P06.73.01  
+pro: P06  
 ac: "73"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "73 Family and Friends"  
-desc: "Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest."  
-friendlyname: "Family and Friends Index"  
-title: "index"  
-alias: "P06-73-01, Family and Friends Index"  
+jarea: 70-79 People  
+jcat: 73 Family and Friends  
+desc: Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest.  
+friendlyname: Family and Friends Index  
+title: index  
+alias: P06-73-01, Family and Friends Index  
 ---  
+  
 >[!info]- Location: P06.73.01  
 >**Area:** P06 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

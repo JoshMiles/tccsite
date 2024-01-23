@@ -15,6 +15,7 @@ aliases:
   - P02.21.04  
   - Defence Trial Brief File Note  
 ---  
+  
 >[!info]- Location: P02.21.04  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Defence Trial Brief File Note  
   
-[13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
+[13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
   
-![](../../../assets/attachments/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/17_13-1-01546-8_108_DEFENSE_TRIAL_BRIEF.pdf)  
   
 ## Facts  
   

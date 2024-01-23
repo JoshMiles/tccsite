@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/70-to-79-People"  
-jid: "P06.70.01"  
-pro: "P06"  
+category: P06/70-to-79-People  
+jid: P06.70.01  
+pro: P06  
 ac: "70"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "70 Index"  
-desc: "The people connected to the case."  
-friendlyname: "People Index"  
-title: "index"  
-alias: "P06-70-01, People Index"  
+jarea: 70-79 People  
+jcat: 70 Index  
+desc: The people connected to the case.  
+friendlyname: People Index  
+title: index  
+alias: P06-70-01, People Index  
 ---  
+  
 >[!info]- Location: P06.70.01  
 >**Area:** P06 - 70-79 People  
 >**Category:** 70 - 70 Index  

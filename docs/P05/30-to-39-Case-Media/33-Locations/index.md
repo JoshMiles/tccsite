@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/30-to-39-Case-Media/33-Locations"  
-jid: "P05.33.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/30-to-39-Case-Media/33-Locations  
+jid: P05.33.01  
+pro: P05  
 ac: "33"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "33 Locations"  
-desc: "Images of the locations involved."  
-friendlyname: "Locations Index"  
-title: "index"  
-alias: "P05-33-01, Locations Index"  
+jarea: 30-39 Case Media  
+jcat: 33 Locations  
+desc: Images of the locations involved.  
+friendlyname: Locations Index  
+title: index  
+alias: P05-33-01, Locations Index  
 ---  
+  
 >[!info]- Location: P05.33.01  
 >**Area:** P05 - 30-39 Case Media  
 >**Category:** 33 - 33 Locations  

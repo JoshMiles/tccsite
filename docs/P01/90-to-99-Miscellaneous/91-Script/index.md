@@ -1,18 +1,19 @@
 ---  
 staged: true  
 share: true  
-category: "P01/90-to-99-Miscellaneous/91-Script"  
-jid: "P01.91.01"  
-pro: "P01"  
+category: P01/90-to-99-Miscellaneous/91-Script  
+jid: P01.91.01  
+pro: P01  
 ac: "91"  
 id: "01"  
-jarea: "90-99 Miscellaneous"  
-jcat: "91 Script Folder"  
-desc: "This folder contains the script."  
-friendlyname: "Script Folder Index"  
-title: "index"  
-alias: "P01-91-01, Script Folder Index"  
+jarea: 90-99 Miscellaneous  
+jcat: 91 Script Folder  
+desc: This folder contains the script.  
+friendlyname: Script Folder Index  
+title: index  
+alias: P01-91-01, Script Folder Index  
 ---  
+  
 >[!info]- Location: P01.91.01  
 >**Area:** P01 - 90-99 Miscellaneous  
 >**Category:** 91 - 91 Script Folder  

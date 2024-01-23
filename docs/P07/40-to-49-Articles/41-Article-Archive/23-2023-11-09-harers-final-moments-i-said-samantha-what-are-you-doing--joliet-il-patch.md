@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.23"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.23  
+pro: P07  
 ac: "41"  
 id: "23"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch"  
-title: "23-2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch"  
-aliases:   
-- "P07.41.23"  
-- "2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch  
+title: 23-2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch  
+aliases:  
+  - P07.41.23  
+  - 2023-11-09-harers-final-moments-i-said-samantha-what-are-you-doing--joliet-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.23  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

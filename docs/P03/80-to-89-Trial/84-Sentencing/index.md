@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/80-to-89-Trial/84-Sentencing"  
-jid: "P03.84.01"  
-pro: "P03"  
+category: P03/80-to-89-Trial/84-Sentencing  
+jid: P03.84.01  
+pro: P03  
 ac: "84"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "84 Sentencing"  
-desc: "Information about the sentencing."  
-friendlyname: "Sentencing Index"  
-title: "index"  
-alias: "P03-84-01, Sentencing Index"  
+jarea: 80-89 Trial  
+jcat: 84 Sentencing  
+desc: Information about the sentencing.  
+friendlyname: Sentencing Index  
+title: index  
+alias: P03-84-01, Sentencing Index  
 ---  
+  
 >[!info]- Location: P03.84.01  
 >**Area:** P03 - 80-89 Trial  
 >**Category:** 84 - 84 Sentencing  

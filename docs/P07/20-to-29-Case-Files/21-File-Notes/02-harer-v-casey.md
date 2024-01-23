@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/20-to-29-Case-Files/21-File-Notes"  
-jid: "P07.21.02"  
-pro: "P07"  
+share: true  
+category: P07/20-to-29-Case-Files/21-File-Notes  
+jid: P07.21.02  
+pro: P07  
 ac: "21"  
 id: "02"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "harer-v-casey"  
-title: "02-harer-v-casey"  
-aliases:   
-- "P07.21.02"  
-- "harer-v-casey"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: harer-v-casey  
+title: 02-harer-v-casey  
+aliases:  
+  - P07.21.02  
+  - harer-v-casey  
 ---  
+  
 >[!info]- Location: P07.21.02  
 >**Area:** P07 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -21,7 +22,7 @@ aliases:
   
 # harer v casey  
   
-![02-harer-v-casey](../../../assets/attachments/02-harer-v-casey.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![02-harer-v-casey](../../../Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/02-harer-v-casey.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 [Samantha Harer](../../70-to-79-People/71-Victims/01-Samantha-Harer.md) died from a gunshot wound to the head.  
   

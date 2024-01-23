@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/70-to-79-People/75-Police-and-Detectives"  
-jid: "P06.75.01"  
-pro: "P06"  
+category: P06/70-to-79-People/75-Police-and-Detectives  
+jid: P06.75.01  
+pro: P06  
 ac: "75"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "75 Police and Detectives"  
-desc: "Profiles regarding law enforcement involved."  
-friendlyname: "Police and Detectives Index"  
-title: "index"  
-alias: "P06-75-01, Police and Detectives Index"  
+jarea: 70-79 People  
+jcat: 75 Police and Detectives  
+desc: Profiles regarding law enforcement involved.  
+friendlyname: Police and Detectives Index  
+title: index  
+alias: P06-75-01, Police and Detectives Index  
 ---  
+  
 >[!info]- Location: P06.75.01  
 >**Area:** P06 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

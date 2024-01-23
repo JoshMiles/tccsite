@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/70-to-79-People/74-Witnesses"  
-jid: "P04.74.01"  
-pro: "P04"  
+category: P04/70-to-79-People/74-Witnesses  
+jid: P04.74.01  
+pro: P04  
 ac: "74"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "74 Witnesses"  
-desc: "Profiles about witnesses."  
-friendlyname: "Witnesses Index"  
-title: "index"  
-alias: "P04-74-01, Witnesses Index"  
+jarea: 70-79 People  
+jcat: 74 Witnesses  
+desc: Profiles about witnesses.  
+friendlyname: Witnesses Index  
+title: index  
+alias: P04-74-01, Witnesses Index  
 ---  
+  
 >[!info]- Location: P04.74.01  
 >**Area:** P04 - 70-79 People  
 >**Category:** 74 - 74 Witnesses  

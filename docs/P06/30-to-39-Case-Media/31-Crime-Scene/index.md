@@ -31,7 +31,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                       | Description                   |  
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [P06.31.01](index.md) | [Crime Scene Index](index.md) | Imagery from the crime scene. |  
+| [[index\|P06.31.01]] | [[index\|Crime Scene Index]] | Imagery from the crime scene. |  
   
   
 ---  

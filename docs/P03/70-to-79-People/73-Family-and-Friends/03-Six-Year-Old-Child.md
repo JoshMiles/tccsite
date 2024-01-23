@@ -17,6 +17,7 @@ aliases:
   - Six Year Old Child  
   - six year old child  
 ---  
+  
 >[!info]- Location: P03.73.03  
 >**Area:** P03 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

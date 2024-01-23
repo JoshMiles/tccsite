@@ -31,7 +31,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                            | Friendly Name                                                                             | Description               |  
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |  
-| [P04.74.01](index.md) | [Witnesses Index](index.md) | Profiles about witnesses. |  
+| [[index\|P04.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

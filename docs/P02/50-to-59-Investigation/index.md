@@ -32,17 +32,17 @@ Information pertaining to the investigation
   
 | J.Dec ID                                                                                                    | Friendly Name                                                                                                     | Description                                                       |  
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P02.50.01](index.md)                               | [Investigation Index](index.md)                           | Information pertaining to the investigation.                      |  
-| [P02.51.01](./51-Interviews/index.md)                 | [Interviews Index](./51-Interviews/index.md)                | Writeups and notes about interviews conducted by law enforcement. |  
-| [P02.51.02](./51-Interviews/02-Interviews.md)         | [Interviews](./51-Interviews/02-Interviews.md)              | Interview                                                         |  
-| [P02.52.01](./52-Key-Locations/index.md)              | [Key Locations Index](./52-Key-Locations/index.md)          | Information and notes about key locations pertaining to the case. |  
-| [P02.52.02](./52-Key-Locations/02-Boeing.md)          | [Boeing](./52-Key-Locations/02-Boeing.md)                   | Location                                                          |  
-| [P02.52.03](./52-Key-Locations/03-Canyon-Park-QFC.md) | [Canyon Park QFC](./52-Key-Locations/03-Canyon-Park-QFC.md) | Location                                                          |  
-| [P02.52.04](./52-Key-Locations/04-The-Smith-House.md) | [The Smith House](./52-Key-Locations/04-The-Smith-House.md) | Location                                                          |  
-| [P02.52.05](./52-Key-Locations/05-Bothell.md)         | [Bothell](./52-Key-Locations/05-Bothell.md)                 | Location                                                          |  
-| [P02.52.06](./52-Key-Locations/06-Apartment.md)       | [Apartment](./52-Key-Locations/06-Apartment.md)             | Location                                                          |  
-| [P02.53.01](./53-Timeline/index.md)                   | [Timeline Index](./53-Timeline/index.md)                    | Contains the timeline of events.                                  |  
-| [P02.53.02](./53-Timeline/02-Detailed-Timeline.md)    | [Detailed Timeline](./53-Timeline/02-Detailed-Timeline.md)  | Detailed Timeline                                                 |  
+| [[index\|P02.50.01]]                               | [[index\|Investigation Index]]                           | Information pertaining to the investigation.                      |  
+| [[./51-Interviews/index\|P02.51.01]]                 | [[./51-Interviews/index\|Interviews Index]]                | Writeups and notes about interviews conducted by law enforcement. |  
+| [[./51-Interviews/02-Interviews\|P02.51.02]]         | [[./51-Interviews/02-Interviews\|Interviews]]              | Interview                                                         |  
+| [[./52-Key-Locations/index\|P02.52.01]]              | [[./52-Key-Locations/index\|Key Locations Index]]          | Information and notes about key locations pertaining to the case. |  
+| [[./52-Key-Locations/02-Boeing\|P02.52.02]]          | [[./52-Key-Locations/02-Boeing\|Boeing]]                   | Location                                                          |  
+| [[./52-Key-Locations/03-Canyon-Park-QFC\|P02.52.03]] | [[./52-Key-Locations/03-Canyon-Park-QFC\|Canyon Park QFC]] | Location                                                          |  
+| [[./52-Key-Locations/04-The-Smith-House\|P02.52.04]] | [[./52-Key-Locations/04-The-Smith-House\|The Smith House]] | Location                                                          |  
+| [[./52-Key-Locations/05-Bothell\|P02.52.05]]         | [[./52-Key-Locations/05-Bothell\|Bothell]]                 | Location                                                          |  
+| [[./52-Key-Locations/06-Apartment\|P02.52.06]]       | [[./52-Key-Locations/06-Apartment\|Apartment]]             | Location                                                          |  
+| [[./53-Timeline/index\|P02.53.01]]                   | [[./53-Timeline/index\|Timeline Index]]                    | Contains the timeline of events.                                  |  
+| [[./53-Timeline/02-Detailed-Timeline\|P02.53.02]]    | [[./53-Timeline/02-Detailed-Timeline\|Detailed Timeline]]  | Detailed Timeline                                                 |  
   
   
 ---  

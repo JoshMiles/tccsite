@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/20-to-29-Case-Files"  
-jid: "P03.20.01"  
-pro: "P03"  
+category: P03/20-to-29-Case-Files  
+jid: P03.20.01  
+pro: P03  
 ac: "20"  
 id: "01"  
-jarea: "20-29 Case Files"  
-jcat: "20 Index"  
-desc: "External files related to the case, e.g PDFs."  
-friendlyname: "Case Files Index"  
-title: "index"  
-alias: "P03-20-01, Case Files Index"  
+jarea: 20-29 Case Files  
+jcat: 20 Index  
+desc: External files related to the case, e.g PDFs.  
+friendlyname: Case Files Index  
+title: index  
+alias: P03-20-01, Case Files Index  
 ---  
+  
 >[!info]- Location: P03.20.01  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 20 - 20 Index  

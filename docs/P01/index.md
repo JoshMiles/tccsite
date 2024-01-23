@@ -1,18 +1,19 @@
 ---  
 staged: true  
 share: true  
-category: "P01"  
-jid: "P01.01.01"  
-pro: "P01"  
+category: P01  
+jid: P01.01.01  
+pro: P01  
 ac: "01"  
 id: "01"  
-jarea: "00-09 Case Home"  
-jcat: "01 Index"  
-desc: "This is the index for this case."  
-friendlyname: "P01 Index"  
-title: "index"  
-alias: "P01-01-01-John-Doe, P01 Index"  
+jarea: 00-09 Case Home  
+jcat: 01 Index  
+desc: This is the index for this case.  
+friendlyname: P01 Index  
+title: index  
+alias: P01-01-01-John-Doe, P01 Index  
 ---  
+  
 >[!info]- Location: P01.01.01  
 >**Area:** P01 - 00-09 Case Home  
 >**Category:** 01 - 01 Index  

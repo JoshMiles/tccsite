@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/50-to-59-Investigation/51-Interviews"  
-jid: "P05.51.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/50-to-59-Investigation/51-Interviews  
+jid: P05.51.01  
+pro: P05  
 ac: "51"  
 id: "01"  
-jarea: "50-59 Investigation"  
-jcat: "51 Interviews"  
-desc: "Writeups and notes about interviews conducted by law enforcement."  
-friendlyname: "Interviews Index"  
-title: "index"  
-alias: "P05-51-01, Interviews Index"  
+jarea: 50-59 Investigation  
+jcat: 51 Interviews  
+desc: Writeups and notes about interviews conducted by law enforcement.  
+friendlyname: Interviews Index  
+title: index  
+alias: P05-51-01, Interviews Index  
 ---  
+  
 >[!info]- Location: P05.51.01  
 >**Area:** P05 - 50-59 Investigation  
 >**Category:** 51 - 51 Interviews  

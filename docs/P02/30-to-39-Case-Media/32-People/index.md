@@ -15,6 +15,7 @@ aliases:
   - P02-32-01  
   - People Index  
 ---  
+  
 >[!info]- Location: P02.32.01  
 >**Area:** P02 - 30-39 Case Media  
 >**Category:** 32 - 32 People  

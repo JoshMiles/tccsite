@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.09"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.09  
+pro: P07  
 ac: "41"  
 id: "09"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch"  
-title: "09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch"  
-aliases:   
-- "P07.41.09"  
-- "2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch  
+title: 09-2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch  
+aliases:  
+  - P07.41.09  
+  - 2023-11-09-channahon-911-dispatcher-was-murdered-parents-believe--channahon-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.09  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

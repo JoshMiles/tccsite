@@ -30,7 +30,7 @@ Any video clips from the trial or investigation
   
 | J.Dec ID                                                                           | Friendly Name                                                                             | Description                                      |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------ |  
-| [P07.35.01](index.md) | [Case Video Index](index.md) | Any video clips from the trial or investigation. |  
+| [[index\|P07.35.01]] | [[index\|Case Video Index]] | Any video clips from the trial or investigation. |  
   
   
 ---  

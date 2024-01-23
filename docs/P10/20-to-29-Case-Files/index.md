@@ -31,9 +31,9 @@ There should be a file note available with a full write up of content from the P
   
 | J.Dec ID                                                                                      | Friendly Name                                                                                        | Description                                                |  
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P10.20.01](index.md)               | [Case Files Index](index.md)               | External files related to the case, e.g PDFs.              |  
-| [P10.21.01](./21-File-Notes/index.md) | [File Notes Index](./21-File-Notes/index.md) | The notes extracted from the PDFs of relevant information. |  
-| [P10.22.01](../../../index.md)       | [PDFs Index](../../../index.md)             | The folder containing the PDFs.                            |  
+| [[index\|P10.20.01]]               | [[index\|Case Files Index]]               | External files related to the case, e.g PDFs.              |  
+| [[./21-File-Notes/index\|P10.21.01]] | [[./21-File-Notes/index\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
+| [[./22-PDFs/index\|P10.22.01]]       | [[./22-PDFs/index\|PDFs Index]]             | The folder containing the PDFs.                            |  
   
   
 ---  

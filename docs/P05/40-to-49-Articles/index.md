@@ -30,9 +30,9 @@ The articles used in the research
   
 | J.Dec ID                                                                                | Friendly Name                                                                                       | Description                           |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [P05.40.01](index.md)                    | [Articles Index](index.md)                           | The articles used in the research.    |  
-| [P05.41.01](./41-Article-Archive/index.md) | [Article Archive Index](./41-Article-Archive/index.md) | Snapshots of the articles referenced. |  
-| [P05.42.01](./42-Article-Notes/index.md)   | [Article Notes Index](./42-Article-Notes/index.md)     | Notes for the articles.               |  
+| [[index\|P05.40.01]]                    | [[index\|Articles Index]]                           | The articles used in the research.    |  
+| [[./41-Article-Archive/index\|P05.41.01]] | [[./41-Article-Archive/index\|Article Archive Index]] | Snapshots of the articles referenced. |  
+| [[./42-Article-Notes/index\|P05.42.01]]   | [[./42-Article-Notes/index\|Article Notes Index]]     | Notes for the articles.               |  
   
   
 ---  

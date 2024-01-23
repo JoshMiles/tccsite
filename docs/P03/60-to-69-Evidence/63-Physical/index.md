@@ -31,12 +31,12 @@ Information about the physical evidence
   
 | J.Dec ID                                                                                      | Friendly Name                                                                                          | Description                             |  
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [P03.63.01](./01-Honda-Fit.md)        | [Honda Fit](./01-Honda-Fit.md)                 | Heidi's Vehicle                         |  
-| [P03.63.01](index.md)               | [Physical Evidence Index](index.md)          | Information about the physical evidence |  
-| [P03.63.02](./02-Heidi-Cell-Phone.md) | [Heidi's Cell Phone](./02-Heidi-Cell-Phone.md) | Cell Phone                              |  
-| [P03.63.03](./03-Heidi-Keys.md)       | [Heidi's Keys](./03-Heidi-Keys.md)             | Keys                                    |  
-| [P03.63.04](./04-Apartment-Key.md)    | [Apartment Key](./04-Apartment-Key.md)         | Key obtained by Magen                   |  
-| [P03.63.05](./05-Magen-Nissan.md)     | [Magen's Nissan](./05-Magen-Nissan.md)         | Magen's Vehicle                         |  
+| [[./01-Honda-Fit\|P03.63.01]]        | [[./01-Honda-Fit\|Honda Fit]]                 | Heidi's Vehicle                         |  
+| [[index\|P03.63.01]]               | [[index\|Physical Evidence Index]]          | Information about the physical evidence |  
+| [[./02-Heidi-Cell-Phone\|P03.63.02]] | [[./02-Heidi-Cell-Phone\|Heidi's Cell Phone]] | Cell Phone                              |  
+| [[./03-Heidi-Keys\|P03.63.03]]       | [[./03-Heidi-Keys\|Heidi's Keys]]             | Keys                                    |  
+| [[./04-Apartment-Key\|P03.63.04]]    | [[./04-Apartment-Key\|Apartment Key]]         | Key obtained by Magen                   |  
+| [[./05-Magen-Nissan\|P03.63.05]]     | [[./05-Magen-Nissan\|Magen's Nissan]]         | Magen's Vehicle                         |  
   
   
 ---  

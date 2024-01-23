@@ -31,10 +31,10 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                         | Description                                                       |  
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P03.52.01](./01-Apartment.md)        | [Apartment](./01-Apartment.md)                      | Location                                                          |  
-| [P03.52.01](index.md)               | [Key Locations Index](index.md)                   | Information and notes about key locations pertaining to the case. |  
-| [P03.52.02](./02-Cowan-Elementary.md) | [Cowan Elementary School](./02-Cowan-Elementary.md) | Location                                                          |  
-| [P03.52.03](./03-Magen-House.md)      | [Magen's House](./03-Magen-House.md)                | Location                                                          |  
+| [[./01-Apartment\|P03.52.01]]        | [[./01-Apartment\|Apartment]]                      | Location                                                          |  
+| [[index\|P03.52.01]]               | [[index\|Key Locations Index]]                   | Information and notes about key locations pertaining to the case. |  
+| [[./02-Cowan-Elementary\|P03.52.02]] | [[./02-Cowan-Elementary\|Cowan Elementary School]] | Location                                                          |  
+| [[./03-Magen-House\|P03.52.03]]      | [[./03-Magen-House\|Magen's House]]                | Location                                                          |  
   
   
 ---  

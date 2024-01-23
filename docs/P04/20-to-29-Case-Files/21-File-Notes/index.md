@@ -31,7 +31,7 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                   | Description                                                |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P04.21.01](index.md) | [File Notes Index](index.md) | The notes extracted from the PDFs of relevant information. |  
+| [[index\|P04.21.01]] | [[index\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
   
   
 ---  

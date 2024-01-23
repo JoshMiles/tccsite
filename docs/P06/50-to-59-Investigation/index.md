@@ -29,11 +29,11 @@ Information pertaining to the investigation
   
 | J.Dec ID                                                                                                   | Friendly Name                                                                                                      | Description                                                       |  
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |  
-| [P06.50.01](index.md)                            | [Investigation Index](index.md)                          | Information pertaining to the investigation.                      |  
-| [P06.51.01](./51-Interviews/index.md)              | [Interviews Index](./51-Interviews/index.md)               | Writeups and notes about interviews conducted by law enforcement. |  
-| [P06.52.01](./52-Key-Locations/index.md)           | [Key Locations Index](./52-Key-Locations/index.md)         | Information and notes about key locations pertaining to the case. |  
-| [P06.53.01](./53-Timeline/index.md)                | [Timeline Index](./53-Timeline/index.md)                   | Contains the timeline of events.                                  |  
-| [P06.53.02](./53-Timeline/02-Detailed-Timeline.md) | [Detailed Timeline](./53-Timeline/02-Detailed-Timeline.md) | Detailed timeline of events.                                      |  
+| [[index\|P06.50.01]]                            | [[index\|Investigation Index]]                          | Information pertaining to the investigation.                      |  
+| [[./51-Interviews/index\|P06.51.01]]              | [[./51-Interviews/index\|Interviews Index]]               | Writeups and notes about interviews conducted by law enforcement. |  
+| [[./52-Key-Locations/index\|P06.52.01]]           | [[./52-Key-Locations/index\|Key Locations Index]]         | Information and notes about key locations pertaining to the case. |  
+| [[./53-Timeline/index\|P06.53.01]]                | [[./53-Timeline/index\|Timeline Index]]                   | Contains the timeline of events.                                  |  
+| [[./53-Timeline/02-Detailed-Timeline\|P06.53.02]] | [[./53-Timeline/02-Detailed-Timeline\|Detailed Timeline]] | Detailed timeline of events.                                      |  
   
   
 ---  

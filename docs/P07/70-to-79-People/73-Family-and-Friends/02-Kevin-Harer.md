@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/70-to-79-People/73-Family-and-Friends"  
-jid: "P07.73.02"  
-pro: "P07"  
+share: true  
+category: P07/70-to-79-People/73-Family-and-Friends  
+jid: P07.73.02  
+pro: P07  
 ac: "73"  
 id: "02"  
-jarea: "70-79 People"  
-jcat: "73 Family and Friends"  
-desc: "Father of Victim"  
-friendlyname: "Kevin Harer"  
-title: "02-Kevin-Harer"  
-aliases:   
-- "P07.73.02"  
-- "Kevin Harer"  
+jarea: 70-79 People  
+jcat: 73 Family and Friends  
+desc: Father of Victim  
+friendlyname: Kevin Harer  
+title: 02-Kevin-Harer  
+aliases:  
+  - P07.73.02  
+  - Kevin Harer  
 ---  
+  
 >[!info]- Location: P07.73.02  
 >**Area:** P07 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

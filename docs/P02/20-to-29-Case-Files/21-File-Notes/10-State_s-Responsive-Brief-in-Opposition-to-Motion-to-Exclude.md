@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.10"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.10  
+pro: P02  
 ac: "21"  
 id: "10"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "State's Responsive Brief in Opposition to Motion to Exclude File Notes"  
-title: "10-State_s-Responsive-Brief-in-Opposition-to-Motion-to-Exclude"  
-aliases:   
-- "P02.21.10"  
-- "State's Responsive Brief in Opposition to Motion to Exclude File Notes"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: State's Responsive Brief in Opposition to Motion to Exclude File Notes  
+title: 10-State_s-Responsive-Brief-in-Opposition-to-Motion-to-Exclude  
+aliases:  
+  - P02.21.10  
+  - State's Responsive Brief in Opposition to Motion to Exclude File Notes  
 ---  
+  
 >[!info]- Location: P02.21.10  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # State's Responsive Brief in Opposition to Motion to Exclude File Notes  
   
-[13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
+[13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
   
-![](../../../assets/attachments/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/19_13-1-01546-8_113_STATE_S_RESPONSIVE_BRIEF_IN.pdf)  
   
 [John Ely](../../70-to-79-People/77-Legal-Teams/02-John-Ely.md.md.md.md) was [Susann Smith](../../70-to-79-People/71-Victims/02-Susann-Smith.md)'s lawyer during her dissolution proceedings with [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md). After [Commissioner](../../70-to-79-People/77-Legal-Teams/03-Commissioner.md) Brudvik had made her initial rulings on Temporary Orders related to the divorce on [Friday-August-3rd-2012](../../10-to-19-Case-Dates/11-Background-Dates/05-2012-08-03-Friday-August-3rd-2012.md), the parties and their respective lawyers went out into the hall to reduce [the Commissioner](../../70-to-79-People/77-Legal-Teams/03-Commissioner.md.md)'s rulings to writing. ^jhnjt  
   

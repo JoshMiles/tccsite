@@ -15,6 +15,7 @@ aliases:
   - P02-22-01  
   - PDFs Index  
 ---  
+  
 >[!info]- Location: P02.22.01  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 22 - 22 PDFs  

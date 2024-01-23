@@ -31,8 +31,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                                | Friendly Name                                                                                                                         | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P04.72.01](./01-Ingemar-Westlund.md) | [Ingemar Westlund](./01-Ingemar-Westlund.md)        | Suspect                                                |  
-| [P04.72.01](index.md)               | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |  
+| [[./01-Ingemar-Westlund\|P04.72.01]] | [[./01-Ingemar-Westlund\|Ingemar Westlund]]        | Suspect                                                |  
+| [[index\|P04.72.01]]               | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/20-to-29-Case-Files/21-File-Notes"  
-jid: "P07.21.04"  
-pro: "P07"  
+share: true  
+category: P07/20-to-29-Case-Files/21-File-Notes  
+jid: P07.21.04  
+pro: P07  
 ac: "21"  
 id: "04"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "harer-v-flores-11-14-2019"  
-title: "04-harer-v-flores-11-14-2019"  
-aliases:   
-- "P07.21.04"  
-- "harer-v-flores-11-14-2019"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: harer-v-flores-11-14-2019  
+title: 04-harer-v-flores-11-14-2019  
+aliases:  
+  - P07.21.04  
+  - harer-v-flores-11-14-2019  
 ---  
+  
 >[!info]- Location: P07.21.04  
 >**Area:** P07 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -21,7 +22,7 @@ aliases:
   
 # harer-v-flores-11-14-2019  
   
-![04-harer-v-flores-11-14-2019](../../../assets/attachments/04-harer-v-flores-11-14-2019.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![04-harer-v-flores-11-14-2019](../../../Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/04-harer-v-flores-11-14-2019.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 The Harers have alleged such a series of bad acts involving [Flores](../../70-to-79-People/72-Suspects-and-People-of-Interest/01-Felipe-Flores.md.md) and other Crest Hill officers.  
   

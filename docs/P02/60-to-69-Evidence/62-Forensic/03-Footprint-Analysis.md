@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/60-to-69-Evidence/62-Forensic"  
-jid: "P02.62.03"  
-pro: "P02"  
+category: P02/60-to-69-Evidence/62-Forensic  
+jid: P02.62.03  
+pro: P02  
 ac: "62"  
 id: "03"  
-jarea: "60-69 Evidence"  
-jcat: "62 Forensic"  
-desc: "Forensic Evidence"  
-friendlyname: "Footprint Analysis"  
-title: "03-Footprint-Analysis"  
-aliases:   
-- "P02.62.03"  
-- "Footprint Analysis"  
+jarea: 60-69 Evidence  
+jcat: 62 Forensic  
+desc: Forensic Evidence  
+friendlyname: Footprint Analysis  
+title: 03-Footprint-Analysis  
+aliases:  
+  - P02.62.03  
+  - Footprint Analysis  
 ---  
+  
 >[!info]- Location: P02.62.03  
 >**Area:** P02 - 60-69 Evidence  
 >**Category:** 62 - 62 Forensic  

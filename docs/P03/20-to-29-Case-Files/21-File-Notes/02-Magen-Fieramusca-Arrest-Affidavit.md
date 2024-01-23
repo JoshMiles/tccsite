@@ -16,6 +16,7 @@ aliases:
   - Magen Fieramusca Arrest Affidavit  
   - P03.21.01  
 ---  
+  
 >[!info]- Location: P03.21.01  
 >**Area:** P03 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -23,7 +24,7 @@ aliases:
   
 # Magen Fieramusca Arrest Affidavit ^5xv2w  
   
-![02-Magen-Fieramusca-Arrest-Affidavit](../../../assets/attachments/02-Magen-Fieramusca-Arrest-Affidavit.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![02-Magen-Fieramusca-Arrest-Affidavit](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/02-Magen-Fieramusca-Arrest-Affidavit.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## Affidavit for Warrant of Arrest and Detention   
   

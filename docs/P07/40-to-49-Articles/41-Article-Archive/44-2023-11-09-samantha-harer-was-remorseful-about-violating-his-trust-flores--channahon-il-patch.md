@@ -1,19 +1,20 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.44"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.44  
+pro: P07  
 ac: "41"  
 id: "44"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Article"  
-friendlyname: "2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch"  
-title: "44-2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch"  
-aliases:   
-- "P07.41.44"  
-- "2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Article  
+friendlyname: 2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch  
+title: 44-2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch  
+aliases:  
+  - P07.41.44  
+  - 2023-11-09-samantha-harer-was-remorseful-about-violating-his-trust-flores--channahon-il-patch  
 ---  
+  
 >[!info]- Location: P07.41.44  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

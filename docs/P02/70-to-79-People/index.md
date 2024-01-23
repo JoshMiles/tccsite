@@ -15,6 +15,7 @@ aliases:
   - P02-70-01  
   - People Index  
 ---  
+  
 >[!info]- Location: P02.70.01  
 >**Area:** P02 - 70-79 People  
 >**Category:** 70 - 70 Index  

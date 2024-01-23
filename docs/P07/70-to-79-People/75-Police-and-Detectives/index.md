@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/70-to-79-People/75-Police-and-Detectives"  
-jid: "P07.75.01"  
-pro: "P07"  
+share: true  
+category: P07/70-to-79-People/75-Police-and-Detectives  
+jid: P07.75.01  
+pro: P07  
 ac: "75"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "75 Police and Detectives"  
-desc: "Profiles regarding law enforcement involved."  
-friendlyname: "Police and Detectives Index"  
-title: "index"  
-alias: "P07-75-01, Police and Detectives Index"  
+jarea: 70-79 People  
+jcat: 75 Police and Detectives  
+desc: Profiles regarding law enforcement involved.  
+friendlyname: Police and Detectives Index  
+title: index  
+alias: P07-75-01, Police and Detectives Index  
 ---  
+  
 >[!info]- Location: P07.75.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  
@@ -28,8 +29,8 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                  | Description                                  |  
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [P07.75.01](index.md)               | [Police and Detectives Index](index.md)    | Profiles regarding law enforcement involved. |  
 | [P07.75.01](./01-Andrew-McClellan.md) | [Andrew McClellan](./01-Andrew-McClellan.md) | Lead Detective                               |  
+| [P07.75.01](index.md)               | [Police and Detectives Index](index.md)    | Profiles regarding law enforcement involved. |  
 | [P07.75.02](./02-Shane-Casey.md)      | [Shane Casey](./02-Shane-Casey.md)           | Chief of Police                              |  
   
   

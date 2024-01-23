@@ -17,6 +17,7 @@ aliases:
   - Detective D. Hruzek  
   - Detective Hruzek  
 ---  
+  
 >[!info]- Location: P03.75.06  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

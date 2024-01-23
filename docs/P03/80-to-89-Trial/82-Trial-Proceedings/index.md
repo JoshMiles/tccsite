@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/80-to-89-Trial/82-Trial-Proceedings"  
-jid: "P03.82.01"  
-pro: "P03"  
+category: P03/80-to-89-Trial/82-Trial-Proceedings  
+jid: P03.82.01  
+pro: P03  
 ac: "82"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "82 Trial Proceedings"  
-desc: "Anything and everything that happened during trial."  
-friendlyname: "Trial Proceedings Index"  
-title: "index"  
-alias: "P03-82-01, Trial Proceedings Index"  
+jarea: 80-89 Trial  
+jcat: 82 Trial Proceedings  
+desc: Anything and everything that happened during trial.  
+friendlyname: Trial Proceedings Index  
+title: index  
+alias: P03-82-01, Trial Proceedings Index  
 ---  
+  
 >[!info]- Location: P03.82.01  
 >**Area:** P03 - 80-89 Trial  
 >**Category:** 82 - 82 Trial Proceedings  

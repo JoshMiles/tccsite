@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/60-to-69-Evidence/63-Physical"  
-jid: "P04.63.01"  
-pro: "P04"  
+category: P04/60-to-69-Evidence/63-Physical  
+jid: P04.63.01  
+pro: P04  
 ac: "63"  
 id: "01"  
-jarea: "60-69 Evidence"  
-jcat: "63 Physical"  
-desc: "Information about the physical evidence"  
-friendlyname: "Physical Evidence Index"  
-title: "index"  
-alias: "P04-63-01, Physical Evidence Index"  
+jarea: 60-69 Evidence  
+jcat: 63 Physical  
+desc: Information about the physical evidence  
+friendlyname: Physical Evidence Index  
+title: index  
+alias: P04-63-01, Physical Evidence Index  
 ---  
+  
 >[!info]- Location: P04.63.01  
 >**Area:** P04 - 60-69 Evidence  
 >**Category:** 63 - 63 Physical  

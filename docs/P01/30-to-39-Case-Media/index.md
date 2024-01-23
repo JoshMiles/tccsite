@@ -1,18 +1,19 @@
 ---  
 staged: true  
 share: true  
-category: "P01/30-to-39-Case-Media"  
-jid: "P01.30.01"  
-pro: "P01"  
+category: P01/30-to-39-Case-Media  
+jid: P01.30.01  
+pro: P01  
 ac: "30"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "30 Index"  
-desc: "All images and videos pertaining to the case."  
-friendlyname: "Case Media Index"  
-title: "index"  
-alias: "P01-30-01, Case Media Index"  
+jarea: 30-39 Case Media  
+jcat: 30 Index  
+desc: All images and videos pertaining to the case.  
+friendlyname: Case Media Index  
+title: index  
+alias: P01-30-01, Case Media Index  
 ---  
+  
 >[!info]- Location: P01.30.01  
 >**Area:** P01 - 30-39 Case Media  
 >**Category:** 30 - 30 Index  

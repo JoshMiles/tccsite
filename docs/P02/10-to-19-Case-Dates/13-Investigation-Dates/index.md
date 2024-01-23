@@ -15,6 +15,7 @@ aliases:
   - P02-13-01  
   - Investigation Dates Index  
 ---  
+  
 >[!info]- Location: P02.13.01  
 >**Area:** P02 - 10-19 Case Dates  
 >**Category:** 13 - 13 Investigation Dates  

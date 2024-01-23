@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/80-to-89-Trial/81-Hearings"  
-jid: "P06.81.01"  
-pro: "P06"  
+category: P06/80-to-89-Trial/81-Hearings  
+jid: P06.81.01  
+pro: P06  
 ac: "81"  
 id: "01"  
-jarea: "80-89 Trial"  
-jcat: "81 Hearings"  
-desc: "Any details of pre-trial hearings, prelim hearings or hearings."  
-friendlyname: "Hearings Index"  
-title: "index"  
-alias: "P06-81-01, Hearings Index"  
+jarea: 80-89 Trial  
+jcat: 81 Hearings  
+desc: Any details of pre-trial hearings, prelim hearings or hearings.  
+friendlyname: Hearings Index  
+title: index  
+alias: P06-81-01, Hearings Index  
 ---  
+  
 >[!info]- Location: P06.81.01  
 >**Area:** P06 - 80-89 Trial  
 >**Category:** 81 - 81 Hearings  

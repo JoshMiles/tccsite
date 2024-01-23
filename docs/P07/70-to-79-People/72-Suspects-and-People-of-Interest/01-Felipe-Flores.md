@@ -1,5 +1,5 @@
 ---  
-share: True  
+share: true  
 category: P07/70-to-79-People/72-Suspects-and-People-of-Interest  
 jid: P07.72.01  
 pro: P07  
@@ -18,6 +18,7 @@ aliases:
   - Flores  
   - Phil  
 ---  
+  
 >[!info]- Location: P07.72.01  
 >**Area:** P07 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  
@@ -27,7 +28,7 @@ aliases:
   
 | Name                               | Felipe "Phil" Flores           |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![02-phil-flores\|200](../../../assets/attachments/02-phil-flores.jpg)|  
+| Photo?                             | ![02-phil-flores\|200](../../../Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/02-phil-flores.jpg)|  
 | Date of Birth?                     |            |  
 | Age?                               |            |  
 | Lives In?                          |            |  

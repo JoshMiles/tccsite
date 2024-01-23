@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/90-to-99-Miscellaneous"  
-jid: "P05.90.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/90-to-99-Miscellaneous  
+jid: P05.90.01  
+pro: P05  
 ac: "90"  
 id: "01"  
-jarea: "90-99 Miscellaneous"  
-jcat: "90 Index"  
-desc: "Misc files. Includes the script."  
-friendlyname: "Miscellaneous Index"  
-title: "index"  
-alias: "P05-90-01, Miscellaneous Index"  
+jarea: 90-99 Miscellaneous  
+jcat: 90 Index  
+desc: Misc files. Includes the script.  
+friendlyname: Miscellaneous Index  
+title: index  
+alias: P05-90-01, Miscellaneous Index  
 ---  
+  
 >[!info]- Location: P05.90.01  
 >**Area:** P05 - 90-99 Miscellaneous  
 >**Category:** 90 - 90 Index  

@@ -1,18 +1,19 @@
 ---  
-share: True  
-staged: True  
-category: "P05/30-to-39-Case-Media/34-Press-Video"  
-jid: "P05.34.01"  
-pro: "P05"  
+share: true  
+staged: true  
+category: P05/30-to-39-Case-Media/34-Press-Video  
+jid: P05.34.01  
+pro: P05  
 ac: "34"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "34 Press Video"  
-desc: "Any video clips from the press pertaining to the case."  
-friendlyname: "Press Video Index"  
-title: "index"  
-alias: "P05-34-01, Press Video Index"  
+jarea: 30-39 Case Media  
+jcat: 34 Press Video  
+desc: Any video clips from the press pertaining to the case.  
+friendlyname: Press Video Index  
+title: index  
+alias: P05-34-01, Press Video Index  
 ---  
+  
 >[!info]- Location: P05.34.01  
 >**Area:** P05 - 30-39 Case Media  
 >**Category:** 34 - 34 Press Video  

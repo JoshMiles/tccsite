@@ -1,19 +1,20 @@
 ---  
-staged: True  
+staged: true  
 share: true  
 STAGED: true  
-category: "P04/30-to-39-Case-Media/31-Crime-Scene"  
-jid: "P04.31.01"  
-pro: "P04"  
+category: P04/30-to-39-Case-Media/31-Crime-Scene  
+jid: P04.31.01  
+pro: P04  
 ac: "31"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "31 Crime Scene"  
-desc: "Imagery from the crime scene."  
-friendlyname: "Crime Scene Index"  
-title: "index"  
-alias: "P04-31-01, Crime Scene Index"  
+jarea: 30-39 Case Media  
+jcat: 31 Crime Scene  
+desc: Imagery from the crime scene.  
+friendlyname: Crime Scene Index  
+title: index  
+alias: P04-31-01, Crime Scene Index  
 ---  
+  
 >[!info]- Location: P04.31.01  
 >**Area:** P04 - 30-39 Case Media  
 >**Category:** 31 - 31 Crime Scene  

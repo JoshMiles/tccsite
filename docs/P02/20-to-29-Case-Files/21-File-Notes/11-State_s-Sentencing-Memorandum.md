@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.11"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.11  
+pro: P02  
 ac: "21"  
 id: "11"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "State's Sentencing Memorandum File Notes"  
-title: "11-State_s-Sentencing-Memorandum"  
-aliases:   
-- "P02.21.11"  
-- "State's Sentencing Memorandum File Notes"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: State's Sentencing Memorandum File Notes  
+title: 11-State_s-Sentencing-Memorandum  
+aliases:  
+  - P02.21.11  
+  - State's Sentencing Memorandum File Notes  
 ---  
+  
 >[!info]- Location: P02.21.11  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # State's Sentencing Memorandum File Notes  
   
-[13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
+[13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
   
-![](../../../assets/attachments/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/20_13-1-01546-8_125_STATE_S_SENTENCING_MEMORANDUM.pdf)  
   
 Sentencing scheduled for [Monday-February-23rd-2015](../../10-to-19-Case-Dates/13-Investigation-Dates/53-2015-02-23-Monday-February-23rd-2015.md), at 1:30pm. ^y3csb  
   

@@ -15,6 +15,7 @@ aliases:
   - P02-73-01  
   - Family and Friends Index  
 ---  
+  
 >[!info]- Location: P02.73.01  
 >**Area:** P02 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  

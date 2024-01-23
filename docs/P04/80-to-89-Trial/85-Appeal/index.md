@@ -31,7 +31,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                        | Friendly Name                                                                      | Description                                 |  
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |  
-| [P04.85.01](index.md) | [Appeal Index](index.md) | If applicable, information about appeal(s). |  
+| [[index\|P04.85.01]] | [[index\|Appeal Index]] | If applicable, information about appeal(s). |  
   
   
 ---  

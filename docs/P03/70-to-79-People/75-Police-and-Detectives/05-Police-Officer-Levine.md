@@ -17,6 +17,7 @@ aliases:
   - Police Officer Levine  
   - Levine  
 ---  
+  
 >[!info]- Location: P03.75.05  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

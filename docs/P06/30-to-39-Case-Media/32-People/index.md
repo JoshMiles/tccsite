@@ -1,17 +1,18 @@
 ---  
 share: true  
-category: "P06/30-to-39-Case-Media/32-People"  
-jid: "P06.32.01"  
-pro: "P06"  
+category: P06/30-to-39-Case-Media/32-People  
+jid: P06.32.01  
+pro: P06  
 ac: "32"  
 id: "01"  
-jarea: "30-39 Case Media"  
-jcat: "32 People"  
-desc: "Images of people involved."  
-friendlyname: "People Index"  
-title: "index"  
-alias: "P06-32-01, People Index"  
+jarea: 30-39 Case Media  
+jcat: 32 People  
+desc: Images of people involved.  
+friendlyname: People Index  
+title: index  
+alias: P06-32-01, People Index  
 ---  
+  
 >[!info]- Location: P06.32.01  
 >**Area:** P06 - 30-39 Case Media  
 >**Category:** 32 - 32 People  

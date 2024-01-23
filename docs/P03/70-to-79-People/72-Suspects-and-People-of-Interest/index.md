@@ -2,18 +2,19 @@
 share: true  
 shared: true  
 staged: true  
-category: "P03/70-to-79-People/72-Suspects-and-People-of-Interest"  
-jid: "P03.72.01"  
-pro: "P03"  
+category: P03/70-to-79-People/72-Suspects-and-People-of-Interest  
+jid: P03.72.01  
+pro: P03  
 ac: "72"  
 id: "01"  
-jarea: "70-79 People"  
-jcat: "72 Suspects and People of Interest"  
-desc: "Profiles about any suspects and/or people of interest."  
-friendlyname: "Suspects and People of Interest Index"  
-title: "index"  
-alias: "P03-72-01, Suspects and People of Interest Index"  
+jarea: 70-79 People  
+jcat: 72 Suspects and People of Interest  
+desc: Profiles about any suspects and/or people of interest.  
+friendlyname: Suspects and People of Interest Index  
+title: index  
+alias: P03-72-01, Suspects and People of Interest Index  
 ---  
+  
 >[!info]- Location: P03.72.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  
@@ -30,8 +31,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                                | Friendly Name                                                                                                                       | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P03.72.01](index.md)                    | [Suspects and People of Interest Index](index.md)    | Profiles about any suspects and/or people of interest. |  
 | [P03.72.01](./01-Magen-Rose-Fieramusca.md) | [Magan Rose Fieramusca](./01-Magen-Rose-Fieramusca.md) | Suspect                                                |  
+| [P03.72.01](index.md)                    | [Suspects and People of Interest Index](index.md)    | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

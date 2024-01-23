@@ -1,17 +1,18 @@
 ---  
-share: True  
-category: "P07/40-to-49-Articles/41-Article-Archive"  
-jid: "P07.41.01"  
-pro: "P07"  
+share: true  
+category: P07/40-to-49-Articles/41-Article-Archive  
+jid: P07.41.01  
+pro: P07  
 ac: "41"  
 id: "01"  
-jarea: "40-49 Articles"  
-jcat: "41 Article Archive"  
-desc: "Snapshots of the articles referenced."  
-friendlyname: "Article Archive Index"  
-title: "index"  
-alias: "P07-41-01, Article Archive Index"  
+jarea: 40-49 Articles  
+jcat: 41 Article Archive  
+desc: Snapshots of the articles referenced.  
+friendlyname: Article Archive Index  
+title: index  
+alias: P07-41-01, Article Archive Index  
 ---  
+  
 >[!info]- Location: P07.41.01  
 >**Area:** P07 - 40-49 Articles  
 >**Category:** 41 - 41 Article Archive  

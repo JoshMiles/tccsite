@@ -17,6 +17,7 @@ aliases:
   - Shane Carey  
   - Shane  
 ---  
+  
 >[!info]- Location: P03.73.01  
 >**Area:** P03 - 70-79 People  
 >**Category:** 73 - 73 Family and Friends  
@@ -26,7 +27,7 @@ aliases:
   
 | Name                               |            |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../assets/attachments/06-shane-carey.jpg) |  
+| Photo?                             | ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/06-shane-carey.jpg) |  
 | Date of Birth?                     |            |  
 | Age?                               |            |  
 | Lives In?                          |  Austin, Texas          |  

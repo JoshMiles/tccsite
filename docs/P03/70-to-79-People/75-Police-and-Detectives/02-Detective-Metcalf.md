@@ -19,6 +19,7 @@ aliases:
   - Detective Metcalf  
   - Ryan Metcalf  
 ---  
+  
 >[!info]- Location: P03.75.02  
 >**Area:** P03 - 70-79 People  
 >**Category:** 75 - 75 Police and Detectives  

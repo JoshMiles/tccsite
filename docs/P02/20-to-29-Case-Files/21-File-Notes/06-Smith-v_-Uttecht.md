@@ -1,20 +1,21 @@
 ---  
 staged: true  
 share: true  
-category: "P02/20-to-29-Case-Files/21-File-Notes"  
-jid: "P02.21.06"  
-pro: "P02"  
+category: P02/20-to-29-Case-Files/21-File-Notes  
+jid: P02.21.06  
+pro: P02  
 ac: "21"  
 id: "06"  
-jarea: "20-29 Case Files"  
-jcat: "21 File Notes"  
-desc: "File Note"  
-friendlyname: "Smith v. Uttecht File Notes"  
-title: "06-Smith-v_-Uttecht"  
-aliases:   
-- "P02.21.06"  
-- "Smith v. Uttecht File Notes"  
+jarea: 20-29 Case Files  
+jcat: 21 File Notes  
+desc: File Note  
+friendlyname: Smith v. Uttecht File Notes  
+title: 06-Smith-v_-Uttecht  
+aliases:  
+  - P02.21.06  
+  - Smith v. Uttecht File Notes  
 ---  
+  
 >[!info]- Location: P02.21.06  
 >**Area:** P02 - 20-29 Case Files  
 >**Category:** 21 - 21 File Notes  
@@ -22,9 +23,9 @@ aliases:
   
 # Smith v. Uttecht File Notes  
   
-[24_Smith_v_Uttecht.pdf](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
+[24_Smith_v_Uttecht.pdf](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/24_Smith_v_Uttecht.pdf)  
   
-![](../../../assets/attachments/24_Smith_v_Uttecht.pdf)  
+![](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/24_Smith_v_Uttecht.pdf)  
   
 [Alan Smith](../../70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md.md) was serving his sentence at Coyote Ridge Corrections Centre in [Connel, Washington](https://en.wikipedia.org/wiki/Connell,_Washington) in 2022.  
   

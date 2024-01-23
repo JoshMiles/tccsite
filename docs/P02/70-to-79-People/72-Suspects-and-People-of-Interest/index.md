@@ -15,6 +15,7 @@ aliases:
   - P02-72-01  
   - Suspects and People of Interest Index  
 ---  
+  
 >[!info]- Location: P02.72.01  
 >**Area:** P02 - 70-79 People  
 >**Category:** 72 - 72 Suspects and People of Interest  

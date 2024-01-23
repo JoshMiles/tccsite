@@ -14,6 +14,7 @@ aliases:
   - P06-01-01-Case-Updates-Sanda-Dia  
   - P06 Index  
 ---  
+  
 >[!info]- Location: P06.01.01  
 >**Area:** P06 - 00-09 Case Home  
 >**Category:** 01 - 01 Index  

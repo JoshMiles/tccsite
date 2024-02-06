@@ -32,12 +32,12 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                                    | Friendly Name                                                                                                     | Description                                                       |  
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P02.52.01]]              | [[index\|Key Locations Index]]          | Information and notes about key locations pertaining to the case. |  
-| [[./02-Boeing\|P02.52.02]]          | [[./02-Boeing\|Boeing]]                   | Location                                                          |  
-| [[./03-Canyon-Park-QFC\|P02.52.03]] | [[./03-Canyon-Park-QFC\|Canyon Park QFC]] | Location                                                          |  
-| [[./04-The-Smith-House\|P02.52.04]] | [[./04-The-Smith-House\|The Smith House]] | Location                                                          |  
-| [[./05-Bothell\|P02.52.05]]         | [[./05-Bothell\|Bothell]]                 | Location                                                          |  
-| [[./06-Apartment\|P02.52.06]]       | [[./06-Apartment\|Apartment]]             | Location                                                          |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/index.md\|P02.52.01]]              | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/index.md\|Key Locations Index]]          | Information and notes about key locations pertaining to the case. |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/02-Boeing.md\|P02.52.02]]          | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/02-Boeing.md\|Boeing]]                   | Location                                                          |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/03-Canyon-Park-QFC.md\|P02.52.03]] | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/03-Canyon-Park-QFC.md\|Canyon Park QFC]] | Location                                                          |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/04-The-Smith-House.md\|P02.52.04]] | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/04-The-Smith-House.md\|The Smith House]] | Location                                                          |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/05-Bothell.md\|P02.52.05]]         | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/05-Bothell.md\|Bothell]]                 | Location                                                          |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/06-Apartment.md\|P02.52.06]]       | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/52-Key-Locations/06-Apartment.md\|Apartment]]             | Location                                                          |  
   
   
 ---  

@@ -29,9 +29,9 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                  | Description                                  |  
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [P07.75.01](index.md)               | [Police and Detectives Index](index.md)    | Profiles regarding law enforcement involved. |  
-| [P07.75.01](./01-Andrew-McClellan.md) | [Andrew McClellan](./01-Andrew-McClellan.md) | Lead Detective                               |  
-| [P07.75.02](./02-Shane-Casey.md)      | [Shane Casey](./02-Shane-Casey.md)           | Chief of Police                              |  
+| [[index\|P07.75.01]]               | [[index\|Police and Detectives Index]]    | Profiles regarding law enforcement involved. |  
+| [[./01-Andrew-McClellan\|P07.75.01]] | [[./01-Andrew-McClellan\|Andrew McClellan]] | Lead Detective                               |  
+| [[./02-Shane-Casey\|P07.75.02]]      | [[./02-Shane-Casey\|Shane Casey]]           | Chief of Police                              |  
   
   
 ---  

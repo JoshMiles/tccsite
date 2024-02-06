@@ -31,7 +31,7 @@ Notes for the articles
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                       | Description             |  
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |  
-| [[index\|P04.42.01]] | [[index\|Article Notes Index]] | Notes for the articles. |  
+| [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/42-Article-Notes/index.md\|P04.42.01]] | [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]] | Notes for the articles. |  
   
   
 ---  

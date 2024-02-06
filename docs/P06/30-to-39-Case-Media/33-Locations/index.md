@@ -30,7 +30,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                   | Description                       |  
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P06.33.01]] | [[index\|Locations Index]] | Images of the locations involved. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/30-to-39-Case-Media/33-Locations/index.md\|P06.33.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/30-to-39-Case-Media/33-Locations/index.md\|Locations Index]] | Images of the locations involved. |  
   
   
 ---  

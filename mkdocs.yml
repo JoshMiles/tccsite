@@ -72,11 +72,6 @@ markdown_extensions:
       toc_depth: 1-7
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
   - meta-descriptions

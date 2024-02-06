@@ -31,7 +31,7 @@ Information about the digital evidence
   
 | J.Dec ID                                                                       | Friendly Name                                                                               | Description                             |  
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P03.61.01](index.md) | [Digital Evidence Index](index.md) | Information about the digital evidence. |  
+| [[index\|P03.61.01]] | [[index\|Digital Evidence Index]] | Information about the digital evidence. |  
   
   
 ---  

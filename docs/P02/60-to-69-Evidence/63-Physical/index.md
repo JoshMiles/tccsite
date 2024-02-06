@@ -32,13 +32,13 @@ Information about the physical evidence
   
 | J.Dec ID                                                                                           | Friendly Name                                                                                             | Description                             |  
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P02.63.01]]               | [[index\|Physical Evidence Index]]        | Information about the physical evidence |  
-| [[./02-Bicycle\|P02.63.02]]          | [[./02-Bicycle\|Bicycle]]                   | Physical Evidence                       |  
-| [[./03-Kleenguard\|P02.63.03]]       | [[./03-Kleenguard\|Kleenguard]]             | Physical Evidence                       |  
-| [[./04-Mallet\|P02.63.04]]           | [[./04-Mallet\|Mallet]]                     | Physical Evidence                       |  
-| [[./05-Car\|P02.63.05]]              | [[./05-Car\|Car]]                           | Physical Evidence                       |  
-| [[./06-Roll-of-Tape\|P02.63.06]]     | [[./06-Roll-of-Tape\|Roll of Tape]]         | Physical Evidence                       |  
-| [[./07-Croc-style-Shoes\|P02.63.07]] | [[./07-Croc-style-Shoes\|Croc-style Shoes]] | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/index.md\|P02.63.01]]               | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]]        | Information about the physical evidence |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/02-Bicycle.md\|P02.63.02]]          | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/02-Bicycle.md\|Bicycle]]                   | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/03-Kleenguard.md\|P02.63.03]]       | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/03-Kleenguard.md\|Kleenguard]]             | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/04-Mallet.md\|P02.63.04]]           | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/04-Mallet.md\|Mallet]]                     | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/05-Car.md\|P02.63.05]]              | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/05-Car.md\|Car]]                           | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/06-Roll-of-Tape.md\|P02.63.06]]     | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/06-Roll-of-Tape.md\|Roll of Tape]]         | Physical Evidence                       |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/07-Croc-style-Shoes.md\|P02.63.07]] | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/07-Croc-style-Shoes.md\|Croc-style Shoes]] | Physical Evidence                       |  
   
   
 ---  

@@ -31,10 +31,10 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                         | Description                                                       |  
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[./01-Apartment\|P03.52.01]]        | [[./01-Apartment\|Apartment]]                      | Location                                                          |  
-| [[index\|P03.52.01]]               | [[index\|Key Locations Index]]                   | Information and notes about key locations pertaining to the case. |  
-| [[./02-Cowan-Elementary\|P03.52.02]] | [[./02-Cowan-Elementary\|Cowan Elementary School]] | Location                                                          |  
-| [[./03-Magen-House\|P03.52.03]]      | [[./03-Magen-House\|Magen's House]]                | Location                                                          |  
+| [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/01-Apartment.md\|P03.52.01]]        | [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/01-Apartment.md\|Apartment]]                      | Location                                                          |  
+| [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/index.md\|P03.52.01]]               | [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/index.md\|Key Locations Index]]                   | Information and notes about key locations pertaining to the case. |  
+| [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/02-Cowan-Elementary.md\|P03.52.02]] | [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/02-Cowan-Elementary.md\|Cowan Elementary School]] | Location                                                          |  
+| [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/03-Magen-House.md\|P03.52.03]]      | [[Cases/P03-Heidi-Broussard/50-to-59-Investigation/52-Key-Locations/03-Magen-House.md\|Magen's House]]                | Location                                                          |  
   
   
 ---  

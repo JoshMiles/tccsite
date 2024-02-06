@@ -29,8 +29,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                       | Friendly Name                                                                                                                   | Description                                            |  
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[./01-Felipe-Flores\|P07.72.01]] | [[./01-Felipe-Flores\|Felipe Flores]]              | Suspect                                                |  
-| [[index\|P07.72.01]]            | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/72-Suspects-and-People-of-Interest/01-Felipe-Flores.md\|P07.72.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/72-Suspects-and-People-of-Interest/01-Felipe-Flores.md\|Felipe Flores]]              | Suspect                                                |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|P07.72.01]]            | [[Cases/P07-Samantha-Harer/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

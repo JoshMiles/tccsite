@@ -32,9 +32,9 @@ Information about the digital evidence
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                    | Description                             |  
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [[index\|P02.61.01]]         | [[index\|Digital Evidence Index]] | Information about the digital evidence. |  
-| [[./02-CCTV\|P02.61.02]]       | [[./02-CCTV\|CCTV]]                 | Digital Evidence                        |  
-| [[./03-Garmin-GPS\|P02.61.03]] | [[./03-Garmin-GPS\|Garmin GPS]]     | Digital Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/index.md\|P02.61.01]]         | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]] | Information about the digital evidence. |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/02-CCTV.md\|P02.61.02]]       | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/02-CCTV.md\|CCTV]]                 | Digital Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/03-Garmin-GPS.md\|P02.61.03]] | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/03-Garmin-GPS.md\|Garmin GPS]]     | Digital Evidence                        |  
   
   
 ---  

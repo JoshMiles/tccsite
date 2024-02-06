@@ -29,7 +29,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                            | Friendly Name                                                                           | Description                                                                                 |  
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [[index\|P06.76.01]] | [[index\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/76-Experts/index.md\|P06.76.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/76-Experts/index.md\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

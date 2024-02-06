@@ -30,7 +30,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                  | Friendly Name                                                                     | Description                             |  
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P01.77.01]] | [[index\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
+| [[Cases/P01-John-Doe/70-to-79-People/77-Legal-Teams/index.md\|P01.77.01]] | [[Cases/P01-John-Doe/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
   
   
 ---  

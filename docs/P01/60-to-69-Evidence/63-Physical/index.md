@@ -30,7 +30,7 @@ Information about the physical evidence
   
 | J.Dec ID                                                                 | Friendly Name                                                                          | Description                             |  
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P01.63.01]] | [[index\|Physical Evidence Index]] | Information about the physical evidence |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/63-Physical/index.md\|P01.63.01]] | [[Cases/P01-John-Doe/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]] | Information about the physical evidence |  
   
   
 ---  

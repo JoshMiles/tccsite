@@ -31,10 +31,10 @@ The dates are structured as follows: `YYYY-MM-DD-DAY-MONTH-DATE-YEAR` e.g `2020-
   
 | J.Dec ID                                                                              | Friendly Name                                                                                         | Description                                                                               |  
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [[index\|P01.10.01]]                        | [[index\|Case Dates Index]]                                 | Important dates pertaining to the case.                                                   |  
-| [[./11-Background-Dates/index\|P01.11.01]]    | [[./11-Background-Dates/index\|Background Dates Index]]       | This includes dates from before the events of the case took place. E.g date of a divorce. |  
-| [[./12-Crime-Dates/index\|P01.12.01]]         | [[./12-Crime-Dates/index\|Crime Dates Index]]                 | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
-| [[./13-Investigation-Dates/index\|P01.13.01]] | [[./13-Investigation-Dates/index\|Investigation Dates Index]] | This includes dates referenced from the investigation process.                            |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/index.md\|P01.10.01]]                        | [[Cases/P01-John-Doe/10-to-19-Case-Dates/index.md\|Case Dates Index]]                                 | Important dates pertaining to the case.                                                   |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/11-Background-Dates/index.md\|P01.11.01]]    | [[Cases/P01-John-Doe/10-to-19-Case-Dates/11-Background-Dates/index.md\|Background Dates Index]]       | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P01.12.01]]         | [[Cases/P01-John-Doe/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]]                 | This includes dates from the actual crime itself. Usually just the date of the murder.    |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|P01.13.01]] | [[Cases/P01-John-Doe/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|Investigation Dates Index]] | This includes dates referenced from the investigation process.                            |  
   
   
 ---  

@@ -30,7 +30,7 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                         | Friendly Name                                                                                  | Description                              |  
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P05.62.01]] | [[index\|Forensic Evidence Index]] | Information about the forensic evidence. |  
+| [[Cases/P05-Gold-Sock-Killer/60-to-69-Evidence/62-Forensic/index.md\|P05.62.01]] | [[Cases/P05-Gold-Sock-Killer/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]] | Information about the forensic evidence. |  
   
   
 ---  

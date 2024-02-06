@@ -32,9 +32,9 @@ Profiles about witnesses
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                        | Description               |  
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P02.74.01]]             | [[index\|Witnesses Index]]            | Profiles about witnesses. |  
-| [[./02-Wendell-Morris\|P02.74.02]] | [[./02-Wendell-Morris\|Wendell Morris]] | Witness                   |  
-| [[./03-Truck-Driver\|P02.74.03]]   | [[./03-Truck-Driver\|Truck Driver]]     | Witness                   |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/index.md\|P02.74.01]]             | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]]            | Profiles about witnesses. |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/02-Wendell-Morris.md\|P02.74.02]] | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/02-Wendell-Morris.md\|Wendell Morris]] | Witness                   |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/03-Truck-Driver.md\|P02.74.03]]   | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/74-Witnesses/03-Truck-Driver.md\|Truck Driver]]     | Witness                   |  
   
   
 ---  

@@ -29,7 +29,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                              | Friendly Name                                                                               | Description               |  
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P06.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/74-Witnesses/index.md\|P06.74.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

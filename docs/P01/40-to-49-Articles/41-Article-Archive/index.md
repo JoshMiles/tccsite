@@ -30,7 +30,7 @@ Snapshots of the articles referenced
   
 | J.Dec ID                                                                        | Friendly Name                                                                               | Description                           |  
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[index\|P01.41.01]] | [[index\|Article Archive Index]] | Snapshots of the articles referenced. |  
+| [[Cases/P01-John-Doe/40-to-49-Articles/41-Article-Archive/index.md\|P01.41.01]] | [[Cases/P01-John-Doe/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]] | Snapshots of the articles referenced. |  
   
   
 ---  

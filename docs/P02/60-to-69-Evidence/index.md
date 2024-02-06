@@ -32,22 +32,22 @@ Information about the evidence
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                                 | Description                              |  
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P02.60.01]]                             | [[index\|Evidence Index]]                                 | Information about the evidence.          |  
-| [[./61-Digital/index\|P02.61.01]]                  | [[./61-Digital/index\|Digital Evidence Index]]              | Information about the digital evidence.  |  
-| [[./61-Digital/02-CCTV\|P02.61.02]]                | [[./61-Digital/02-CCTV\|CCTV]]                              | Digital Evidence                         |  
-| [[./61-Digital/03-Garmin-GPS\|P02.61.03]]          | [[./61-Digital/03-Garmin-GPS\|Garmin GPS]]                  | Digital Evidence                         |  
-| [[./62-Forensic/index\|P02.62.01]]                 | [[./62-Forensic/index\|Forensic Evidence Index]]            | Information about the forensic evidence. |  
-| [[./62-Forensic/02-Autopsy\|P02.62.02]]            | [[./62-Forensic/02-Autopsy\|Autopsy]]                       | Forensic Evidence                        |  
-| [[./62-Forensic/03-Footprint-Analysis\|P02.62.03]] | [[./62-Forensic/03-Footprint-Analysis\|Footprint Analysis]] | Forensic Evidence                        |  
-| [[./62-Forensic/04-Forensic-Evidence\|P02.62.04]]  | [[./62-Forensic/04-Forensic-Evidence\|Forensic Evidence]]   | Forensic Evidence                        |  
-| [[./62-Forensic/05-DNA\|P02.62.05]]                | [[./62-Forensic/05-DNA\|DNA]]                               | Forensic Evidence                        |  
-| [[./63-Physical/index\|P02.63.01]]                 | [[./63-Physical/index\|Physical Evidence Index]]            | Information about the physical evidence  |  
-| [[./63-Physical/02-Bicycle\|P02.63.02]]            | [[./63-Physical/02-Bicycle\|Bicycle]]                       | Physical Evidence                        |  
-| [[./63-Physical/03-Kleenguard\|P02.63.03]]         | [[./63-Physical/03-Kleenguard\|Kleenguard]]                 | Physical Evidence                        |  
-| [[./63-Physical/04-Mallet\|P02.63.04]]             | [[./63-Physical/04-Mallet\|Mallet]]                         | Physical Evidence                        |  
-| [[./63-Physical/05-Car\|P02.63.05]]                | [[./63-Physical/05-Car\|Car]]                               | Physical Evidence                        |  
-| [[./63-Physical/06-Roll-of-Tape\|P02.63.06]]       | [[./63-Physical/06-Roll-of-Tape\|Roll of Tape]]             | Physical Evidence                        |  
-| [[./63-Physical/07-Croc-style-Shoes\|P02.63.07]]   | [[./63-Physical/07-Croc-style-Shoes\|Croc-style Shoes]]     | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/index.md\|P02.60.01]]                             | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/index.md\|Evidence Index]]                                 | Information about the evidence.          |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/index.md\|P02.61.01]]                  | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]]              | Information about the digital evidence.  |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/02-CCTV.md\|P02.61.02]]                | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/02-CCTV.md\|CCTV]]                              | Digital Evidence                         |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/03-Garmin-GPS.md\|P02.61.03]]          | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/61-Digital/03-Garmin-GPS.md\|Garmin GPS]]                  | Digital Evidence                         |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/index.md\|P02.62.01]]                 | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]]            | Information about the forensic evidence. |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/02-Autopsy.md\|P02.62.02]]            | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/02-Autopsy.md\|Autopsy]]                       | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/03-Footprint-Analysis.md\|P02.62.03]] | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/03-Footprint-Analysis.md\|Footprint Analysis]] | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/04-Forensic-Evidence.md\|P02.62.04]]  | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/04-Forensic-Evidence.md\|Forensic Evidence]]   | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/05-DNA.md\|P02.62.05]]                | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/05-DNA.md\|DNA]]                               | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/index.md\|P02.63.01]]                 | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]]            | Information about the physical evidence  |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/02-Bicycle.md\|P02.63.02]]            | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/02-Bicycle.md\|Bicycle]]                       | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/03-Kleenguard.md\|P02.63.03]]         | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/03-Kleenguard.md\|Kleenguard]]                 | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/04-Mallet.md\|P02.63.04]]             | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/04-Mallet.md\|Mallet]]                         | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/05-Car.md\|P02.63.05]]                | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/05-Car.md\|Car]]                               | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/06-Roll-of-Tape.md\|P02.63.06]]       | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/06-Roll-of-Tape.md\|Roll of Tape]]             | Physical Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/07-Croc-style-Shoes.md\|P02.63.07]]   | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/63-Physical/07-Croc-style-Shoes.md\|Croc-style Shoes]]     | Physical Evidence                        |  
   
   
 ---  

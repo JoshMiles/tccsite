@@ -30,7 +30,7 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                   | Friendly Name                                                                                        | Description                                                       |  
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P05.52.01]] | [[index\|Key Locations Index]] | Information and notes about key locations pertaining to the case. |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/52-Key-Locations/index.md\|P05.52.01]] | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/52-Key-Locations/index.md\|Key Locations Index]] | Information and notes about key locations pertaining to the case. |  
   
   
 ---  

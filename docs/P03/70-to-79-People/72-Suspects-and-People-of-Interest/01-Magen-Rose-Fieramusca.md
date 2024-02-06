@@ -32,7 +32,7 @@ aliases:
   
 | Name                               |  Magen Rose Fieramusca          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/15-magen-mugshot.jpg) |  
+| Photo?                             |  |  
 | Date of Birth?                     |  1986/01/13          |  
 | Age?                               |            |  
 | Lives In?                          | Houston, Texas, USA           |  

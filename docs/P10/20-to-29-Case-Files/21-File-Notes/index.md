@@ -29,7 +29,7 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                      | Friendly Name                                                                                        | Description                                                |  
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [[index\|P10.21.01]] | [[index\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/20-to-29-Case-Files/21-File-Notes/index.md\|P10.21.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/20-to-29-Case-Files/21-File-Notes/index.md\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
   
   
 ---  

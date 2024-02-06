@@ -31,7 +31,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                            | Friendly Name                                                                              | Description                       |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------- |  
-| [[index\|P04.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/84-Sentencing/index.md\|P04.84.01]] | [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

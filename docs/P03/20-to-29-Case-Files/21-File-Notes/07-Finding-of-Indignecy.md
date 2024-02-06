@@ -24,4 +24,4 @@ aliases:
   
 # Finding of Indignecy  
   
-![07-Magen-Fieramusca-Cases-Finding-of-Indignecy](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/07-Magen-Fieramusca-Cases-Finding-of-Indignecy.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![07-Magen-Fieramusca-Cases-Finding-of-Indignecy](../22-PDFs/07-Magen-Fieramusca-Cases-Finding-of-Indignecy.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  

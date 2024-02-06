@@ -29,7 +29,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                                   | Friendly Name                                                                                      | Description                             |  
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P10.77.01]] | [[index\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/77-Legal-Teams/index.md\|P10.77.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
   
   
 ---  

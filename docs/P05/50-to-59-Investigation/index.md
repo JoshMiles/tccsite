@@ -30,11 +30,11 @@ Information pertaining to the investigation
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                                | Description                                                       |  
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |  
-| [[index\|P05.50.01]]                            | [[index\|Investigation Index]]                          | Information pertaining to the investigation.                      |  
-| [[./51-Interviews/index\|P05.51.01]]              | [[./51-Interviews/index\|Interviews Index]]               | Writeups and notes about interviews conducted by law enforcement. |  
-| [[./52-Key-Locations/index\|P05.52.01]]           | [[./52-Key-Locations/index\|Key Locations Index]]         | Information and notes about key locations pertaining to the case. |  
-| [[./53-Timeline/index\|P05.53.01]]                | [[./53-Timeline/index\|Timeline Index]]                   | Contains the timeline of events.                                  |  
-| [[./53-Timeline/02-Detailed-Timeline\|P05.53.02]] | [[./53-Timeline/02-Detailed-Timeline\|Detailed Timeline]] | Detailed timeline of events.                                      |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/index.md\|P05.50.01]]                            | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/index.md\|Investigation Index]]                          | Information pertaining to the investigation.                      |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/51-Interviews/index.md\|P05.51.01]]              | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/51-Interviews/index.md\|Interviews Index]]               | Writeups and notes about interviews conducted by law enforcement. |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/52-Key-Locations/index.md\|P05.52.01]]           | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/52-Key-Locations/index.md\|Key Locations Index]]         | Information and notes about key locations pertaining to the case. |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/index.md\|P05.53.01]]                | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/index.md\|Timeline Index]]                   | Contains the timeline of events.                                  |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|P05.53.02]] | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|Detailed Timeline]] | Detailed timeline of events.                                      |  
   
   
 ---  

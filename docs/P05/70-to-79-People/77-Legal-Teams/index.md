@@ -30,7 +30,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                          | Friendly Name                                                                             | Description                             |  
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P05.77.01](index.md) | [Legal Teams Index](index.md) | Profiles of individuals on legal teams. |  
+| [[index\|P05.77.01]] | [[index\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
   
   
 ---  

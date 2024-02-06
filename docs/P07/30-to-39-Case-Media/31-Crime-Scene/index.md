@@ -31,7 +31,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                            | Friendly Name                                                                               | Description                   |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [[index\|P07.31.01]] | [[index\|Crime Scene Index]] | Imagery from the crime scene. |  
+| [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/31-Crime-Scene/index.md\|P07.31.01]] | [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/31-Crime-Scene/index.md\|Crime Scene Index]] | Imagery from the crime scene. |  
   
   
 ---  

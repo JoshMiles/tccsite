@@ -31,7 +31,7 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                               | Description                                                                               |  
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [[index\|P04.11.01]] | [[index\|Background Dates Index]] | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/11-Background-Dates/index.md\|P04.11.01]] | [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/11-Background-Dates/index.md\|Background Dates Index]] | This includes dates from before the events of the case took place. E.g date of a divorce. |  
   
   
 ---  

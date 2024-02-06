@@ -30,7 +30,7 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                              | Friendly Name                                                                                 | Description                                                                            |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [P05.12.01](index.md) | [Crime Dates Index](index.md) | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[index\|P05.12.01]] | [[index\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

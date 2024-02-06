@@ -32,7 +32,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                            | Friendly Name                                                                              | Description                       |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------- |  
-| [[index\|P02.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P02-Case-of-Susann-Smith/80-to-89-Trial/84-Sentencing/index.md\|P02.84.01]] | [[Cases/P02-Case-of-Susann-Smith/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

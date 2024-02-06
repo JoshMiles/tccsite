@@ -30,10 +30,10 @@ The articles used in the research
   
 | J.Dec ID                                                                                                        | Friendly Name                                                                                                                     | Description                           |  
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[index\|P03.40.01]]                                             | [[index\|Articles Index]]                                                          | The articles used in the research.    |  
-| [[./41-Article-Archive/01-Web-Sleuths-Timeline-Thread\|P03.41.01]] | [[./41-Article-Archive/01-Web-Sleuths-Timeline-Thread\|Web Sleuths Timeline Thread]] | Archive of Complete Thread            |  
-| [[./41-Article-Archive/index\|P03.41.01]]                          | [[./41-Article-Archive/index\|Article Archive Index]]                                | Snapshots of the articles referenced. |  
-| [[./42-Article-Notes/index\|P03.42.01]]                            | [[./42-Article-Notes/index\|Article Notes Index]]                                    | Notes for the articles.               |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/index.md\|P03.40.01]]                                             | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/index.md\|Articles Index]]                                                          | The articles used in the research.    |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md\|P03.41.01]] | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md\|Web Sleuths Timeline Thread]] | Archive of Complete Thread            |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/index.md\|P03.41.01]]                          | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]]                                | Snapshots of the articles referenced. |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/42-Article-Notes/index.md\|P03.42.01]]                            | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]]                                    | Notes for the articles.               |  
   
   
 ---  

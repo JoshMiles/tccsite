@@ -30,7 +30,7 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                             | Friendly Name                                                                               | Description                                                |  
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [[index\|P05.21.01]] | [[index\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
+| [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/21-File-Notes/index.md\|P05.21.01]] | [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/21-File-Notes/index.md\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
   
   
 ---  

@@ -32,10 +32,10 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                      | Description                             |  
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P02.77.01]]           | [[index\|Legal Teams Index]]      | Profiles of individuals on legal teams. |  
-| [[./02-John-Ely\|P02.77.02]]     | [[./02-John-Ely\|John Ely]]         | Divorce Attorney                        |  
-| [[./03-Commissioner\|P02.77.03]] | [[./03-Commissioner\|Commissioner]] | The Commissioner                        |  
-| [[./04-Judge-Fair\|P02.77.04]]   | [[./04-Judge-Fair\|Judge Fair]]     | Judge                                   |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/index.md\|P02.77.01]]           | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]]      | Profiles of individuals on legal teams. |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/02-John-Ely.md\|P02.77.02]]     | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/02-John-Ely.md\|John Ely]]         | Divorce Attorney                        |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/03-Commissioner.md\|P02.77.03]] | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/03-Commissioner.md\|Commissioner]] | The Commissioner                        |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/04-Judge-Fair.md\|P02.77.04]]   | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/77-Legal-Teams/04-Judge-Fair.md\|Judge Fair]]     | Judge                                   |  
   
   
 ---  

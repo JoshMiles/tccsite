@@ -2,8 +2,8 @@
 staged: true  
 share: true  
 category: P01/90-to-99-Miscellaneous/91-Script  
-jid: P01.91.01  
-pro: P01  
+jid: P02.91.01  
+pro: P02  
 ac: "91"  
 id: "01"  
 jarea: 90-99 Miscellaneous  
@@ -11,15 +11,17 @@ jcat: 91 Script Folder
 desc: This folder contains the script.  
 friendlyname: Script Folder Index  
 title: index  
-alias: P01-91-01, Script Folder Index  
+aliases:  
+  - P02.91.01  
+  - Script Folder Index  
 ---  
   
->[!info]- Location: P01.91.01  
->**Area:** P01 - 90-99 Miscellaneous  
+>[!info]- Location: P02.91.01  
+>**Area:** P02 - 90-99 Miscellaneous  
 >**Category:** 91 - 91 Script Folder  
->**ID:** 01 - Script Folder Index  
+>**ID:** 01 - Script Folder  
   
-# Script Folder Index  
+# Script Folder  
   
 This folder contains the script.  
    
@@ -28,10 +30,10 @@ This folder contains the script.
 ---  
 # In This Category  
   
-| J.Dec ID                                                                            | Friendly Name                                                                         | Description                       |  
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P01.91.01]]         | [[index\|Script Folder Index]] | This folder contains the script.  |  
-| [[./92-The-Script\|P01.91.02]] | [[./92-The-Script\|The Script]]  | This is the script for this case. |  
+| J.Dec ID                                                                                        | Friendly Name                                                                                     | Description                       |  
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------- |  
+| [[Cases/P02-Case-of-Susann-Smith/90-to-99-Miscellaneous/91-Script/index.md\|P02.91.01]]         | [[Cases/P02-Case-of-Susann-Smith/90-to-99-Miscellaneous/91-Script/index.md\|Script Folder Index]] | This folder contains the script.  |  
+| [[Cases/P02-Case-of-Susann-Smith/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|P02.91.02]] | [[Cases/P02-Case-of-Susann-Smith/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|The Script]]  | This is the script for this case. |  
   
   
 ---  

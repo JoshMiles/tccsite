@@ -30,7 +30,7 @@ Any video clips from the trial or investigation
   
 | J.Dec ID                                                                           | Friendly Name                                                                             | Description                                      |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------ |  
-| [[index\|P07.35.01]] | [[index\|Case Video Index]] | Any video clips from the trial or investigation. |  
+| [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/35-Case-Video/index.md\|P07.35.01]] | [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/35-Case-Video/index.md\|Case Video Index]] | Any video clips from the trial or investigation. |  
   
   
 ---  

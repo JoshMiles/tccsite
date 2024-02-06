@@ -30,7 +30,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                | Friendly Name                                                                 | Description               |  
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P01.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P01-John-Doe/70-to-79-People/74-Witnesses/index.md\|P01.74.01]] | [[Cases/P01-John-Doe/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

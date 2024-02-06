@@ -29,7 +29,7 @@ This includes dates referenced from the investigation process
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                               | Description                                                    |  
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |  
-| [[index\|P07.13.01]] | [[index\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
+| [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|P07.13.01]] | [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
   
   
 ---  

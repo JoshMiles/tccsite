@@ -29,8 +29,8 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                                                               | Friendly Name                                                                                                                          | Description                                                                               |  
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [P07.11.01](index.md)                               | [Background Dates Index](index.md)                                  | This includes dates from before the events of the case took place. E.g date of a divorce. |  
-| [P07.11.01](./2018-2-12-Monday-February-12th-2018.md) | [Monday February 12th 2018](./2018-2-12-Monday-February-12th-2018.md) | Date                                                                                      |  
+| [[index\|P07.11.01]]                               | [[index\|Background Dates Index]]                                  | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [[./2018-2-12-Monday-February-12th-2018\|P07.11.01]] | [[./2018-2-12-Monday-February-12th-2018\|Monday February 12th 2018]] | Date                                                                                      |  
   
   
 ---  

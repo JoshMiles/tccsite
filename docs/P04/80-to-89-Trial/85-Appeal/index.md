@@ -31,7 +31,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                        | Friendly Name                                                                      | Description                                 |  
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |  
-| [[index\|P04.85.01]] | [[index\|Appeal Index]] | If applicable, information about appeal(s). |  
+| [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/85-Appeal/index.md\|P04.85.01]] | [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]] | If applicable, information about appeal(s). |  
   
   
 ---  

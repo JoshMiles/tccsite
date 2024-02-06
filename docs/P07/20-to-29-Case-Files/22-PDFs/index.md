@@ -29,7 +29,7 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                     | Friendly Name                                                                 | Description                     |  
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------- |  
-| [[index\|P07.22.01]] | [[index\|PDFs Index]] | The folder containing the PDFs. |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/index.md\|P07.22.01]] | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/index.md\|PDFs Index]] | The folder containing the PDFs. |  
   
   
 ---  

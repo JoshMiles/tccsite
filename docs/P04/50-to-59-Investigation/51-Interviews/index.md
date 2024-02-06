@@ -31,7 +31,7 @@ Writeups and notes about interviews conducted by law enforcement
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                      | Description                                                       |  
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P04.51.01]] | [[index\|Interviews Index]] | Writeups and notes about interviews conducted by law enforcement. |  
+| [[Cases/P04-Swedish-Moose-Murder/50-to-59-Investigation/51-Interviews/index.md\|P04.51.01]] | [[Cases/P04-Swedish-Moose-Murder/50-to-59-Investigation/51-Interviews/index.md\|Interviews Index]] | Writeups and notes about interviews conducted by law enforcement. |  
   
   
 ---  

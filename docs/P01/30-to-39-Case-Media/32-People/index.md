@@ -30,7 +30,7 @@ Images of people involved
   
 | J.Dec ID                                                                 | Friendly Name                                                               | Description                |  
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | -------------------------- |  
-| [[index\|P01.32.01]] | [[index\|People Index]] | Images of people involved. |  
+| [[Cases/P01-John-Doe/30-to-39-Case-Media/32-People/index.md\|P01.32.01]] | [[Cases/P01-John-Doe/30-to-39-Case-Media/32-People/index.md\|People Index]] | Images of people involved. |  
   
   
 ---  

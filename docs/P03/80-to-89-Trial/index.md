@@ -31,12 +31,12 @@ Details of the trial
   
 | J.Dec ID                                                                              | Friendly Name                                                                                       | Description                                                     |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [[index\|P03.80.01]]                      | [[index\|Trial Index]]                                  | Details of the trial.                                           |  
-| [[./81-Hearings/index\|P03.81.01]]          | [[./81-Hearings/index\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
-| [[./82-Trial-Proceedings/index\|P03.82.01]] | [[./82-Trial-Proceedings/index\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
-| [[./83-Judgement/index\|P03.83.01]]         | [[./83-Judgement/index\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
-| [[./84-Sentencing/index\|P03.84.01]]        | [[./84-Sentencing/index\|Sentencing Index]]               | Information about the sentencing.                               |  
-| [[./85-Appeal/index\|P03.85.01]]            | [[./85-Appeal/index\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/index.md\|P03.80.01]]                      | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/index.md\|Trial Index]]                                  | Details of the trial.                                           |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/81-Hearings/index.md\|P03.81.01]]          | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/81-Hearings/index.md\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/82-Trial-Proceedings/index.md\|P03.82.01]] | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/83-Judgement/index.md\|P03.83.01]]         | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/84-Sentencing/index.md\|P03.84.01]]        | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]]               | Information about the sentencing.                               |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/85-Appeal/index.md\|P03.85.01]]            | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
   
   
 ---  

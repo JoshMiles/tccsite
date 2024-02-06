@@ -31,7 +31,7 @@ Anything and everything that happened during trial
   
 | J.Dec ID                                                                              | Friendly Name                                                                                       | Description                                         |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P03.82.01]] | [[index\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/82-Trial-Proceedings/index.md\|P03.82.01]] | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
   
   
 ---  

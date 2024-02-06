@@ -31,12 +31,12 @@ Information about the physical evidence
   
 | J.Dec ID                                                                                      | Friendly Name                                                                                          | Description                             |  
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [[./01-Honda-Fit\|P03.63.01]]        | [[./01-Honda-Fit\|Honda Fit]]                 | Heidi's Vehicle                         |  
-| [[index\|P03.63.01]]               | [[index\|Physical Evidence Index]]          | Information about the physical evidence |  
-| [[./02-Heidi-Cell-Phone\|P03.63.02]] | [[./02-Heidi-Cell-Phone\|Heidi's Cell Phone]] | Cell Phone                              |  
-| [[./03-Heidi-Keys\|P03.63.03]]       | [[./03-Heidi-Keys\|Heidi's Keys]]             | Keys                                    |  
-| [[./04-Apartment-Key\|P03.63.04]]    | [[./04-Apartment-Key\|Apartment Key]]         | Key obtained by Magen                   |  
-| [[./05-Magen-Nissan\|P03.63.05]]     | [[./05-Magen-Nissan\|Magen's Nissan]]         | Magen's Vehicle                         |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/01-Honda-Fit.md\|P03.63.01]]        | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/01-Honda-Fit.md\|Honda Fit]]                 | Heidi's Vehicle                         |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/index.md\|P03.63.01]]               | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]]          | Information about the physical evidence |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/02-Heidi-Cell-Phone.md\|P03.63.02]] | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/02-Heidi-Cell-Phone.md\|Heidi's Cell Phone]] | Cell Phone                              |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/03-Heidi-Keys.md\|P03.63.03]]       | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/03-Heidi-Keys.md\|Heidi's Keys]]             | Keys                                    |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/04-Apartment-Key.md\|P03.63.04]]    | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/04-Apartment-Key.md\|Apartment Key]]         | Key obtained by Magen                   |  
+| [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/05-Magen-Nissan.md\|P03.63.05]]     | [[Cases/P03-Heidi-Broussard/60-to-69-Evidence/63-Physical/05-Magen-Nissan.md\|Magen's Nissan]]         | Magen's Vehicle                         |  
   
   
 ---  

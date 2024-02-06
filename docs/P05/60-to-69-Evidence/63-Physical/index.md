@@ -30,7 +30,7 @@ Information about the physical evidence
   
 | J.Dec ID                                                                         | Friendly Name                                                                                  | Description                             |  
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P05.63.01]] | [[index\|Physical Evidence Index]] | Information about the physical evidence |  
+| [[Cases/P05-Gold-Sock-Killer/60-to-69-Evidence/63-Physical/index.md\|P05.63.01]] | [[Cases/P05-Gold-Sock-Killer/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]] | Information about the physical evidence |  
   
   
 ---  

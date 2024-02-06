@@ -32,8 +32,8 @@ Contains a detailed timeline of events
   
 | J.Dec ID                                                                                                 | Friendly Name                                                                                                    | Description                      |  
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------- |  
-| [P02.53.01](index.md)                | [Timeline Index](index.md)                   | Contains the timeline of events. |  
-| [P02.53.02](./02-Detailed-Timeline.md) | [Detailed Timeline](./02-Detailed-Timeline.md) | Detailed Timeline                |  
+| [[index\|P02.53.01]]                | [[index\|Timeline Index]]                   | Contains the timeline of events. |  
+| [[./02-Detailed-Timeline\|P02.53.02]] | [[./02-Detailed-Timeline\|Detailed Timeline]] | Detailed Timeline                |  
   
   
 ---  

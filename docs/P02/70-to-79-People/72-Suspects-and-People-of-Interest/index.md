@@ -32,8 +32,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                          | Friendly Name                                                                                                                         | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [P02.72.01](index.md)         | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |  
-| [P02.72.02](./02-Alan-Smith.md) | [Alan Smith](./02-Alan-Smith.md)                    | Suspect                                                |  
+| [[index\|P02.72.01]]         | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
+| [[./02-Alan-Smith\|P02.72.02]] | [[./02-Alan-Smith\|Alan Smith]]                    | Suspect                                                |  
   
   
 ---  

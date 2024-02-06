@@ -31,9 +31,9 @@ Profiles about witnesses
   
 | J.Dec ID                                                                             | Friendly Name                                                                        | Description               |  
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------- |  
-| [[./01-Nurse-SD\|P03.74.01]] | [[./01-Nurse-SD\|Nurse S.D]] | Nurse Witness             |  
-| [[index\|P03.74.01]]       | [[index\|Witnesses Index]] | Profiles about witnesses. |  
-| [[./02-MW\|P03.74.02]]       | [[./02-MW\|M.W]]             | Witness                   |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/01-Nurse-SD.md\|P03.74.01]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/01-Nurse-SD.md\|Nurse S.D]] | Nurse Witness             |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/index.md\|P03.74.01]]       | [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/02-MW.md\|P03.74.02]]       | [[Cases/P03-Heidi-Broussard/70-to-79-People/74-Witnesses/02-MW.md\|M.W]]             | Witness                   |  
   
   
 ---  

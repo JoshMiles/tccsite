@@ -33,7 +33,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                     | Description                                            |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P04.34.01]] | [[index\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
+| [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/34-Press-Video/index.md\|P04.34.01]] | [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/34-Press-Video/index.md\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
   
   
 ---  

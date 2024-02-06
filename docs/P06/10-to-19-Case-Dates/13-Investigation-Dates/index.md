@@ -29,7 +29,7 @@ This includes dates referenced from the investigation process
   
 | J.Dec ID                                                                                            | Friendly Name                                                                                                       | Description                                                    |  
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |  
-| [[index\|P06.13.01]] | [[index\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|P06.13.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
   
   
 ---  

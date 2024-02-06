@@ -31,7 +31,7 @@ Information about the physical evidence
   
 | J.Dec ID                                                                             | Friendly Name                                                                                      | Description                             |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P04.63.01]] | [[index\|Physical Evidence Index]] | Information about the physical evidence |  
+| [[Cases/P04-Swedish-Moose-Murder/60-to-69-Evidence/63-Physical/index.md\|P04.63.01]] | [[Cases/P04-Swedish-Moose-Murder/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]] | Information about the physical evidence |  
   
   
 ---  

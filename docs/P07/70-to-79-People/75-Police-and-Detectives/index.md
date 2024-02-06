@@ -29,9 +29,9 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                  | Description                                  |  
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [[index\|P07.75.01]]               | [[index\|Police and Detectives Index]]    | Profiles regarding law enforcement involved. |  
-| [[./01-Andrew-McClellan\|P07.75.01]] | [[./01-Andrew-McClellan\|Andrew McClellan]] | Lead Detective                               |  
-| [[./02-Shane-Casey\|P07.75.02]]      | [[./02-Shane-Casey\|Shane Casey]]           | Chief of Police                              |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/index.md\|P07.75.01]]               | [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/index.md\|Police and Detectives Index]]    | Profiles regarding law enforcement involved. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/01-Andrew-McClellan.md\|P07.75.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/01-Andrew-McClellan.md\|Andrew McClellan]] | Lead Detective                               |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/02-Shane-Casey.md\|P07.75.02]]      | [[Cases/P07-Samantha-Harer/70-to-79-People/75-Police-and-Detectives/02-Shane-Casey.md\|Shane Casey]]           | Chief of Police                              |  
   
   
 ---  

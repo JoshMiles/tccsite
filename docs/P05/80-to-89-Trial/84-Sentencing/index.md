@@ -30,7 +30,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                        | Friendly Name                                                                          | Description                       |  
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P05.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/84-Sentencing/index.md\|P05.84.01]] | [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

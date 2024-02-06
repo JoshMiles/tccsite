@@ -31,7 +31,7 @@ Snapshots of the articles referenced
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                           | Description                           |  
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[index\|P04.41.01]] | [[index\|Article Archive Index]] | Snapshots of the articles referenced. |  
+| [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/41-Article-Archive/index.md\|P04.41.01]] | [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]] | Snapshots of the articles referenced. |  
   
   
 ---  

@@ -29,7 +29,7 @@ Writeups and notes about interviews conducted by law enforcement
   
 | J.Dec ID                                                                              | Friendly Name                                                                                | Description                                                       |  
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P07.51.01]] | [[index\|Interviews Index]] | Writeups and notes about interviews conducted by law enforcement. |  
+| [[Cases/P07-Samantha-Harer/50-to-59-Investigation/51-Interviews/index.md\|P07.51.01]] | [[Cases/P07-Samantha-Harer/50-to-59-Investigation/51-Interviews/index.md\|Interviews Index]] | Writeups and notes about interviews conducted by law enforcement. |  
   
   
 ---  

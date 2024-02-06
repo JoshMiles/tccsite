@@ -30,7 +30,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                          | Friendly Name                                                                             | Description                             |  
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P05.77.01]] | [[index\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
+| [[Cases/P05-Gold-Sock-Killer/70-to-79-People/77-Legal-Teams/index.md\|P05.77.01]] | [[Cases/P05-Gold-Sock-Killer/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
   
   
 ---  

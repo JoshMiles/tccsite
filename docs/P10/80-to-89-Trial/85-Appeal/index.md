@@ -29,7 +29,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                             | Friendly Name                                                                           | Description                                 |  
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------- |  
-| [[index\|P10.85.01]] | [[index\|Appeal Index]] | If applicable, information about appeal(s). |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/85-Appeal/index.md\|P10.85.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]] | If applicable, information about appeal(s). |  
   
   
 ---  

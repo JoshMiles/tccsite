@@ -24,5 +24,5 @@ aliases:
   
 # Motion Order to Unseal  
  ^rcfym  
-![09-Magen-Fieramusca-Cases-Motion-Order-to-Unseal](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/09-Magen-Fieramusca-Cases-Motion-Order-to-Unseal.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![09-Magen-Fieramusca-Cases-Motion-Order-to-Unseal](../22-PDFs/09-Magen-Fieramusca-Cases-Motion-Order-to-Unseal.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   

@@ -29,7 +29,7 @@ Information about the digital evidence
   
 | J.Dec ID                                                                      | Friendly Name                                                                              | Description                             |  
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [[index\|P07.61.01]] | [[index\|Digital Evidence Index]] | Information about the digital evidence. |  
+| [[Cases/P07-Samantha-Harer/60-to-69-Evidence/61-Digital/index.md\|P07.61.01]] | [[Cases/P07-Samantha-Harer/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]] | Information about the digital evidence. |  
   
   
 ---  

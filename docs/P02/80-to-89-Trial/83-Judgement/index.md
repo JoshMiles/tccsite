@@ -32,7 +32,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                                           | Friendly Name                                                                            | Description                                         |  
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P02.83.01]] | [[index\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
+| [[Cases/P02-Case-of-Susann-Smith/80-to-89-Trial/83-Judgement/index.md\|P02.83.01]] | [[Cases/P02-Case-of-Susann-Smith/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
   
   
 ---  

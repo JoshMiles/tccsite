@@ -32,8 +32,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                          | Friendly Name                                                                                                                         | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P02.72.01]]         | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
-| [[./02-Alan-Smith\|P02.72.02]] | [[./02-Alan-Smith\|Alan Smith]]                    | Suspect                                                |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|P02.72.01]]         | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md\|P02.72.02]] | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/72-Suspects-and-People-of-Interest/02-Alan-Smith.md\|Alan Smith]]                    | Suspect                                                |  
   
   
 ---  

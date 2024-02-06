@@ -31,7 +31,7 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                      | Friendly Name                                                                  | Description                     |  
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------- |  
-| [[index\|P03.22.01]] | [[index\|PDFs Index]] | The folder containing the PDFs. |  
+| [[Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/index.md\|P03.22.01]] | [[Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/index.md\|PDFs Index]] | The folder containing the PDFs. |  
   
   
 ---  

@@ -25,7 +25,7 @@ aliases:
 # Alan Smith  
   
   
-![](../../../Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/32-People/01-Alan-Smith.jpg)  
+![](../../30-to-39-Case-Media/32-People/01-Alan-Smith.jpg)  
   
 <https://www.facebook.com/alan.ucsu>  
   

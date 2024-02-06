@@ -30,8 +30,8 @@ alias: P10-53-02, Detailed Timeline
   
 | J.Dec ID                                                                                                      | Friendly Name                                                                                                         | Description                      |  
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------- |  
-| [[./index\|P10.53.01]]                | [[./index\|Timeline Index]]                   | Contains the timeline of events. |  
-| [[02-Detailed-Timeline\|P10.53.02]] | [[02-Detailed-Timeline\|Detailed Timeline]] | Detailed timeline of events.     |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/50-to-59-Investigation/53-Timeline/index.md\|P10.53.01]]                | [[Cases/P10-Death-of-a-Crime-Novelist/50-to-59-Investigation/53-Timeline/index.md\|Timeline Index]]                   | Contains the timeline of events. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|P10.53.02]] | [[Cases/P10-Death-of-a-Crime-Novelist/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|Detailed Timeline]] | Detailed timeline of events.     |  
   
   
 ---  

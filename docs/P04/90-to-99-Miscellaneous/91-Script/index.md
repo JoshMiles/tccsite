@@ -31,8 +31,8 @@ This folder contains the script.
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                     | Description                       |  
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P04.91.01]]         | [[index\|Script Folder Index]] | This folder contains the script.  |  
-| [[./92-The-Script\|P04.91.02]] | [[./92-The-Script\|The Script]]  | This is the script for this case. |  
+| [[Cases/P04-Swedish-Moose-Murder/90-to-99-Miscellaneous/91-Script/index.md\|P04.91.01]]         | [[Cases/P04-Swedish-Moose-Murder/90-to-99-Miscellaneous/91-Script/index.md\|Script Folder Index]] | This folder contains the script.  |  
+| [[Cases/P04-Swedish-Moose-Murder/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|P04.91.02]] | [[Cases/P04-Swedish-Moose-Murder/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|The Script]]  | This is the script for this case. |  
   
   
 ---  

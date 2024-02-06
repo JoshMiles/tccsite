@@ -29,7 +29,7 @@ Notes for the articles
   
 | J.Dec ID                                                                            | Friendly Name                                                                                 | Description             |  
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------- |  
-| [[index\|P07.42.01]] | [[index\|Article Notes Index]] | Notes for the articles. |  
+| [[Cases/P07-Samantha-Harer/40-to-49-Articles/42-Article-Notes/index.md\|P07.42.01]] | [[Cases/P07-Samantha-Harer/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]] | Notes for the articles. |  
   
   
 ---  

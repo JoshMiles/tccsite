@@ -30,7 +30,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                    | Friendly Name                                                                  | Description                                 |  
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------- |  
-| [[index\|P05.85.01]] | [[index\|Appeal Index]] | If applicable, information about appeal(s). |  
+| [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/85-Appeal/index.md\|P05.85.01]] | [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]] | If applicable, information about appeal(s). |  
   
   
 ---  

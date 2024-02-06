@@ -32,16 +32,16 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                                         | Friendly Name                                                                                                              | Description                                  |  
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [[index\|P02.75.01]]                  | [[index\|Police and Detectives Index]]          | Profiles regarding law enforcement involved. |  
-| [[./02-Detective-Chissus\|P02.75.02]]   | [[./02-Detective-Chissus\|Detective Chissus]]     | Detective                                    |  
-| [[./03-Detective-Stone\|P02.75.03]]     | [[./03-Detective-Stone\|Detective Stone]]         | Detective                                    |  
-| [[./04-Detective-Betts\|P02.75.04]]     | [[./04-Detective-Betts\|Detective Betts]]         | Detective                                    |  
-| [[./05-Detective-Bilyeu\|P02.75.05]]    | [[./05-Detective-Bilyeu\|Detective Bilyeu]]       | Detective                                    |  
-| [[./06-Beck\|P02.75.06]]                | [[./06-Beck\|Beck]]                               | Police Force                                 |  
-| [[./07-Detective-Thompson\|P02.75.07]]  | [[./07-Detective-Thompson\|Detective Thompson]]   | Detective                                    |  
-| [[./08-CPS\|P02.75.08]]                 | [[./08-CPS\|CPS]]                                 | Child Protective Services                    |  
-| [[./09-Detective-O’Bryant\|P02.75.09]]  | [[./09-Detective-O’Bryant\|Detective O'Bryant]]   | Detective                                    |  
-| [[./10-Detective-Sgt-Brown\|P02.75.10]] | [[./10-Detective-Sgt-Brown\|Detective Sgt Brown]] | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/index.md\|P02.75.01]]                  | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/index.md\|Police and Detectives Index]]          | Profiles regarding law enforcement involved. |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md\|P02.75.02]]   | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/02-Detective-Chissus.md\|Detective Chissus]]     | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md\|P02.75.03]]     | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/03-Detective-Stone.md\|Detective Stone]]         | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/04-Detective-Betts.md\|P02.75.04]]     | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/04-Detective-Betts.md\|Detective Betts]]         | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/05-Detective-Bilyeu.md\|P02.75.05]]    | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/05-Detective-Bilyeu.md\|Detective Bilyeu]]       | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/06-Beck.md\|P02.75.06]]                | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/06-Beck.md\|Beck]]                               | Police Force                                 |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md\|P02.75.07]]  | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/07-Detective-Thompson.md\|Detective Thompson]]   | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/08-CPS.md\|P02.75.08]]                 | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/08-CPS.md\|CPS]]                                 | Child Protective Services                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/09-Detective-O’Bryant.md\|P02.75.09]]  | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/09-Detective-O’Bryant.md\|Detective O'Bryant]]   | Detective                                    |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/10-Detective-Sgt-Brown.md\|P02.75.10]] | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/75-Police-and-Detectives/10-Detective-Sgt-Brown.md\|Detective Sgt Brown]] | Detective                                    |  
   
   
 ---  

@@ -31,7 +31,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                       | Friendly Name                                                                         | Description                       |  
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------- |  
-| [P03.84.01](index.md) | [Sentencing Index](index.md) | Information about the sentencing. |  
+| [[index\|P03.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

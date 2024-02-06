@@ -35,7 +35,7 @@ aliases:
 | Spouse?                            |            |  
 | Deceased?                          | ❌/✅      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Mother to [Samantha](../71-Victims/01-Samantha-Harer.md), Wife of [Kevin Harer](./02-Kevin-Harer.md)           |  
+| Family?                            | Mother to [Samantha](../71-Victims/01-Samantha-Harer.md), Wife of [Kevin Harer](02-Kevin-Harer.md)           |  
 | Hair Colour?                       |            |  
 | Weight?                            |            |  
 | Eye Colour?                        |            |  

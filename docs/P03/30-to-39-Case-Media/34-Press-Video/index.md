@@ -33,7 +33,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                             | Friendly Name                                                                                | Description                                            |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P03.34.01]] | [[index\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
+| [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/34-Press-Video/index.md\|P03.34.01]] | [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/34-Press-Video/index.md\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
   
   
 ---  

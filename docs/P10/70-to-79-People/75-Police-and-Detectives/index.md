@@ -29,7 +29,7 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                                          | Description                                  |  
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [P10.75.01](index.md) | [Police and Detectives Index](index.md) | Profiles regarding law enforcement involved. |  
+| [[index\|P10.75.01]] | [[index\|Police and Detectives Index]] | Profiles regarding law enforcement involved. |  
   
   
 ---  

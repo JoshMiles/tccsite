@@ -29,12 +29,12 @@ Details of the trial
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                              | Description                                                     |  
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [[index\|P06.80.01]]                      | [[index\|Trial Index]]                                  | Details of the trial.                                           |  
-| [[./81-Hearings/index\|P06.81.01]]          | [[./81-Hearings/index\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
-| [[./82-Trial-Proceedings/index\|P06.82.01]] | [[./82-Trial-Proceedings/index\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
-| [[./83-Judgement/index\|P06.83.01]]         | [[./83-Judgement/index\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
-| [[./84-Sentencing/index\|P06.84.01]]        | [[./84-Sentencing/index\|Sentencing Index]]               | Information about the sentencing.                               |  
-| [[./85-Appeal/index\|P06.85.01]]            | [[./85-Appeal/index\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/index.md\|P06.80.01]]                      | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/index.md\|Trial Index]]                                  | Details of the trial.                                           |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/81-Hearings/index.md\|P06.81.01]]          | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/81-Hearings/index.md\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/82-Trial-Proceedings/index.md\|P06.82.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/83-Judgement/index.md\|P06.83.01]]         | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/84-Sentencing/index.md\|P06.84.01]]        | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]]               | Information about the sentencing.                               |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/85-Appeal/index.md\|P06.85.01]]            | [[Cases/P06-Case-Updates-Sanda-Dia/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
   
   
 ---  

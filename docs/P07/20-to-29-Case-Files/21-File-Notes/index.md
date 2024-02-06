@@ -29,11 +29,11 @@ The notes extracted from the PDFs of relevant information
   
 | J.Dec ID                                                                                                  | Friendly Name                                                                                                             | Description                                                |  
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [[./01-officer-misconduct\|P07.21.01]]        | [[./01-officer-misconduct\|officer misconduct]]               | File Note                                                  |  
-| [[index\|P07.21.01]]                        | [[index\|File Notes Index]]                                 | The notes extracted from the PDFs of relevant information. |  
-| [[./02-harer-v-casey\|P07.21.02]]             | [[./02-harer-v-casey\|harer-v-casey]]                         | File Note                                                  |  
-| [[./03-harer-v-flores-07-18-2019\|P07.21.03]] | [[./03-harer-v-flores-07-18-2019\|harer-v-flores-07-18-2019]] | File Note                                                  |  
-| [[./04-harer-v-flores-11-14-2019\|P07.21.04]] | [[./04-harer-v-flores-11-14-2019\|harer-v-flores-11-14-2019]] | File Note                                                  |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/01-officer-misconduct.md\|P07.21.01]]        | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/01-officer-misconduct.md\|officer misconduct]]               | File Note                                                  |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/index.md\|P07.21.01]]                        | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/index.md\|File Notes Index]]                                 | The notes extracted from the PDFs of relevant information. |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/02-harer-v-casey.md\|P07.21.02]]             | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/02-harer-v-casey.md\|harer-v-casey]]                         | File Note                                                  |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/03-harer-v-flores-07-18-2019.md\|P07.21.03]] | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/03-harer-v-flores-07-18-2019.md\|harer-v-flores-07-18-2019]] | File Note                                                  |  
+| [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/04-harer-v-flores-11-14-2019.md\|P07.21.04]] | [[Cases/P07-Samantha-Harer/20-to-29-Case-Files/21-File-Notes/04-harer-v-flores-11-14-2019.md\|harer-v-flores-11-14-2019]] | File Note                                                  |  
   
   
 ---  

@@ -33,7 +33,7 @@ aliases:
 | Spouse?                            |            |  
 | Deceased?                          | ❌/✅      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Father of [Samantha](../71-Victims/01-Samantha-Harer.md), Husband of [Heather](./01-Heather-Harer.md)           |  
+| Family?                            | Father of [Samantha](../71-Victims/01-Samantha-Harer.md), Husband of [Heather](01-Heather-Harer.md)           |  
 | Hair Colour?                       |            |  
 | Weight?                            |            |  
 | Eye Colour?                        |            |  

@@ -30,7 +30,7 @@ Images of people involved
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                | Description                |  
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------- |  
-| [[index\|P10.32.01]] | [[index\|People Index]] | Images of people involved. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/30-to-39-Case-Media/32-People/index.md\|P10.32.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/30-to-39-Case-Media/32-People/index.md\|People Index]] | Images of people involved. |  
   
   
 ---  

@@ -29,7 +29,7 @@ Information about the digital evidence
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                         | Description                             |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P10.61.01]] | [[index\|Digital Evidence Index]] | Information about the digital evidence. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/60-to-69-Evidence/61-Digital/index.md\|P10.61.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]] | Information about the digital evidence. |  
   
   
 ---  

@@ -30,7 +30,7 @@ Notes for the articles
   
 | J.Dec ID                                                                      | Friendly Name                                                                           | Description             |  
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------- |  
-| [[index\|P01.42.01]] | [[index\|Article Notes Index]] | Notes for the articles. |  
+| [[Cases/P01-John-Doe/40-to-49-Articles/42-Article-Notes/index.md\|P01.42.01]] | [[Cases/P01-John-Doe/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]] | Notes for the articles. |  
   
   
 ---  

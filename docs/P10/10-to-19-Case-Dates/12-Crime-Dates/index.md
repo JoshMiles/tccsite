@@ -29,7 +29,7 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                          | Description                                                                            |  
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |  
-| [[index\|P10.12.01]] | [[index\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P10.12.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

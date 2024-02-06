@@ -31,7 +31,7 @@ If applicable, information about appeal(s)
   
 | J.Dec ID                                                                   | Friendly Name                                                                 | Description                                 |  
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------- |  
-| [[index\|P03.85.01]] | [[index\|Appeal Index]] | If applicable, information about appeal(s). |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/85-Appeal/index.md\|P03.85.01]] | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]] | If applicable, information about appeal(s). |  
   
   
 ---  

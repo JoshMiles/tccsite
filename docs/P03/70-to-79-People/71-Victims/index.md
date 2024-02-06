@@ -31,8 +31,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                   | Description                          |  
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [[./01-Heidi-Broussard\|P03.71.01]] | [[./01-Heidi-Broussard\|Heidi Broussard]] | Victim                               |  
-| [[index\|P03.71.01]]              | [[index\|Victims Index]]                | Profiles about the victim or victims |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/71-Victims/01-Heidi-Broussard.md\|P03.71.01]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/71-Victims/01-Heidi-Broussard.md\|Heidi Broussard]] | Victim                               |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/71-Victims/index.md\|P03.71.01]]              | [[Cases/P03-Heidi-Broussard/70-to-79-People/71-Victims/index.md\|Victims Index]]                | Profiles about the victim or victims |  
   
   
 ---  

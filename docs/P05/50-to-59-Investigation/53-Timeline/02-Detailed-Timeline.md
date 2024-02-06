@@ -31,8 +31,8 @@ alias: P05-53-02, Detailed Timeline
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                                | Description                      |  
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |  
-| [[./index\|P05.53.01]]                | [[./index\|Timeline Index]]                   | Contains the timeline of events. |  
-| [[02-Detailed-Timeline\|P05.53.02]] | [[02-Detailed-Timeline\|Detailed Timeline]] | Detailed timeline of events.     |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/index.md\|P05.53.01]]                | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/index.md\|Timeline Index]]                   | Contains the timeline of events. |  
+| [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|P05.53.02]] | [[Cases/P05-Gold-Sock-Killer/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|Detailed Timeline]] | Detailed timeline of events.     |  
   
   
 ---  

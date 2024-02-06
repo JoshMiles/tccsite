@@ -32,9 +32,9 @@ There should be a file note available with a full write up of content from the P
   
 | J.Dec ID                                                                             | Friendly Name                                                                               | Description                                                |  
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [[index\|P05.20.01]]               | [[index\|Case Files Index]]               | External files related to the case, e.g PDFs.              |  
-| [[./21-File-Notes/index\|P05.21.01]] | [[./21-File-Notes/index\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
-| [[./22-PDFs/index\|P05.22.01]]       | [[./22-PDFs/index\|PDFs Index]]             | The folder containing the PDFs.                            |  
+| [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/index.md\|P05.20.01]]               | [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/index.md\|Case Files Index]]               | External files related to the case, e.g PDFs.              |  
+| [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/21-File-Notes/index.md\|P05.21.01]] | [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/21-File-Notes/index.md\|File Notes Index]] | The notes extracted from the PDFs of relevant information. |  
+| [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/22-PDFs/index.md\|P05.22.01]]       | [[Cases/P05-Gold-Sock-Killer/20-to-29-Case-Files/22-PDFs/index.md\|PDFs Index]]             | The folder containing the PDFs.                            |  
   
   
 ---  

@@ -31,9 +31,9 @@ The articles used in the research
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                           | Description                           |  
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[index\|P04.40.01]]                    | [[index\|Articles Index]]                           | The articles used in the research.    |  
-| [[./41-Article-Archive/index\|P04.41.01]] | [[./41-Article-Archive/index\|Article Archive Index]] | Snapshots of the articles referenced. |  
-| [[./42-Article-Notes/index\|P04.42.01]]   | [[./42-Article-Notes/index\|Article Notes Index]]     | Notes for the articles.               |  
+| [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/index.md\|P04.40.01]]                    | [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/index.md\|Articles Index]]                           | The articles used in the research.    |  
+| [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/41-Article-Archive/index.md\|P04.41.01]] | [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]] | Snapshots of the articles referenced. |  
+| [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/42-Article-Notes/index.md\|P04.42.01]]   | [[Cases/P04-Swedish-Moose-Murder/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]]     | Notes for the articles.               |  
   
   
 ---  

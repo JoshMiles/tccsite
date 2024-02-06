@@ -29,7 +29,7 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                       | Description                                                                            |  
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [[index\|P06.12.01]] | [[index\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P06.12.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

@@ -35,7 +35,7 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 | Age?                               | 33           |  
 | Lives In?                          | Austin, Texas           |  
 | Address?                           |            |  
-| Profession?                        | Cracker Barrel, Buda, Texas. Worked there since 2015. Had been off work since giving birth. (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#9g91f))            |  
+| Profession?                        | Cracker Barrel, Buda, Texas. Worked there since 2015. Had been off work since giving birth. (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E9g91f))            |  
 | Spouse?                            | Yes, [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md)           |  
 | Deceased?                          | ✅      |  
 | Date of Death (if applicable)?     |            |  
@@ -84,10 +84,10 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 - She was a member of Life Church of Austin and found comfort in raising Silas in the church and had already attended her first Sunday with Margo.  [^7]   
 # Footnotes  
   
-[^1]: (see [03-Heidi-Broussard-Missing-Persons-Poster](../../20-to-29-Case-Files/21-File-Notes/03-Heidi-Broussard-Missing-Persons-Poster.md#xgjr))  
-[^2]: (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md#5xv2w))  
-[^3]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#qnec4))  
-[^4]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#fr-ni))  
-[^5]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#0sury))  
-[^6]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md.md#0sury))  
-[^7]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#2pn-r))
+[^1]: (see [03-Heidi-Broussard-Missing-Persons-Poster](../../20-to-29-Case-Files/21-File-Notes/03-Heidi-Broussard-Missing-Persons-Poster.md##%5Exgjr-))  
+[^2]: (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md##%5E5xv2w))  
+[^3]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5Eqnec4))  
+[^4]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5Efr-ni))  
+[^5]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E0sury))  
+[^6]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md.md###%5E0sury))  
+[^7]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E2pn-r))

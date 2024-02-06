@@ -31,7 +31,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                     | Friendly Name                                                                    | Description                                                                                 |  
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [[index\|P03.76.01]] | [[index\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/76-Experts/index.md\|P03.76.01]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/76-Experts/index.md\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

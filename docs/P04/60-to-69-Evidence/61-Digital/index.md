@@ -31,7 +31,7 @@ Information about the digital evidence
   
 | J.Dec ID                                                                            | Friendly Name                                                                                    | Description                             |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------- |  
-| [[index\|P04.61.01]] | [[index\|Digital Evidence Index]] | Information about the digital evidence. |  
+| [[Cases/P04-Swedish-Moose-Murder/60-to-69-Evidence/61-Digital/index.md\|P04.61.01]] | [[Cases/P04-Swedish-Moose-Murder/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]] | Information about the digital evidence. |  
   
   
 ---  

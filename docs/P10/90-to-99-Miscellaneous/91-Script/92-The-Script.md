@@ -389,8 +389,8 @@ And with all that being said, I'll see you in the next case.
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                          | Description                       |  
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------- |  
-| [P10.91.01](./index.md)         | [Script Folder Index](./index.md) | This folder contains the script.  |  
-| [P10.91.02](92-The-Script.md) | [The Script](92-The-Script.md)  | This is the script for this case. |  
+| [[./index\|P10.91.01]]         | [[./index\|Script Folder Index]] | This folder contains the script.  |  
+| [[92-The-Script\|P10.91.02]] | [[92-The-Script\|The Script]]  | This is the script for this case. |  
   
   
 ---  

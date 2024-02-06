@@ -29,9 +29,9 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                         | Description                                                                                                    |  
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [P07.73.01](index.md)            | [Family and Friends Index](index.md) | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
-| [P07.73.01](./01-Heather-Harer.md) | [Heather Harer](./01-Heather-Harer.md) | Mother of Victim                                                                                               |  
-| [P07.73.02](./02-Kevin-Harer.md)   | [Kevin Harer](./02-Kevin-Harer.md)     | Father of Victim                                                                                               |  
+| [[index\|P07.73.01]]            | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[./01-Heather-Harer\|P07.73.01]] | [[./01-Heather-Harer\|Heather Harer]] | Mother of Victim                                                                                               |  
+| [[./02-Kevin-Harer\|P07.73.02]]   | [[./02-Kevin-Harer\|Kevin Harer]]     | Father of Victim                                                                                               |  
   
   
 ---  

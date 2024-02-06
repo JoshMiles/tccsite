@@ -29,7 +29,7 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                       | Friendly Name                                                                                                                              | Description                                            |  
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |  
-| [P10.72.01](index.md) | [Suspects and People of Interest Index](index.md) | Profiles about any suspects and/or people of interest. |  
+| [[index\|P10.72.01]] | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

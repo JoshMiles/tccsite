@@ -32,12 +32,12 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                                    | Friendly Name                                                                                                     | Description                                                       |  
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P02.52.01](index.md)              | [Key Locations Index](index.md)          | Information and notes about key locations pertaining to the case. |  
-| [P02.52.02](./02-Boeing.md)          | [Boeing](./02-Boeing.md)                   | Location                                                          |  
-| [P02.52.03](./03-Canyon-Park-QFC.md) | [Canyon Park QFC](./03-Canyon-Park-QFC.md) | Location                                                          |  
-| [P02.52.04](./04-The-Smith-House.md) | [The Smith House](./04-The-Smith-House.md) | Location                                                          |  
-| [P02.52.05](./05-Bothell.md)         | [Bothell](./05-Bothell.md)                 | Location                                                          |  
-| [P02.52.06](./06-Apartment.md)       | [Apartment](./06-Apartment.md)             | Location                                                          |  
+| [[index\|P02.52.01]]              | [[index\|Key Locations Index]]          | Information and notes about key locations pertaining to the case. |  
+| [[./02-Boeing\|P02.52.02]]          | [[./02-Boeing\|Boeing]]                   | Location                                                          |  
+| [[./03-Canyon-Park-QFC\|P02.52.03]] | [[./03-Canyon-Park-QFC\|Canyon Park QFC]] | Location                                                          |  
+| [[./04-The-Smith-House\|P02.52.04]] | [[./04-The-Smith-House\|The Smith House]] | Location                                                          |  
+| [[./05-Bothell\|P02.52.05]]         | [[./05-Bothell\|Bothell]]                 | Location                                                          |  
+| [[./06-Apartment\|P02.52.06]]       | [[./06-Apartment\|Apartment]]             | Location                                                          |  
   
   
 ---  

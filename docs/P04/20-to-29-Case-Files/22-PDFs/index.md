@@ -31,7 +31,7 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                           | Friendly Name                                                                       | Description                     |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------- |  
-| [P04.22.01](index.md) | [PDFs Index](index.md) | The folder containing the PDFs. |  
+| [[index\|P04.22.01]] | [[index\|PDFs Index]] | The folder containing the PDFs. |  
   
   
 ---  

@@ -31,13 +31,13 @@ There should be a file note available with a full write up of content from the P
   
 | J.Dec ID                                                                                                  | Friendly Name                                                                                                             | Description                                                |  
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  
-| [P07.20.01](index.md)                                      | [Case Files Index](index.md)                                               | External files related to the case, e.g PDFs.              |  
-| [P07.21.01](./21-File-Notes/01-officer-misconduct.md)        | [officer misconduct](./21-File-Notes/01-officer-misconduct.md)               | File Note                                                  |  
-| [P07.21.01](./21-File-Notes/index.md)                        | [File Notes Index](./21-File-Notes/index.md)                                 | The notes extracted from the PDFs of relevant information. |  
-| [P07.21.02](./21-File-Notes/02-harer-v-casey.md)             | [harer-v-casey](./21-File-Notes/02-harer-v-casey.md)                         | File Note                                                  |  
-| [P07.21.03](./21-File-Notes/03-harer-v-flores-07-18-2019.md) | [harer-v-flores-07-18-2019](./21-File-Notes/03-harer-v-flores-07-18-2019.md) | File Note                                                  |  
-| [P07.21.04](./21-File-Notes/04-harer-v-flores-11-14-2019.md) | [harer-v-flores-11-14-2019](./21-File-Notes/04-harer-v-flores-11-14-2019.md) | File Note                                                  |  
-| [P07.22.01](./22-PDFs/index.md)                              | [PDFs Index](./22-PDFs/index.md)                                             | The folder containing the PDFs.                            |  
+| [[index\|P07.20.01]]                                      | [[index\|Case Files Index]]                                               | External files related to the case, e.g PDFs.              |  
+| [[./21-File-Notes/01-officer-misconduct\|P07.21.01]]        | [[./21-File-Notes/01-officer-misconduct\|officer misconduct]]               | File Note                                                  |  
+| [[./21-File-Notes/index\|P07.21.01]]                        | [[./21-File-Notes/index\|File Notes Index]]                                 | The notes extracted from the PDFs of relevant information. |  
+| [[./21-File-Notes/02-harer-v-casey\|P07.21.02]]             | [[./21-File-Notes/02-harer-v-casey\|harer-v-casey]]                         | File Note                                                  |  
+| [[./21-File-Notes/03-harer-v-flores-07-18-2019\|P07.21.03]] | [[./21-File-Notes/03-harer-v-flores-07-18-2019\|harer-v-flores-07-18-2019]] | File Note                                                  |  
+| [[./21-File-Notes/04-harer-v-flores-11-14-2019\|P07.21.04]] | [[./21-File-Notes/04-harer-v-flores-11-14-2019\|harer-v-flores-11-14-2019]] | File Note                                                  |  
+| [[./22-PDFs/index\|P07.22.01]]                              | [[./22-PDFs/index\|PDFs Index]]                                             | The folder containing the PDFs.                            |  
   
   
 ---  

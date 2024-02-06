@@ -27,11 +27,11 @@ aliases:
   
 # Newborn Child  
   
-Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Notes/05-Press-Release.md#eko0e))  
+Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Notes/05-Press-Release.md##%5Eeko0e))  
   
 | Name                               |  Margo Carey          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             |  ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/04-newborn-baby.jpg) |  
+| Photo?                             |   |  
 | Date of Birth?                     |  2019/11/26          |  
 | Age?                               |            |  
 | Lives In?                          | Austin, Texas           |  

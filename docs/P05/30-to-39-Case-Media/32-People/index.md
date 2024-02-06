@@ -31,7 +31,7 @@ Images of people involved
   
 | J.Dec ID                                                                         | Friendly Name                                                                       | Description                |  
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------- |  
-| [P05.32.01](index.md) | [People Index](index.md) | Images of people involved. |  
+| [[index\|P05.32.01]] | [[index\|People Index]] | Images of people involved. |  
   
   
 ---  

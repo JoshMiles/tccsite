@@ -30,7 +30,7 @@ Writeups and notes about interviews conducted by law enforcement
   
 | J.Dec ID                                                                                | Friendly Name                                                                                  | Description                                                       |  
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P05.51.01](index.md) | [Interviews Index](index.md) | Writeups and notes about interviews conducted by law enforcement. |  
+| [[index\|P05.51.01]] | [[index\|Interviews Index]] | Writeups and notes about interviews conducted by law enforcement. |  
   
   
 ---  

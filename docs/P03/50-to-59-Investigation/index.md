@@ -31,14 +31,14 @@ Information pertaining to the investigation
   
 | J.Dec ID                                                                                                | Friendly Name                                                                                                         | Description                                                       |  
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [P03.50.01](index.md)                                | [Investigation Index](index.md)                                    | Information pertaining to the investigation.                      |  
-| [P03.51.01](./51-Interviews/index.md)                  | [Interviews Index](./51-Interviews/index.md)                         | Writeups and notes about interviews conducted by law enforcement. |  
-| [P03.52.01](./52-Key-Locations/01-Apartment.md)        | [Apartment](./52-Key-Locations/01-Apartment.md)                      | Location                                                          |  
-| [P03.52.01](./52-Key-Locations/index.md)               | [Key Locations Index](./52-Key-Locations/index.md)                   | Information and notes about key locations pertaining to the case. |  
-| [P03.52.02](./52-Key-Locations/02-Cowan-Elementary.md) | [Cowan Elementary School](./52-Key-Locations/02-Cowan-Elementary.md) | Location                                                          |  
-| [P03.52.03](./52-Key-Locations/03-Magen-House.md)      | [Magen's House](./52-Key-Locations/03-Magen-House.md)                | Location                                                          |  
-| [P03.53.01](./53-Timeline/index.md)                    | [Timeline Index](./53-Timeline/index.md)                             | Contains the timeline of events.                                  |  
-| [P03.53.02](./53-Timeline/02-Detailed-Timeline.md)     | [Detailed Timeline](./53-Timeline/02-Detailed-Timeline.md)           | Detailed timeline of events.                                      |  
+| [[index\|P03.50.01]]                                | [[index\|Investigation Index]]                                    | Information pertaining to the investigation.                      |  
+| [[./51-Interviews/index\|P03.51.01]]                  | [[./51-Interviews/index\|Interviews Index]]                         | Writeups and notes about interviews conducted by law enforcement. |  
+| [[./52-Key-Locations/01-Apartment\|P03.52.01]]        | [[./52-Key-Locations/01-Apartment\|Apartment]]                      | Location                                                          |  
+| [[./52-Key-Locations/index\|P03.52.01]]               | [[./52-Key-Locations/index\|Key Locations Index]]                   | Information and notes about key locations pertaining to the case. |  
+| [[./52-Key-Locations/02-Cowan-Elementary\|P03.52.02]] | [[./52-Key-Locations/02-Cowan-Elementary\|Cowan Elementary School]] | Location                                                          |  
+| [[./52-Key-Locations/03-Magen-House\|P03.52.03]]      | [[./52-Key-Locations/03-Magen-House\|Magen's House]]                | Location                                                          |  
+| [[./53-Timeline/index\|P03.53.01]]                    | [[./53-Timeline/index\|Timeline Index]]                             | Contains the timeline of events.                                  |  
+| [[./53-Timeline/02-Detailed-Timeline\|P03.53.02]]     | [[./53-Timeline/02-Detailed-Timeline\|Detailed Timeline]]           | Detailed timeline of events.                                      |  
   
   
 ---  

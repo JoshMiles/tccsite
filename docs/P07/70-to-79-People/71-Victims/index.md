@@ -29,8 +29,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                | Friendly Name                                                                                | Description                          |  
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [P07.71.01](index.md)             | [Victims Index](index.md)              | Profiles about the victim or victims |  
-| [P07.71.01](./01-Samantha-Harer.md) | [Samantha Harer](./01-Samantha-Harer.md) | Victim                               |  
+| [[index\|P07.71.01]]             | [[index\|Victims Index]]              | Profiles about the victim or victims |  
+| [[./01-Samantha-Harer\|P07.71.01]] | [[./01-Samantha-Harer\|Samantha Harer]] | Victim                               |  
   
   
 ---  

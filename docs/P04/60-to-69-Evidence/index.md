@@ -31,10 +31,10 @@ Information about the evidence
   
 | J.Dec ID                                                                             | Friendly Name                                                                                      | Description                              |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [P04.60.01](index.md)             | [Evidence Index](index.md)                      | Information about the evidence.          |  
-| [P04.61.01](./61-Digital/index.md)  | [Digital Evidence Index](./61-Digital/index.md)   | Information about the digital evidence.  |  
-| [P04.62.01](./62-Forensic/index.md) | [Forensic Evidence Index](./62-Forensic/index.md) | Information about the forensic evidence. |  
-| [P04.63.01](./63-Physical/index.md) | [Physical Evidence Index](./63-Physical/index.md) | Information about the physical evidence  |  
+| [[index\|P04.60.01]]             | [[index\|Evidence Index]]                      | Information about the evidence.          |  
+| [[./61-Digital/index\|P04.61.01]]  | [[./61-Digital/index\|Digital Evidence Index]]   | Information about the digital evidence.  |  
+| [[./62-Forensic/index\|P04.62.01]] | [[./62-Forensic/index\|Forensic Evidence Index]] | Information about the forensic evidence. |  
+| [[./63-Physical/index\|P04.63.01]] | [[./63-Physical/index\|Physical Evidence Index]] | Information about the physical evidence  |  
   
   
 ---  

@@ -29,7 +29,7 @@ Anything and everything that happened during trial
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                              | Description                                         |  
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [P06.82.01](index.md) | [Trial Proceedings Index](index.md) | Anything and everything that happened during trial. |  
+| [[index\|P06.82.01]] | [[index\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
   
   
 ---  

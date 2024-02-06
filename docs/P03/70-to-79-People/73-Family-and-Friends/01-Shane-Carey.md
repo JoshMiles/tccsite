@@ -27,12 +27,12 @@ aliases:
   
 | Name                               |            |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/06-shane-carey.jpg) |  
+| Photo?                             |  |  
 | Date of Birth?                     |            |  
 | Age?                               |            |  
 | Lives In?                          |  Austin, Texas          |  
 | Address?                           |            |  
-| Profession?                        |  Worked for a moving company in North Austin  (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md#7pvim))        |  
+| Profession?                        |  Worked for a moving company in North Austin  (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md##%5E7pvim))        |  
 | Spouse?                            | [Magen Fieramusca](../72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md)            |  
 | Deceased?                          | ❌      |  
 | Date of Death (if applicable)?     |            |  

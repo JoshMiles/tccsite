@@ -31,9 +31,9 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                   | Description                             |  
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [P03.77.01](./01-Judge-Kocurek.md) | [Judge Kocurek](./01-Judge-Kocurek.md) | Judge                                   |  
-| [P03.77.01](index.md)            | [Legal Teams Index](index.md)        | Profiles of individuals on legal teams. |  
-| [P03.77.02](./02-Judge-Urrutia.md) | [Judge Urrutia](./02-Judge-Urrutia.md) | Judge                                   |  
+| [[./01-Judge-Kocurek\|P03.77.01]] | [[./01-Judge-Kocurek\|Judge Kocurek]] | Judge                                   |  
+| [[index\|P03.77.01]]            | [[index\|Legal Teams Index]]        | Profiles of individuals on legal teams. |  
+| [[./02-Judge-Urrutia\|P03.77.02]] | [[./02-Judge-Urrutia\|Judge Urrutia]] | Judge                                   |  
   
   
 ---  

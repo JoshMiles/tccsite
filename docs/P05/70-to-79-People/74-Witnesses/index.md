@@ -30,7 +30,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                        | Friendly Name                                                                         | Description               |  
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P05.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P05-Gold-Sock-Killer/70-to-79-People/74-Witnesses/index.md\|P05.74.01]] | [[Cases/P05-Gold-Sock-Killer/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

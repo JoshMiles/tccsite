@@ -30,7 +30,7 @@ Anything and everything that happened during trial
   
 | J.Dec ID                                                                               | Friendly Name                                                                                        | Description                                         |  
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P05.82.01]] | [[index\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
+| [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/82-Trial-Proceedings/index.md\|P05.82.01]] | [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
   
   
 ---  

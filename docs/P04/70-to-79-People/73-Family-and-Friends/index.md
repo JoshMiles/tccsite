@@ -31,7 +31,7 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                               | Description                                                                                                    |  
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [[index\|P04.73.01]] | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/73-Family-and-Friends/index.md\|P04.73.01]] | [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/73-Family-and-Friends/index.md\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
   
   
 ---  

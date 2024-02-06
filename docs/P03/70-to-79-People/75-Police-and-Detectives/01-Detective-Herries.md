@@ -34,7 +34,7 @@ aliases:
 | Age?                               |            |  
 | Lives In?                          |            |  
 | Address?                           |            |  
-| Profession?                        | Investigator assigned to the Austin Police Department Cold Case/Missing Person Unit (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md##%5E8svlh))          |  
+| Profession?                        | Investigator assigned to the Austin Police Department Cold Case/Missing Person Unit (see [01-Magen-Fieramusca-Arrest-Affidavit](Cases/P03-Heidi-Broussard/20-to-29-Case-Files/21-File-Notes/01-Magen-Fieramusca-Arrest-Affidavit.md#^8svlh))          |  
 | Spouse?                            |            |  
 | Deceased?                          | ❌     |  
 | Date of Death (if applicable)?     |            |  

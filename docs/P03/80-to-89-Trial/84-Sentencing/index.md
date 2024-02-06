@@ -31,7 +31,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                       | Friendly Name                                                                         | Description                       |  
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P03.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/84-Sentencing/index.md\|P03.84.01]] | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

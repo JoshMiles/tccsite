@@ -31,8 +31,8 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                                                | Friendly Name                                                                                                                       | Description                                            |  
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P03.72.01]]                    | [[index\|Suspects and People of Interest Index]]    | Profiles about any suspects and/or people of interest. |  
-| [[./01-Magen-Rose-Fieramusca\|P03.72.01]] | [[./01-Magen-Rose-Fieramusca\|Magan Rose Fieramusca]] | Suspect                                                |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|P03.72.01]]                    | [[Cases/P03-Heidi-Broussard/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|Suspects and People of Interest Index]]    | Profiles about any suspects and/or people of interest. |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md\|P03.72.01]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/72-Suspects-and-People-of-Interest/01-Magen-Rose-Fieramusca.md\|Magan Rose Fieramusca]] | Suspect                                                |  
   
   
 ---  

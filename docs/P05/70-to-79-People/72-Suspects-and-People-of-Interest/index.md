@@ -30,7 +30,7 @@ Profiles about any suspects and/or people of interest
   
 | J.Dec ID                                                                                              | Friendly Name                                                                                                                     | Description                                            |  
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P05.72.01]] | [[index\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
+| [[Cases/P05-Gold-Sock-Killer/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|P05.72.01]] | [[Cases/P05-Gold-Sock-Killer/70-to-79-People/72-Suspects-and-People-of-Interest/index.md\|Suspects and People of Interest Index]] | Profiles about any suspects and/or people of interest. |  
   
   
 ---  

@@ -31,8 +31,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                        | Description                          |  
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [[./01-Agneta-Westlund\|P04.71.01]] | [[./01-Agneta-Westlund\|Agneta Westlund]] | Victim                               |  
-| [[index\|P04.71.01]]              | [[index\|Victims Index]]                | Profiles about the victim or victims |  
+| [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/71-Victims/01-Agneta-Westlund.md\|P04.71.01]] | [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/71-Victims/01-Agneta-Westlund.md\|Agneta Westlund]] | Victim                               |  
+| [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/71-Victims/index.md\|P04.71.01]]              | [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/71-Victims/index.md\|Victims Index]]                | Profiles about the victim or victims |  
   
   
 ---  

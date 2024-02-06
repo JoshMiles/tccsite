@@ -31,7 +31,7 @@ Any details of pre-trial hearings, prelim hearings or hearings
   
 | J.Dec ID                                                                     | Friendly Name                                                                     | Description                                                     |  
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [[index\|P03.81.01]] | [[index\|Hearings Index]] | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [[Cases/P03-Heidi-Broussard/80-to-89-Trial/81-Hearings/index.md\|P03.81.01]] | [[Cases/P03-Heidi-Broussard/80-to-89-Trial/81-Hearings/index.md\|Hearings Index]] | Any details of pre-trial hearings, prelim hearings or hearings. |  
   
   
 ---  

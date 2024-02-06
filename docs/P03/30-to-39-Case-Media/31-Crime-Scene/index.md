@@ -30,7 +30,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                             | Friendly Name                                                                                | Description                   |  
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [[index\|P03.31.01]] | [[index\|Crime Scene Index]] | Imagery from the crime scene. |  
+| [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/31-Crime-Scene/index.md\|P03.31.01]] | [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/31-Crime-Scene/index.md\|Crime Scene Index]] | Imagery from the crime scene. |  
   
   
 ---  

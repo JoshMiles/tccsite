@@ -32,7 +32,7 @@ Notes for the articles
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                       | Description             |  
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |  
-| [[index\|P02.42.01]] | [[index\|Article Notes Index]] | Notes for the articles. |  
+| [[Cases/P02-Case-of-Susann-Smith/40-to-49-Articles/42-Article-Notes/index.md\|P02.42.01]] | [[Cases/P02-Case-of-Susann-Smith/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]] | Notes for the articles. |  
   
   
 ---  

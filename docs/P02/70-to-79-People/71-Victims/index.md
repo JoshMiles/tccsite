@@ -32,8 +32,8 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                  | Description                          |  
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [[index\|P02.71.01]]           | [[index\|Victims Index]]          | Profiles about the victim or victims |  
-| [[./02-Susann-Smith\|P02.71.02]] | [[./02-Susann-Smith\|Susann Smith]] | Victim                               |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/71-Victims/index.md\|P02.71.01]]           | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/71-Victims/index.md\|Victims Index]]          | Profiles about the victim or victims |  
+| [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/71-Victims/02-Susann-Smith.md\|P02.71.02]] | [[Cases/P02-Case-of-Susann-Smith/70-to-79-People/71-Victims/02-Susann-Smith.md\|Susann Smith]] | Victim                               |  
   
   
 ---  

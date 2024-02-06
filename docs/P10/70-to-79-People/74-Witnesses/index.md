@@ -29,7 +29,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                  | Description               |  
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P10.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/74-Witnesses/index.md\|P10.74.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

@@ -28,7 +28,7 @@ aliases:
   
 | Name                               | Samantha Harer           |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![01-samantha-harer\|200](../../../Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/01-samantha-harer.jpg) |  
+| Photo?                             | ![01-samantha-harer\|200](../../30-to-39-Case-Media/32-People/01-samantha-harer.jpg) |  
 | Date of Birth?                     |  25/07/1994          |  
 | Age?                               |            |  
 | Lives In?                          |            |  

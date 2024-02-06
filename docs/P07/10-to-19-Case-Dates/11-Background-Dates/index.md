@@ -29,8 +29,8 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                                                               | Friendly Name                                                                                                                          | Description                                                                               |  
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [[index\|P07.11.01]]                               | [[index\|Background Dates Index]]                                  | This includes dates from before the events of the case took place. E.g date of a divorce. |  
-| [[./2018-2-12-Monday-February-12th-2018\|P07.11.01]] | [[./2018-2-12-Monday-February-12th-2018\|Monday February 12th 2018]] | Date                                                                                      |  
+| [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/11-Background-Dates/index.md\|P07.11.01]]                               | [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/11-Background-Dates/index.md\|Background Dates Index]]                                  | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/11-Background-Dates/2018-2-12-Monday-February-12th-2018.md\|P07.11.01]] | [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/11-Background-Dates/2018-2-12-Monday-February-12th-2018.md\|Monday February 12th 2018]] | Date                                                                                      |  
   
   
 ---  

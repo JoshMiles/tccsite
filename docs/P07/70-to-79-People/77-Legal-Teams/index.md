@@ -29,7 +29,7 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                        | Friendly Name                                                                           | Description                             |  
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P07.77.01]] | [[index\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/77-Legal-Teams/index.md\|P07.77.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]] | Profiles of individuals on legal teams. |  
   
   
 ---  

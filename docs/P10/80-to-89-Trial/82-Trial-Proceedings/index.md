@@ -29,7 +29,7 @@ Anything and everything that happened during trial
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                                 | Description                                         |  
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P10.82.01]] | [[index\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/82-Trial-Proceedings/index.md\|P10.82.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial. |  
   
   
 ---  

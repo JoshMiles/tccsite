@@ -32,7 +32,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                     | Description                                            |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P02.34.01]] | [[index\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
+| [[Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/34-Press-Video/index.md\|P02.34.01]] | [[Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/34-Press-Video/index.md\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
   
   
 ---  

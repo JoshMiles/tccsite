@@ -29,7 +29,7 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                                    | Description                                                                                                    |  
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [[index\|P10.73.01]] | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/73-Family-and-Friends/index.md\|P10.73.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/73-Family-and-Friends/index.md\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
   
   
 ---  

@@ -32,8 +32,8 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                                | Friendly Name                                                                                 | Description                     |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- |  
-| [[index\|P02.22.01]]      | [[index\|PDFs Index]]           | The folder containing the PDFs. |  
-| [[./02-Outline\|P02.22.02]] | [[./02-Outline\|Outline of PDFs]] | Outline of the PDFs             |  
+| [[Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/index.md\|P02.22.01]]      | [[Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/index.md\|PDFs Index]]           | The folder containing the PDFs. |  
+| [[Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/02-Outline.md\|P02.22.02]] | [[Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/02-Outline.md\|Outline of PDFs]] | Outline of the PDFs             |  
   
   
 ---  

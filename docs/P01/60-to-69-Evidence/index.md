@@ -30,10 +30,10 @@ Information about the evidence
   
 | J.Dec ID                                                                 | Friendly Name                                                                          | Description                              |  
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P01.60.01]]             | [[index\|Evidence Index]]                      | Information about the evidence.          |  
-| [[./61-Digital/index\|P01.61.01]]  | [[./61-Digital/index\|Digital Evidence Index]]   | Information about the digital evidence.  |  
-| [[./62-Forensic/index\|P01.62.01]] | [[./62-Forensic/index\|Forensic Evidence Index]] | Information about the forensic evidence. |  
-| [[./63-Physical/index\|P01.63.01]] | [[./63-Physical/index\|Physical Evidence Index]] | Information about the physical evidence  |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/index.md\|P01.60.01]]             | [[Cases/P01-John-Doe/60-to-69-Evidence/index.md\|Evidence Index]]                      | Information about the evidence.          |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/61-Digital/index.md\|P01.61.01]]  | [[Cases/P01-John-Doe/60-to-69-Evidence/61-Digital/index.md\|Digital Evidence Index]]   | Information about the digital evidence.  |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/62-Forensic/index.md\|P01.62.01]] | [[Cases/P01-John-Doe/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]] | Information about the forensic evidence. |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/63-Physical/index.md\|P01.63.01]] | [[Cases/P01-John-Doe/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]] | Information about the physical evidence  |  
   
   
 ---  

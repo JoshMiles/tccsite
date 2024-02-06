@@ -31,8 +31,8 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                                                               | Friendly Name                                                                                                                          | Description                                                                            |  
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [[index\|P04.12.01]]                              | [[index\|Crime Dates Index]]                                      | This includes dates from the actual crime itself. Usually just the date of the murder. |  
-| [[./2008-9-8-Friday-September-8th-2008\|P04.12.01]] | [[./2008-9-8-Friday-September-8th-2008\|Friday September 8th 2008]] | Date                                                                                   |  
+| [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P04.12.01]]                              | [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]]                                      | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md\|P04.12.01]] | [[Cases/P04-Swedish-Moose-Murder/10-to-19-Case-Dates/12-Crime-Dates/2008-9-8-Friday-September-8th-2008.md\|Friday September 8th 2008]] | Date                                                                                   |  
   
   
 ---  

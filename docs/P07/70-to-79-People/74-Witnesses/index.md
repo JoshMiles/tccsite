@@ -29,7 +29,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                      | Friendly Name                                                                       | Description               |  
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P07.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/74-Witnesses/index.md\|P07.74.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

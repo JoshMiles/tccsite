@@ -28,7 +28,7 @@ aliases:
   
 | Name                               | Felipe "Phil" Flores           |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![02-phil-flores\|200](../../../Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/02-phil-flores.jpg)|  
+| Photo?                             | ![02-phil-flores\|200](../../30-to-39-Case-Media/32-People/02-phil-flores.jpg)|  
 | Date of Birth?                     |            |  
 | Age?                               |            |  
 | Lives In?                          |            |  

@@ -32,7 +32,7 @@ Images of people involved
   
 | J.Dec ID                                                                             | Friendly Name                                                                           | Description                |  
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | -------------------------- |  
-| [[index\|P02.32.01]] | [[index\|People Index]] | Images of people involved. |  
+| [[Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/32-People/index.md\|P02.32.01]] | [[Cases/P02-Case-of-Susann-Smith/30-to-39-Case-Media/32-People/index.md\|People Index]] | Images of people involved. |  
   
   
 ---  

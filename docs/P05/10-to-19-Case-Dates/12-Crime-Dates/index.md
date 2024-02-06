@@ -30,7 +30,7 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                              | Friendly Name                                                                                 | Description                                                                            |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [[index\|P05.12.01]] | [[index\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P05-Gold-Sock-Killer/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P05.12.01]] | [[Cases/P05-Gold-Sock-Killer/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

@@ -30,7 +30,7 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                 | Friendly Name                                                                          | Description                              |  
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P01.62.01]] | [[index\|Forensic Evidence Index]] | Information about the forensic evidence. |  
+| [[Cases/P01-John-Doe/60-to-69-Evidence/62-Forensic/index.md\|P01.62.01]] | [[Cases/P01-John-Doe/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]] | Information about the forensic evidence. |  
   
   
 ---  

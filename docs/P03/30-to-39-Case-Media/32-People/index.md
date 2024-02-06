@@ -31,7 +31,7 @@ Images of people involved
   
 | J.Dec ID                                                                        | Friendly Name                                                                      | Description                |  
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |  
-| [[index\|P03.32.01]] | [[index\|People Index]] | Images of people involved. |  
+| [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/index.md\|P03.32.01]] | [[Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/index.md\|People Index]] | Images of people involved. |  
   
   
 ---  

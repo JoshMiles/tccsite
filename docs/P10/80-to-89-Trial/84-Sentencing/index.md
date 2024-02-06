@@ -29,7 +29,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                   | Description                       |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P10.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/84-Sentencing/index.md\|P10.84.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

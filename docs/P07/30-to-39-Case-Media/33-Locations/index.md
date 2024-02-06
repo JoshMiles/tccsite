@@ -30,7 +30,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                          | Friendly Name                                                                           | Description                       |  
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P07.33.01]] | [[index\|Locations Index]] | Images of the locations involved. |  
+| [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/33-Locations/index.md\|P07.33.01]] | [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/33-Locations/index.md\|Locations Index]] | Images of the locations involved. |  
   
   
 ---  

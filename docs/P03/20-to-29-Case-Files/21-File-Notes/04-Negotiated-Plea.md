@@ -24,4 +24,4 @@ aliases:
   
 # Negotiated Plea  
   
-![03-NEGOTIATED-PLEA](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/03-NEGOTIATED-PLEA.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
+![03-NEGOTIATED-PLEA](../22-PDFs/03-NEGOTIATED-PLEA.pdf){ type=application/pdf style="min-height:100vh;width:100%" }

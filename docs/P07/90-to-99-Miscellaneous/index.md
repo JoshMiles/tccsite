@@ -29,9 +29,9 @@ Misc files. Includes the script
   
 | J.Dec ID                                                                                  | Friendly Name                                                                               | Description                       |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P07.90.01]]                   | [[index\|Miscellaneous Index]]           | Misc files. Includes the script.  |  
-| [[./91-Script/index\|P07.91.01]]         | [[./91-Script/index\|Script Folder Index]] | This folder contains the script.  |  
-| [[./91-Script/92-The-Script\|P07.91.02]] | [[./91-Script/92-The-Script\|The Script]]  | This is the script for this case. |  
+| [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/index.md\|P07.90.01]]                   | [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/index.md\|Miscellaneous Index]]           | Misc files. Includes the script.  |  
+| [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/91-Script/index.md\|P07.91.01]]         | [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/91-Script/index.md\|Script Folder Index]] | This folder contains the script.  |  
+| [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|P07.91.02]] | [[Cases/P07-Samantha-Harer/90-to-99-Miscellaneous/91-Script/02-The-Script.md\|The Script]]  | This is the script for this case. |  
   
   
 ---  

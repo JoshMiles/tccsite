@@ -29,7 +29,7 @@ The folder containing the PDFs
   
 | J.Dec ID                                                                             | Friendly Name                                                                         | Description                     |  
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------- |  
-| [[index\|P06.22.01]] | [[index\|PDFs Index]] | The folder containing the PDFs. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/20-to-29-Case-Files/22-PDFs/index.md\|P06.22.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/20-to-29-Case-Files/22-PDFs/index.md\|PDFs Index]] | The folder containing the PDFs. |  
   
   
 ---  

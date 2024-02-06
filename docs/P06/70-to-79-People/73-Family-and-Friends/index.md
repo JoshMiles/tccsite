@@ -29,7 +29,7 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                       | Friendly Name                                                                                                 | Description                                                                                                    |  
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [[index\|P06.73.01]] | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/73-Family-and-Friends/index.md\|P06.73.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/73-Family-and-Friends/index.md\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
   
   
 ---  

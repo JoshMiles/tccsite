@@ -30,7 +30,7 @@ Images of people involved
   
 | J.Dec ID                                                                       | Friendly Name                                                                     | Description                |  
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | -------------------------- |  
-| [[index\|P07.32.01]] | [[index\|People Index]] | Images of people involved. |  
+| [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/index.md\|P07.32.01]] | [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/32-People/index.md\|People Index]] | Images of people involved. |  
   
   
 ---  

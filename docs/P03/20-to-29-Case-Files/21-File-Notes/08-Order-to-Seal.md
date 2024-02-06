@@ -24,4 +24,4 @@ aliases:
   
 # Order to Seal  
  ^xmms2  
-![08-Magen-Fieramusca-Cases-Motion-Order-to-Seal](../../../Cases/P03-Heidi-Broussard/20-to-29-Case-Files/22-PDFs/08-Magen-Fieramusca-Cases-Motion-Order-to-Seal.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![08-Magen-Fieramusca-Cases-Motion-Order-to-Seal](../22-PDFs/08-Magen-Fieramusca-Cases-Motion-Order-to-Seal.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  

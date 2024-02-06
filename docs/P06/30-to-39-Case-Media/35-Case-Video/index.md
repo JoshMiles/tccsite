@@ -30,7 +30,7 @@ Any video clips from the trial or investigation
   
 | J.Dec ID                                                                                   | Friendly Name                                                                                     | Description                                      |  
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------ |  
-| [[index\|P06.35.01]] | [[index\|Case Video Index]] | Any video clips from the trial or investigation. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/30-to-39-Case-Media/35-Case-Video/index.md\|P06.35.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/30-to-39-Case-Media/35-Case-Video/index.md\|Case Video Index]] | Any video clips from the trial or investigation. |  
   
   
 ---  

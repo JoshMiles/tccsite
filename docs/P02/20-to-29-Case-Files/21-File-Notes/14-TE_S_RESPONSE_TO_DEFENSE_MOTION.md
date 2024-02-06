@@ -23,7 +23,7 @@ aliases:
   
 # State's Response to Defense Motion  
   
-![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../../../Cases/P02-Case-of-Susann-Smith/20-to-29-Case-Files/22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION](../22-PDFs/13_13-1-01546-8_69_STATE_S_RESPONSE_TO_DEFENSE_MOTION.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
 ## Declaration   
   

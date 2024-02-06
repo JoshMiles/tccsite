@@ -32,8 +32,8 @@ Writeups and notes about interviews conducted by law enforcement
   
 | J.Dec ID                                                                                            | Friendly Name                                                                                        | Description                                                       |  
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P02.51.01]]         | [[index\|Interviews Index]]   | Writeups and notes about interviews conducted by law enforcement. |  
-| [[./02-Interviews\|P02.51.02]] | [[./02-Interviews\|Interviews]] | Interview                                                         |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/51-Interviews/index.md\|P02.51.01]]         | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/51-Interviews/index.md\|Interviews Index]]   | Writeups and notes about interviews conducted by law enforcement. |  
+| [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/51-Interviews/02-Interviews.md\|P02.51.02]] | [[Cases/P02-Case-of-Susann-Smith/50-to-59-Investigation/51-Interviews/02-Interviews.md\|Interviews]] | Interview                                                         |  
   
   
 ---  

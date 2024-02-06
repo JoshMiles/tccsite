@@ -31,9 +31,9 @@ Profiles of individuals on legal teams
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                   | Description                             |  
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[./01-Judge-Kocurek\|P03.77.01]] | [[./01-Judge-Kocurek\|Judge Kocurek]] | Judge                                   |  
-| [[index\|P03.77.01]]            | [[index\|Legal Teams Index]]        | Profiles of individuals on legal teams. |  
-| [[./02-Judge-Urrutia\|P03.77.02]] | [[./02-Judge-Urrutia\|Judge Urrutia]] | Judge                                   |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/01-Judge-Kocurek.md\|P03.77.01]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/01-Judge-Kocurek.md\|Judge Kocurek]] | Judge                                   |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/index.md\|P03.77.01]]            | [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/index.md\|Legal Teams Index]]        | Profiles of individuals on legal teams. |  
+| [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/02-Judge-Urrutia.md\|P03.77.02]] | [[Cases/P03-Heidi-Broussard/70-to-79-People/77-Legal-Teams/02-Judge-Urrutia.md\|Judge Urrutia]] | Judge                                   |  
   
   
 ---  

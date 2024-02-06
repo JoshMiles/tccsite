@@ -30,9 +30,9 @@ The articles used in the research
   
 | J.Dec ID                                                                        | Friendly Name                                                                               | Description                           |  
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[index\|P01.40.01]]                    | [[index\|Articles Index]]                           | The articles used in the research.    |  
-| [[./41-Article-Archive/index\|P01.41.01]] | [[./41-Article-Archive/index\|Article Archive Index]] | Snapshots of the articles referenced. |  
-| [[./42-Article-Notes/index\|P01.42.01]]   | [[./42-Article-Notes/index\|Article Notes Index]]     | Notes for the articles.               |  
+| [[Cases/P01-John-Doe/40-to-49-Articles/index.md\|P01.40.01]]                    | [[Cases/P01-John-Doe/40-to-49-Articles/index.md\|Articles Index]]                           | The articles used in the research.    |  
+| [[Cases/P01-John-Doe/40-to-49-Articles/41-Article-Archive/index.md\|P01.41.01]] | [[Cases/P01-John-Doe/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]] | Snapshots of the articles referenced. |  
+| [[Cases/P01-John-Doe/40-to-49-Articles/42-Article-Notes/index.md\|P01.42.01]]   | [[Cases/P01-John-Doe/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]]     | Notes for the articles.               |  
   
   
 ---  

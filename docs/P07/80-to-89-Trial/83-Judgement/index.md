@@ -29,7 +29,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                                     | Friendly Name                                                                      | Description                                         |  
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P07.83.01]] | [[index\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
+| [[Cases/P07-Samantha-Harer/80-to-89-Trial/83-Judgement/index.md\|P07.83.01]] | [[Cases/P07-Samantha-Harer/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
   
   
 ---  

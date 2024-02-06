@@ -30,7 +30,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                      | Description                       |  
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P10.33.01]] | [[index\|Locations Index]] | Images of the locations involved. |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/30-to-39-Case-Media/33-Locations/index.md\|P10.33.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/30-to-39-Case-Media/33-Locations/index.md\|Locations Index]] | Images of the locations involved. |  
   
   
 ---  

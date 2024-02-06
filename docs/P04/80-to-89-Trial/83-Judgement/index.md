@@ -31,7 +31,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                                           | Friendly Name                                                                            | Description                                         |  
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |  
-| [[index\|P04.83.01]] | [[index\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
+| [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/83-Judgement/index.md\|P04.83.01]] | [[Cases/P04-Swedish-Moose-Murder/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
   
   
 ---  

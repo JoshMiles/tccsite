@@ -30,7 +30,7 @@ Details regarding the judgement outcome from trial
   
 | J.Dec ID                                                                       | Friendly Name                                                                        | Description                                         |  
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------- |  
-| [[index\|P05.83.01]] | [[index\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
+| [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/83-Judgement/index.md\|P05.83.01]] | [[Cases/P05-Gold-Sock-Killer/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]] | Details regarding the judgement outcome from trial. |  
   
   
 ---  

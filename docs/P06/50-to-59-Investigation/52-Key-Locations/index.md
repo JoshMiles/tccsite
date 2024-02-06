@@ -29,7 +29,7 @@ Information and notes about key locations pertaining to the case
   
 | J.Dec ID                                                                                         | Friendly Name                                                                                              | Description                                                       |  
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |  
-| [[index\|P06.52.01]] | [[index\|Key Locations Index]] | Information and notes about key locations pertaining to the case. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/50-to-59-Investigation/52-Key-Locations/index.md\|P06.52.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/50-to-59-Investigation/52-Key-Locations/index.md\|Key Locations Index]] | Information and notes about key locations pertaining to the case. |  
   
   
 ---  

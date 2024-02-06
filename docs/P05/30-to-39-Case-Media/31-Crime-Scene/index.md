@@ -32,7 +32,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                              | Friendly Name                                                                                 | Description                   |  
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [[index\|P05.31.01]] | [[index\|Crime Scene Index]] | Imagery from the crime scene. |  
+| [[Cases/P05-Gold-Sock-Killer/30-to-39-Case-Media/31-Crime-Scene/index.md\|P05.31.01]] | [[Cases/P05-Gold-Sock-Killer/30-to-39-Case-Media/31-Crime-Scene/index.md\|Crime Scene Index]] | Imagery from the crime scene. |  
   
   
 ---  

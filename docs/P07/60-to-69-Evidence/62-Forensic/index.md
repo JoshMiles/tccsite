@@ -29,7 +29,7 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                       | Friendly Name                                                                                | Description                              |  
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P07.62.01]] | [[index\|Forensic Evidence Index]] | Information about the forensic evidence. |  
+| [[Cases/P07-Samantha-Harer/60-to-69-Evidence/62-Forensic/index.md\|P07.62.01]] | [[Cases/P07-Samantha-Harer/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]] | Information about the forensic evidence. |  
   
   
 ---  

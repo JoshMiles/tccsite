@@ -32,11 +32,11 @@ Information about the forensic evidence
   
 | J.Dec ID                                                                                             | Friendly Name                                                                                                 | Description                              |  
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |  
-| [[index\|P02.62.01]]                 | [[index\|Forensic Evidence Index]]            | Information about the forensic evidence. |  
-| [[./02-Autopsy\|P02.62.02]]            | [[./02-Autopsy\|Autopsy]]                       | Forensic Evidence                        |  
-| [[./03-Footprint-Analysis\|P02.62.03]] | [[./03-Footprint-Analysis\|Footprint Analysis]] | Forensic Evidence                        |  
-| [[./04-Forensic-Evidence\|P02.62.04]]  | [[./04-Forensic-Evidence\|Forensic Evidence]]   | Forensic Evidence                        |  
-| [[./05-DNA\|P02.62.05]]                | [[./05-DNA\|DNA]]                               | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/index.md\|P02.62.01]]                 | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/index.md\|Forensic Evidence Index]]            | Information about the forensic evidence. |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/02-Autopsy.md\|P02.62.02]]            | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/02-Autopsy.md\|Autopsy]]                       | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/03-Footprint-Analysis.md\|P02.62.03]] | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/03-Footprint-Analysis.md\|Footprint Analysis]] | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/04-Forensic-Evidence.md\|P02.62.04]]  | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/04-Forensic-Evidence.md\|Forensic Evidence]]   | Forensic Evidence                        |  
+| [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/05-DNA.md\|P02.62.05]]                | [[Cases/P02-Case-of-Susann-Smith/60-to-69-Evidence/62-Forensic/05-DNA.md\|DNA]]                               | Forensic Evidence                        |  
   
   
 ---  

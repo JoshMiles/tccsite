@@ -31,8 +31,8 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                                                            | Friendly Name                                                                                                                         | Description                                                                            |  
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [[index\|P03.12.01]]                                | [[index\|Crime Dates Index]]                                          | This includes dates from the actual crime itself. Usually just the date of the murder. |  
-| [[./2019-12-12-Thursday-December-12-2019\|P03.12.01]] | [[./2019-12-12-Thursday-December-12-2019\|Thursday December 12th 2019]] | Date                                                                                   |  
+| [[Cases/P03-Heidi-Broussard/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P03.12.01]]                                | [[Cases/P03-Heidi-Broussard/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]]                                          | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P03-Heidi-Broussard/10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md\|P03.12.01]] | [[Cases/P03-Heidi-Broussard/10-to-19-Case-Dates/12-Crime-Dates/2019-12-12-Thursday-December-12-2019.md\|Thursday December 12th 2019]] | Date                                                                                   |  
   
   
 ---  

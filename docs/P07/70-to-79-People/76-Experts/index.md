@@ -29,7 +29,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                    | Friendly Name                                                                   | Description                                                                                 |  
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [[index\|P07.76.01]] | [[index\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/76-Experts/index.md\|P07.76.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/76-Experts/index.md\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

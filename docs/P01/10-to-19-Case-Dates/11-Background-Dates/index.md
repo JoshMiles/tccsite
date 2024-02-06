@@ -30,7 +30,7 @@ This folder includes dates from before the events of the case took place.
   
 | J.Dec ID                                                                           | Friendly Name                                                                                   | Description                                                                               |  
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |  
-| [[index\|P01.11.01]] | [[index\|Background Dates Index]] | This includes dates from before the events of the case took place. E.g date of a divorce. |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/11-Background-Dates/index.md\|P01.11.01]] | [[Cases/P01-John-Doe/10-to-19-Case-Dates/11-Background-Dates/index.md\|Background Dates Index]] | This includes dates from before the events of the case took place. E.g date of a divorce. |  
   
   
 ---  

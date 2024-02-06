@@ -32,7 +32,7 @@ Any video clips from the trial or investigation
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                   | Description                                      |  
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ |  
-| [[index\|P04.35.01]] | [[index\|Case Video Index]] | Any video clips from the trial or investigation. |  
+| [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/35-Case-Video/index.md\|P04.35.01]] | [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/35-Case-Video/index.md\|Case Video Index]] | Any video clips from the trial or investigation. |  
   
   
 ---  

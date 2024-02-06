@@ -30,7 +30,7 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                 | Friendly Name                                                                                           | Description                                                                                                    |  
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [[index\|P05.73.01]] | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[Cases/P05-Gold-Sock-Killer/70-to-79-People/73-Family-and-Friends/index.md\|P05.73.01]] | [[Cases/P05-Gold-Sock-Killer/70-to-79-People/73-Family-and-Friends/index.md\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
   
   
 ---  

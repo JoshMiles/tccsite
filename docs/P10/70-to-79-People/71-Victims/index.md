@@ -29,7 +29,7 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                               | Friendly Name                                                                              | Description                          |  
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------ |  
-| [[index\|P10.71.01]] | [[index\|Victims Index]] | Profiles about the victim or victims |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/71-Victims/index.md\|P10.71.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/70-to-79-People/71-Victims/index.md\|Victims Index]] | Profiles about the victim or victims |  
   
   
 ---  

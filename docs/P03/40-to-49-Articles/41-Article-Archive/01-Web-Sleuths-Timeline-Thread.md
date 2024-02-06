@@ -43,7 +43,7 @@ url: "https://www.kxan.com/news/local/austin/mom-and-2-week-old-baby-missing-las
 ```  
     
   
-![Heidi-and-baby.jpg](../../../media/Heidi-and-baby.jpg)  
+![Heidi-and-baby.jpg](media/Heidi-and-baby.jpg)  
   
 ---  
   
@@ -188,15 +188,15 @@ Unknown clothing
 Last seen dropping off a child at Cowan Elementary School (2817 Kentish Drive) on 12/12/2019 at approximately 7:30 a.m. Heidi and Margot are believed to have returned to their residence near West William Cannon and South First Street, but have not been seen or heard from since. Please call 911 with any information about the whereabouts of Heidi Broussard or Margot Carey. ^rnwus  
     
   
-![6a8534c5-0cb2-4cca-af18-cc6bcafb90f0.jpg](../../../media/6a8534c5-0cb2-4cca-af18-cc6bcafb90f0.jpg)  
+![6a8534c5-0cb2-4cca-af18-cc6bcafb90f0.jpg](media/6a8534c5-0cb2-4cca-af18-cc6bcafb90f0.jpg)  
   
    
   
-![9a3d9d57-24d1-4dd8-9aaf-406b956f833b.jpg](../../../media/9a3d9d57-24d1-4dd8-9aaf-406b956f833b.jpg)  
+![9a3d9d57-24d1-4dd8-9aaf-406b956f833b.jpg](media/9a3d9d57-24d1-4dd8-9aaf-406b956f833b.jpg)  
   
    
   
-![373317d8-5216-46a5-997e-a989ef7e4e42.jpg](../../../media/373317d8-5216-46a5-997e-a989ef7e4e42.jpg)  
+![373317d8-5216-46a5-997e-a989ef7e4e42.jpg](media/373317d8-5216-46a5-997e-a989ef7e4e42.jpg)  
   
 ---  
 - [Dec 14, 2019](https://www.websleuths.com/forums/threads/tx-heidi-broussard-33-margot-carey-2-wks-austin-12-dec-2019-media-maps-timeline-no-discuss.490396/post-15639548)  
@@ -210,7 +210,7 @@ url: "https://twitter.com/Austin_Police/status/1205579509300367362"
 ```  
 Attached is an updated photo of Heidi Broussard from Dec. 12, 2019 at 7:50 a.m. at Cowan Elementary. The clothing pictured is what she is believed to have been wearing when she was last seen. Anyone with information about her and Margot is asked to call 911 immediately.    
   
-![ELsULGbXkAIkavO.png](../../../media/ELsULGbXkAIkavO.png)  
+![ELsULGbXkAIkavO.png](media/ELsULGbXkAIkavO.png)  
     
 2:05 PM - 13 Dec 2019  
   
@@ -227,7 +227,7 @@ url: "https://twitter.com/Bryce_Newberry/status/1205626850208362497"
 ```  
 NOW: An [@Austin_Police](https://twitter.com/Austin_Police) chopper is circling in the area of missing 33yo Heidi Broussard’s apartment. Detectives are still at the apartment. APD also tells us [@TPWDnews](https://twitter.com/TPWDnews) Game Wardens provided a K9 to help with the case. [@KVUE](https://twitter.com/KVUE) ^g03n8  
   
-![ELs_KFxXUAEEXoy.jpg](../../../media/ELs_KFxXUAEEXoy.jpg)  
+![ELs_KFxXUAEEXoy.jpg](media/ELs_KFxXUAEEXoy.jpg)  
   
 5:13 PM - 13 Dec 2019  
   
@@ -262,11 +262,11 @@ url: "https://twitter.com/mortiznews/status/1205691620324188160"
 _Translated from Spanish by [Microsoft](https://aka.ms/Twitter2BingTranslator)_    
 Tonight on your Telemundo Austin News we will continue coverage of the mysterious disappearance of a mother and her baby. This is the second night you don't know about them. By 10 p.m. I'll have the emotional call he makes by Heidi Broussard's partner.    
   
-![ELt6IqHXUAIfXew.jpg](../../../media/ELt6IqHXUAIfXew.jpg)  
+![ELt6IqHXUAIfXew.jpg](media/ELt6IqHXUAIfXew.jpg)  
   
    
   
-![ELt6IqMXsAELKH5.png](../../../media/ELt6IqMXsAELKH5.png)  
+![ELt6IqMXsAELKH5.png](media/ELt6IqMXsAELKH5.png)  
   
 9:30 PM - 13 Dec 2019  
   
@@ -917,23 +917,23 @@ url: "https://www.dailymail.co.uk/news/article-7796163/Tearful-fianc-denies-invo
 - Authorities have not offered an update in the search since Friday, and it is unclear whether Carey is being treated as a person of interest  
 - Carey's father Ty Carey set up a Facebook page Sunday morning to raise money for a reward and for 'expenses incurred during the search' ^hvk6f  
   
-![22292050-7796163-image-a-43_1576476507947.jpg](../../../media/22292050-7796163-image-a-43_1576476507947.jpg)  
+![22292050-7796163-image-a-43_1576476507947.jpg](media/22292050-7796163-image-a-43_1576476507947.jpg)  
   
    
   
-![22291822-7796163-image-a-41_1576476057577.jpg](../../../media/22291822-7796163-image-a-41_1576476057577.jpg)  
+![22291822-7796163-image-a-41_1576476057577.jpg](media/22291822-7796163-image-a-41_1576476057577.jpg)  
   
    
   
-![22292048-7796163-image-a-42_1576476489931.jpg](../../../media/22292048-7796163-image-a-42_1576476489931.jpg)  
+![22292048-7796163-image-a-42_1576476489931.jpg](media/22292048-7796163-image-a-42_1576476489931.jpg)  
   
     
   
-![22292058-7796163-image-m-45_1576476652417.jpg](../../../media/22292058-7796163-image-m-45_1576476652417.jpg)  
+![22292058-7796163-image-m-45_1576476652417.jpg](media/22292058-7796163-image-m-45_1576476652417.jpg)  
   
    
   
-![22291780-7796163-image-a-40_1576476041222.jpg](../../../media/22291780-7796163-image-a-40_1576476041222.jpg)  
+![22291780-7796163-image-a-40_1576476041222.jpg](media/22291780-7796163-image-a-40_1576476041222.jpg)  
   
 ---  
   
@@ -1105,7 +1105,7 @@ url: "https://preview.abcnews.go.com/GMA/News/video/urgent-search-missing-mom-ne
 ```  
 1:50 Search parties have been organized including one group planning to use drones ^c6fzo  
     
- [![](../../../media/194224-738db8016190e69bc1993614bdbf7f06.jpg.png)](https://www.websleuths.com/forums/attachments/purse-and-wallet-png.220742/)[![](../../../media/194223-e373b6c1fb1c14c49cb7f7f1a05aa20f.jpg.png)](https://www.websleuths.com/forums/attachments/diaper-bag-png.220741/)  
+ [![](media/194224-738db8016190e69bc1993614bdbf7f06.jpg.png)](https://www.websleuths.com/forums/attachments/purse-and-wallet-png.220742/)[![](media/194223-e373b6c1fb1c14c49cb7f7f1a05aa20f.jpg.png)](https://www.websleuths.com/forums/attachments/diaper-bag-png.220741/)  
   
 ---  
   
@@ -1131,19 +1131,19 @@ url: "https://twitter.com/SamBrockNBC/status/1206981945864970242"
 A snapshot of the work [@**FBI**](https://twitter.com/FBI) is doing this morning- interviewing people who live in apt. complex of [#**heidibroussard**](https://twitter.com/hashtag/heidibroussard?src=hash), checking surveillance video & inspecting cars. Broussard’s boyfriend Shane Carey tells me he’s boosted by their presence, hopeful of breakthrough. [@**NBCNightlyNews**](https://twitter.com/NBCNightlyNews) ^vu5y8  
     
   
-![EMAPrJzWoAAe-Pu.jpg](../../../media/EMAPrJzWoAAe-Pu.jpg)  
+![EMAPrJzWoAAe-Pu.jpg](media/EMAPrJzWoAAe-Pu.jpg)  
   
     
   
-![EMAPrJwWoAI6f01.jpg](../../../media/EMAPrJwWoAI6f01.jpg)  
+![EMAPrJwWoAI6f01.jpg](media/EMAPrJwWoAI6f01.jpg)  
   
     
   
-![EMAPrJ_XkAE8m4D.jpg](../../../media/EMAPrJ_XkAE8m4D.jpg)  
+![EMAPrJ_XkAE8m4D.jpg](media/EMAPrJ_XkAE8m4D.jpg)  
   
     
   
-![EMAPrJ9XUAEDWQ_.jpg](../../../media/EMAPrJ9XUAEDWQ_.jpg)  
+![EMAPrJ9XUAEDWQ_.jpg](media/EMAPrJ9XUAEDWQ_.jpg)  
   
 10:58 AM - 17 Dec 2019  
   
@@ -1178,23 +1178,23 @@ url: "https://www.dailymail.co.uk/news/article-7801595/FBI-joins-search-missing-
 - Austin Police have given few details about the disappearance so far but are expected to provide updates on the investigation on Tuesday afternoon  
 - The FBI and Texas Rangers have since joined the search efforts for the mother and daughter  
   
-![22292508-7801595-Carey_described_Broussard_as_an_amazing_mother_who_would_do_anyt-m-21_1576591947780.jpg](../../../media/22292508-7801595-Carey_described_Broussard_as_an_amazing_mother_who_would_do_anyt-m-21_1576591947780.jpg)  
+![22292508-7801595-Carey_described_Broussard_as_an_amazing_mother_who_would_do_anyt-m-21_1576591947780.jpg](media/22292508-7801595-Carey_described_Broussard_as_an_amazing_mother_who_would_do_anyt-m-21_1576591947780.jpg)  
   
    
   
-![22358032-7801595-The_FBI_and_Texas_Rangers_have_since_joined_the_search_efforts_f-m-57_1576598139407.jpg](../../../media/22358032-7801595-The_FBI_and_Texas_Rangers_have_since_joined_the_search_efforts_f-m-57_1576598139407.jpg)  
+![22358032-7801595-The_FBI_and_Texas_Rangers_have_since_joined_the_search_efforts_f-m-57_1576598139407.jpg](media/22358032-7801595-The_FBI_and_Texas_Rangers_have_since_joined_the_search_efforts_f-m-57_1576598139407.jpg)  
   
    
   
-![22358026-7801595-image-a-58_1576598165050.jpg](../../../media/22358026-7801595-image-a-58_1576598165050.jpg)  
+![22358026-7801595-image-a-58_1576598165050.jpg](media/22358026-7801595-image-a-58_1576598165050.jpg)  
   
     
   
-![22276730-7801595-Broussard_was_last_seen_on_the_Cowan_Elementary_campus_at_around-m-23_1576591967109.jpg](../../../media/22276730-7801595-Broussard_was_last_seen_on_the_Cowan_Elementary_campus_at_around-m-23_1576591967109.jpg)  
+![22276730-7801595-Broussard_was_last_seen_on_the_Cowan_Elementary_campus_at_around-m-23_1576591967109.jpg](media/22276730-7801595-Broussard_was_last_seen_on_the_Cowan_Elementary_campus_at_around-m-23_1576591967109.jpg)  
   
    
   
-![22292058-7801595-Baby_Margot_is_pictured_shortly_after_her_birth_on_November_26_2-m-26_1576592128632.jpg](../../../media/22292058-7801595-Baby_Margot_is_pictured_shortly_after_her_birth_on_November_26_2-m-26_1576592128632.jpg)  
+![22292058-7801595-Baby_Margot_is_pictured_shortly_after_her_birth_on_November_26_2-m-26_1576592128632.jpg](media/22292058-7801595-Baby_Margot_is_pictured_shortly_after_her_birth_on_November_26_2-m-26_1576592128632.jpg)  
   
 ---  
   
@@ -1327,7 +1327,7 @@ Police say, "at this time, we have no reason to believe that Margot nor Heidi ar
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1207019085432791040)    
 Latest from [@**Austin_Police**](https://twitter.com/Austin_Police): No person(s) of interest or suspects in disappearance of Heidi Broussard and Margot Carey. Police still don’t know whether or not she left on her own or if something unfortunate happened. They are utilizing state and federal resources in search.    
   
-![EMAxdPAXsAIAZhL.jpg](../../../media/EMAxdPAXsAIAZhL.jpg)  
+![EMAxdPAXsAIAZhL.jpg](media/EMAxdPAXsAIAZhL.jpg)  
     
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1207019957537714181)    
 OF NOTE: Police say they are still working under the assumption that Heidi Broussard and Margot Carey are alive. [@**KVUE**](https://twitter.com/KVUE)    
@@ -1384,15 +1384,15 @@ DEC 17, 2019
 [FBI SanAntonio on Twitter](https://twitter.com/FBISanAntonio/status/1207038043124838401)    
 Heidi Broussard and her newborn baby Margo Carey were last seen on December 12 in Austin, TX. Please call [@**Austin_Police**](https://twitter.com/Austin_Police) or 911 immediately if you have information about their whereabouts [#**Missing**](https://twitter.com/hashtag/Missing?src=hash) [#**HeidiBroussard**](https://twitter.com/hashtag/HeidiBroussard?src=hash) [https://twitter.com/Austin_Police/status/1205481751419727872 …](https://t.co/X6ZwT4Udl1)    
   
-![EMBCtAHXkAYLEuh.jpg](../../../media/EMBCtAHXkAYLEuh.jpg)  
+![EMBCtAHXkAYLEuh.jpg](media/EMBCtAHXkAYLEuh.jpg)  
   
     
   
-![EMBCtASWwAM1NY9.jpg](../../../media/EMBCtASWwAM1NY9.jpg)  
+![EMBCtASWwAM1NY9.jpg](media/EMBCtASWwAM1NY9.jpg)  
   
     
   
-![EMBCs_cWsAINt9K.jpg](../../../media/EMBCs_cWsAINt9K.jpg)  
+![EMBCs_cWsAINt9K.jpg](media/EMBCs_cWsAINt9K.jpg)  
   
 1:41 PM - 17 Dec 2019  
   
@@ -1967,23 +1967,23 @@ Carey repeated his account in a phone interview with KVUE on Sunday during which
 […]    
     
   
-![22292050-7808299-Carey_said_he_last_saw_Broussard_at_around_6_40am_and_spoke_to_h-a-6_1576731832076.jpg](../../../media/22292050-7808299-Carey_said_he_last_saw_Broussard_at_around_6_40am_and_spoke_to_h-a-6_1576731832076.jpg)  
+![22292050-7808299-Carey_said_he_last_saw_Broussard_at_around_6_40am_and_spoke_to_h-a-6_1576731832076.jpg](media/22292050-7808299-Carey_said_he_last_saw_Broussard_at_around_6_40am_and_spoke_to_h-a-6_1576731832076.jpg)  
   
    
   
-![22402010-7805687-image-a-5_1576677723242.jpg](../../../media/22402010-7805687-image-a-5_1576677723242.jpg)  
+![22402010-7805687-image-a-5_1576677723242.jpg](media/22402010-7805687-image-a-5_1576677723242.jpg)  
   
    
   
-![22401808-7805687-image-a-7_1576677740608.jpg](../../../media/22401808-7805687-image-a-7_1576677740608.jpg)  
+![22401808-7805687-image-a-7_1576677740608.jpg](media/22401808-7805687-image-a-7_1576677740608.jpg)  
   
     
   
-![22402020-7805687-image-a-19_1576678004936.jpg](../../../media/22402020-7805687-image-a-19_1576678004936.jpg)  
+![22402020-7805687-image-a-19_1576678004936.jpg](media/22402020-7805687-image-a-19_1576678004936.jpg)  
   
    
   
-![22401818-7805687-image-a-10_1576677779883.jpg](../../../media/22401818-7805687-image-a-10_1576677779883.jpg)  
+![22401818-7805687-image-a-10_1576677779883.jpg](media/22401818-7805687-image-a-10_1576677779883.jpg)  
   
 ---  
   
@@ -2379,7 +2379,7 @@ Today marks one week since Heidi Broussard and Margot Carey disappeared in South
 [Christian Flores on Twitter](https://twitter.com/CFloresNews/status/1207759054585696267)    
 Missing posters put up on the Waterloo Ice House at Southpark Meadows. ^grgl7  
   
-![EMLSdArXkAIZ88M.jpg](../../../media/EMLSdArXkAIZ88M.jpg)  
+![EMLSdArXkAIZ88M.jpg](media/EMLSdArXkAIZ88M.jpg)  
   
 5:26 PM - 19 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)  
   
@@ -2530,19 +2530,19 @@ While KPRC 2 was at the scene late Thursday night, a medical examiner’s van ar
   
 [Tulsi Kamath on Twitter](https://twitter.com/tulsi_kamath/status/1207902032365080576)    
   
-![EMNUNlBWwAAjJaF.jpg](../../../media/EMNUNlBWwAAjJaF.jpg)  
+![EMNUNlBWwAAjJaF.jpg](media/EMNUNlBWwAAjJaF.jpg)  
   
     
   
-![EMNUNmuVAAAuqPl.jpg](../../../media/EMNUNmuVAAAuqPl.jpg)  
+![EMNUNmuVAAAuqPl.jpg](media/EMNUNmuVAAAuqPl.jpg)  
   
     
   
-![EMNUNmTWkAARH2n.jpg](../../../media/EMNUNmTWkAARH2n.jpg)  
+![EMNUNmTWkAARH2n.jpg](media/EMNUNmTWkAARH2n.jpg)  
   
     
   
-![EMNUNmQX0AAntmK.jpg](../../../media/EMNUNmQX0AAntmK.jpg)  
+![EMNUNmQX0AAntmK.jpg](media/EMNUNmQX0AAntmK.jpg)  
   
     
 11:54 PM - 20 Dec 2019    
@@ -2825,7 +2825,7 @@ According to [Maygen Humphrey’s LinkedIn’s page,](https://www.linkedin.com/
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1208082819928535042)    
 This is the home federal and state authorities raided last night in NW Harris County where they found what is believed to be the body of missing Austin mother Heidi Broussard.    
   
-![EMP451jWwAUdeht.jpg](../../../media/EMP451jWwAUdeht.jpg)  
+![EMP451jWwAUdeht.jpg](media/EMP451jWwAUdeht.jpg)  
   
     
 11:52 AM - 20 Dec 2019    
@@ -2869,15 +2869,15 @@ Maygen Humphrey Twitter: [Login on Twitter](https://twitter.com/maygenhumphrey/
 [KVUE News on Twitter](https://twitter.com/KVUE/status/1208096407195918339)    
 PHOTOS: The “good friend” tied to the death of missing [#**Austin**](https://twitter.com/hashtag/Austin?src=hash) mom [#**HeidiBroussard**](https://twitter.com/hashtag/HeidiBroussard?src=hash) appeared in [#**HarrisCounty**](https://twitter.com/hashtag/HarrisCounty?src=hash) Court this morning for outstanding traffic offenses. (She is the one in red.) Here’s what we know about Magen Fieramusca: [https://www.kvue.com/article/news/local/heidi-broussard-houston-home-missing-austin-woman/269-f2ddad6d-7f7f-4b70-a304-d41f0cfcbdbb …](https://t.co/kf2glESh7f) ^6gksb  
   
-![EMQFRimXYAI7poD.jpg](../../../media/EMQFRimXYAI7poD.jpg)  
+![EMQFRimXYAI7poD.jpg](media/EMQFRimXYAI7poD.jpg)  
   
     
   
-![EMQFRipX0AECPwY.jpg](../../../media/EMQFRipX0AECPwY.jpg)  
+![EMQFRipX0AECPwY.jpg](media/EMQFRipX0AECPwY.jpg)  
   
     
   
-![EMQFRijXUAAbSwd.jpg](../../../media/EMQFRijXUAAbSwd.jpg)  
+![EMQFRijXUAAbSwd.jpg](media/EMQFRijXUAAbSwd.jpg)  
   
     
 12:46 PM · Dec 20, 2019·[Twitter for iPhone](https://help.twitter.com/using-twitter/how-to-tweet#source-labels)    
@@ -2890,7 +2890,7 @@ PHOTOS: The “good friend” tied to the death of missing [#**Austin**](https:
     
 [FOX 7 Austin on Twitter](https://twitter.com/fox7austin/status/1208101846432260096)    
 [#NEW](https://twitter.com/hashtag/NEW?src=hash): The Harris County District Attorney's Office has shared the mugshot of Megan Rose Fieramusca. Megan is believed to be involved in the disappearance of Heidi Broussard and her baby. [@Austin_Police](https://twitter.com/Austin_Police) is giving an update on the case at 2 MORE: [http://bit.ly/2s8ozmn](https://t.co/JyfFvjC2hy)    
-[![](../../../media/proxy.php.jpg)](https://twitter.com/fox7austin/status/1208101846432260096/photo/1)    
+[![](media/proxy.php.jpg)](https://twitter.com/fox7austin/status/1208101846432260096/photo/1)    
 1:08 PM · Dec 20, 2019·[TweetDeck](https://help.twitter.com/using-twitter/how-to-tweet#source-labels)  
   
 ---  
@@ -2946,7 +2946,7 @@ She pled no contest to all six tickets and was found guilty. She was fined $50 e
 Thread: Neighbors say this is the south Austin apt where Heidi Broussard, the woman who went missing last week along with her infant daughter, lived.    
 Broussard was found dead Friday, police said. More information: [https://www.statesman.com/article/20191219/NEWS/191218602 …](https://t.co/tFlCcMzQE3)    
   
-![EMQUIfnX0AMzzrT.jpg](../../../media/EMQUIfnX0AMzzrT.jpg)  
+![EMQUIfnX0AMzzrT.jpg](media/EMQUIfnX0AMzzrT.jpg)  
   
     
 1:51 PM - 20 Dec 2019    
@@ -2954,11 +2954,11 @@ Broussard was found dead Friday, police said. More information: [https://www.st
 [Kara Carlson on Twitter](https://twitter.com/KaraCarlson2/status/1208112772904554496)    
 Broussard's car is still parked outside the apt complex. It has a sticker for her 6 year old son, and a shopping list inside includes socks and a stocking for her infant daughter Margot and shirts for her son Margot was found alive, according to police. ^mpv57  
   
-![EMQUJaXX0AIteuQ.jpg](../../../media/EMQUJaXX0AIteuQ.jpg)  
+![EMQUJaXX0AIteuQ.jpg](media/EMQUJaXX0AIteuQ.jpg)  
   
    
   
-![EMQUKGjX0AIchWR.jpg](../../../media/EMQUKGjX0AIchWR.jpg)  
+![EMQUKGjX0AIchWR.jpg](media/EMQUKGjX0AIchWR.jpg)  
   
  ^43r3c  
 1:51 PM - 20 Dec 2019    
@@ -3002,7 +3002,7 @@ https://www.facebook.com/watch/?v=525868141340475
 [Terri Gruca on Twitter](https://twitter.com/TerriG_KVUE/status/1208118260299898880)    
 [@**Chief_Manley**](https://twitter.com/Chief_Manley) speaking about Heidi Broussard case. Will not take questions because investigation continues. [@**KVUE**](https://twitter.com/KVUE)    
   
-![EMQZJx4W4AE6YS8.jpg](../../../media/EMQZJx4W4AE6YS8.jpg)  
+![EMQZJx4W4AE6YS8.jpg](media/EMQZJx4W4AE6YS8.jpg)  
   
     
 2:13 PM - 20 Dec 2019    
@@ -3053,7 +3053,7 @@ The baby is safe and in the state’s care.
 [Matt Mershon on Twitter](https://twitter.com/MattMershonTV/status/1208120801192398848)    
 Officials keep reminding media that this case is an ongoing investigation, despite arrest last night and finding who they believe to be Heidi Broussard and baby Margot. [@**SpecNewsATX**](https://twitter.com/SpecNewsATX) [@**SpecNewsSA**](https://twitter.com/SpecNewsSA)    
   
-![EMQbdmDXsAEB0x9.jpg](../../../media/EMQbdmDXsAEB0x9.jpg)  
+![EMQbdmDXsAEB0x9.jpg](media/EMQbdmDXsAEB0x9.jpg)  
   
     
 2:23 PM - 20 Dec 2019    
@@ -3265,7 +3265,7 @@ Baby Margot was found alive and well **in a swing** inside the home. An ambula
 A friend who spoke to KVUE's [@Bryce_Newberry](https://twitter.com/Bryce_Newberry) said [#HeidiBroussard](https://twitter.com/hashtag/HeidiBroussard?src=hash) and Magen Fieramusca met when they were 11 at church camp. Fieramusca is now charged in connection to the [#missing](https://twitter.com/hashtag/missing?src=hash) [#Austin](https://twitter.com/hashtag/Austin?src=hash) mother's death.    
 STORY: [‘Close friend’ of missing Austin mom found dead identified, was plotting to take her baby: Sources](https://www.kvue.com/article/news/local/heidi-broussard-houston-home-missing-austin-woman/269-f2ddad6d-7f7f-4b70-a304-d41f0cfcbdbb)    
   
-![EMQ1RsmWkAEbGak.jpg](../../../media/EMQ1RsmWkAEbGak.jpg)  
+![EMQ1RsmWkAEbGak.jpg](media/EMQ1RsmWkAEbGak.jpg)  
   
     
 2:16 PM - 20 Dec 2019·   
@@ -3312,7 +3312,7 @@ Dec 20, 2019
 "There was not one single indication she had anything to do with it." Tim Miller tells us he got numbers for some of Heidi Broussard's friends after she went missing and Magen Fieramusca was the first person he called. [#KHOU11](https://twitter.com/hashtag/KHOU11?src=hash)    
     
   
-![EMRTVqDX0AAgA2x.jpg](../../../media/EMRTVqDX0AAgA2x.jpg)  
+![EMRTVqDX0AAgA2x.jpg](media/EMRTVqDX0AAgA2x.jpg)  
   
 4:27 PM - 20 Dec 2019  
   
@@ -3374,7 +3374,7 @@ Just spoke w/ a next door neighbor, who tells me a man in his 30’s has lived i
     
 **  
   
-![EMPBmTYWoAAuZLc.jpg](../../../media/EMPBmTYWoAAuZLc.jpg)  
+![EMPBmTYWoAAuZLc.jpg](media/EMPBmTYWoAAuZLc.jpg)  
   
 **5:51 AM - 20 Dec 2019**  
   
@@ -3454,7 +3454,7 @@ TIMELINE: Here's what we know so far on how the investigation into the disappear
 - [Dec 21, 2019](https://www.websleuths.com/forums/threads/tx-heidi-broussard-33-margot-carey-2-wks-austin-12-dec-2019-media-maps-timeline-no-discuss.490396/post-15656893)  
   
   
-![EMQ1RsmWkAEbGak.jpg](../../../media/EMQ1RsmWkAEbGak.jpg)  
+![EMQ1RsmWkAEbGak.jpg](media/EMQ1RsmWkAEbGak.jpg)  
   
     
     
@@ -3471,7 +3471,7 @@ A friend who spoke to KVUE's [@Bryce_Newberry](https://twitter.com/Bryce_Newber
 A shopping list left in the car of missing Austin woman Heidi Brossard includes a Christmas stocking and small socks for her infant daughter Margo Carey. Photo by [@jayjanner](https://twitter.com/jayjanner)/[@statesman](https://twitter.com/statesman) [https://atxne.ws/2MefH5A](https://t.co/5LX5dESM1h)    
     
   
-![EMQgKTaXkAYQ8hM.jpg](../../../media/EMQgKTaXkAYQ8hM.jpg)  
+![EMQgKTaXkAYQ8hM.jpg](media/EMQgKTaXkAYQ8hM.jpg)  
   
     
 12:44 PM - 20 Dec 2019  
@@ -3536,7 +3536,7 @@ BREAKING: “It is heartbreaking circumstances that bring us here today,” Chie
 [**Tony Plohetski**‏Verified account @tplohetski](https://twitter.com/tplohetski)    
 Booking photo of Magen Fieramusca.    
     
-![EMQXd6zWoAYXs0V.jpg](../../../media/EMQXd6zWoAYXs0V.jpg)  
+![EMQXd6zWoAYXs0V.jpg](media/EMQXd6zWoAYXs0V.jpg)  
     
 12:06 PM - 20 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)  
   
@@ -3549,7 +3549,7 @@ Booking photo of Magen Fieramusca.
 Minutes from law enforcement news conference for official updates in Heidi Broussard case. I’ll be Tweeting here.    
     
   
-![EMQWw4UWkAIC19a.jpg](../../../media/EMQWw4UWkAIC19a.jpg)  
+![EMQWw4UWkAIC19a.jpg](media/EMQWw4UWkAIC19a.jpg)  
   
 12:03 PM - 20 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)  
   
@@ -3566,7 +3566,7 @@ BREAKING: Suspect in kidnapping of Heidi Broussard, Magen Fieramusca, 33, to be 
 LATEST: Some official word from Austin police and word of a 2 pm news conference.    
     
   
-![EMPn17PXkAA3-a6.jpg](../../../media/EMPn17PXkAA3-a6.jpg)  
+![EMPn17PXkAA3-a6.jpg](media/EMPn17PXkAA3-a6.jpg)  
   
 8:38 AM - 20 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)  
   
@@ -3759,11 +3759,11 @@ Fieramusca was reportedly with Broussard while she was giving birth to Carey. La
 […]    
     
   
-![25b03678-2497-4b49-834e-acb0b67b2d2f_750x422.jpg](../../../media/25b03678-2497-4b49-834e-acb0b67b2d2f_750x422.jpg)  
+![25b03678-2497-4b49-834e-acb0b67b2d2f_750x422.jpg](media/25b03678-2497-4b49-834e-acb0b67b2d2f_750x422.jpg)  
   
    
   
-![e4d6cbc8-6728-48f0-9ca6-91183c269f46_750x422.jpg](../../../media/e4d6cbc8-6728-48f0-9ca6-91183c269f46_750x422.jpg)  
+![e4d6cbc8-6728-48f0-9ca6-91183c269f46_750x422.jpg](media/e4d6cbc8-6728-48f0-9ca6-91183c269f46_750x422.jpg)  
   
 ---  
   
@@ -3871,19 +3871,19 @@ Bruises to her arms and legs can clearly be seen in the pictures which Broussard
 […]    
     
   
-![22498942-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-134_1576853105026.jpg](../../../media/22498942-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-134_157685310502.jpg)  
+![22498942-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-134_1576853105026.jpg](media/22498942-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-134_157685310502.jpg)  
   
    
   
-![22498864-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-135_1576853110120.jpg](../../../media/22498864-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-135_157685311012.jpg)  
+![22498864-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-135_1576853110120.jpg](media/22498864-7814141-Photos_taken_by_Broussard_in_March_show_bruised_arms_and_legs_wh-m-135_157685311012.jpg)  
   
    
   
-![22496418-0-image-a-91_1576849508635.jpg](../../../media/22496418-0-image-a-91_1576849508635.jpg)  
+![22496418-0-image-a-91_1576849508635.jpg](media/22496418-0-image-a-91_1576849508635.jpg)  
   
    
   
-![22497128-7814141-image-a-107_1576850445431.jpg](../../../media/22497128-7814141-image-a-107_1576850445431.jpg)  
+![22497128-7814141-image-a-107_1576850445431.jpg](media/22497128-7814141-image-a-107_1576850445431.jpg)  
   
     
     
@@ -4100,7 +4100,7 @@ Harris County Institute of Forensic Sciences
 **Case Number:** ML19-4432    
 [Case Status](https://ifs.harriscountytx.gov/Pages/CaseStatus.aspx)    
     
-[![](../../../media/195104-4bbc3da3007c583c5c99acb7c3b5ac43.jpg.png)](https://www.websleuths.com/forums/attachments/ml19-4432-png.221624/)    
+[![](media/195104-4bbc3da3007c583c5c99acb7c3b5ac43.jpg.png)](https://www.websleuths.com/forums/attachments/ml19-4432-png.221624/)    
     
 **Case Num:** ML19-4432    
 **Last Name:** BROUSSARD    
@@ -4476,11 +4476,11 @@ As a young girl, they were her role models.
 [Janelle Bludau on Twitter](https://twitter.com/JanelleKHOU/status/1208936253971992576)    
 Friends say this is the [#**HeidiBroussard**](https://twitter.com/hashtag/HeidiBroussard?src=hash) and [#**MagenFieramusca**](https://twitter.com/hashtag/MagenFieramusca?src=hash) they remember. Happy and carefree. These pictures are from a beach trip in 2013, posted to Heidi's facebook. [@**KHOU**](https://twitter.com/KHOU)    
   
-![EMcBHXkXsAA9LmP.jpg](../../../media/EMcBHXkXsAA9LmP.jpg)  
+![EMcBHXkXsAA9LmP.jpg](media/EMcBHXkXsAA9LmP.jpg)  
   
    
   
-![EMcBHXiWoAwSO6Q.jpg](../../../media/EMcBHXiWoAwSO6Q.jpg)  
+![EMcBHXiWoAwSO6Q.jpg](media/EMcBHXiWoAwSO6Q.jpg)  
   
 8:23 PM - 22 Dec 2019  
   
@@ -4525,11 +4525,11 @@ At approx. the 2:00 mark in the video, the reporter says that Shane has said tha
 [Sam Brock on Twitter](https://twitter.com/SamBrockNBC/status/1209088557110976513)    
 Last night, a small group of close friends held a private memorial for [#**HeidiBroussard**](https://twitter.com/hashtag/HeidiBroussard?src=hash). In a few hours, many more will come out to honor the mother of two in a vigil in South Austin- as her death remains shrouded in mystery. [@**TODAYshow**](https://twitter.com/TODAYshow) [@**NBCNews**](https://twitter.com/NBCNews)    
   
-![EMeLn8EX0AUS-i0.jpg](../../../media/EMeLn8EX0AUS-i0.jpg)  
+![EMeLn8EX0AUS-i0.jpg](media/EMeLn8EX0AUS-i0.jpg)  
   
    
   
-![EMeLn8FWoAAEcUY.jpg](../../../media/EMeLn8FWoAAEcUY.jpg)    
+![EMeLn8FWoAAEcUY.jpg](media/EMeLn8FWoAAEcUY.jpg)    
 6:29 AM - 23 Dec 2019 from [Garrison Park](https://twitter.com/search?q=place%3A07d9d285e4082000)  
   
 ---  
@@ -4613,25 +4613,25 @@ Photographs of the 'best friend' charged in connection with Heidi Broussard's de
 Authorities say Magen, who also goes by Megan Humphrey, pretended the baby was her own. She had been faking her own pregnancy throughout Heidi's, with the intention of stealing her baby once she'd given birth, they say.    
     
   
-![22598310-7822227-image-m-35_1577121900324.jpg](../../../media/22598310-7822227-image-m-35_1577121900324.jpg)  
+![22598310-7822227-image-m-35_1577121900324.jpg](media/22598310-7822227-image-m-35_1577121900324.jpg)  
   
     
 Magen and Heidi in 2002 when they met at church camp    
     
   
-![22598316-7822227-image-a-36_1577121992041.jpg](../../../media/22598316-7822227-image-a-36_1577121992041.jpg)  
+![22598316-7822227-image-a-36_1577121992041.jpg](media/22598316-7822227-image-a-36_1577121992041.jpg)  
   
     
 Magen and Heidi in a more recent photograph    
     
   
-![22598330-7822227-image-m-41_1577122771354.jpg](../../../media/22598330-7822227-image-m-41_1577122771354.jpg)  
+![22598330-7822227-image-m-41_1577122771354.jpg](media/22598330-7822227-image-m-41_1577122771354.jpg)  
   
     
 Magen in a 2018 mugshot for her theft case    
     
   
-![22598326-7822227-image-a-42_1577122775064.jpg](../../../media/22598326-7822227-image-a-42_1577122775064.jpg)  
+![22598326-7822227-image-a-42_1577122775064.jpg](media/22598326-7822227-image-a-42_1577122775064.jpg)  
   
     
 Magen's mugshot from last week    
@@ -4683,7 +4683,7 @@ TX ready to ask for temp. custody during Fri. hearing
 [Pattrik Perez on Twitter](https://twitter.com/PattrikPerez/status/1209265454558187520)    
 In about 20 minutes, a group formed on social media will hold a vigil at Garrison Park for Heidi Broussard, an Austin mom whose body was found in Houston last week. We’re expecting a musical performance and a prayer from a local pastor. They’ve brought at least 200 candles. [@**KVUE**](https://twitter.com/KVUE)    
   
-![EMgshK6XUAAz5sC.jpg](../../../media/EMgshK6XUAAz5sC.jpg)  
+![EMgshK6XUAAz5sC.jpg](media/EMgshK6XUAAz5sC.jpg)  
   
     
 6:12 PM - 23 Dec 2019    
@@ -4703,7 +4703,7 @@ So many tears being shed tonight, even from people who did not know Heidi. The c
 [Niki Griswold on Twitter](https://twitter.com/nikigriswold/status/1209273844231495682)    
 I’m at a community, candle-lit vigil for Heidi Broussard at Garrison Park [@**SpecNewsATX**](https://twitter.com/SpecNewsATX)    
   
-![EMg0JmjXsAYfXF3.jpg](../../../media/EMg0JmjXsAYfXF3.jpg)  
+![EMg0JmjXsAYfXF3.jpg](media/EMg0JmjXsAYfXF3.jpg)  
   
     
 6:45 PM - 23 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)    
@@ -4711,15 +4711,15 @@ I’m at a community, candle-lit vigil for Heidi Broussard at Garrison Park [@*
 [Janel Klein on Twitter](https://twitter.com/JanelKlein/status/1209274730374684672)    
 Friends and family of Heidi Broussard are holding their second candlelight vigil after she was found murdered in the trunk of her best friend’s car. Broussard’s missing newborn was found alive, and her friend is now charged with kidnapping and tampering with a corpse.    
   
-![EMg09HLWwAAl2oj.jpg](../../../media/EMg09HLWwAAl2oj.jpg)  
+![EMg09HLWwAAl2oj.jpg](media/EMg09HLWwAAl2oj.jpg)  
   
    
   
-![EMg09HKXUAYHxIc.jpg](../../../media/EMg09HKXUAYHxIc.jpg)  
+![EMg09HKXUAYHxIc.jpg](media/EMg09HKXUAYHxIc.jpg)  
   
    
   
-![EMg09HKXYAAc4m2.jpg](../../../media/EMg09HKXYAAc4m2.jpg)  
+![EMg09HKXYAAc4m2.jpg](media/EMg09HKXYAAc4m2.jpg)  
   
     
 6:48 PM - 23 Dec 2019 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)    
@@ -4973,15 +4973,15 @@ Margot was permanently returned to Heidi’s fiancé, Shane Carey, at his father
 […]    
     
   
-![22615426-0-image-a-54_1577163432533.jpg](../../../media/22615426-0-image-a-54_1577163432533.jpg)  
+![22615426-0-image-a-54_1577163432533.jpg](media/22615426-0-image-a-54_1577163432533.jpg)  
   
    
   
-![22615420-0-image-a-55_1577163443377.jpg](../../../media/22615420-0-image-a-55_1577163443377.jpg)  
+![22615420-0-image-a-55_1577163443377.jpg](media/22615420-0-image-a-55_1577163443377.jpg)  
   
    
   
-![22612354-7823593-image-m-17_1577153845431.jpg](../../../media/22612354-7823593-image-m-17_1577153845431.jpg)  
+![22612354-7823593-image-m-17_1577153845431.jpg](media/22612354-7823593-image-m-17_1577153845431.jpg)  
   
 ---  
   
@@ -5040,7 +5040,7 @@ LISTEN: [THE MURDER OF HEIDI BROUSSARD - Leigh Egan & Sheryl McCollum Interview
 [Courtney Fischer on Twitter](https://twitter.com/CourtneyABC13/status/1209435629504864256)    
 Baby Margot Carey reunited with her father, grandparents last night. She’s home for Christmas! Meanwhile, woman accused of kidnapping Margot’s mother, Heidi, still in jail. Heidi found dead in trunk of a car last week. [#**abc13**](https://twitter.com/hashtag/abc13?src=hash)    
   
-![EMjHSzsWoAAwBFO.jpg](../../../media/EMjHSzsWoAAwBFO.jpg)  
+![EMjHSzsWoAAwBFO.jpg](media/EMjHSzsWoAAwBFO.jpg)  
   
     
 6:28 AM - 24 Dec 2019 from [Houston, TX](https://twitter.com/search?q=place%3A1c69a67ad480e1b1)    
@@ -5048,7 +5048,7 @@ Baby Margot Carey reunited with her father, grandparents last night. She’s hom
 [ABC13 Houston on Twitter](https://twitter.com/abc13houston/status/1209513527800737793)    
 This is the first photo Shane Carey, the dad of the baby found alive inside a Houston-area home, has posted with his daughter since being reunited last night in Austin. Carey's fiancee, Heidi Broussard, was found dead. Her friend is charged in the case.    
   
-![EMkOI1gWoAAABJh.jpg](../../../media/EMkOI1gWoAAABJh.jpg)  
+![EMkOI1gWoAAABJh.jpg](media/EMkOI1gWoAAABJh.jpg)  
   
 10:37 AM - 24 Dec 2019  
   
@@ -5270,7 +5270,7 @@ The probable cause document — which typically outlines the facts that justify 
 June 15, 1986 - December 19, 2019    
     
   
-![626581bc-8b15-43a6-8ca7-03acde983018.jpg](../../../media/626581bc-8b15-43a6-8ca7-03acde983018.jpg)  
+![626581bc-8b15-43a6-8ca7-03acde983018.jpg](media/626581bc-8b15-43a6-8ca7-03acde983018.jpg)  
   
     
     
@@ -5283,7 +5283,7 @@ Miss Broussard lived most of her life in Lake Charles. She lived her early child
 Funeral services will be at 2:00 PM Saturday, December 28, 2019 in the Johnson Funeral Home Chapel. Reverend Doyle Evans will officiate. Interment will follow in Highland Memory Gardens. Visitation Friday will be from 5:00 PM until 8:00 PM and will continue Saturday from 12:00 PM until the time of service in the funeral home.    
     
   
-![g35036.gif](../../../media/g35036.gif)  
+![g35036.gif](media/g35036.gif)  
   
 ---  
   
@@ -5485,23 +5485,23 @@ Balloons were released following the procession to the cemetery, a day after Bro
 ...Broussard's youth pastor officiated the ceremony where guests sang Hallelujah by candlelight.    
     
   
-![22758268-7833993-Heidi_Broussard_33_was_laid_to_rest_in_Louisiana_Saturday_in_a_c-m-63_1577598166647.jpg](../../../media/22758268-7833993-Heidi_Broussard_33_was_laid_to_rest_in_Louisiana_Saturday_in_a_c-m-63_1577598166647.jpg)  
+![22758268-7833993-Heidi_Broussard_33_was_laid_to_rest_in_Louisiana_Saturday_in_a_c-m-63_1577598166647.jpg](media/22758268-7833993-Heidi_Broussard_33_was_laid_to_rest_in_Louisiana_Saturday_in_a_c-m-63_1577598166647.jpg)  
   
    
   
-![22758274-7833993-On_Saturday_guests_released_balloons_in_remembrance_of_the_woman-m-76_1577598748743.jpg](../../../media/22758274-7833993-On_Saturday_guests_released_balloons_in_remembrance_of_the_woman-m-76_1577598748743.jpg)  
+![22758274-7833993-On_Saturday_guests_released_balloons_in_remembrance_of_the_woman-m-76_1577598748743.jpg](media/22758274-7833993-On_Saturday_guests_released_balloons_in_remembrance_of_the_woman-m-76_1577598748743.jpg)  
   
    
   
-![22758278-7833993-image-a-35_1577594610153.jpg](../../../media/22758278-7833993-image-a-35_1577594610153.jpg)  
+![22758278-7833993-image-a-35_1577594610153.jpg](media/22758278-7833993-image-a-35_1577594610153.jpg)  
   
     
   
-![22758314-7833993-image-a-81_1577599500687.jpg](../../../media/22758314-7833993-image-a-81_1577599500687.jpg)  
+![22758314-7833993-image-a-81_1577599500687.jpg](media/22758314-7833993-image-a-81_1577599500687.jpg)  
   
    
   
-![22758388-7833993-image-a-82_1577599620599.jpg](../../../media/22758388-7833993-image-a-82_1577599620599.jpg)  
+![22758388-7833993-image-a-82_1577599620599.jpg](media/22758388-7833993-image-a-82_1577599620599.jpg)  
     
 [...]  
   
@@ -5605,7 +5605,7 @@ This Saturday, Jan. 4, a candlelight vigil to honor Broussard will take place at
 [Shannon on Twitter](https://twitter.com/ShannonWVTM13/status/1213627450959290369)    
 NBCNC: Friends of Heidi Broussard, the Austin, Texas mother who was found dead during the holidays, hold candlelight vigil. (image from KXAN) [@WVTM13](https://twitter.com/WVTM13) [#wvtm13](https://twitter.com/hashtag/wvtm13?src=hash)    
   
-![ENernloU4AAX2Kg.jpg](../../../media/ENernloU4AAX2Kg.jpg)  
+![ENernloU4AAX2Kg.jpg](media/ENernloU4AAX2Kg.jpg)  
   
   
 7:05 PM - 4 Jan 2020  
@@ -5622,7 +5622,7 @@ The Austin community gathered Saturday evening to honor 33-year-old Heidi Brouss
 “She was an awesome mom to begin with, an awesome friend. She had a beautiful spirit about her,” said MC, a dear friend of Broussard’s. “She was always happy, she lit up every room she walked into.”    
     
   
-![Image-from-iOS-79.jpg](../../../media/Image-from-iOS-79.jpg)  
+![Image-from-iOS-79.jpg](media/Image-from-iOS-79.jpg)  
     
 [...]    
     
@@ -5672,7 +5672,7 @@ Body believed to be missing mom found in trunk
   
 Crime scene tape on the gate:    
     
- [![](../../../media/197365-74599e409c37342277d16ee6c21c98ad.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-138-png.223894/)[![](../../../media/197366-a0ca29fa2d642d0f0ebaac81e99fabda.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-139-png.223895/)  
+ [![](media/197365-74599e409c37342277d16ee6c21c98ad.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-138-png.223894/)[![](media/197366-a0ca29fa2d642d0f0ebaac81e99fabda.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-139-png.223895/)  
   
 ---  
   
@@ -6076,7 +6076,7 @@ Affidavit goes on to say someone at the apt complex saw a woman in the passenger
 [Melanie Barden on Twitter](https://twitter.com/MelanieCBS/status/1214288744892768256)    
 This paragraph of Fieramusca affidavit details the apt complex witness account of what happened around the time Heidi Broussard went missing [@**cbsaustin**](https://twitter.com/cbsaustin)    
   
-![ENoFKT-XsAUfTfN.jpg](../../../media/ENoFKT-XsAUfTfN.jpg)  
+![ENoFKT-XsAUfTfN.jpg](media/ENoFKT-XsAUfTfN.jpg)  
   
     
 3:52 PM - 6 Jan 2020 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)    
@@ -6114,7 +6114,7 @@ Two days later, according to the affidavit, she searched "bodies found in Austin
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1214296880080924673)    
 JUST IN: Attorneys for Magen Fieramusca respond to today’s release of affidavit.    
   
-![ENoMk0zWwAEe84_](../../../media/ENoMk0zWwAEe84_.jpg)  
+![ENoMk0zWwAEe84_](media/ENoMk0zWwAEe84_.jpg)  
   
 1:25 PM · Jan 6, 2020  
   
@@ -6171,7 +6171,7 @@ JAN 7, 2020
 [Tony Plohetski on Twitter](https://twitter.com/tplohetski/status/1214557955984633856)    
 Austin police release booking photo of Magen Fieramusca from Travis County Jail.    
   
-![ENr6BTPXsAE2FXl.jpg](../../../media/ENr6BTPXsAE2FXl.jpg)  
+![ENr6BTPXsAE2FXl.jpg](media/ENr6BTPXsAE2FXl.jpg)  
   
 9:42 AM - 7 Jan 2020 from [Austin, TX](https://twitter.com/search?q=place%3Ac3f37afa9efcf94b)  
   
@@ -6182,7 +6182,7 @@ Austin police release booking photo of Magen Fieramusca from Travis County Jail.
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1215118039471067136)    
 AT 10 ONLY ON [@**KVUE**](https://twitter.com/KVUE): [#**exclusive**](https://twitter.com/hashtag/exclusive?src=hash) [@**ABC**](https://twitter.com/ABC) interview with Heidi Broussard's fiance, Shane Carey - his first on-camera interview since Heidi's disappearance and death - join us tonight and much more on [@**GMA**](https://twitter.com/GMA) tomorrow    
   
-![ENz3adaXkAAZYby.jpg](../../../media/ENz3adaXkAAZYby.jpg)  
+![ENz3adaXkAAZYby.jpg](media/ENz3adaXkAAZYby.jpg)  
   
 9:48 PM - 8 Jan 2020  
   
@@ -6250,7 +6250,7 @@ JAN 9, 2020
 - 'I don't know what happened. Heidi is way stronger than Magen. There has to be a second person. There is no way Magen was by herself', Carey told ABC  
 - Carey says he 'believes somebody talked her into it' and wants to ask her 'why?'  
   
-![23193642-7868923-image-a-1_1578574770349.jpg](../../../media/23193642-7868923-image-a-1_1578574770349.jpg)  
+![23193642-7868923-image-a-1_1578574770349.jpg](media/23193642-7868923-image-a-1_1578574770349.jpg)  
   
 ---  
   
@@ -6313,19 +6313,19 @@ Although she declined to pass a message to Heidi's grieving family, Christine sa
 [...]    
     
   
-![23209112-7869465-image-a-26_1578598148849.jpg](../../../media/23209112-7869465-image-a-26_1578598148849.jpg)  
+![23209112-7869465-image-a-26_1578598148849.jpg](media/23209112-7869465-image-a-26_1578598148849.jpg)  
   
    
   
-![23200120-7869465-image-m-22_1578593541416.jpg](../../../media/23200120-7869465-image-m-22_1578593541416.jpg)  
+![23200120-7869465-image-m-22_1578593541416.jpg](media/23200120-7869465-image-m-22_1578593541416.jpg)  
   
    
   
-![23200118-7869465-image-a-24_1578600823889.jpg](../../../media/23200118-7869465-image-a-24_1578600823889.jpg)  
+![23200118-7869465-image-a-24_1578600823889.jpg](media/23200118-7869465-image-a-24_1578600823889.jpg)  
   
    
   
-![23200130-7869465-image-a-24_1578593864348.jpg](../../../media/23200130-7869465-image-a-24_1578593864348.jpg)  
+![23200130-7869465-image-a-24_1578593864348.jpg](media/23200130-7869465-image-a-24_1578593864348.jpg)  
   
 [...]  
   
@@ -6567,19 +6567,19 @@ url: "<iframe title="Websleuths Radio Podcast1.17.20" src="https://www.youtube.c
 [...]    
     
   
-![23730344-7916559-image-a-40_1579709119234.jpg](../../../media/23730344-7916559-image-a-40_1579709119234.jpg)  
+![23730344-7916559-image-a-40_1579709119234.jpg](media/23730344-7916559-image-a-40_1579709119234.jpg)  
   
    
   
-![23730312-7916559-image-a-41_1579709143559.jpg](../../../media/23730312-7916559-image-a-41_1579709143559.jpg)  
+![23730312-7916559-image-a-41_1579709143559.jpg](media/23730312-7916559-image-a-41_1579709143559.jpg)  
   
    
   
-![23730314-7916559-image-a-46_1579709162876.jpg](../../../media/23730314-7916559-image-a-46_1579709162876.jpg)  
+![23730314-7916559-image-a-46_1579709162876.jpg](media/23730314-7916559-image-a-46_1579709162876.jpg)  
   
    
   
-![23730342-7916559-image-m-25_1579708326832.jpg](../../../media/23730342-7916559-image-m-25_1579708326832.jpg)  
+![23730342-7916559-image-m-25_1579708326832.jpg](media/23730342-7916559-image-m-25_1579708326832.jpg)  
   
 ---  
   
@@ -6625,7 +6625,7 @@ url: "https://twitter.com/willrdupree/status/1222277034740715523"
   
 The one page available from the capital murder indictment against [#MagenFieramusc**a**](https://twitter.com/hashtag/MagenFieramusca?src=hash) stated that she’s accused of asphyxiating [#HeidiBroussard](https://twitter.com/hashtag/HeidiBroussard?src=hash) with a leash & her hands. [@KXAN_News](https://twitter.com/KXAN_News)    
   
-![EPZme26XUAAgGMZ.jpg](../../../media/EPZme26XUAAgGMZ.jpg)  
+![EPZme26XUAAgGMZ.jpg](media/EPZme26XUAAgGMZ.jpg)  
   
     
 4:55 PM - 28 Jan 2020    
@@ -6640,7 +6640,7 @@ url: "https://twitter.com/bradrstreicher/status/1222272557769949185/photo/1"
 ```  
   
 Magen Fieramusca, the woman linked to the death of [#HeidiBroussard](https://twitter.com/hashtag/HeidiBroussard?src=hashtag_click), has been indicted on a capital murder charge in Travis County. Here’s the statement from the Travis County District Attorney that just came in to [@KVUE](https://twitter.com/KVUE) ^f6f9y  
-[![](../../../media/proxy.php-1.jpg)](https://twitter.com/bradrstreicher/status/1222272557769949185/photo/1)    
+[![](media/proxy.php-1.jpg)](https://twitter.com/bradrstreicher/status/1222272557769949185/photo/1)    
 4:37 PM · Jan 28, 2020    
     
 [Jessica Willey on Twitter](https://twitter.com/imjessicawilley/status/1222285428256071680?s=21)    
@@ -6653,7 +6653,7 @@ url: "https://twitter.com/imjessicawilley/status/1222285428256071680?s=21"
 ```  
   
 Here are the indictments against Magen Fieramusca filed today.    
- [![](../../../media/proxy.php.jpg)](https://twitter.com/ImJessicaWilley/status/1222285428256071680/photo/1)[![](../../../media/proxy.php-1.jpg)](https://twitter.com/ImJessicaWilley/status/1222285428256071680/photo/2)    
+ [![](media/proxy.php.jpg)](https://twitter.com/ImJessicaWilley/status/1222285428256071680/photo/1)[![](media/proxy.php-1.jpg)](https://twitter.com/ImJessicaWilley/status/1222285428256071680/photo/2)    
     
 [Jessica Willey on Twitter](https://twitter.com/ImJessicaWilley/status/1222281866859905024)    
   
@@ -6709,7 +6709,7 @@ According to the indictment, on or about the day of Dec. 12, 2019, in the course
 JUST IN: Magen Fieramusca's attorneys respond to today's capital murder indictment.    
 "We cannot act to fairly and vigorously represent our Client when we start defending her with our hands tied and eyes blindfolded. Justice ought to be blind, not the defense." [@KVUE](https://twitter.com/KVUE)    
   
-![EPZ4hIiXUAAT6oV.png](../../../media/EPZ4hIiXUAAT6oV.png)  
+![EPZ4hIiXUAAT6oV.png](media/EPZ4hIiXUAAT6oV.png)  
   
 5:14 PM - 28 Jan 2020  
   
@@ -6900,7 +6900,7 @@ Court co-ordinators tell us she is not expected to appear in court for the heari
 [Hunter Davis on Twitter](https://twitter.com/HunterDavisNews/status/1224351388475559937)    
 Magen Fieramsuca, who is charged with capital murder, is scheduled to be in court today in connection to the Heidi Broussard case. Fieramsuca is accused of kidnapping Broussard and her baby, then killing Broussard.    
   
-![EP3FGJqXkAAorfc.jpg](../../../media/EP3FGJqXkAAorfc.jpg)  
+![EP3FGJqXkAAorfc.jpg](media/EP3FGJqXkAAorfc.jpg)  
   
     
 9:18 AM - 3 Feb 2020    
@@ -6916,7 +6916,7 @@ Court was scheduled to begin at 10:00am ET, we haven’t started yet. I will pro
 [Hunter Davis on Twitter](https://twitter.com/HunterDavisNews/status/1224363089044393984)    
 Jackie Wood, Magen’s attorney is now in the courtroom.    
   
-![EP3PvCxWoAAvKjw.jpg](../../../media/EP3PvCxWoAAvKjw.jpg)  
+![EP3PvCxWoAAvKjw.jpg](media/EP3PvCxWoAAvKjw.jpg)  
   
 10:04 AM - 3 Feb 2020  
   
@@ -6927,19 +6927,19 @@ Jackie Wood, Magen’s attorney is now in the courtroom.
 [Hunter Davis on Twitter](https://twitter.com/HunterDavisNews/status/1224380667196252162)    
 Magen’s Attorney, Jackie Wood filed a Request for Discovery and Inspection of Evidence on Jan. 30, 2020.    
   
-![EP3fuF9WkAAyO5o.jpg](../../../media/EP3fuF9WkAAyO5o.jpg)  
+![EP3fuF9WkAAyO5o.jpg](media/EP3fuF9WkAAyO5o.jpg)  
   
    
   
-![EP3fuF_X4AQ7ALq.jpg](../../../media/EP3fuF_X4AQ7ALq.jpg)  
+![EP3fuF_X4AQ7ALq.jpg](media/EP3fuF_X4AQ7ALq.jpg)  
   
    
   
-![EP3fuGEWkAAJVdQ.jpg](../../../media/EP3fuGEWkAAJVdQ.jpg)  
+![EP3fuGEWkAAJVdQ.jpg](media/EP3fuGEWkAAJVdQ.jpg)  
   
    
   
-![EP3fuGtXUAEoWfj.jpg](../../../media/EP3fuGtXUAEoWfj.jpg)  
+![EP3fuGtXUAEoWfj.jpg](media/EP3fuGtXUAEoWfj.jpg)  
   
 11:14 AM - 3 Feb 2020  
   
@@ -6960,19 +6960,19 @@ This is expected to be part of the discussion in court today.
 [Hunter Davis on Twitter](https://twitter.com/HunterDavisNews/status/1224380859404488711)    
 A motion to enforce the discovery was filed an hour later. The state responded this morning:    
   
-![EP3f5YPXkAE9IvM.jpg](../../../media/EP3f5YPXkAE9IvM.jpg)  
+![EP3f5YPXkAE9IvM.jpg](media/EP3f5YPXkAE9IvM.jpg)  
   
    
   
-![EP3f5XsW4AUpnDJ.jpg](../../../media/EP3f5XsW4AUpnDJ.jpg)  
+![EP3f5XsW4AUpnDJ.jpg](media/EP3f5XsW4AUpnDJ.jpg)  
   
    
   
-![EP3f5YGWsAUQ1Wk.jpg](../../../media/EP3f5YGWsAUQ1Wk.jpg)  
+![EP3f5YGWsAUQ1Wk.jpg](media/EP3f5YGWsAUQ1Wk.jpg)  
   
    
   
-![EP3f5Y_X0AATlgB.jpg](../../../media/EP3f5Y_X0AATlgB.jpg)  
+![EP3f5Y_X0AATlgB.jpg](media/EP3f5Y_X0AATlgB.jpg)  
   
     
 11:15 AM - 3 Feb 2020    
@@ -6980,7 +6980,7 @@ A motion to enforce the discovery was filed an hour later. The state responded t
 [Hunter Davis on Twitter](https://twitter.com/HunterDavisNews/status/1224382919692648448)    
 Attorneys for Magen Fieramusca are now meeting with the judge.    
   
-![EP3hwavXsAMNxWB.jpg](../../../media/EP3hwavXsAMNxWB.jpg)  
+![EP3hwavXsAMNxWB.jpg](media/EP3hwavXsAMNxWB.jpg)  
   
 11:23 AM - 3 Feb 2020  
   
@@ -6991,7 +6991,7 @@ Attorneys for Magen Fieramusca are now meeting with the judge.
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1224382994523328519)    
 “We are very frustrated,” Magen Fieramusca’s defense atty Jackie Wood tells Judge Geoffrey Puryear. Asst Dist Atty Joshua Somers says it’s still early in process and state will provide info as soon as they can.    
   
-![EP3h12VXkAARXAW.jpg](../../../media/EP3h12VXkAARXAW.jpg)  
+![EP3h12VXkAARXAW.jpg](media/EP3h12VXkAARXAW.jpg)  
   
     
 11:23 AM - 3 Feb 2020    
@@ -7000,7 +7000,7 @@ Attorneys for Magen Fieramusca are now meeting with the judge.
 Happening Now: Megan Fiermusca’s attorney’s are in court today. Less than a week ago Fieramusca was indicted on charges of capital murder and kidnapping in connection to the death of Heidi Broussard. Background [https://bit.ly/2UlPBSZ](https://t.co/rPRu9nELzz)    
     
   
-![EP3iZarXsAAUuzX.jpg](../../../media/EP3iZarXsAAUuzX.jpg)  
+![EP3iZarXsAAUuzX.jpg](media/EP3iZarXsAAUuzX.jpg)  
   
     
 11:26 AM - 3 Feb 2020    
@@ -7017,7 +7017,7 @@ Magen Fieramusca's lawyers are in court today. They're upset they haven't seen "
 Hear from the attorneys for Magen Fieramusca tonight on [@**KVUE**](https://twitter.com/KVUE) —    
 their client is charged with capital murder, kidnapping, tampering with a corpse in connection to Heidi Broussard’s death    
   
-![EP3ptZ5XkAYgR3H.jpg](../../../media/EP3ptZ5XkAYgR3H.jpg)  
+![EP3ptZ5XkAYgR3H.jpg](media/EP3ptZ5XkAYgR3H.jpg)  
   
 11:58 AM - 3 Feb 2020  
   
@@ -7061,7 +7061,7 @@ Judge Geoffrey Puryear did not grant the motion and said he trusted prosecutors 
   
 Magen Fieramusca **next court date March 11, 2020** at 9:00 a.m.    
     
-[![](../../../media/203308-74813530c09550619cd63fe055ac5c3a.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-227-png.229850/)  
+[![](media/203308-74813530c09550619cd63fe055ac5c3a.jpg.png)](https://www.websleuths.com/forums/attachments/screenshot-227-png.229850/)  
     
 [https://www2.traviscountytx.gov/courts/files/uploads/crimsettingsbydefendant.pdf](https://www2.traviscountytx.gov/courts/files/uploads/crimsettingsbydefendant.pdf)  
   
@@ -7109,7 +7109,7 @@ UPDATE: Magen Fieramusca's attorneys requested the bond reduction part of the he
 [Bryce Newberry on Twitter](https://twitter.com/Bryce_Newberry/status/1374022692865736708)    
   
 Magen Fieramusca, accused of kidnapping & killing her longtime friend Heidi Broussard, just appeared in court for the first time in a year. It was originally a bond reduction hearing but her attorneys withdrew that request. She’ll continue to be held on $1.6 million bond.[@KVUE](https://twitter.com/KVUE)    
-[![](../../../media/proxy.php-1.jpg)](https://twitter.com/Bryce_Newberry/status/1374022692865736708/photo/1)    
+[![](media/proxy.php-1.jpg)](https://twitter.com/Bryce_Newberry/status/1374022692865736708/photo/1)    
 10:38 [AM · Mar 22, 2021](https://twitter.com/Bryce_Newberry/status/1374022692865736708)    
     
 **3/22/21 460TH DOCKET**  
@@ -7187,11 +7187,11 @@ https://www.facebook.com/watch/?v=110413637934951
 [rudy koski on Twitter](https://twitter.com/KoskionFOX7/status/1501963863276859401)    
 Hearing underway in case of Magen Fieramusca who is accused of killing her friend Heidi Broussard & stealing Heidi’s newborn baby. Defense Attorneys claim police didn’t have search warrant when baby & mom’s body found at Magen’s home.want evidence thrown out [@fox7austin](https://twitter.com/fox7austin) ^efo2j  
   
-![FNgMK-zWUAUVdGh](../../../media/FNgMK-zWUAUVdGh.jpg)  
+![FNgMK-zWUAUVdGh](media/FNgMK-zWUAUVdGh.jpg)  
   
    
   
-![FNgMK-zXEAoQwIh](../../../media/FNgMK-zXEAoQwIh.jpg)  
+![FNgMK-zXEAoQwIh](media/FNgMK-zXEAoQwIh.jpg)  
     
 [9:51 AM · Mar 10, 2022](https://twitter.com/KoskionFOX7/status/1501963863276859401) from [Austin,](https://twitter.com/places/c3f37afa9efcf94b)  
   
@@ -7336,7 +7336,7 @@ He also stated that nurses at the hospital where Heidi gave birth remembered the
   
 MAY 11, 2022    
   
-![www.khou.com](../../../media/www.khou.com.png)  
+![www.khou.com](media/www.khou.com.png)  
   
 ### [Woman charged with best friend's murder, kidnapping her baby expected in court Thursday](https://www.khou.com/article/news/crime/heidi-broussard-megan-fieramusca-murder-kidnapping/285-a0eca640-845c-4a52-b83c-02bbfe50e975)​  
   
@@ -7366,7 +7366,7 @@ _TRAVIS COUNTY, Texas — [Magen Fieramusca](https://www.kvue.com/article/news/
 At a court hearing on Thursday, May 12, Judge Selena Alvarenga denied her defense team's request. They claimed that the evidence was illegally obtained when investigators entered the Harris County home without a search warrant. The judge ruled that Fieramusca voluntarily spoke with law enforcement at the home and understood her rights._ ^m5n2g  
     
   
-![www.kvue.com](../../../media/www.kvue.com.png)  
+![www.kvue.com](media/www.kvue.com.png)  
   
 ### [Judge denies request to throw out evidence against woman accused of kidnapping Austin mother](https://www.kvue.com/article/news/crime/magen-fieramusca-heidi-broussard-pre-trial-evidence-hearing/269-d3273048-d1f1-4cf0-bfca-72fab02448be)  
   
@@ -7420,7 +7420,7 @@ She's charged with killing Heidi Broussard so she could steal her baby. Attorney
   
  [www.khou.com](http://www.khou.com/)    
     
-![www.statesman.com](../../../media/www.statesman.com.png)  
+![www.statesman.com](media/www.statesman.com.png)  
   
     
   
@@ -7430,7 +7430,7 @@ A judge ruled Texas investigators' warrantless entry into Magen Fieramusca's hom
 [www.statesman.com](http://www.statesman.com/)    
     
   
-![www.kxan.com](../../../media/www.kxan.com.png)  
+![www.kxan.com](media/www.kxan.com.png)  
   
     
   
@@ -7584,7 +7584,7 @@ _"On January 31, the District Attorney’s Office expects Megan_ [Magen] _Fier
   
 JAN 24, 2023    
   
-![www.kxan.com](../../../media/www.kxan.com.jpg)  
+![www.kxan.com](media/www.kxan.com.jpg)  
   
 ### [Mom of victim Heidi Broussard speaks out about Magen Fieramusca sentence](https://www.kxan.com/news/local/austin/mom-of-victim-heidi-broussard-speaks-out-about-expected-sentence/)  
   
@@ -7629,7 +7629,7 @@ _**"Tied together?" he repeated, baffled.**
 **"It's fair to say y’all were right — the child was Margot, and Heidi was deceased,"** Brian Erskine, Fieramusca's attorney, said as he questioned a Ranger on the stand. "But you would agree with me that, **as terribly important as it is to protect children and their safety, that there are laws before you go into someone’s home**."_    
     
   
-![www.statesman.com](../../../media/www.statesman.com.jpg)  
+![www.statesman.com](media/www.statesman.com.jpg)  
   
 ### ['Please go get that baby': Defense in Heidi Broussard case alleges evidence was improperly gathered](https://www.statesman.com/story/news/2022/03/10/heidi-broussard-death-2-years-later-magen-fieramusca-appears-court/6987249001/)  
   
@@ -7713,7 +7713,7 @@ https://twitter.com/KPRC2Bryce/status/1621233904689487874?ref_src=twsrc%5Etfw%7C
   
 FEB 2, 2023    
   
-![www.statesman.com](../../../media/www.statesman.com.png)  
+![www.statesman.com](media/www.statesman.com.png)  
   
     
   
@@ -7723,7 +7723,7 @@ FEB 2, 2023
 [www.statesman.com](http://www.statesman.com/)    
     
   
-![Magen Fieramusca walks into a courtroom at the Blackwell-Thurman Criminal Justice Center in downtown Austin on Thursday before pleading guilty to a charge of murder in the death of Austin mom Heidi Broussard.](../../../media/Magen_Fieramusca_walks_into_a_courtroom_at_the_Blackwell-Thurman_Criminal_Justice_Center_in_downtown.png)  
+![Magen Fieramusca walks into a courtroom at the Blackwell-Thurman Criminal Justice Center in downtown Austin on Thursday before pleading guilty to a charge of murder in the death of Austin mom Heidi Broussard.](media/Magen_Fieramusca_walks_into_a_courtroom_at_the_Blackwell-Thurman_Criminal_Justice_Center_in_downtown.png)  
   
     
     

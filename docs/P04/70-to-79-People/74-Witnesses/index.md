@@ -31,7 +31,7 @@ Profiles about witnesses
   
 | J.Dec ID                                                                            | Friendly Name                                                                             | Description               |  
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |  
-| [[index\|P04.74.01]] | [[index\|Witnesses Index]] | Profiles about witnesses. |  
+| [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/74-Witnesses/index.md\|P04.74.01]] | [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/74-Witnesses/index.md\|Witnesses Index]] | Profiles about witnesses. |  
   
   
 ---  

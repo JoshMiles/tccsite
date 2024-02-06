@@ -30,8 +30,8 @@ Contains a detailed timeline of events
   
 | J.Dec ID                                                                                     | Friendly Name                                                                                        | Description                      |  
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- |  
-| [[index\|P01.53.01]]                | [[index\|Timeline Index]]                   | Contains the timeline of events. |  
-| [[./02-Detailed-Timeline\|P01.53.02]] | [[./02-Detailed-Timeline\|Detailed Timeline]] | Detailed timeline of events.     |  
+| [[Cases/P01-John-Doe/50-to-59-Investigation/53-Timeline/index.md\|P01.53.01]]                | [[Cases/P01-John-Doe/50-to-59-Investigation/53-Timeline/index.md\|Timeline Index]]                   | Contains the timeline of events. |  
+| [[Cases/P01-John-Doe/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|P01.53.02]] | [[Cases/P01-John-Doe/50-to-59-Investigation/53-Timeline/02-Detailed-Timeline.md\|Detailed Timeline]] | Detailed timeline of events.     |  
   
   
 ---  

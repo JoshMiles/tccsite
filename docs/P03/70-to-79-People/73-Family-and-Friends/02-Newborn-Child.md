@@ -27,11 +27,11 @@ aliases:
   
 # Newborn Child  
   
-Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Notes/05-Press-Release.md##%5Eeko0e))  
+Information from: (see [05-Press-Release](Cases/P03-Heidi-Broussard/20-to-29-Case-Files/21-File-Notes/05-Press-Release.md#^eko0e))  
   
 | Name                               |  Margo Carey          |  
 |:---------------------------------- |:---------- |  
-| Photo?                             |   |  
+| Photo?                             |  ![[../../30-to-39-Case-Media/32-People/04-newborn-baby.jpg\|200]] |  
 | Date of Birth?                     |  2019/11/26          |  
 | Age?                               |            |  
 | Lives In?                          | Austin, Texas           |  
@@ -40,7 +40,7 @@ Information from: (see [05-Press-Release](../../20-to-29-Case-Files/21-File-Note
 | Spouse?                            |      N/A      |  
 | Deceased?                          | ❌      |  
 | Date of Death (if applicable)?     |            |  
-| Family?                            | Mother is [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md) and Father is [Shane Carey](./01-Shane-Carey.md)            |  
+| Family?                            | Mother is [Heidi Broussard](../71-Victims/01-Heidi-Broussard.md) and Father is [Shane Carey](01-Shane-Carey.md)            |  
 | Hair Colour?                       |            |  
 | Weight?                            |            |  
 | Eye Colour?                        |            |  

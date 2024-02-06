@@ -29,7 +29,7 @@ Information about the physical evidence
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                           | Description                             |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------- |  
-| [[index\|P10.63.01]] | [[index\|Physical Evidence Index]] | Information about the physical evidence |  
+| [[Cases/P10-Death-of-a-Crime-Novelist/60-to-69-Evidence/63-Physical/index.md\|P10.63.01]] | [[Cases/P10-Death-of-a-Crime-Novelist/60-to-69-Evidence/63-Physical/index.md\|Physical Evidence Index]] | Information about the physical evidence |  
   
   
 ---  

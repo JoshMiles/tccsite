@@ -30,7 +30,7 @@ This includes dates referenced from the investigation process
   
 | J.Dec ID                                                                              | Friendly Name                                                                                         | Description                                                    |  
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |  
-| [[index\|P01.13.01]] | [[index\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
+| [[Cases/P01-John-Doe/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|P01.13.01]] | [[Cases/P01-John-Doe/10-to-19-Case-Dates/13-Investigation-Dates/index.md\|Investigation Dates Index]] | This includes dates referenced from the investigation process. |  
   
   
 ---  

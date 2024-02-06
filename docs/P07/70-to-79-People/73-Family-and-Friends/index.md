@@ -29,9 +29,9 @@ Profiles about family and friends related to the victim(s) and/or suspect(s) and
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                         | Description                                                                                                    |  
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |  
-| [[index\|P07.73.01]]            | [[index\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
-| [[./01-Heather-Harer\|P07.73.01]] | [[./01-Heather-Harer\|Heather Harer]] | Mother of Victim                                                                                               |  
-| [[./02-Kevin-Harer\|P07.73.02]]   | [[./02-Kevin-Harer\|Kevin Harer]]     | Father of Victim                                                                                               |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/index.md\|P07.73.01]]            | [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/index.md\|Family and Friends Index]] | Profiles about family and friends related to the victim(s) and/or suspect(s) and/or person/people of interest. |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/01-Heather-Harer.md\|P07.73.01]] | [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/01-Heather-Harer.md\|Heather Harer]] | Mother of Victim                                                                                               |  
+| [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/02-Kevin-Harer.md\|P07.73.02]]   | [[Cases/P07-Samantha-Harer/70-to-79-People/73-Family-and-Friends/02-Kevin-Harer.md\|Kevin Harer]]     | Father of Victim                                                                                               |  
   
   
 ---  

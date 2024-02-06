@@ -33,7 +33,7 @@ Imagery from the crime scene
   
 | J.Dec ID                                                                                  | Friendly Name                                                                                     | Description                   |  
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------- |  
-| [[index\|P04.31.01]] | [[index\|Crime Scene Index]] | Imagery from the crime scene. |  
+| [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/31-Crime-Scene/index.md\|P04.31.01]] | [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/31-Crime-Scene/index.md\|Crime Scene Index]] | Imagery from the crime scene. |  
   
   
 ---  

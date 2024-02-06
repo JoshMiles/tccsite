@@ -31,7 +31,7 @@ Any video clips from the press pertaining to the case
   
 | J.Dec ID                                                                            | Friendly Name                                                                               | Description                                            |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ |  
-| [[index\|P07.34.01]] | [[index\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
+| [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/34-Press-Video/index.md\|P07.34.01]] | [[Cases/P07-Samantha-Harer/30-to-39-Case-Media/34-Press-Video/index.md\|Press Video Index]] | Any video clips from the press pertaining to the case. |  
   
   
 ---  

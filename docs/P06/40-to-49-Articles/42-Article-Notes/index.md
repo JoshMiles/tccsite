@@ -29,7 +29,7 @@ Notes for the articles
   
 | J.Dec ID                                                                                    | Friendly Name                                                                                         | Description             |  
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------- |  
-| [[index\|P06.42.01]] | [[index\|Article Notes Index]] | Notes for the articles. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/40-to-49-Articles/42-Article-Notes/index.md\|P06.42.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/40-to-49-Articles/42-Article-Notes/index.md\|Article Notes Index]] | Notes for the articles. |  
   
   
 ---  

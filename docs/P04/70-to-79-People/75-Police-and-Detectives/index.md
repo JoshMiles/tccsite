@@ -31,7 +31,7 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                        | Friendly Name                                                                                                     | Description                                  |  
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [[index\|P04.75.01]] | [[index\|Police and Detectives Index]] | Profiles regarding law enforcement involved. |  
+| [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/75-Police-and-Detectives/index.md\|P04.75.01]] | [[Cases/P04-Swedish-Moose-Murder/70-to-79-People/75-Police-and-Detectives/index.md\|Police and Detectives Index]] | Profiles regarding law enforcement involved. |  
   
   
 ---  

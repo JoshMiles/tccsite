@@ -30,7 +30,7 @@ Profiles regarding experts consulted during investigation, and experts called as
   
 | J.Dec ID                                                                      | Friendly Name                                                                     | Description                                                                                 |  
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |  
-| [[index\|P05.76.01]] | [[index\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
+| [[Cases/P05-Gold-Sock-Killer/70-to-79-People/76-Experts/index.md\|P05.76.01]] | [[Cases/P05-Gold-Sock-Killer/70-to-79-People/76-Experts/index.md\|Experts Index]] | Profiles regarding experts consulted during investigation, and experts called as witnesses. |  
   
   
 ---  

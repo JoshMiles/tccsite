@@ -29,7 +29,7 @@ Profiles regarding law enforcement involved
   
 | J.Dec ID                                                                                          | Friendly Name                                                                                                       | Description                                  |  
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |  
-| [[index\|P06.75.01]] | [[index\|Police and Detectives Index]] | Profiles regarding law enforcement involved. |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/75-Police-and-Detectives/index.md\|P06.75.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/75-Police-and-Detectives/index.md\|Police and Detectives Index]] | Profiles regarding law enforcement involved. |  
   
   
 ---  

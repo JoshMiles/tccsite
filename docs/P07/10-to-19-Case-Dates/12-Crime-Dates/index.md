@@ -29,7 +29,7 @@ This includes dates from the actual crime itself. Usually just the date of the m
   
 | J.Dec ID                                                                            | Friendly Name                                                                               | Description                                                                            |  
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |  
-| [[index\|P07.12.01]] | [[index\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
+| [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/12-Crime-Dates/index.md\|P07.12.01]] | [[Cases/P07-Samantha-Harer/10-to-19-Case-Dates/12-Crime-Dates/index.md\|Crime Dates Index]] | This includes dates from the actual crime itself. Usually just the date of the murder. |  
   
   
 ---  

@@ -30,12 +30,12 @@ Details of the trial
   
 | J.Dec ID                                                                       | Friendly Name                                                                                | Description                                                     |  
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |  
-| [[index\|P01.80.01]]                      | [[index\|Trial Index]]                                  | Details of the trial.                                           |  
-| [[./81-Hearings/index\|P01.81.01]]          | [[./81-Hearings/index\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
-| [[./82-Trial-Proceedings/index\|P01.82.01]] | [[./82-Trial-Proceedings/index\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
-| [[./83-Judgement/index\|P01.83.01]]         | [[./83-Judgement/index\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
-| [[./84-Sentencing/index\|P01.84.01]]        | [[./84-Sentencing/index\|Sentencing Index]]               | Information about the sentencing.                               |  
-| [[./85-Appeal/index\|P01.85.01]]            | [[./85-Appeal/index\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/index.md\|P01.80.01]]                      | [[Cases/P01-John-Doe/80-to-89-Trial/index.md\|Trial Index]]                                  | Details of the trial.                                           |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/81-Hearings/index.md\|P01.81.01]]          | [[Cases/P01-John-Doe/80-to-89-Trial/81-Hearings/index.md\|Hearings Index]]                   | Any details of pre-trial hearings, prelim hearings or hearings. |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/82-Trial-Proceedings/index.md\|P01.82.01]] | [[Cases/P01-John-Doe/80-to-89-Trial/82-Trial-Proceedings/index.md\|Trial Proceedings Index]] | Anything and everything that happened during trial.             |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/83-Judgement/index.md\|P01.83.01]]         | [[Cases/P01-John-Doe/80-to-89-Trial/83-Judgement/index.md\|Judgement Index]]                 | Details regarding the judgement outcome from trial.             |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/84-Sentencing/index.md\|P01.84.01]]        | [[Cases/P01-John-Doe/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]]               | Information about the sentencing.                               |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/85-Appeal/index.md\|P01.85.01]]            | [[Cases/P01-John-Doe/80-to-89-Trial/85-Appeal/index.md\|Appeal Index]]                       | If applicable, information about appeal(s).                     |  
   
   
 ---  

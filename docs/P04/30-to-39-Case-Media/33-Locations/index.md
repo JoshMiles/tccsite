@@ -32,7 +32,7 @@ Images of the locations involved
   
 | J.Dec ID                                                                                | Friendly Name                                                                                 | Description                       |  
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------- |  
-| [[index\|P04.33.01]] | [[index\|Locations Index]] | Images of the locations involved. |  
+| [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/33-Locations/index.md\|P04.33.01]] | [[Cases/P04-Swedish-Moose-Murder/30-to-39-Case-Media/33-Locations/index.md\|Locations Index]] | Images of the locations involved. |  
   
   
 ---  

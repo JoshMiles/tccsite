@@ -30,7 +30,7 @@ Information about the sentencing
   
 | J.Dec ID                                                                | Friendly Name                                                                  | Description                       |  
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------- |  
-| [[index\|P01.84.01]] | [[index\|Sentencing Index]] | Information about the sentencing. |  
+| [[Cases/P01-John-Doe/80-to-89-Trial/84-Sentencing/index.md\|P01.84.01]] | [[Cases/P01-John-Doe/80-to-89-Trial/84-Sentencing/index.md\|Sentencing Index]] | Information about the sentencing. |  
   
   
 ---  

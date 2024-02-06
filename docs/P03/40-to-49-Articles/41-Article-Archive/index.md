@@ -31,8 +31,8 @@ Snapshots of the articles referenced
   
 | J.Dec ID                                                                                                        | Friendly Name                                                                                                                     | Description                           |  
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |  
-| [[./01-Web-Sleuths-Timeline-Thread\|P03.41.01]] | [[./01-Web-Sleuths-Timeline-Thread\|Web Sleuths Timeline Thread]] | Archive of Complete Thread            |  
-| [[index\|P03.41.01]]                          | [[index\|Article Archive Index]]                                | Snapshots of the articles referenced. |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md\|P03.41.01]] | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md\|Web Sleuths Timeline Thread]] | Archive of Complete Thread            |  
+| [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/index.md\|P03.41.01]]                          | [[Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/index.md\|Article Archive Index]]                                | Snapshots of the articles referenced. |  
   
   
 ---  

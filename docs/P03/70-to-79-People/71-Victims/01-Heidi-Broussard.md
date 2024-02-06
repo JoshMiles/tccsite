@@ -30,13 +30,13 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
   
 | Name                               | Heidi Broussard            |  
 |:---------------------------------- |:---------- |  
-| Photo?                             | ![02-Heidi\|200](../../../Cases/P03-Heidi-Broussard/30-to-39-Case-Media/32-People/02-Heidi.jpg) |  
+| Photo?                             | ![02-Heidi\|200](../../30-to-39-Case-Media/32-People/02-Heidi.jpg) |  
 | Date of Birth?                     | 1986/06/04           |  
 | Age?                               | 33           |  
 | Lives In?                          | Austin, Texas           |  
 | Address?                           |            |  
-| Profession?                        | Cracker Barrel, Buda, Texas. Worked there since 2015. Had been off work since giving birth. (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E9g91f))            |  
-| Spouse?                            | Yes, [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md)           |  
+| Profession?                        | Cracker Barrel, Buda, Texas. Worked there since 2015. Had been off work since giving birth. (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^9g91f))            |  
+| Spouse?                            | Yes, [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md)           |  
 | Deceased?                          | ✅      |  
 | Date of Death (if applicable)?     |            |  
 | Family?                            | Two children: [Newborn Child](../73-Family-and-Friends/02-Newborn-Child.md) and [Six Year Old Child](../73-Family-and-Friends/03-Six-Year-Old-Child.md)            |  
@@ -63,9 +63,9 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 - Pinterest: https://www.pinterest.com/heidiluv71/  
   
 - Heidi studied to be a veterinary technician in college.[^3] ^cjjf6  
-- She met [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md) in 2009, and had been engaged since November 2012.[^4] ^tiuuk  
+- She met [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md) in 2009, and had been engaged since November 2012.[^4] ^tiuuk  
 - Heidi was originally from Lake Charles, Louisiana.[^5] ^3d3m5  
-- Heidi and [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md.md) had also lived in Kyle, Texas.[^6] ^k-tdr  
+- Heidi and [Shane Carey](../73-Family-and-Friends/01-Shane-Carey.md) had also lived in Kyle, Texas.[^6] ^k-tdr  
   
 - Heidi Elizabeth Broussard, 33, of Austin, TX died Thursday, December 19, 2019 in Houston, TX.    
     
@@ -84,10 +84,10 @@ Information taken from the flyer[^1] and from the Magen Fieramusca Arrest Affida
 - She was a member of Life Church of Austin and found comfort in raising Silas in the church and had already attended her first Sunday with Margo.  [^7]   
 # Footnotes  
   
-[^1]: (see [03-Heidi-Broussard-Missing-Persons-Poster](../../20-to-29-Case-Files/21-File-Notes/03-Heidi-Broussard-Missing-Persons-Poster.md##%5Exgjr-))  
-[^2]: (see [01-Magen-Fieramusca-Arrest-Affidavit](../../20-to-29-Case-Files/21-File-Notes/02-Magen-Fieramusca-Arrest-Affidavit.md##%5E5xv2w))  
-[^3]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5Eqnec4))  
-[^4]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5Efr-ni))  
-[^5]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E0sury))  
-[^6]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md.md###%5E0sury))  
-[^7]: (see [01-Web-Sleuths-Timeline-Thread](../../40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md##%5E2pn-r))
+[^1]: (see [03-Heidi-Broussard-Missing-Persons-Poster](Cases/P03-Heidi-Broussard/20-to-29-Case-Files/21-File-Notes/03-Heidi-Broussard-Missing-Persons-Poster.md#^xgjr-))  
+[^2]: (see [01-Magen-Fieramusca-Arrest-Affidavit](Cases/P03-Heidi-Broussard/20-to-29-Case-Files/21-File-Notes/01-Magen-Fieramusca-Arrest-Affidavit.md#^5xv2w))  
+[^3]: (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^qnec4))  
+[^4]: (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^fr-ni))  
+[^5]: (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^0sury))  
+[^6]: (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^0sury))  
+[^7]: (see [01-Web-Sleuths-Timeline-Thread](Cases/P03-Heidi-Broussard/40-to-49-Articles/41-Article-Archive/01-Web-Sleuths-Timeline-Thread.md#^2pn-r))

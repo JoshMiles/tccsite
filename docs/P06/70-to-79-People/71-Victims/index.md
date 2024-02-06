@@ -29,7 +29,7 @@ Profiles about the victim or victims
   
 | J.Dec ID                                                                            | Friendly Name                                                                           | Description                          |  
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------ |  
-| [[index\|P06.71.01]] | [[index\|Victims Index]] | Profiles about the victim or victims |  
+| [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/71-Victims/index.md\|P06.71.01]] | [[Cases/P06-Case-Updates-Sanda-Dia/70-to-79-People/71-Victims/index.md\|Victims Index]] | Profiles about the victim or victims |  
   
   
 ---  

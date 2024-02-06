@@ -22,5 +22,5 @@ aliases:
   
 # harer-v-flores-07-18-2019  
   
-![03-harer-v-flores-07-18-2019](../../../Cases/P07-Samantha-Harer/20-to-29-Case-Files/22-PDFs/03-harer-v-flores-07-18-2019.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
+![03-harer-v-flores-07-18-2019](../22-PDFs/03-harer-v-flores-07-18-2019.pdf){ type=application/pdf style="min-height:100vh;width:100%" }  
   
